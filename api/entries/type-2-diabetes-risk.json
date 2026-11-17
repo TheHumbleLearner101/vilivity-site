@@ -172,5 +172,28 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Jamaica",
+      "text": "In Jamaica, the Ministry of Health 2020 guideline says average-risk adults should start diabetes screening at 45; higher-risk adults from 30.",
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf",
+      "page_date": "June 2020",
+      "old": false
+    },
+    {
+      "country": "Kenya",
+      "text": "In Kenya, the Ministry of Health 2025 protocol says testing should be considered for adults who are overweight or obese and have a risk factor.",
+      "url": "https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf",
+      "page_date": "date not printed (PDF created May 2025)",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF recommends diabetes screening for adults aged 35 to 70 who have overweight or obesity.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes",
+      "page_date": "24 Aug 2021",
+      "old": false
+    }
   ]
 }

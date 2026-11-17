@@ -151,5 +151,21 @@
       "role": "practical advice (common advice, untested)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Canada",
+      "text": "In Canada, call or text 9-8-8 for the Suicide Crisis Helpline, 24 hours a day; call 9-1-1 if your safety is at risk.",
+      "url": "https://988.ca/",
+      "page_date": "date not shown",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, call or text 988 for emotional support from the 988 Lifeline.",
+      "url": "https://988lifeline.org/",
+      "page_date": "date not shown",
+      "old": false
+    }
   ]
 }

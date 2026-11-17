@@ -135,5 +135,21 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "US",
+      "text": "In the US, NIDDK defines overweight as a BMI of 25 to 29.9 and obesity as 30 or above for adults.",
+      "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/definition-facts",
+      "page_date": "date not clear; 'Last reviewed May 2023' shown",
+      "old": false
+    },
+    {
+      "country": "WHO",
+      "text": "WHO defines adult overweight as a BMI of 25 or more and obesity as 30 or more.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+      "page_date": "7 Oct 2026",
+      "old": false
+    }
   ]
 }

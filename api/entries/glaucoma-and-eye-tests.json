@@ -136,5 +136,28 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "US",
+      "text": "In the US, the National Eye Institute says African American people over 40 are at higher risk, and higher-risk people need a dilated exam every 1 to 2 years.",
+      "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma",
+      "page_date": "Last updated 19 Aug 2026",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, Medicare covers a glaucoma screening once every 12 months if you are African American and 50 or older, after the Part B deductible and 20% cost.",
+      "url": "https://www.medicare.gov/coverage/glaucoma-screenings",
+      "page_date": "date not shown",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF says evidence is insufficient to judge routine glaucoma screening in adults 40 or older.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/primary-open-angle-glaucoma-screening",
+      "page_date": "2022",
+      "old": false
+    }
   ]
 }

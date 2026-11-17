@@ -143,5 +143,28 @@
       "role": "practical advice (expert reaction)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Kenya",
+      "text": "In Kenya, the Ministry of Health 2025 protocol screens men aged 40 or over of African descent with a PSA test, repeated after 2 years if normal.",
+      "url": "https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf",
+      "page_date": "date not printed (PDF created May 2025)",
+      "old": false
+    },
+    {
+      "country": "South Africa",
+      "text": "In South Africa, the 2026 Adult Primary Care guide lists African descent as a prostate cancer risk factor and says screening is not routinely done.",
+      "url": "https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf",
+      "page_date": "Published Oct 2026 v4.1",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF says men aged 55 to 69 should make an individual decision about PSA screening after discussing benefits and harms.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening",
+      "page_date": "8 May 2018",
+      "old": true
+    }
   ]
 }

@@ -230,5 +230,14 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-16"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "US",
+      "text": "In the US, melatonin is sold as a dietary supplement, which the FDA regulates less strictly than a prescription or over-the-counter drug.",
+      "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+      "page_date": "Last updated May 2024",
+      "old": false
+    }
   ]
 }

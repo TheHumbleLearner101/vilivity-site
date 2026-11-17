@@ -1564,6 +1564,10 @@ See someone when:
 - Panic attacks, constant worry or avoiding people and places (doctor or self-referral).
 - In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911.
 
+In other countries:
+- In Canada, call or text 9-8-8 for the Suicide Crisis Helpline, 24 hours a day; call 9-1-1 if your safety is at risk. (https://988.ca/)
+- In the US, call or text 988 for emotional support from the 988 Lifeline. (https://988lifeline.org/)
+
 ## Ashwagandha: stress, sleep, thyroid and liver cautions
 URL: https://vilivity.com/mind/ashwagandha/
 Module: Mind
@@ -1857,6 +1861,9 @@ See someone when:
 - You are pregnant or breastfeeding and thinking of using melatonin (midwife or doctor).
 - A child has swallowed melatonin that was not prescribed to them (poison centre or urgent care).
 
+In other countries:
+- In the US, melatonin is sold as a dietary supplement, which the FDA regulates less strictly than a prescription or over-the-counter drug. (https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know)
+
 ## Psychosis, sectioning and misdiagnosis in the UK
 URL: https://vilivity.com/mind/mental-health-act-psychosis-and-misdiagnosis/
 Module: Mind
@@ -2087,6 +2094,12 @@ See someone when:
 - You are 50 or over and have not received a screening kit (your doctor's surgery or the national helpline).
 - A close relative had bowel cancer, especially before 50 (doctor: family history can change when screening should start; not covered here).
 
+In other countries:
+- In Jamaica, the Ministry of Health 2020 guideline offers average-risk adults a yearly stool test, with colonoscopy if it is positive. (https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf)
+- In Kenya, the Ministry of Health 2025 protocol uses a stool blood test (gFOBT or FIT) for average-risk people, repeated after 1 year. (https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf)
+- In South Africa, the 2026 Adult Primary Care guide says bowel cancer screening is not routinely done; people with symptoms should discuss it with a clinician. (https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf)
+- In the US, the USPSTF recommends colorectal cancer screening for adults aged 45 to 49 and, more strongly, for those aged 50 to 75. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening)
+
 ## Breast cancer, triple-negative disease and screening
 URL: https://vilivity.com/body/breast-cancer-and-cancer-screening/
 Module: Body
@@ -2113,6 +2126,12 @@ See someone when:
 - A change in the skin, shape or size of a breast, or in the nipple, including discharge or a rash (doctor).
 - You are 50 to 53 and have not had a first screening invitation (breast screening service).
 - Blood in your poo or a change in your bowel habit for weeks (doctor).
+
+In other countries:
+- In Jamaica, the Ministry of Health 2020 guideline says there is no national mammography screening programme. (https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf)
+- In South Africa, the 2026 Adult Primary Care guide offers clinical breast exams twice a year for women aged 40 to 70. (https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf)
+- In the US, the USPSTF recommends a mammogram every 2 years for women aged 40 to 74. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening)
+- WHO describes mammography screening as usually for women aged 50 to 69. (https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
 
 ## Creatine supplements: strength, kidneys and your kidney test
 URL: https://vilivity.com/body/creatine-supplements/
@@ -2232,6 +2251,11 @@ See someone when:
 - You have not had an eye test in the last 2 years (optician).
 - A parent, brother, sister or child has glaucoma and you are 40 or over (optician, for a free test).
 
+In other countries:
+- In the US, the National Eye Institute says African American people over 40 are at higher risk, and higher-risk people need a dilated exam every 1 to 2 years. (https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma)
+- In the US, Medicare covers a glaucoma screening once every 12 months if you are African American and 50 or older, after the Part B deductible and 20% cost. (https://www.medicare.gov/coverage/glaucoma-screenings)
+- In the US, the USPSTF says evidence is insufficient to judge routine glaucoma screening in adults 40 or older. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/primary-open-angle-glaucoma-screening)
+
 ## Haemoglobin and white cell ranges on your blood test
 URL: https://vilivity.com/body/haemoglobin-and-white-cell-reference-ranges/
 Module: Body
@@ -2321,6 +2345,15 @@ See someone when:
 - A high reading with a severe headache, blurred vision or chest pain (NHS 111 in the UK urgently; 999, or your local emergency number for chest pain that does not go away).
 - You are pregnant or recently gave birth and have a severe headache, vision changes or sudden swelling (call your maternity unit or 111 in the UK straight away).
 
+In other countries:
+- In Canada, the 2025 Hypertension Canada primary care guideline defines hypertension as a measured blood pressure of 130/80 or higher. (https://hypertension.ca/wp-content/uploads/2025/05/Hypertension-guideline.pdf)
+- In Ghana, the 2017 Standard Treatment Guidelines prefer thiazide diuretics or calcium-channel blockers for the general black population; ACE inhibitors are not first choice for uncomplicated cases. (https://www.moh.gov.gh/wp-content/uploads/2020/07/GHANA-STG-2017-1.pdf)
+- In Jamaica, the Ministry of Health 2020 interim guideline uses 140/90 and lists a diuretic or calcium-channel blocker for Black patients without heart failure or kidney disease. (https://www.moh.gov.jm/wp-content/uploads/2020/10/HYPERTENSIONGUIDELINES_Interim_final.pdf)
+- In Kenya, the Ministry of Health 2025 protocols define hypertension as 140/90 or higher in adults over 18. (https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf)
+- In South Africa, the national hypertension user guide defines hypertension as 140/90 or higher, confirmed on repeat readings. (https://knowledgehub.health.gov.za/system/files/elibdownloads/2021-11/HYPERTENSION%20USER%20GUIDE%20FINAL%20COPY.pdf)
+- In the US, the USPSTF advises blood pressure screening for adults aged 18 or older. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
+- WHO defines hypertension as 140/90 mmHg or higher, confirmed on two different days. (https://www.who.int/news-room/fact-sheets/detail/hypertension)
+
 ## HIV prevention, testing and PrEP
 URL: https://vilivity.com/body/hiv-prevention-testing-and-prep/
 Module: Body
@@ -2350,6 +2383,11 @@ See someone when:
 - You have not had an HIV test in the last year and have had a new partner or shared needles (sexual health clinic, doctor or a community HIV service).
 - A flu-like illness or rash after a possible exposure: ask for an HIV test and tell them if you take PrEP (clinic).
 - A positive test: treatment is available and effective; ask for a same-week appointment at an HIV clinic (where you live, ask the testing service).
+
+In other countries:
+- In South Africa, the 2026 Adult Primary Care guide cites national lenacapavir PrEP guidelines and says this PrEP needs 6-monthly injections. (https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf)
+- In the US, HIV.gov says PrEP is free under almost all health insurance plans under the Affordable Care Act. (https://www.hiv.gov/hiv-basics/hiv-prevention/using-hiv-medication-to-reduce-risk/pre-exposure-prophylaxis/)
+- WHO recommends oral tenofovir-based PrEP, the dapivirine ring, and long-acting injectable cabotegravir or lenacapavir. (https://www.who.int/news-room/fact-sheets/detail/hiv-aids)
 
 ## How some medicines work differently by gene
 URL: https://vilivity.com/body/how-some-medicines-work-differently-by-gene/
@@ -2476,6 +2514,10 @@ See someone when:
 - High blood pressure or diabetes and no kidney blood or urine test in the last year or so (doctor).
 - Blood in your pee, swollen ankles or feet, or breathlessness that is new (doctor).
 - A kidney result was reported using a race adjustment and you are being assessed for referral or a transplant list: ask whether it was recalculated without it (doctor or kidney doctor).
+
+In other countries:
+- In the US, NIDDK lists race-free CKD-EPI equations for estimating kidney function in people 18 and older. (https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults)
+- In the US, the National Kidney Foundation and American Society of Nephrology recommended a race-free approach to estimate kidney function in September 2021. (https://www.kidney.org/press-room/nkf-and-asn-release-new-way-to-diagnose-kidney-diseases)
 
 ## Lactose intolerance and dairy
 URL: https://vilivity.com/body/lactose-intolerance-and-dairy/
@@ -2655,6 +2697,10 @@ See someone when:
 - You were not listened to and a symptom is getting worse (ask for the duty midwife or another doctor, or call 111 in the UK).
 - Low mood, anxiety or thoughts of harm in pregnancy or the year after (doctor, midwife or NHS 111 in the UK mental health option; 999, or your local emergency number if in danger).
 
+In other countries:
+- In the US, the Office on Women's Health says women with high blood pressure have a higher risk of preeclampsia. (https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/pregnancy-complications)
+- WHO lists high blood pressure during pregnancy (pre-eclampsia and eclampsia) among the main causes of maternal death. (https://www.who.int/news-room/fact-sheets/detail/maternal-mortality)
+
 ## Prostate cancer risk and PSA testing
 URL: https://vilivity.com/body/prostate-cancer-and-psa-testing/
 Module: Body
@@ -2680,6 +2726,11 @@ See someone when:
 - Peeing more than usual, a sudden urge to pee, or getting up often at night (doctor).
 - Blood in your pee (doctor, soon).
 - A raised PSA result: expect a repeat test and possibly referral for a biopsy or MRI (doctor, urologist).
+
+In other countries:
+- In Kenya, the Ministry of Health 2025 protocol screens men aged 40 or over of African descent with a PSA test, repeated after 2 years if normal. (https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf)
+- In South Africa, the 2026 Adult Primary Care guide lists African descent as a prostate cancer risk factor and says screening is not routinely done. (https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf)
+- In the US, the USPSTF says men aged 55 to 69 should make an individual decision about PSA screening after discussing benefits and harms. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)
 
 ## Pulse oximeters and dark skin
 URL: https://vilivity.com/body/pulse-oximeters-and-dark-skin/
@@ -2793,6 +2844,11 @@ See someone when:
 - A high temperature, or a painful erection that will not go away, with sickle cell disease (call 999 in the UK, or your local emergency number).
 - You are not sure whether you carry the gene and are planning a pregnancy (doctor, for a blood test).
 - You carry the trait and have heavy exertion, heat or altitude planned (see the trait and hard exercise entry).
+
+In other countries:
+- In Ghana, the Ghana Health Service said in June 2025 it is pursuing newborn screening initiatives for sickle cell disease. (https://ghs.gov.gh/news-and-events/ghana-health-service-marks-world-sickle-cell-day-with-hope-and-action)
+- In Kenya, a Ministry of Health policy (June 2023) sets out how to carry out universal infant screening for sickle cell disease. (https://www.health.go.ke/sites/default/files/2023-06/Policy%20guidelines%20on%20infant%20screening%20of%20Sickle%20Cell%20Disease.pdf)
+- WHO says early diagnosis, for example through newborn screening, is essential for managing sickle-cell disease. (https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease)
 
 ## Sickle cell trait and hard exercise
 URL: https://vilivity.com/body/sickle-cell-trait-and-hard-exercise/
@@ -2914,6 +2970,11 @@ See someone when:
 - You are 25 or over, from a Black African or Black Caribbean background, and have never been checked (GP or pharmacy).
 - A parent, brother or sister has diabetes and you have not been tested (doctor).
 
+In other countries:
+- In Jamaica, the Ministry of Health 2020 guideline says average-risk adults should start diabetes screening at 45; higher-risk adults from 30. (https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf)
+- In Kenya, the Ministry of Health 2025 protocol says testing should be considered for adults who are overweight or obese and have a risk factor. (https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf)
+- In the US, the USPSTF recommends diabetes screening for adults aged 35 to 70 who have overweight or obesity. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes)
+
 ## Vitamin D and dark skin
 URL: https://vilivity.com/body/vitamin-d-and-dark-skin/
 Module: Body
@@ -2948,6 +3009,9 @@ See someone when:
 - A very low result on a blood test (doctor: follow the lab's and doctor's advice).
 - A child or pregnant woman and you are unsure what to take (doctor, midwife, health visitor in the UK).
 
+In other countries:
+- In the US, the USPSTF found evidence insufficient to judge screening for vitamin D deficiency in adults without symptoms. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-deficiency-screening)
+
 ## Weight, BMI and losing weight safely
 URL: https://vilivity.com/body/weight-bmi-and-ethnicity/
 Module: Body
@@ -2973,6 +3037,10 @@ Avoid:
 See someone when:
 - Your BMI is in the obese range for your background, or you have high blood pressure or type 2 diabetes with extra weight (doctor, for a weight-management plan).
 - You have gained weight quickly without a clear reason (doctor).
+
+In other countries:
+- In the US, NIDDK defines overweight as a BMI of 25 to 29.9 and obesity as 30 or above for adults. (https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/definition-facts)
+- WHO defines adult overweight as a BMI of 25 or more and obesity as 30 or more. (https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight)
 
 ## Apple cider vinegar: weight, blood sugar and safety
 URL: https://vilivity.com/food/apple-cider-vinegar/

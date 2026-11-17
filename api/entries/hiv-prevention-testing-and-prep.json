@@ -219,5 +219,28 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-16"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "South Africa",
+      "text": "In South Africa, the 2026 Adult Primary Care guide cites national lenacapavir PrEP guidelines and says this PrEP needs 6-monthly injections.",
+      "url": "https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf",
+      "page_date": "Published Oct 2026 v4.1",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, HIV.gov says PrEP is free under almost all health insurance plans under the Affordable Care Act.",
+      "url": "https://www.hiv.gov/hiv-basics/hiv-prevention/using-hiv-medication-to-reduce-risk/pre-exposure-prophylaxis/",
+      "page_date": "Updated 9 Oct 2026",
+      "old": false
+    },
+    {
+      "country": "WHO",
+      "text": "WHO recommends oral tenofovir-based PrEP, the dapivirine ring, and long-acting injectable cabotegravir or lenacapavir.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+      "page_date": "27 Jul 2026",
+      "old": false
+    }
   ]
 }

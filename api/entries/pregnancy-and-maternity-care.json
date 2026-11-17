@@ -160,5 +160,21 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "US",
+      "text": "In the US, the Office on Women's Health says women with high blood pressure have a higher risk of preeclampsia.",
+      "url": "https://www.womenshealth.gov/pregnancy/youre-pregnant-now-what/pregnancy-complications",
+      "page_date": "Page last updated 4 Mar 2026",
+      "old": false
+    },
+    {
+      "country": "WHO",
+      "text": "WHO lists high blood pressure during pregnancy (pre-eclampsia and eclampsia) among the main causes of maternal death.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/maternal-mortality",
+      "page_date": "7 Apr 2025",
+      "old": false
+    }
   ]
 }

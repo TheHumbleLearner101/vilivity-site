@@ -194,5 +194,21 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "US",
+      "text": "In the US, NIDDK lists race-free CKD-EPI equations for estimating kidney function in people 18 and older.",
+      "url": "https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/glomerular-filtration-rate-equations/adults",
+      "page_date": "Last reviewed May 2025",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the National Kidney Foundation and American Society of Nephrology recommended a race-free approach to estimate kidney function in September 2021.",
+      "url": "https://www.kidney.org/press-room/nkf-and-asn-release-new-way-to-diagnose-kidney-diseases",
+      "page_date": "23 Sep 2021",
+      "old": false
+    }
   ]
 }

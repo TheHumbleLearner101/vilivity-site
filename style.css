@@ -53,6 +53,8 @@ h3{font-size:1.1rem;margin:1.4rem 0 .3rem}
 .unrev{color:var(--muted);font-style:italic}
 /* (17 Nov 2026, structure teardown) */
 .seebox{background:var(--harm-bg);color:var(--harm-ink);border:2px solid var(--harm-line);border-radius:10px;padding:.9rem 1rem;margin:1.4rem 0;max-width:70ch}.seebox h2{margin-top:0}.seebox h3{font-size:1rem;margin:.8rem 0 .2rem}.seebox ul{margin:.3rem 0;padding-left:1.2rem}.seebox a{color:inherit}
+/* (17 Nov 2026, other countries) */
+.elsewhere{margin:1.4rem 0;max-width:70ch}.elsewhere ul{list-style:none;padding:0;margin:.6rem 0}.elsewhere li{padding:.6rem 0;border-top:1px solid var(--line);overflow-wrap:anywhere}.elsewhere li:last-child{border-bottom:1px solid var(--line)}.elsewhere a{display:inline-block;padding:.35rem .2rem}.elsewhere .muted,.elsewhere p.muted{color:var(--muted);font-size:.9rem}
 .checked-note{color:var(--muted);font-size:.9rem;margin:.4rem 0 0}.checked-note.unchecked{font-weight:600}
 .badge{display:inline-flex;gap:.4rem;align-items:baseline;padding:.2rem .65rem;border-radius:999px;font-weight:700;font-size:.9rem;border:2px solid transparent}
 .badge .str{font-weight:600;text-transform:capitalize}

@@ -157,5 +157,35 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Jamaica",
+      "text": "In Jamaica, the Ministry of Health 2020 guideline offers average-risk adults a yearly stool test, with colonoscopy if it is positive.",
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf",
+      "page_date": "June 2020",
+      "old": false
+    },
+    {
+      "country": "Kenya",
+      "text": "In Kenya, the Ministry of Health 2025 protocol uses a stool blood test (gFOBT or FIT) for average-risk people, repeated after 1 year.",
+      "url": "https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf",
+      "page_date": "date not printed (PDF created May 2025)",
+      "old": false
+    },
+    {
+      "country": "South Africa",
+      "text": "In South Africa, the 2026 Adult Primary Care guide says bowel cancer screening is not routinely done; people with symptoms should discuss it with a clinician.",
+      "url": "https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf",
+      "page_date": "Published Oct 2026 v4.1",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF recommends colorectal cancer screening for adults aged 45 to 49 and, more strongly, for those aged 50 to 75.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening",
+      "page_date": "18 May 2021",
+      "old": false
+    }
   ]
 }

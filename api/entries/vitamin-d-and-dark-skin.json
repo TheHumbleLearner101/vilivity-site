@@ -246,5 +246,14 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF found evidence insufficient to judge screening for vitamin D deficiency in adults without symptoms.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-deficiency-screening",
+      "page_date": "13 Apr 2021",
+      "old": false
+    }
   ]
 }

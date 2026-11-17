@@ -165,5 +165,56 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Canada",
+      "text": "In Canada, the 2025 Hypertension Canada primary care guideline defines hypertension as a measured blood pressure of 130/80 or higher.",
+      "url": "https://hypertension.ca/wp-content/uploads/2025/05/Hypertension-guideline.pdf",
+      "page_date": "CMAJ 26 May 2025",
+      "old": false
+    },
+    {
+      "country": "Ghana",
+      "text": "In Ghana, the 2017 Standard Treatment Guidelines prefer thiazide diuretics or calcium-channel blockers for the general black population; ACE inhibitors are not first choice for uncomplicated cases.",
+      "url": "https://www.moh.gov.gh/wp-content/uploads/2020/07/GHANA-STG-2017-1.pdf",
+      "page_date": "7th edition 2017",
+      "old": true
+    },
+    {
+      "country": "Jamaica",
+      "text": "In Jamaica, the Ministry of Health 2020 interim guideline uses 140/90 and lists a diuretic or calcium-channel blocker for Black patients without heart failure or kidney disease.",
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2020/10/HYPERTENSIONGUIDELINES_Interim_final.pdf",
+      "page_date": "July 2020",
+      "old": false
+    },
+    {
+      "country": "Kenya",
+      "text": "In Kenya, the Ministry of Health 2025 protocols define hypertension as 140/90 or higher in adults over 18.",
+      "url": "https://health.go.ke/sites/default/files/2025-07/FINAL_NCD%20protocols.pdf",
+      "page_date": "date not printed (PDF created May 2025; URL path 2025-07)",
+      "old": false
+    },
+    {
+      "country": "South Africa",
+      "text": "In South Africa, the national hypertension user guide defines hypertension as 140/90 or higher, confirmed on repeat readings.",
+      "url": "https://knowledgehub.health.gov.za/system/files/elibdownloads/2021-11/HYPERTENSION%20USER%20GUIDE%20FINAL%20COPY.pdf",
+      "page_date": "date not printed (references accessed May 2021; file Nov 2021)",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF advises blood pressure screening for adults aged 18 or older.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening",
+      "page_date": "2021",
+      "old": false
+    },
+    {
+      "country": "WHO",
+      "text": "WHO defines hypertension as 140/90 mmHg or higher, confirmed on two different days.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+      "page_date": "25 Sep 2025",
+      "old": false
+    }
   ]
 }

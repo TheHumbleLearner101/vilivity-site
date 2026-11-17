@@ -157,5 +157,28 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Ghana",
+      "text": "In Ghana, the Ghana Health Service said in June 2025 it is pursuing newborn screening initiatives for sickle cell disease.",
+      "url": "https://ghs.gov.gh/news-and-events/ghana-health-service-marks-world-sickle-cell-day-with-hope-and-action",
+      "page_date": "19 Jun 2025",
+      "old": false
+    },
+    {
+      "country": "Kenya",
+      "text": "In Kenya, a Ministry of Health policy (June 2023) sets out how to carry out universal infant screening for sickle cell disease.",
+      "url": "https://www.health.go.ke/sites/default/files/2023-06/Policy%20guidelines%20on%20infant%20screening%20of%20Sickle%20Cell%20Disease.pdf",
+      "page_date": "June 2023",
+      "old": false
+    },
+    {
+      "country": "WHO",
+      "text": "WHO says early diagnosis, for example through newborn screening, is essential for managing sickle-cell disease.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease",
+      "page_date": "6 Aug 2025",
+      "old": false
+    }
   ]
 }

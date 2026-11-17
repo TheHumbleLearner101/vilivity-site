@@ -214,5 +214,35 @@
       "role": "practical advice (clinical guidance)",
       "opened": "2026-11-12"
     }
+  ],
+  "elsewhere": [
+    {
+      "country": "Jamaica",
+      "text": "In Jamaica, the Ministry of Health 2020 guideline says there is no national mammography screening programme.",
+      "url": "https://www.moh.gov.jm/wp-content/uploads/2021/03/National-Screening-Guidelines-for-Priority-Non-Communicable-Diseases-NCDs-in-Primary-Health-Care.pdf",
+      "page_date": "June 2020",
+      "old": false
+    },
+    {
+      "country": "South Africa",
+      "text": "In South Africa, the 2026 Adult Primary Care guide offers clinical breast exams twice a year for women aged 40 to 70.",
+      "url": "https://knowledgehub.health.gov.za/system/files/elibdownloads/2026-10/APC%202026%20E-book.pdf",
+      "page_date": "Published Oct 2026 v4.1",
+      "old": false
+    },
+    {
+      "country": "US",
+      "text": "In the US, the USPSTF recommends a mammogram every 2 years for women aged 40 to 74.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening",
+      "page_date": "30 Apr 2024",
+      "old": false
+    },
+    {
+      "country": "WHO",
+      "text": "WHO describes mammography screening as usually for women aged 50 to 69.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/breast-cancer",
+      "page_date": "3 Jul 2026",
+      "old": false
+    }
   ]
 }
