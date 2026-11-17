@@ -51,6 +51,8 @@ h3{font-size:1.1rem;margin:1.4rem 0 .3rem}
 .answerbar{list-style:none;padding:0;margin:0 0 1rem;display:flex;flex-wrap:wrap;gap:.5rem .9rem;align-items:center;font-size:.92rem;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:.7rem 0}
 .answerbar li{margin:0}
 .unrev{color:var(--muted);font-style:italic}
+/* (17 Nov 2026, structure teardown) */
+.seebox{background:var(--harm-bg);color:var(--harm-ink);border:2px solid var(--harm-line);border-radius:10px;padding:.9rem 1rem;margin:1.4rem 0;max-width:70ch}.seebox h2{margin-top:0}.seebox h3{font-size:1rem;margin:.8rem 0 .2rem}.seebox ul{margin:.3rem 0;padding-left:1.2rem}.seebox a{color:inherit}
 .checked-note{color:var(--muted);font-size:.9rem;margin:.4rem 0 0}.checked-note.unchecked{font-weight:600}
 .badge{display:inline-flex;gap:.4rem;align-items:baseline;padding:.2rem .65rem;border-radius:999px;font-weight:700;font-size:.9rem;border:2px solid transparent}
 .badge .str{font-weight:600;text-transform:capitalize}
