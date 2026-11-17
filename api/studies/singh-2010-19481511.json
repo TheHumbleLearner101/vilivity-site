@@ -1,0 +1,30 @@
+{
+  "pmid": "19481511",
+  "slug": "singh-2010-19481511",
+  "citation": {
+    "authors": "Singh AK, Karki D",
+    "year": 2010,
+    "journal": "Journal of Plastic, Reconstructive and Aesthetic Surgery"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19481511/",
+  "page": "https://vilivity.com/studies/singh-2010-19481511/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "singh-2010",
+        "population": "15 adults with stable localised lip vitiligo, followed 2 to 3 years (India)",
+        "n": 15,
+        "design": "Uncontrolled case series of medical tattooing",
+        "finding": "Cosmetically acceptable results in all 15, with better pigmentation in darker-complexioned patients than fair ones; no allergic reactions or new patches at the tattooed site. The authors state that medical therapies for lip vitiligo are often ineffective because the lips have no hair follicles.",
+        "line_tier": "B",
+        "note": "Tattooing adds pigment and does not restore the person's own melanocytes; permanent; no comparison group.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

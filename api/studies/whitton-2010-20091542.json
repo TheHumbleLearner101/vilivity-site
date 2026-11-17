@@ -1,0 +1,21 @@
+{
+  "pmid": "20091542",
+  "slug": "whitton-2010-20091542",
+  "citation": {
+    "authors": "Whitton ME et al",
+    "year": 2010,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20091542/",
+  "page": "https://vilivity.com/studies/whitton-2010-20091542/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": null
+    }
+  ]
+}

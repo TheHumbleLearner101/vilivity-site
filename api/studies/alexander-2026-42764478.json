@@ -1,0 +1,30 @@
+{
+  "pmid": "42764478",
+  "slug": "alexander-2026-42764478",
+  "citation": {
+    "authors": "Alexander K, Carswell SB, Woolworth R, Simpson A et al",
+    "year": 2026,
+    "journal": "AIDS Care"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42764478/",
+  "page": "https://vilivity.com/studies/alexander-2026-42764478/",
+  "cited_by": [
+    {
+      "entry": "coping-with-anxiety-day-to-day",
+      "title": "Coping with anxiety day to day",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/coping-with-anxiety-day-to-day/",
+      "record": {
+        "id": "alexander-2026",
+        "population": "30 African American caregivers of people with HIV/AIDS, US",
+        "n": 30,
+        "design": "Four-week single-group feasibility trial of a mindfulness app",
+        "finding": "All 30 completed it, and 83.3% rated usability acceptable. Baseline anxiety and depression risk were high. Change in anxiety was not tested; the authors call for a randomised trial.",
+        "line_tier": "A",
+        "note": "Feasibility only: it does not show that the app reduces anxiety.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

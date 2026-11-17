@@ -1,0 +1,30 @@
+{
+  "pmid": "42624827",
+  "slug": "kim-2026-42624827",
+  "citation": {
+    "authors": "Kim TK, Oh J, Ha YS, Son HJ et al",
+    "year": 2026,
+    "journal": "International Journal of Stem Cells"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42624827/",
+  "page": "https://vilivity.com/studies/kim-2026-42624827/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "kim-2026",
+        "population": "Korean adults aged 19 to 60 with mild to moderate hair damage and no alopecia (number not given in the abstract)",
+        "n": "not recorded",
+        "design": "Randomised double-blind placebo-controlled trial, 3 g/day low-molecular-weight collagen peptide for 24 weeks",
+        "finding": "Compared with placebo, hair gloss, elasticity (tensile strength) and diameter improved, and scalp elasticity rose. No treatment-related adverse events.",
+        "line_tier": "B",
+        "note": "Hair damage, not hair loss or growth. One branded peptide. Hair type and funding not in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

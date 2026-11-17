@@ -1,0 +1,30 @@
+{
+  "pmid": "34674316",
+  "slug": "g-lvez-2022-34674316",
+  "citation": {
+    "authors": "Gálvez MV, Aguilera J, Leal M, et al",
+    "year": 2022,
+    "journal": "Photodermatology, Photoimmunology and Photomedicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34674316/",
+  "page": "https://vilivity.com/studies/g-lvez-2022-34674316/",
+  "cited_by": [
+    {
+      "entry": "skincare-order-and-layering",
+      "title": "Skincare order and layering",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skincare-order-and-layering/",
+      "record": {
+        "id": "galvez-2022",
+        "population": "25 volunteers (back skin); ancestry not given in the abstract. Sunscreens: ISO-standard SPF 16 and 63 and four commercial SPF 50 or 50+ products",
+        "n": 25,
+        "design": "Experiment: sunscreen and moisturising cream applied in different orders, measured by ultraviolet reflectance photography",
+        "finding": "There were no significant differences in UV reflection when moisturising creams were applied before or after the sunscreens. The sunscreens themselves reduced the colour measure by 35% to 70%, showing real UV absorption. The authors conclude sunscreen effectiveness was not altered by concomitant moisturiser.",
+        "line_tier": "B",
+        "note": "Small; measured UV reflectance, not sunburn or real-world protection; only non-sunscreen moisturising creams, not serums, acids or retinoids; funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

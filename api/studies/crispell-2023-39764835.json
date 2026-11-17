@@ -1,0 +1,30 @@
+{
+  "pmid": "39764835",
+  "slug": "crispell-2023-39764835",
+  "citation": {
+    "authors": "Crispell EH, Trinh J, Warner MA",
+    "year": 2023,
+    "journal": "Best Practice and Research Clinical Anaesthesiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39764835/",
+  "page": "https://vilivity.com/studies/crispell-2023-39764835/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "crispell-2023",
+        "population": "Surgical patients",
+        "n": "not applicable",
+        "design": "Narrative review of postoperative anaemia",
+        "finding": "Postoperative anaemia is common among surgical patients and is neither inevitable nor harmless. The abstract describes prevalence, causes, outcomes and prevention but does not list the causes.",
+        "line_tier": "B",
+        "note": "Abstract only; causes not named in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

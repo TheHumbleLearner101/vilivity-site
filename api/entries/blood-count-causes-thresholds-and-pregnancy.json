@@ -1,0 +1,466 @@
+{
+  "slug": "blood-count-causes-thresholds-and-pregnancy",
+  "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Why is my haemoglobin low and how do I fix it?",
+    "Is 1.5 a low neutrophil count?",
+    "Why is my white blood cell count high?",
+    "Why is my haemoglobin low in pregnancy?"
+  ],
+  "tradition_says": "A number outside the printed range is read as illness, and low iron is often guessed from tiredness or pale skin. My search found no study of what families pass down about blood counts.",
+  "layer1": {
+    "plain_answer": "Low haemoglobin is called anaemia. Iron shortage is the commonest cause; others include blood loss, infection, other vitamin shortages and inherited traits. White cell counts shift with infection, medicines and pregnancy. Lab ranges vary, and a Duffy-null result can sit below the usual neutrophil line without being a disease. Your doctor needs the cause, not just the number.",
+    "what_it_is": [
+      {
+        "text": "Anaemia means haemoglobin below a cut-off set by age, sex and pregnancy. WHO's page defines it at sea level as under 110 g/L in pregnant women and under 120 g/L in non-pregnant women.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, Nutrition Landscape Information System, \"Anaemia\"",
+          "url": "https://www.who.int/data/nutrition/nlis/info/anaemia",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "WHO names iron deficiency as the most common cause of anaemia, then infection and inflammation, blood loss, shortage of folate, vitamin B12 or vitamin A, and inherited traits such as thalassaemia.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, Nutrition Landscape Information System, \"Anaemia\"",
+          "url": "https://www.who.int/data/nutrition/nlis/info/anaemia",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "The UK's NHS lists heavy periods, pregnancy and bleeding in the stomach or gut (from ibuprofen or aspirin, ulcers, piles or, less often, cancers) as common causes of iron deficiency anaemia.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "A US primary care review (American Family Physician) defines neutropenia as a neutrophil count under 1,500 per microlitre (1.5 on a lab report in x10^9 per litre) in adults: mild 1,000 to 1,500, moderate 500 to 999, severe under 500. Labs elsewhere may use their own ranges.",
+        "basis": "tested",
+        "source": "kim-2025"
+      },
+      {
+        "text": "The UK's NHS lists these causes of a low white cell count: cancer treatment, antipsychotic medicines, medicine for an overactive thyroid, some cancers such as leukaemia, infections such as HIV or hepatitis, and autoimmune conditions.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Low white blood cell count\"",
+          "url": "https://www.nhs.uk/conditions/low-white-blood-cell-count/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "MedlinePlus (US) gives the normal white cell count as 4,500 to 11,000 per microlitre, says labs differ slightly, and lists infection (most often bacterial), allergic reaction and inflammation among reasons for a high count.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus (US National Library of Medicine), \"WBC count\"",
+          "url": "https://medlineplus.gov/ency/article/003643.htm",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A doctor checks for anaemia with a full blood count, and if the cause is unclear may add other tests or a referral to a specialist.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "The UK's NHS lists tiredness, shortness of breath, noticeable heartbeats, paler skin and headaches as symptoms, but says a blood test is how iron deficiency anaemia is checked.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "A review says iron deficiency can be present without anaemia, so a normal haemoglobin does not rule out low iron; diagnosis uses haemoglobin, ferritin and transferrin saturation. Our search found no source that confirms low iron from symptoms alone.",
+        "basis": "tested",
+        "source": "alnaseem-2021"
+      },
+      {
+        "text": "For a raised white cell count, the type of cell raised and a look at a blood smear decide what testing comes next.",
+        "basis": "tested",
+        "source": "chabot-2014"
+      },
+      {
+        "text": "Duffy status is a separate blood test; it was measured with a full blood count in the 120-adult Duffy study.",
+        "basis": "tested",
+        "source": "merz-2023"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Pregnancy lowers the haemoglobin line: among healthy pregnant people the fifth centile was 110.3 g/L in the first trimester and 105.9 g/L in the second, against 119.7 g/L in non-pregnant women.",
+        "basis": "tested",
+        "source": "braat-2024"
+      },
+      {
+        "text": "In 299 healthy early pregnancies in Croatia, haemoglobin was lower and total white cells and neutrophils were higher than non-pregnant ranges, so a mildly high white count in pregnancy can be expected. No pregnancy neutrophil range was in the abstract.",
+        "basis": "tested",
+        "source": "supak-2025"
+      },
+      {
+        "text": "Duffy-null changes the neutrophil line. In 122 healthy Duffy-null adults at a US university hospital the 95% interval was 1.01 to 4.34 (x10^3 per microlitre), and in 146 Duffy-null Brazilian blood donors 1.18 to 4.80, so values near 1.1 to 1.9 can be that person's normal. Whether a given lab flags 1.6 to 2.6 as low depends on its own range, which our search did not open.",
+        "basis": "tested",
+        "source": "barouqa-2026"
+      },
+      {
+        "text": "In 120 healthy Black adults at one US centre, 80 were Duffy-null; their median neutrophil count was 2,820 against 5,005 per microlitre.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "If a low white cell count comes from illness, cancer treatment or a medicine, the UK's NHS advises avoiding close contact with sick people, washing hands regularly, not eating raw meat, shellfish or eggs, and not sharing food, cups or utensils.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Low white blood cell count\"",
+          "url": "https://www.nhs.uk/conditions/low-white-blood-cell-count/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "The UK's NHS says treatment follows the cause. For iron deficiency anaemia it names iron tablets and iron-rich foods (leafy greens, fortified cereals, meat, dried fruit, pulses) and says tea, coffee and dairy in large amounts make iron harder to absorb. The UK's NHS says a doctor recommends iron tablets and to keep them away from young children.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "A narrative review says postoperative anaemia is common among surgical patients and is neither inevitable nor harmless.",
+        "basis": "tested",
+        "source": "crispell-2023"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "The authors of the 120-adult US study call the Duffy-null phenotype clinically insignificant and say lower counts in people of African ancestry occur without increased infection risk (stated as background; the study measured counts, not infections).",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "Ancestry does not move the WHO anaemia thresholds in the 2024 pooled analysis of healthy reference samples, which found no evidence they should differ by ancestry. The older US study argues for group-specific ranges after finding lower average haemoglobin in African Americans, so this is contested.",
+        "basis": "tested",
+        "source": "braat-2024"
+      },
+      {
+        "text": "The UK's NHS lists leukaemia as one of many causes of a low white cell count, alongside medicines, infections and autoimmune conditions; the cause needs to be found by a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Low white blood cell count\"",
+          "url": "https://www.nhs.uk/conditions/low-white-blood-cell-count/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Sickle trait had no effect on the haemoglobin gap between African Americans and white people in the large US laboratory study; the alpha-thalassaemia deletion accounted for about a third of it, and removing iron-deficient people narrowed it slightly.",
+        "basis": "tested",
+        "source": "beutler-2005b"
+      }
+    ],
+    "see_someone_when": [
+      "New or worsening tiredness, breathlessness, paler skin, headaches or a noticeable heartbeat (doctor, for a full blood count and iron tests).",
+      "A known low white cell count and a fever, chills, sore throat or mouth sores: the UK's NHS says see a doctor if you are at risk of a low count and get an infection, or keep getting infections. After cancer treatment, a fever with a very low neutrophil count is an emergency (US review): call your cancer team or your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU).",
+      "You are pregnant and told your haemoglobin is low: tell your midwife or doctor, because the UK's NHS says untreated iron deficiency anaemia can raise the risk of complications before and after birth.",
+      "Told a count is low or high with no reason given: ask what is behind it, whether to repeat it or check iron, and whether Duffy status could explain a low neutrophil count (doctor or haematologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,491 African American and 31,005 white people with routine laboratory results, about half men and half women",
+      "design": "Retrospective analysis of laboratory data, with alpha-thalassaemia DNA testing",
+      "n": 32496,
+      "finding": "Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans and ferritin higher. The -3.7 kb alpha-thalassaemia deletion accounted for about a third of the haemoglobin difference; sickle trait had no effect. Before iron deficiency and thalassaemia were removed, 19.8% of African American women and 5.3% of white women would have been classed anaemic; after, 6.1% and 2.77%. The authors say the same reference standards do not apply to all ethnic groups.",
+      "source": {
+        "authors": "Beutler E, West C",
+        "year": 2005,
+        "journal": "Blood",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US laboratory population; abstract read in full.",
+      "id": "beutler-2005b"
+    },
+    {
+      "population": "120 healthy self-identified Black and African American adults at one US primary care centre",
+      "design": "Cross-sectional comparison of neutrophil counts by Duffy phenotype",
+      "n": 120,
+      "finding": "66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 per microlitre in Duffy-null and 5,005 in Duffy non-null (P under .001); 19 of 80 Duffy-null adults had counts under 2,000 and none of the others did. The abstract says many people of African ancestry have lower neutrophil counts without increased infection risk, calls the Duffy-null phenotype clinically insignificant, and advocates Duffy-null-specific ranges.",
+      "source": {
+        "authors": "Merz LE, Story CM, Osei MA et al",
+        "year": 2023,
+        "journal": "Blood Advances",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35994632/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single centre, small sample. Abstract read in full.",
+      "id": "merz-2023"
+    },
+    {
+      "population": "Healthy reference samples from 8 data sources (USA, England, Australia, China, the Netherlands, Canada, Ecuador, Bangladesh): 3,640 non-pregnant women, 2,377 men, 772 first-trimester and 111 second-trimester pregnancies, plus children and adolescents",
+      "design": "Pooled analysis of fifth-centile haemoglobin, with a summary of three genetic studies",
+      "n": "not applicable",
+      "finding": "Fifth-centile haemoglobin in adults aged 18 to 65 was 119.7 g/L in non-pregnant women and 134.9 g/L in men; in pregnancy it was 110.3 g/L in the first trimester and 105.9 g/L in the second, with too little data for the third. The authors found no evidence that thresholds should differ between people of different ancestries.",
+      "source": {
+        "authors": "Braat S, Fielding KL, Han J et al",
+        "year": 2024,
+        "journal": "The Lancet Haematology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38432242/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "These are statistical thresholds from healthy reference samples, not outcomes. Funded by WHO and the Gates Foundation.",
+      "id": "braat-2024"
+    },
+    {
+      "population": "Adults and children in a US primary care review",
+      "design": "Narrative review of neutropenia evaluation",
+      "n": "not applicable",
+      "finding": "Neutropenia is an absolute neutrophil count under 1,500 per microlitre in adults and children over 1 year, classed mild (1,000 to 1,500), moderate (500 to 999) or severe (under 500). Causes include autoimmune and drug-induced neutropenia, infection, chemotherapy, blood cancers, nutritional deficiency (vitamin B12, folate, copper) and inherited forms. Febrile neutropenia (fever with a count under 500) is an oncology emergency.",
+      "source": {
+        "authors": "Kim MJ, Forlini C, Kremsreiter K",
+        "year": 2025,
+        "journal": "American Family Physician",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41533406/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "US primary care review; abstract read in full.",
+      "id": "kim-2025"
+    },
+    {
+      "population": "122 healthy adults with confirmed Duffy-null [Fy(a-b-)] phenotype, drawn from 1,695 adults with a blood count and red cell phenotyping at one institution (2020 to 2026)",
+      "design": "Retrospective reference-interval study (CLSI method)",
+      "n": 122,
+      "finding": "Median neutrophil count was 1.45 against 4.45 x10^3 per microlitre in the institution's reference. The Duffy-null 95% reference interval for neutrophils was 1.01 to 4.34 x10^3 per microlitre, with the lower bound below the standard neutropenia cut-off. The authors support Duffy-null-specific ranges.",
+      "source": {
+        "authors": "Barouqa M, Ashfaq MA, Jiang KJ et al",
+        "year": 2026,
+        "journal": "Hematology Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345734/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Single institution (University of South Alabama, US). Participants selected by Duffy status.",
+      "id": "barouqa-2026"
+    },
+    {
+      "population": "311 healthy adult blood donors at two Brazilian blood banks; 46.6% self-identified as Black or mixed-race; 146 (46.9%) Duffy-null",
+      "design": "Prospective reference-interval study with Duffy phenotyping",
+      "n": 311,
+      "finding": "Duffy-null donors had a median neutrophil count of 2,250 against 4,070 per microlitre; the 95% reference range was 1,180 to 4,800 against 2,200 to 7,250. They also had higher red cell counts, haemoglobin, haematocrit and platelet counts. The authors support Duffy-specific intervals.",
+      "source": {
+        "authors": "Velloso EDRP, Dos Santos AO, Dinardo CL et al",
+        "year": 2026,
+        "journal": "International Journal of Laboratory Hematology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42678004/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Participants grouped by Duffy status. Blood donors are healthier than average.",
+      "id": "velloso-2026"
+    },
+    {
+      "population": "299 healthy pregnant women in early pregnancy at one hospital in Rijeka, Croatia",
+      "design": "Prospective reference-interval study compared with non-pregnant ranges",
+      "n": 299,
+      "finding": "Compared with non-pregnant reference intervals, haemoglobin, MCV, haematocrit and MCH were clinically relevantly lower in early pregnancy, and total white cell count, neutrophils and monocytes were clinically relevantly higher. The abstract gives no numeric ranges.",
+      "source": {
+        "authors": "Supak-Smolcic V, Franin L, Antoncic D et al",
+        "year": 2025,
+        "journal": "Diagnostics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40002566/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "European population, early pregnancy only. The abstract gives direction, not numbers, so no pregnancy neutrophil range is quoted on this card.",
+      "id": "supak-2025"
+    },
+    {
+      "population": "Review of iron deficiency with and without anaemia",
+      "design": "Narrative review",
+      "n": "not applicable",
+      "finding": "Iron deficiency without anaemia is at least twice as common as iron deficiency anaemia and is poorly recognised. Diagnosis relies on a combination of tests: haemoglobin, ferritin and transferrin saturation.",
+      "source": {
+        "authors": "Al-Naseem A, Sallam A, Choudhury S",
+        "year": 2021,
+        "journal": "Clinical Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33762368/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "alnaseem-2021"
+    },
+    {
+      "population": "Laboratory review of raised white cell counts",
+      "design": "Narrative review",
+      "n": "not applicable",
+      "finding": "The next steps for a raised white cell count depend on which cell types are raised and what a blood smear shows. Blasts on the smear are concerning for acute leukaemia. Many raised counts are reactive; the review lists reactive conditions and malignancies as separate groups.",
+      "source": {
+        "authors": "Chabot-Richards DS, George TI",
+        "year": 2014,
+        "journal": "International Journal of Laboratory Hematology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24750674/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "chabot-2014"
+    },
+    {
+      "population": "Surgical patients",
+      "design": "Narrative review of postoperative anaemia",
+      "n": "not applicable",
+      "finding": "Postoperative anaemia is common among surgical patients and is neither inevitable nor harmless. The abstract describes prevalence, causes, outcomes and prevention but does not list the causes.",
+      "source": {
+        "authors": "Crispell EH, Trinh J, Warner MA",
+        "year": 2023,
+        "journal": "Best Practice and Research Clinical Anaesthesiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39764835/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only; causes not named in the abstract.",
+      "id": "crispell-2023"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That blood count lines depend on measured traits (Duffy status, alpha-globin genes, iron) and on pregnancy rather than on ancestry itself: a 32,496-person US laboratory study, Duffy-null reference studies of 120, 122 and 311 people, and a pooled analysis of healthy reference samples.",
+  "tier_note": "Mostly observational reference studies in single centres. The Duffy-null reference studies select people by a measured trait. Whether separate ranges should be adopted is contested. Cause lists come from official pages and reviews, not trials. Strength is thin, because only the Beutler study has thousands of people and it concerns ancestry differences, not the Duffy-null claim; the Duffy-null studies have 120 to 311 people each.",
+  "harm_flag": true,
+  "harm_note": "A range built on one group can label healthy people as ill: before iron and thalassaemia were accounted for, 19.8% of African American women were classed anaemic against 5.3% of white women (Beutler 2005), and the Duffy authors say inappropriate ranges can propagate systemic racism (Merz 2023). Iron tablets taken by a young child can be fatal, so the UK's NHS says to keep them out of reach.",
+  "founder_flag": false,
+  "evidence_summary": "Anaemia is haemoglobin below a cut-off that depends on age, sex and pregnancy; WHO names iron deficiency as the commonest cause, with blood loss, infection, other vitamin shortages and inherited traits behind the rest. A white cell count can be high or low for many reasons: infection, inflammation, medicines, cancer treatment and, for neutrophils, the Duffy-null trait. In two Duffy-null reference studies (122 US adults and 311 Brazilian donors) the lower edge of the neutrophil range was about 1.0 to 1.2, under the usual 1.5 line, and the 120-adult US study (Merz 2023) calls the Duffy-null phenotype clinically insignificant; it measured counts, not infections. In healthy pregnancies haemoglobin runs lower and white cells run higher than non-pregnant ranges. The pooled analysis of healthy people found no ancestry-based anaemia threshold. Strength is thin: only one study has thousands of people and it concerns ancestry differences, while the Duffy-null studies have 120 to 311 people each. This entry sits beside the reference-range entry and does not repeat its figures.",
+  "measured_variables": [
+    "Haemoglobin, MCV and MCH (full blood count)",
+    "Ferritin and transferrin saturation",
+    "Absolute neutrophil count and total white cell count",
+    "Duffy phenotype (blood test)",
+    "Pregnancy trimester"
+  ],
+  "gaps": "Searches run 17 Nov 2026 on PubMed: \"neutropenia evaluation in adults causes review\" (613 records, one opened: Kim 2025); \"Duffy-null associated neutrophil count reference interval\" (3 records, 2 opened; a Saudi Arabia paper was not opened); \"neutrophil count reference range pregnancy\" (77 records, one opened: Supak-Smolcic 2025, which gives direction but no numbers); \"iron deficiency anaemia thrombocytosis\" (225 records, none opened, so our search found no usable source on why haemoglobin can be low with high platelets); \"lymphopenia adults evaluation\" (1,514 records, none opened, so nothing here answers low lymphocytes); \"postoperative anaemia causes review\" (1,192 records, one opened, abstract does not list causes). Control search: the exact title of the Merz 2023 Duffy paper returned that paper (1 record), so the method works. Not found or not opened: any official page giving a single \"dangerous\" haemoglobin figure (our search found nothing; a NICE transfusion guideline page was fetched but not read or used); the full WHO 2024 guideline and its 2024 pregnancy cut-offs (the WHO page opened carries the older 110 and 120 g/L figures); the UK guideline on iron deficiency in pregnancy (abstract only, no thresholds); a UK or other national lab range for neutrophils; the UK's NHS full blood count page (404); what to eat when white cells are low beyond the UK's NHS food-safety advice; any trial of treating Duffy-null low counts.",
+  "related": [
+    "haemoglobin-and-white-cell-reference-ranges",
+    "low-white-cell-count-duffy-null",
+    "alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron",
+    "iron-and-fibroids",
+    "heavy-periods-by-life-stage-and-cause",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Beutler E, West C",
+      "year": 2005,
+      "journal": "Blood",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Merz LE, Story CM, Osei MA et al",
+      "year": 2023,
+      "journal": "Blood Advances",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35994632/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Braat S, Fielding KL, Han J et al",
+      "year": 2024,
+      "journal": "The Lancet Haematology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38432242/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kim MJ, Forlini C, Kremsreiter K",
+      "year": 2025,
+      "journal": "American Family Physician",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41533406/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Barouqa M, Ashfaq MA, Jiang KJ et al",
+      "year": 2026,
+      "journal": "Hematology Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42345734/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Velloso EDRP, Dos Santos AO, Dinardo CL et al",
+      "year": 2026,
+      "journal": "International Journal of Laboratory Hematology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678004/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Supak-Smolcic V, Franin L, Antoncic D et al",
+      "year": 2025,
+      "journal": "Diagnostics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40002566/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Al-Naseem A, Sallam A, Choudhury S",
+      "year": 2021,
+      "journal": "Clinical Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33762368/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Chabot-Richards DS, George TI",
+      "year": 2014,
+      "journal": "International Journal of Laboratory Hematology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24750674/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Crispell EH, Trinh J, Warner MA",
+      "year": 2023,
+      "journal": "Best Practice and Research Clinical Anaesthesiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39764835/",
+      "tag": "[review]"
+    },
+    {
+      "name": "WHO, Nutrition Landscape Information System, \"Anaemia\"",
+      "url": "https://www.who.int/data/nutrition/nlis/info/anaemia",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Iron deficiency anaemia\"",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Low white blood cell count\"",
+      "url": "https://www.nhs.uk/conditions/low-white-blood-cell-count/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "MedlinePlus (US National Library of Medicine), \"WBC count\"",
+      "url": "https://medlineplus.gov/ency/article/003643.htm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

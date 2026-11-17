@@ -1,0 +1,30 @@
+{
+  "pmid": "35984871",
+  "slug": "o-connor-2022-35984871",
+  "citation": {
+    "authors": "O'Connor J, Lindsay K, Baker C, Kirby J et al",
+    "year": 2022,
+    "journal": "Journal of Medicinal Food"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35984871/",
+  "page": "https://vilivity.com/studies/o-connor-2022-35984871/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "oconnor-2022",
+        "population": "60 healthy college students, Colorado Springs, US (ethnicity not stated in the abstract)",
+        "n": 60,
+        "design": "Randomised, double-blind, placebo-controlled, 700 mg full-spectrum root extract a day for 30 days",
+        "finding": "Restorative sleep scores were better on ashwagandha (58.4 against 48.2, adjusted for starting sleep) and food cravings were lower than on placebo by the end. The overall test for sleep and stress together was not significant; the authors say stress differences usually need about six weeks.",
+        "line_tier": "B",
+        "note": "Short trial in young adults. A correction notice was published (erratum 2023).",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

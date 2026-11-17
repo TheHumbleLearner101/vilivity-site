@@ -1,0 +1,30 @@
+{
+  "pmid": "34694676",
+  "slug": "rustad-2022-34694676",
+  "citation": {
+    "authors": "Rustad AM, Nickles MA, McKenney JE, Bilimoria SN, Lio PA",
+    "year": 2022,
+    "journal": "Journal of Cosmetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34694676/",
+  "page": "https://vilivity.com/studies/rustad-2022-34694676/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "rustad-2022",
+        "population": "Claims on Instagram and YouTube, by collagen companies, and in the literature",
+        "n": "not recorded",
+        "design": "Review of social media, company and published claims",
+        "finding": "Some studies show better skin elasticity and hydration, but dermatology claims in the media go beyond the evidence; the authors say more research is needed.",
+        "line_tier": "B",
+        "note": "A review of claims. The abstract does not give the evidence for hair or nails separately.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "38701812",
+  "slug": "aygun-2024-38701812",
+  "citation": {
+    "authors": "Aygun B, Lane A, Smart LR et al",
+    "year": 2024,
+    "journal": "The Lancet Haematology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38701812/",
+  "page": "https://vilivity.com/studies/aygun-2024-38701812/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+      "title": "Sickle cell disease: what it is, treatment and newborn screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/",
+      "record": {
+        "id": "aygun-2024",
+        "population": "606 children aged 1 to 10 with haemoglobin SS or S-beta-zero thalassaemia given hydroxyurea in Kenya, Uganda, Angola and the Democratic Republic of Congo (635 enrolled)",
+        "n": 606,
+        "design": "Open-label, non-randomised phase 1/2 trial (REACH) with up to 8 years of follow-up",
+        "finding": "Escalating hydroxyurea under monitoring to the maximum tolerated dose reduced pain episodes (rate ratio 0.60 against the fixed-dose phase), acute chest syndrome (0.21), malaria (0.58) and non-malarial infections (0.52), and raised haemoglobin from 7.3 to 8.5 g/dL; serious side effects were uncommon. The abstract gave no significant change in deaths (0.70, P 0.50).",
+        "line_tier": "B",
+        "note": "Uncontrolled: it compares dosing phases within the same children, not against placebo. Participants were selected by haemoglobin genotype.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "24093961",
+  "slug": "dorsey-2013-24093961",
+  "citation": {
+    "authors": "Dorsey KA",
+    "year": 2013,
+    "journal": "MSMR"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24093961/",
+  "page": "https://vilivity.com/studies/dorsey-2013-24093961/",
+  "cited_by": [
+    {
+      "entry": "heavy-periods-by-life-stage-and-cause",
+      "title": "Heavy periods by life stage and cause",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/heavy-periods-by-life-stage-and-cause/",
+      "record": {
+        "id": "dorsey-2013",
+        "population": "Active component US Armed Forces women, 1998 to 2012",
+        "n": null,
+        "design": "Surveillance analysis of medical records for menorrhagia",
+        "finding": "Incidence was 6.2 cases per 1,000 person years and rose each year. Rates were highest in women aged 40 to 49 and in women of black, non-Hispanic ethnicity. Fibroids and ovarian cysts were the most common co-occurring conditions; under 1% of cases had a documented bleeding disorder.",
+        "line_tier": "B",
+        "note": "Serving women only, diagnosed cases only. The abstract gives no count; I did not read the full report.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

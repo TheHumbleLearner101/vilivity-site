@@ -1,6 +1,6 @@
 {
   "site": "Vilivity",
-  "count": 128,
+  "count": 141,
   "entries": [
     {
       "slug": "low-white-cell-count-duffy-null",
@@ -79,6 +79,19 @@
       "answer": "Apple cider vinegar may lower blood sugar and weight slightly in short trials, but the trials are small and varied, and one well-known weight trial was retracted. Our search found no trial of apple cider vinegar in Black participants. Dilute it or use it in food, and avoid the tablets: one injured a throat.",
       "page": "https://vilivity.com/food/apple-cider-vinegar/",
       "json": "https://vilivity.com/api/entries/apple-cider-vinegar.json"
+    },
+    {
+      "slug": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "In short trials ashwagandha lowered cortisol and stress scores, and a review of 14 trials in mental disorders (mostly anxiety) found less anxiety, with depression less certain. We found no human trial for tension headaches, stress acne or gut. It has been linked to liver injury, deaths in people with liver disease, and one kidney-transplant rejection. Ask a pharmacist first.",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "json": "https://vilivity.com/api/entries/ashwagandha-other-claims.json"
     },
     {
       "slug": "ashwagandha",
@@ -367,6 +380,19 @@
       "json": "https://vilivity.com/api/entries/cod-liver-oil.json"
     },
     {
+      "slug": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": false,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Collagen may ease knee osteoarthritis pain a little in pooled trials, though those trials disagreed with each other. For hair and nails we found a few small trials of branded products with mixed results. Our search found no trial in Black participants. It is not a medicine: for hair loss or sore joints, get the cause checked first.",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "json": "https://vilivity.com/api/entries/collagen-for-hair-nails-and-joints.json"
+    },
+    {
       "slug": "collagen-supplements",
       "title": "Collagen supplements for skin and joints",
       "module": "skin",
@@ -378,6 +404,19 @@
       "answer": "Collagen supplements may add a little skin moisture in trials, but the best-quality trials and the ones not paid for by the industry found no clear skin effect. Our search found no trial in Black participants or on dark skin. Check labels for fish if you are allergic, and treat promised skin changes as unproven.",
       "page": "https://vilivity.com/skin/collagen-supplements/",
       "json": "https://vilivity.com/api/entries/collagen-supplements.json"
+    },
+    {
+      "slug": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": false,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "In the US, screening starts at 45 and a colonoscopy every 10 years is one way to do it. In England, the NHS starts at 50 with a home stool test every 2 years; a colonoscopy follows a positive result. Our search found no study showing Black adults should start before 45. Symptoms, polyps or family history change timing.",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "json": "https://vilivity.com/api/entries/colonoscopy-when-and-how-often.json"
     },
     {
       "slug": "colouring-and-bleaching-textured-hair",
@@ -404,6 +443,19 @@
       "answer": "In US surveys of Black adults, experiencing colourism within the community went with higher odds of a psychiatric disorder, and among older adults the link between discrimination and distress was stronger in darker-skinned people. These are associations, not proof of cause. No trial has tested a way to cope with it, so use ordinary mental health support.",
       "page": "https://vilivity.com/mind/colourism-and-mental-health/",
       "json": "https://vilivity.com/api/entries/colourism-and-mental-health.json"
+    },
+    {
+      "slug": "coping-with-anxiety-day-to-day",
+      "title": "Coping with anxiety day to day",
+      "module": "mind",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": false,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Anxiety is common and treatable. The UK's NHS and the US's NIMH both say regular exercise, enough sleep, less caffeine, calming breathing and talking to someone you trust can help. Two small pilots in Black adults found mindfulness feasible. Nothing we found tests the popular 3-3-3 rule. If it stops you living normally, get help.",
+      "page": "https://vilivity.com/mind/coping-with-anxiety-day-to-day/",
+      "json": "https://vilivity.com/api/entries/coping-with-anxiety-day-to-day.json"
     },
     {
       "slug": "creatine-supplements",
@@ -770,6 +822,19 @@
       "json": "https://vilivity.com/api/entries/heat-and-hydration.json"
     },
     {
+      "slug": "heavy-periods-by-life-stage-and-cause",
+      "title": "Heavy periods by life stage and cause",
+      "module": "body",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "The NHS (UK) says heavy periods can be normal after pregnancy or approaching menopause; ACOG (US) says heavy bleeding is not normal. Either way, get it checked if bleeding disrupts your life or you feel tired or breathless. In a small US study, about two thirds of 44 African American women had iron deficiency; about half reported heavy periods.",
+      "page": "https://vilivity.com/body/heavy-periods-by-life-stage-and-cause/",
+      "json": "https://vilivity.com/api/entries/heavy-periods-by-life-stage-and-cause.json"
+    },
+    {
       "slug": "hibiscus-sorrel-blood-pressure",
       "title": "Hibiscus (sorrel, zobo, bissap) and blood pressure",
       "module": "food",
@@ -859,6 +924,19 @@
       "answer": "Intermittent fasting lost weight in trials, about the same as ordinary calorie cutting, and one small pilot of Black adults in churches found it workable. Avoid it if you have had an eating disorder or are pregnant or breastfeeding, and plan it with your care team if you have diabetes. Religious fasting has its own guidance.",
       "page": "https://vilivity.com/food/intermittent-fasting-for-weight-and-health/",
       "json": "https://vilivity.com/api/entries/intermittent-fasting-for-weight-and-health.json"
+    },
+    {
+      "slug": "intermittent-fasting-for-specific-groups",
+      "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+      "module": "food",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Intermittent fasting is not one answer for everyone. In trials of women with overweight, it lowered BMI and fasting blood sugar a little. Australia's official health service says it is not recommended for children, teenagers or older adults. Nothing we found tests it in Black women by life stage, or with thyroid or heart disease. Talk to your doctor first.",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-specific-groups/",
+      "json": "https://vilivity.com/api/entries/intermittent-fasting-for-specific-groups.json"
     },
     {
       "slug": "iron-and-fibroids",
@@ -978,6 +1056,19 @@
       "json": "https://vilivity.com/api/entries/locs-starting-washing-and-maintenance.json"
     },
     {
+      "slug": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Low haemoglobin is called anaemia. Iron shortage is the commonest cause; others include blood loss, infection, other vitamin shortages and inherited traits. White cell counts shift with infection, medicines and pregnancy. Lab ranges vary, and a Duffy-null result can sit below the usual neutrophil line without being a disease. Your doctor needs the cause, not just the number.",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "json": "https://vilivity.com/api/entries/blood-count-causes-thresholds-and-pregnancy.json"
+    },
+    {
       "slug": "lung-function-tests-and-race-correction-in-spirometry",
       "title": "Lung function tests and race correction in spirometry",
       "module": "body",
@@ -1095,6 +1186,19 @@
       "json": "https://vilivity.com/api/entries/moringa-leaf-and-blood-sugar.json"
     },
     {
+      "slug": "normal-blood-pressure-by-age",
+      "title": "Normal blood pressure by age and sex, and for children",
+      "module": "body",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": false,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "There is one blood pressure line for all adults, not a different normal by age or sex. In the UK, a clinic reading of 140/90 or higher is high; in the US, under 120/80 counts as normal and 130/80 starts stage 1. Age changes the treatment target, not the diagnosis. Children are judged against paediatric tables.",
+      "page": "https://vilivity.com/body/normal-blood-pressure-by-age/",
+      "json": "https://vilivity.com/api/entries/normal-blood-pressure-by-age.json"
+    },
+    {
       "slug": "pcos-endometriosis-and-heavy-periods",
       "title": "PCOS, endometriosis and heavy periods",
       "module": "body",
@@ -1210,6 +1314,19 @@
       "answer": "Many studies find that people who report experiencing racism have worse mental health, including more depression, anxiety and stress. This shows a link, not proof of cause, but it means the strain is real and not a personal failing. Talking therapies, including for trauma, are available.",
       "page": "https://vilivity.com/mind/racism-and-mental-health/",
       "json": "https://vilivity.com/api/entries/racism-and-mental-health.json"
+    },
+    {
+      "slug": "rashes-on-dark-skin",
+      "title": "Rashes on dark skin: what to look for",
+      "module": "skin",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": false,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "On brown and black skin, the redness of a rash can be harder to see, so it may look darker, or show mainly as raised, rough or itchy skin. Check texture, not just colour. For a fever with a rash, press a clear glass on it and check palms and soles: spots that do not fade are an emergency.",
+      "page": "https://vilivity.com/skin/rashes-on-dark-skin/",
+      "json": "https://vilivity.com/api/entries/rashes-on-dark-skin.json"
     },
     {
       "slug": "mens-hair-loss-and-hair-transplants",
@@ -1342,6 +1459,19 @@
       "json": "https://vilivity.com/api/entries/sickle-cell-disease-trait-and-pregnancy.json"
     },
     {
+      "slug": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+      "title": "Sickle cell disease: what it is, treatment and newborn screening",
+      "module": "body",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": false,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Sickle cell disease is inherited: you need the gene from both parents. One copy is trait, not the disease. A blood test tells you. Newborn screening is offered in the UK (NHS) and all US states, not yet universally in sub-Saharan Africa. Care helps manage it; in the US, life expectancy is about 20 years shorter.",
+      "page": "https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/",
+      "json": "https://vilivity.com/api/entries/sickle-cell-disease-basics-treatment-and-newborn-screening.json"
+    },
+    {
       "slug": "sickle-cell-trait-and-hard-exercise",
       "title": "Sickle cell trait and hard exercise",
       "module": "body",
@@ -1392,6 +1522,19 @@
       "answer": "Many skin lightening creams contain mercury, strong steroids or high-strength hydroquinone, and reported cases show serious skin and kidney harm. Lightening the whole body is not supported as safe. If dark patches or marks are the worry, there are treatments that target them and are tested in dark skin.",
       "page": "https://vilivity.com/skin/skin-lightening-creams/",
       "json": "https://vilivity.com/api/entries/skin-lightening-creams.json"
+    },
+    {
+      "slug": "skincare-order-and-layering",
+      "title": "Skincare order and layering",
+      "module": "skin",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "No study or guidance we opened sets one correct order for a whole routine. Dermatology guidance gives the steps: wash gently, moisturise, and use sunscreen by day. In a test in 25 volunteers, UV reflectance did not differ significantly whether moisturiser went on before or after sunscreen. Prescription products: follow your prescriber.",
+      "page": "https://vilivity.com/skin/skincare-order-and-layering/",
+      "json": "https://vilivity.com/api/entries/skincare-order-and-layering.json"
     },
     {
       "slug": "skincare-routine-basics",
@@ -1524,6 +1667,19 @@
       "json": "https://vilivity.com/api/entries/body-odour-and-sweat.json"
     },
     {
+      "slug": "taking-too-many-vitamins",
+      "title": "Taking too many vitamins and supplements",
+      "module": "food",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Yes. Food rarely causes trouble, but supplements can, and the safe daily ceiling differs by vitamin and by country. Some taken in large amounts cause stomach upset; others build up in the body, such as vitamin A and vitamin D. Add up everything you take, and ask a pharmacist or doctor if you are pregnant.",
+      "page": "https://vilivity.com/food/taking-too-many-vitamins/",
+      "json": "https://vilivity.com/api/entries/taking-too-many-vitamins.json"
+    },
+    {
       "slug": "traction-alopecia-and-protective-styles",
       "title": "Traction alopecia and 'protective' styles",
       "module": "hair",
@@ -1613,6 +1769,19 @@
       "answer": "Vitiligo is loss of skin colour in patches, an autoimmune condition, not an infection. Patches are usually permanent, though treatment can bring back colour in some people: a prescription cream did in trials, with responses seen across skin types (not compared type by type). Pale patches burn more easily, so use sunscreen. Camouflage cream can cover them.",
       "page": "https://vilivity.com/skin/vitiligo/",
       "json": "https://vilivity.com/api/entries/vitiligo.json"
+    },
+    {
+      "slug": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": true,
+      "founder_flag": false,
+      "last_checked": "2026-11-17",
+      "answer": "Vitiligo can start at any age, but a Cochrane review says more than half of people develop it before 20. It can spread over years, and nobody can predict how far. No treatment cures it. Light therapy and some prescription creams bring colour back in some people, slowly, and it can fade again.",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "json": "https://vilivity.com/api/entries/vitiligo-spread-onset-and-treatment-options.json"
     },
     {
       "slug": "wash-day-routine-for-4c-hair",

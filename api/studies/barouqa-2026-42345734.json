@@ -1,0 +1,30 @@
+{
+  "pmid": "42345734",
+  "slug": "barouqa-2026-42345734",
+  "citation": {
+    "authors": "Barouqa M, Ashfaq MA, Jiang KJ et al",
+    "year": 2026,
+    "journal": "Hematology Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42345734/",
+  "page": "https://vilivity.com/studies/barouqa-2026-42345734/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "barouqa-2026",
+        "population": "122 healthy adults with confirmed Duffy-null [Fy(a-b-)] phenotype, drawn from 1,695 adults with a blood count and red cell phenotyping at one institution (2020 to 2026)",
+        "n": 122,
+        "design": "Retrospective reference-interval study (CLSI method)",
+        "finding": "Median neutrophil count was 1.45 against 4.45 x10^3 per microlitre in the institution's reference. The Duffy-null 95% reference interval for neutrophils was 1.01 to 4.34 x10^3 per microlitre, with the lower bound below the standard neutropenia cut-off. The authors support Duffy-null-specific ranges.",
+        "line_tier": "A",
+        "note": "Single institution (University of South Alabama, US). Participants selected by Duffy status.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

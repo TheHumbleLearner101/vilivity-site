@@ -1,0 +1,30 @@
+{
+  "pmid": "38776041",
+  "slug": "nazarian-2024-38776041",
+  "citation": {
+    "authors": "Nazarian A, Alexis AF",
+    "year": 2024,
+    "journal": "Current Allergy and Asthma Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38776041/",
+  "page": "https://vilivity.com/studies/nazarian-2024-38776041/",
+  "cited_by": [
+    {
+      "entry": "rashes-on-dark-skin",
+      "title": "Rashes on dark skin: what to look for",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/rashes-on-dark-skin/",
+      "record": {
+        "id": "nazarian-2024",
+        "population": "Published literature on allergic skin conditions in people with skin of colour",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Allergic skin conditions affect all backgrounds, but the authors say the way redness (erythema) is assessed and how patch tests are read need extra care in skin of colour.",
+        "line_tier": "B",
+        "note": "Abstract read only; says redness assessment is a nuance but gives no figures.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

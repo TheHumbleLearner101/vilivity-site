@@ -1,0 +1,316 @@
+{
+  "slug": "collagen-for-hair-nails-and-joints",
+  "title": "Collagen for hair, nails and joints",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Does collagen help hair, nails or joints?",
+    "Does collagen help hair and nails grow?",
+    "Do collagen supplements work for joint pain or knee osteoarthritis?",
+    "Do collagen supplements help tendons?",
+    "Does marine or bovine collagen work better for hair and nails?",
+    "Do collagen supplements work for gut health or weight loss?"
+  ],
+  "tradition_says": "Collagen is the protein in skin, hair, nails, tendons and cartilage. Powders, drinks and gummies are sold to thicken hair, strengthen nails and ease stiff joints.",
+  "layer1": {
+    "plain_answer": "Collagen may ease knee osteoarthritis pain a little in pooled trials, though those trials disagreed with each other. For hair and nails we found a few small trials of branded products with mixed results. Our search found no trial in Black participants. It is not a medicine: for hair loss or sore joints, get the cause checked first.",
+    "do": [
+      {
+        "text": "Check the source on the label: marine collagen may not suit you if you have a fish allergy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic (US), \"Collagen Peptides: Benefits and Side Effects\"",
+          "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you buy it, look for products verified by an outside tester such as NSF Certified for Sport or USP Verified (US bodies), and ask a doctor or pharmacist about any amount.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic (US), \"Collagen Peptides: Benefits and Side Effects\"",
+          "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Buying it to treat hair loss: the one hair-loss trial we read tested a mix with amino acids, iron and selenium alongside drug treatment, so it cannot show collagen did the work.",
+        "basis": "tested",
+        "source": "milani-2023"
+      },
+      {
+        "text": "Taking social media or brand claims at face value: a review found dermatology claims online go beyond the evidence.",
+        "basis": "tested",
+        "source": "rustad-2022"
+      },
+      {
+        "text": "Assuming it is tested before sale: Cleveland Clinic (US) says the FDA does not test or approve collagen peptides.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic (US), \"Collagen Peptides: Benefits and Side Effects\"",
+          "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hair coming out in patches, sudden heavy shedding or a sore scalp (doctor or dermatologist, before spending on supplements).",
+      "Knee or other joint pain with swelling, locking, or trouble putting weight on it (doctor).",
+      "Itching, swelling or breathing trouble after taking it (your local emergency number: 999 in the UK, 911 in the US and Canada, 112 in the EU).",
+      "Stomach upset that carries on (pharmacist or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "id": "simental-2025",
+      "population": "Adults with knee osteoarthritis in 11 randomised trials (451 on collagen, 419 on placebo)",
+      "design": "Systematic review and meta-analysis",
+      "n": 870,
+      "finding": "Collagen supplements improved function (mean difference -6.46) and pain scores (-13.63) compared with placebo. Results varied widely between trials (I2 75% for function, 88% for pain). The authors conclude it relieves osteoarthritis symptoms.",
+      "source": {
+        "authors": "Simental-Mendia M, Ortega-Mata D, Acosta-Olivo CA, Simental-Mendia LE et al",
+        "year": 2025,
+        "journal": "Clinical and Experimental Rheumatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39212129/",
+        "tag": "[review]"
+      },
+      "line_tier": "B",
+      "note": "Ethnicity not reported in the abstract. High heterogeneity lowers confidence.",
+      "tag": "[review]"
+    },
+    {
+      "id": "garcia-2019",
+      "population": "Adults with osteoarthritis in randomised placebo-controlled trials of oral collagen",
+      "design": "Meta-analysis (WOMAC and VAS scores)",
+      "finding": "Total WOMAC score and VAS pain score fell with collagen, and stiffness improved. The WOMAC pain and function sub-scores did not differ significantly from placebo.",
+      "source": {
+        "authors": "Garcia-Coronado JM, Martinez-Olvera L, Elizondo-Omana RE, Acosta-Olivo CA et al",
+        "year": 2019,
+        "journal": "International Orthopaedics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30368550/",
+        "tag": "[review]"
+      },
+      "line_tier": "B",
+      "note": "Number of participants and ethnicity not in the abstract. The mixed sub-scores are why this card stays thin.",
+      "tag": "[review]",
+      "n": "not recorded"
+    },
+    {
+      "id": "liu-2018",
+      "population": "People with hand, hip or knee osteoarthritis in 69 randomised trials of 20 dietary supplements",
+      "design": "Systematic review and meta-analysis with GRADE rating",
+      "finding": "Collagen hydrolysate was one of 7 supplements with large short-term pain effects. No supplement had clinically important effects on pain at long term, and evidence quality was rated very low to high, very low overall.",
+      "source": {
+        "authors": "Liu X, Machado GC, Eyles JP, Ravi V, Hunter DJ",
+        "year": 2018,
+        "journal": "British Journal of Sports Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29018060/",
+        "tag": "[review]"
+      },
+      "line_tier": "B",
+      "note": "Collagen is one of 20 supplements here. Ethnicity not reported in the abstract.",
+      "tag": "[review]",
+      "n": "not recorded"
+    },
+    {
+      "id": "vleminckx-2024",
+      "population": "85 healthy women aged 43 to 65, East Asian population",
+      "design": "Double-blind randomised placebo-controlled trial, 5 g collagen peptides daily for 84 days, plus a standard face cream",
+      "n": 85,
+      "finding": "Skin density and moisture improved over placebo at 84 days. Nail colour and overall beauty perception improved within 28 days in the collagen group; the placebo group showed the same effects only at 84 days. Hair was not measured.",
+      "source": {
+        "authors": "Vleminckx S, Virgilio N, Asserin J, Prawitt J, Silva CIF",
+        "year": 2024,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39143887/",
+        "tag": "[primary]"
+      },
+      "line_tier": "B",
+      "note": "The only nail result found, measured as nail colour, not growth or strength. East Asian women only; skin type not reported in the abstract. Funding not stated in the abstract.",
+      "tag": "[primary]"
+    },
+    {
+      "id": "reilly-2024",
+      "population": "Adults taking a hydrolysed collagen plus vitamin C supplement, daily or every 48 hours (number not given in the abstract)",
+      "design": "Randomised double-blind placebo-controlled trial, 12 weeks",
+      "finding": "At 12 weeks the supplement group had better skin hydration and elasticity. The number of hairs counted rose 27.6% against placebo, which was not statistically significant (p not significant); the rating for healthy hair appearance rose 31.9% (p<0.01).",
+      "source": {
+        "authors": "Reilly DM, Kynaston L, Naseem S, Proudman E, Laceby D",
+        "year": 2024,
+        "journal": "Dermatology Research and Practice",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39021368/",
+        "tag": "[primary]"
+      },
+      "line_tier": "B",
+      "note": "A branded product that also contains vitamin C. Participant number, skin type and funding not in the abstract.",
+      "tag": "[primary]",
+      "n": "not recorded"
+    },
+    {
+      "id": "kim-2026",
+      "population": "Korean adults aged 19 to 60 with mild to moderate hair damage and no alopecia (number not given in the abstract)",
+      "design": "Randomised double-blind placebo-controlled trial, 3 g/day low-molecular-weight collagen peptide for 24 weeks",
+      "finding": "Compared with placebo, hair gloss, elasticity (tensile strength) and diameter improved, and scalp elasticity rose. No treatment-related adverse events.",
+      "source": {
+        "authors": "Kim TK, Oh J, Ha YS, Son HJ et al",
+        "year": 2026,
+        "journal": "International Journal of Stem Cells",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624827/",
+        "tag": "[primary]"
+      },
+      "line_tier": "B",
+      "note": "Hair damage, not hair loss or growth. One branded peptide. Hair type and funding not in the abstract.",
+      "tag": "[primary]",
+      "n": "not recorded"
+    },
+    {
+      "id": "milani-2023",
+      "population": "83 people with hair loss (androgenetic alopecia or chronic telogen effluvium); 26 men, 57 women",
+      "design": "Randomised, assessor-blinded, 12-week trial of a tablet with hydrolysed marine collagen, taurine, cysteine, methionine, iron and selenium plus drug treatment, against drug treatment alone",
+      "n": 83,
+      "finding": "The supplement group scored higher on a photo-based global assessment at 12 weeks (1.67 against 0.66, p<0.001).",
+      "source": {
+        "authors": "Milani M, Colombo F et al",
+        "year": 2023,
+        "journal": "Skin Research and Technology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37357646/",
+        "tag": "[primary]"
+      },
+      "line_tier": "B",
+      "note": "Not placebo-controlled and not collagen alone: it cannot show collagen helped hair loss. Ethnicity not reported in the abstract.",
+      "tag": "[primary]"
+    },
+    {
+      "id": "rustad-2022",
+      "population": "Claims on Instagram and YouTube, by collagen companies, and in the literature",
+      "design": "Review of social media, company and published claims",
+      "finding": "Some studies show better skin elasticity and hydration, but dermatology claims in the media go beyond the evidence; the authors say more research is needed.",
+      "source": {
+        "authors": "Rustad AM, Nickles MA, McKenney JE, Bilimoria SN, Lio PA",
+        "year": 2022,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34694676/",
+        "tag": "[review]"
+      },
+      "line_tier": "B",
+      "note": "A review of claims. The abstract does not give the evidence for hair or nails separately.",
+      "tag": "[review]",
+      "n": "not recorded"
+    },
+    {
+      "id": "miyamoto-2025",
+      "population": "50 healthy young sedentary men",
+      "design": "Double-blind randomised placebo-controlled trial, 10 g collagen peptide daily for 16 weeks",
+      "n": 50,
+      "finding": "Calf muscle and Achilles tendon stiffness rose and rate of torque development rose; tendon and muscle size and maximal strength did not change.",
+      "source": {
+        "authors": "Miyamoto N, Ishihara K, Oshima T, Kawai M et al",
+        "year": 2025,
+        "journal": "Medicine and Science in Sports and Exercise",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40623147/",
+        "tag": "[primary]"
+      },
+      "line_tier": "B",
+      "note": "Healthy tendons, not tendon injury. It tests a stiffness measure, not repair or pain.",
+      "tag": "[primary]"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That collagen helps joints, hair or nails: knee osteoarthritis trials pool to a pain benefit but disagree widely (I2 75 to 88%) and the hair and nail trials are single, branded studies, two in Korean or East Asian adults.",
+  "tier_note": "Joint trials are pooled but inconsistent, and a 2018 review rated supplement evidence very low overall; hair and nail evidence is a few single trials. Taking the lower reading: thin. It stays B, short of A, because no trial in Black participants or on afro-textured hair was found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal in what I opened. Cleveland Clinic (US) lists mild bloating or fullness and a fish allergy caution for marine collagen. I did not open a source on contaminants or interactions.",
+  "founder_flag": false,
+  "evidence_summary": "For knee osteoarthritis, a 2025 meta-analysis of 11 trials (870 people) found less pain and better function with collagen, but the trials disagreed widely; a 2019 meta-analysis found only some scores improved; a 2018 review of 20 supplements rated the evidence very low overall and found no lasting pain benefit. For nails, the one trial measured nail colour, which improved within 28 days with collagen and by day 84 in the placebo group (85 East Asian women); no trial of nail growth or strength was opened. For hair, one placebo-controlled trial in Korean adults without alopecia and one in adults whose hair status the abstract does not give reported better hair condition in the abstract (gloss, elasticity, diameter, a hair-appearance rating), while a hair count was not significant; the only hair-loss trial tested a multi-ingredient tablet alongside drugs. A 10 g trial in healthy young men raised tendon stiffness without changing strength; no trial of tendon injury was opened. A review found media claims go further than the evidence. The related card covers skin.",
+  "measured_variables": [
+    "Pain and function scores (WOMAC, VAS)",
+    "Hair gloss, elasticity, diameter, density, hair count (trichoscopy)",
+    "Nail colour",
+    "Tendon and muscle stiffness (ultrasound shear wave)",
+    "No hair shaft shape, skin pigmentation or ancestry variable in the abstracts read"
+  ],
+  "gaps": "My PubMed searches (17 Nov 2026): collagen supplement or peptide with osteoarthritis or joint pain and review terms returned 19 records, I opened 3 abstracts; collagen with hair or nail terms returned 202 records, and a narrower title search for hair or nail trials returned 6, I opened 4 trials and 1 review; collagen with tendon terms in the title returned 56 records, I opened 2; collagen with African American, Black or African descent in the title returned 8 records, titles read, none a collagen supplement trial in Black participants, and a broader title and abstract version returned 132 records whose titles I did not read. Control: the same search style for vitamin D with African American returned 534 records with relevant titles, so the method works. Our search found no collagen supplement trial on afro-textured hair or in Black participants, none comparing marine with bovine collagen for hair or nails, and none for gut health or weight loss that was about collagen (the 37 and 44 records returned were about other topics). ClinicalTrials.gov was not searched. Not opened: the 2021 review of collagen peptides and joint injury recovery (PMID 34491424) and the 2025 knee osteoarthritis network meta-analyses. Funding of the hair and nail trials was not in the abstracts; the skin card notes industry-funded collagen trials report benefit more often than others. Untested in what I opened: collagen for hair or nails in Black participants; collagen for tendon injury; collagen for gut health or weight loss.",
+  "related": [
+    "collagen-supplements",
+    "hair-growth-oils-and-supplements",
+    "vitamins-and-supplements-basics",
+    "skin-ageing-in-dark-skin"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Simental-Mendia M, Ortega-Mata D, Acosta-Olivo CA, Simental-Mendia LE et al",
+      "year": 2025,
+      "journal": "Clinical and Experimental Rheumatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39212129/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Garcia-Coronado JM, Martinez-Olvera L, Elizondo-Omana RE, Acosta-Olivo CA et al",
+      "year": 2019,
+      "journal": "International Orthopaedics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30368550/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Liu X, Machado GC, Eyles JP, Ravi V, Hunter DJ",
+      "year": 2018,
+      "journal": "British Journal of Sports Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29018060/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Vleminckx S, Virgilio N, Asserin J, Prawitt J, Silva CIF",
+      "year": 2024,
+      "journal": "Journal of Cosmetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39143887/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Reilly DM, Kynaston L, Naseem S, Proudman E, Laceby D",
+      "year": 2024,
+      "journal": "Dermatology Research and Practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39021368/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kim TK, Oh J, Ha YS, Son HJ et al",
+      "year": 2026,
+      "journal": "International Journal of Stem Cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624827/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Milani M, Colombo F et al",
+      "year": 2023,
+      "journal": "Skin Research and Technology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37357646/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rustad AM, Nickles MA, McKenney JE, Bilimoria SN, Lio PA",
+      "year": 2022,
+      "journal": "Journal of Cosmetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34694676/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Miyamoto N, Ishihara K, Oshima T, Kawai M et al",
+      "year": 2025,
+      "journal": "Medicine and Science in Sports and Exercise",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40623147/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "Cleveland Clinic (US), \"Collagen Peptides: Benefits and Side Effects\"",
+      "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

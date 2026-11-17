@@ -1,0 +1,30 @@
+{
+  "pmid": "39559275",
+  "slug": "agarwal-2024-39559275",
+  "citation": {
+    "authors": "Agarwal SK, Stokes M, Chen R, Lickert C",
+    "year": 2024,
+    "journal": "AJOG Global Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39559275/",
+  "page": "https://vilivity.com/studies/agarwal-2024-39559275/",
+  "cited_by": [
+    {
+      "entry": "heavy-periods-by-life-stage-and-cause",
+      "title": "Heavy periods by life stage and cause",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/heavy-periods-by-life-stage-and-cause/",
+      "record": {
+        "id": "agarwal-2024",
+        "population": "46,139 White and 17,297 Black women (commercial insurance) and 7,353 White and 16,776 Black women (Medicaid), US, with uterine fibroids and heavy menstrual bleeding",
+        "n": 87565,
+        "design": "Retrospective cohort from insurance claims, 2010 to 2020",
+        "finding": "Black women were diagnosed at a younger age; anaemia was more common (commercial 5.9% against 3.6%; Medicaid 7.0% against 4.5%). Hysterectomy was more common in White women (commercial 43.9% against 37.8%). About half stopped hormonal contraceptive treatment within about 5 months.",
+        "line_tier": "B",
+        "note": "Claims data in insured people only; race as recorded in the database.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "38559552",
+  "slug": "hayashi-2024-38559552",
+  "citation": {
+    "authors": "Hayashi M, Hamada H, Azuma SI, Hayashi K",
+    "year": 2024,
+    "journal": "Cureus"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38559552/",
+  "page": "https://vilivity.com/studies/hayashi-2024-38559552/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "hayashi-2024",
+        "population": "One 47-year-old previously healthy Japanese man",
+        "n": 1,
+        "design": "Case report",
+        "finding": "Painless thyroiditis with an overactive thyroid two months after starting ashwagandha; symptoms and thyroid blood tests improved after he stopped.",
+        "line_tier": "B",
+        "note": "One case. The 2018 India trial in the existing ashwagandha card reported better thyroid tests in people with an underactive thyroid, so the thyroid evidence points both ways.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

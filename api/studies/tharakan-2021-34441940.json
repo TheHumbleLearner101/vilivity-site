@@ -1,0 +1,30 @@
+{
+  "pmid": "34441940",
+  "slug": "tharakan-2021-34441940",
+  "citation": {
+    "authors": "Tharakan A, Shukla H, Benny IR, Tharakan M et al",
+    "year": 2021,
+    "journal": "Journal of Clinical Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34441940/",
+  "page": "https://vilivity.com/studies/tharakan-2021-34441940/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "tharakan-2021",
+        "population": "Healthy adults (number not stated in the abstract), 30-day blinded period then 30-day open-label extension",
+        "n": "not stated in the abstract",
+        "design": "Randomised, double-blind, placebo-controlled, 60 mg Withania somnifera extract",
+        "finding": "Blood levels of several immunoglobulins, cytokines and immune cell counts (including NK cells) rose in the ashwagandha group. No adverse events reported. The abstract reports lab markers, not fewer infections.",
+        "line_tier": "B",
+        "note": "Lab markers only, no infection outcome, sample size not in the abstract. A rise in a marker is not shown to mean better protection.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

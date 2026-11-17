@@ -1,0 +1,30 @@
+{
+  "pmid": "22540887",
+  "slug": "lebwohl-2012-22540887",
+  "citation": {
+    "authors": "Lebwohl B, Capiak K, Neugut AI",
+    "year": 2012,
+    "journal": "Alimentary Pharmacology and Therapeutics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22540887/",
+  "page": "https://vilivity.com/studies/lebwohl-2012-22540887/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "lebwohl-2012",
+        "population": "5,075 adults aged 50 and over having a first screening colonoscopy at one tertiary centre in the US (591 Black, 942 Hispanic, 3,542 white)",
+        "n": 5075,
+        "design": "Cross-sectional cohort",
+        "finding": "At least one adenoma was found in 26% of Black patients, 22% of Hispanic and 19% of white patients. Black patients had a higher adenoma rate (risk ratio 1.76) and more advanced adenomas (odds ratio 1.91) than white patients.",
+        "line_tier": "B",
+        "note": "Single centre; ages 50 and over, so it says nothing about 40 to 49.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

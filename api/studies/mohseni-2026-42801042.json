@@ -1,0 +1,30 @@
+{
+  "pmid": "42801042",
+  "slug": "mohseni-2026-42801042",
+  "citation": {
+    "authors": "Mohseni S, Mohajeri-Tehrani M, Larijani B, Pejman Sani M",
+    "year": 2026,
+    "journal": "Journal of Diabetes and Metabolic Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42801042/",
+  "page": "https://vilivity.com/studies/mohseni-2026-42801042/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-specific-groups",
+      "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-specific-groups/",
+      "record": {
+        "id": "mohseni-2026",
+        "population": "Hyperthyroid people, adults and those fasting for Ramadan",
+        "n": null,
+        "design": "Narrative review of fasting and thyroid function",
+        "finding": "In hyperthyroid patients direct evidence is limited and advice rests on expert opinion: fasting may be considered individually in stable, well-controlled disease, while active thyrotoxicosis needs caution.",
+        "line_tier": "C",
+        "note": "About Ramadan fasting, which differs from other fasting plans.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

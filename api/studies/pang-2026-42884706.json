@@ -1,0 +1,30 @@
+{
+  "pmid": "42884706",
+  "slug": "pang-2026-42884706",
+  "citation": {
+    "authors": "Pang BWJ, Yang Y, Cheon BK",
+    "year": 2026,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42884706/",
+  "page": "https://vilivity.com/studies/pang-2026-42884706/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-specific-groups",
+      "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-specific-groups/",
+      "record": {
+        "id": "pang-2026",
+        "population": "61 older men with BMI 23 or more, in a four-week alternate-day fasting programme",
+        "n": 61,
+        "design": "Randomised trial of protein or leucine supplement against none during alternate-day fasting",
+        "finding": "Over four weeks body composition measures (not bone density), systolic blood pressure and lipids fell and muscle strength and function improved; the supplements gave no extra benefit except for diastolic blood pressure and HDL cholesterol. The authors note that fasting diets risk muscle loss in older people.",
+        "line_tier": "B",
+        "note": "Older men only, four weeks, no comparison with eating normally; it cannot show safety for older women or over months.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

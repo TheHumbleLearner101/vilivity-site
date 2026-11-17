@@ -1,0 +1,30 @@
+{
+  "pmid": "19761176",
+  "slug": "ayanlowo-2009-19761176",
+  "citation": {
+    "authors": "Ayanlowo O, Olumide YM, Akinkugbe A",
+    "year": 2009,
+    "journal": "West African Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19761176/",
+  "page": "https://vilivity.com/studies/ayanlowo-2009-19761176/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "ayanlowo-2009",
+        "population": "186 patients with vitiligo (2.8% of dermatology clinic attenders) at one hospital in Lagos, Nigeria, 2003 to 2006",
+        "n": 186,
+        "design": "Consecutive clinic case series",
+        "finding": "Vitiligo affected all ages, from 1 to 86 years. The face and limbs were most often affected. Fifteen patients (0.81% as printed in the abstract) had features suggesting an associated autoimmune disease such as type 1 diabetes.",
+        "line_tier": "B",
+        "note": "Describes who attends one clinic, so it cannot give a population age of onset. The abstract's percentage for the 15 patients does not match 15 of 186 and is quoted as printed.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

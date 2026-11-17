@@ -1,0 +1,30 @@
+{
+  "pmid": "33305135",
+  "slug": "sriperumbuduri-2020-33305135",
+  "citation": {
+    "authors": "Sriperumbuduri S, Umar MS, Lajoie-Starkell G, Fairhead TR et al",
+    "year": 2020,
+    "journal": "Kidney International Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33305135/",
+  "page": "https://vilivity.com/studies/sriperumbuduri-2020-33305135/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "sriperumbuduri-2020",
+        "population": "One 69-year-old male kidney transplant recipient, Ottawa, Canada",
+        "n": 1,
+        "design": "Case report",
+        "finding": "He developed acute rejection requiring removal of the transplanted kidney after using ashwagandha, while taking tacrolimus, mycophenolate and prednisone. The authors recommend warning transplant recipients about herbal products including ashwagandha.",
+        "line_tier": "B",
+        "note": "One case. It cannot show that ashwagandha caused the rejection. I read the introduction and case presentation, not the whole discussion.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

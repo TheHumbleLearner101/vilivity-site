@@ -1,0 +1,311 @@
+{
+  "slug": "normal-blood-pressure-by-age",
+  "title": "Normal blood pressure by age and sex, and for children",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "What is a normal blood pressure for a 65 year old woman?",
+    "What is a normal blood pressure for a man?",
+    "What is a good blood pressure for a Black woman?",
+    "What is a normal blood pressure for a 15 year old girl?",
+    "What is a normal blood pressure for an obese person?",
+    "What should my blood pressure be at 70?"
+  ],
+  "tradition_says": "Blood pressure is often said to creep up naturally with age, so a higher number at 60 or 70 is \"normal for your age\". My search found no study of what families pass down about blood pressure.",
+  "layer1": {
+    "plain_answer": "There is one blood pressure line for all adults, not a different normal by age or sex. In the UK, a clinic reading of 140/90 or higher is high; in the US, under 120/80 counts as normal and 130/80 starts stage 1. Age changes the treatment target, not the diagnosis. Children are judged against paediatric tables.",
+    "what_it_is": [
+      {
+        "text": "The UK's NHS says blood pressure is usually considered high at 140/90 or higher when checked by a healthcare professional, or 135/85 or higher at home. Low blood pressure is under 90/60.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Blood pressure test\"",
+          "url": "https://www.nhs.uk/conditions/blood-pressure-test/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "In the US the American Heart Association lists normal as under 120 and under 80, elevated as 120 to 129 and under 80, stage 1 high as 130 to 139 or 80 to 89, stage 2 as 140 or more or 90 or more, and over 180 and over 120 as severe.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Heart Association (US), \"Understanding Blood Pressure Readings\"",
+          "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "WHO defines hypertension as 140/90 mmHg or higher, diagnosed when two readings on different days are at or above that line.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, \"Hypertension\" fact sheet (25 September 2025)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "The UK's NICE confirms a high clinic reading (140/90 to 180/120) with ambulatory or home monitoring before diagnosing hypertension.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE (UK), NG136 \"Hypertension in adults: diagnosis and management\", recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "A 2025 US guideline (AHA/ACC) retires and replaces the 2017 one; we opened only its abstract, so check whether its categories differ from the AHA page above.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Jones DW, Ferdinand KC, Taler SJ et al (2025)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40815242/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "Have it measured: the UK's NHS says pharmacies, doctors' surgeries and some workplaces check it, and free pharmacy checks are offered to people aged 40 or over.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Blood pressure test\"",
+          "url": "https://www.nhs.uk/conditions/blood-pressure-test/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "The UK's NHS says to sit, rest your arm on a table, and expect the test to be repeated; for home checks take it twice, a minute apart, morning and evening, for the days your doctor sets.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Blood pressure test\"",
+          "url": "https://www.nhs.uk/conditions/blood-pressure-test/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "The UK's NHS says if you are 40 or over and have not been checked for more than 5 years, get it checked; NICE says to re-measure at least every 5 years if hypertension is not diagnosed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE (UK), NG136 \"Hypertension in adults: diagnosis and management\", recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Age moves the treatment target, not the diagnosis line. NICE (UK) aims for a clinic reading below 140/90 in adults with hypertension under 80, and below 150/90 at 80 and over, using clinical judgement for frailty.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE (UK), NG136 \"Hypertension in adults: diagnosis and management\", recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Age raises the chance of high blood pressure: the UK's NHS says you are more likely to get it as you get older, and WHO lists age over 65 as a risk factor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, \"Hypertension\" fact sheet (25 September 2025)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "For Black adults the line is the same, but averages rise earlier. In England, African-Caribbean blood pressure moved above white from about 30 to 40, and the authors advise extra vigilance in screening from 30.",
+        "basis": "tested",
+        "source": "agyemang-2012"
+      },
+      {
+        "text": "Children are judged against tables, not one number. The US AAP guideline (2017) bases its tables on normal-weight children and, from age 13, uses a simplified classification that aligns with the US adult guideline of that time; we did not open the tables, so no child figure is given.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Flynn JT, Kaelber DC, Baker-Smith CM et al (2017)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28827377/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Weight is a risk factor, not a separate normal: the UK's NHS lists living with obesity as raising risk, and the AHA page lists one set of categories.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Blood pressure test\"",
+          "url": "https://www.nhs.uk/conditions/blood-pressure-test/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "Being a man or a woman: the UK's NHS, WHO and the US American Heart Association pages opened give one set of thresholds with no separate figures for men and women.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Feeling well: the UK's NHS says high blood pressure usually causes no symptoms, so a normal feeling is not a normal reading.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Being fit: the UK's NHS says low blood pressure can be because you are fit and healthy, or inherited, and that you may need treatment if it causes symptoms; dizziness or fainting is the cue to get it checked.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Low blood pressure (hypotension)\"",
+          "url": "https://www.nhs.uk/conditions/low-blood-pressure-hypotension/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A clinic reading of 140/90 or higher, or a home average of 135/85 or higher (UK NHS thresholds), or a top number of 130 or more, or a bottom number of 80 or more, on repeated checks (US stage 1): doctor.",
+      "A reading over 180/120 with no symptoms: call your healthcare professional (US AHA advice). With chest pain, breathlessness, back pain, numbness, weakness, vision change or trouble speaking, call 911 in the US or your local emergency number (999 in the UK, 112 in the EU).",
+      "Keep getting dizziness, nausea, blurred vision, weakness or fainting with readings under 90/60 (UK NHS): doctor.",
+      "A child or teenager has a high reading: ask the doctor to read it against the paediatric tables."
+    ]
+  },
+  "tested": [
+    {
+      "population": "22,723 adults in the Health Surveys for England (1,379 African-Caribbean, 21,344 white)",
+      "design": "Secondary analysis of repeated cross-sectional surveys, age-specific blood pressure curves",
+      "n": 22723,
+      "finding": "African-Caribbean blood pressure crossed above white at about 30 to 40 years (28 for men's systolic pressure, 40 for women's diastolic). At 20 to 29 African-Caribbean men were advantaged, but not after that. The authors advise extra vigilance in screening African-Caribbean patients from age 30.",
+      "source": {
+        "authors": "Agyemang C, Humphry RW, Bhopal R",
+        "year": 2012,
+        "journal": "American Journal of Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21881618/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional, so it compares different people at different ages. It describes averages, not a different threshold.",
+      "id": "agyemang-2012"
+    },
+    {
+      "population": "Children and adolescents, US paediatric guideline (AAP, endorsed by the American Heart Association)",
+      "design": "Clinical practice guideline from a review of almost 15,000 papers, 30 key action statements",
+      "n": "not applicable",
+      "finding": "New normative blood pressure tables are based on normal-weight children. Teenagers aged 13 and over use a simplified classification that aligns with the adult American Heart Association and American College of Cardiology guideline. Screening is at preventive-care visits, and ambulatory monitoring has a larger role in diagnosis.",
+      "source": {
+        "authors": "Flynn JT, Kaelber DC, Baker-Smith CM et al",
+        "year": 2017,
+        "journal": "Pediatrics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28827377/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "Abstract read; the tables themselves were not opened, so no child figure is quoted.",
+      "id": "aap-2017"
+    },
+    {
+      "population": "US adults, 2025 high blood pressure guideline from the AHA, ACC and partner bodies",
+      "design": "Clinical practice guideline (literature search to June 2024)",
+      "n": "not applicable",
+      "finding": "The 2025 guideline \"retires and replaces\" the 2017 US guideline. The abstract does not list the categories.",
+      "source": {
+        "authors": "Jones DW, Ferdinand KC, Taler SJ et al",
+        "year": 2025,
+        "journal": "Journal of the American College of Cardiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40815242/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "Only the abstract was opened. The American Heart Association page read on 17 Nov 2026 still lists the categories used on this card; check whether the 2025 text changes them.",
+      "id": "acc-aha-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That adults share one set of blood pressure thresholds whatever their age or sex, and that Black adults' averages rise earlier: official UK, US and WHO guidance (consensus) and a survey of 22,723 adults in England.",
+  "tier_note": "The thresholds are guideline consensus, not tested in trials by age or ancestry, so strength is thin. The Black-specific evidence is observational and describes averages in one country. Child figures were not opened.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The risk that matters is untreated high blood pressure, which the UK's NHS links to heart attacks, strokes, heart failure, kidney disease and vascular dementia.",
+  "founder_flag": false,
+  "evidence_summary": "The UK NHS and WHO draw the high-blood-pressure line at 140/90 in clinic and the US American Heart Association uses a four-step scale that starts stage 1 at 130/80. None of the pages opened gives a different normal for men and women, or a different diagnostic line by age in adults. NICE (UK) does vary its treatment target: below 140/90 under 80, below 150/90 at 80 and over. Children have their own paediatric tables, based on normal-weight children, and from 13 the US AAP guideline uses a simplified classification that aligns with the US adult guideline of that time. The English survey of 22,723 adults found African-Caribbean averages rising ahead of white averages from about 30 to 40. This card sits beside the Black adults card and does not repeat its medicine advice.",
+  "measured_variables": [
+    "Systolic and diastolic blood pressure (clinic, home or 24-hour ambulatory)",
+    "Age and sex",
+    "Self-reported African-Caribbean ethnic group in the English surveys, a stand-in for BMI, diet and other factors that were not separated"
+  ],
+  "gaps": "Searches run 17 Nov 2026 on PubMed: \"2017 ACC/AHA guideline high blood pressure adults\" (202 records, abstract of the 2025 replacement opened); \"2025 AHA/ACC high blood pressure guideline\" (48 records); the AAP children guideline (7 records for the Flynn 2017 query, abstract opened). Control: the AAP guideline PMID 28827377 and the 2025 guideline PMID 40815242 both fetched with their titles. Not opened: the AAP tables, so no figure for kids or a 15-year-old girl is given beyond the AAP simplified classification from 13 that aligns with the adult guideline of that time; the 2025 US guideline text, so its categories are unchecked; the full NICE evidence for the 150/90 target in over-80s; any official page giving an age-by-age \"normal\" table, our search found none; blood pressure in pregnancy; the UK's NHS pages for children. The BP UK page returned 404, the National Heart, Lung and Blood Institute page returned 404 and the US CDC page returned 403.",
+  "related": [
+    "high-blood-pressure-in-black-adults",
+    "salt-and-blood-pressure",
+    "hibiscus-sorrel-blood-pressure",
+    "stress-burnout-and-blood-pressure",
+    "weight-bmi-and-ethnicity",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Agyemang C, Humphry RW, Bhopal R",
+      "year": 2012,
+      "journal": "American Journal of Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21881618/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Flynn JT, Kaelber DC, Baker-Smith CM et al",
+      "year": 2017,
+      "journal": "Pediatrics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28827377/",
+      "tag": "[official]"
+    },
+    {
+      "authors": "Jones DW, Ferdinand KC, Taler SJ et al",
+      "year": 2025,
+      "journal": "Journal of the American College of Cardiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40815242/",
+      "tag": "[official]"
+    },
+    {
+      "name": "NHS (UK), \"High blood pressure (hypertension)\"",
+      "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Blood pressure test\"",
+      "url": "https://www.nhs.uk/conditions/blood-pressure-test/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Low blood pressure (hypotension)\"",
+      "url": "https://www.nhs.uk/conditions/low-blood-pressure-hypotension/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NICE (UK), NG136 \"Hypertension in adults: diagnosis and management\", recommendations",
+      "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "WHO, \"Hypertension\" fact sheet (25 September 2025)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Heart Association (US), \"Understanding Blood Pressure Readings\"",
+      "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

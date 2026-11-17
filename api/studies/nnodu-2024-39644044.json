@@ -1,0 +1,30 @@
+{
+  "pmid": "39644044",
+  "slug": "nnodu-2024-39644044",
+  "citation": {
+    "authors": "Nnodu OE, Okeke CO, Isa HA et al",
+    "year": 2024,
+    "journal": "Hematology (ASH Education Program)"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39644044/",
+  "page": "https://vilivity.com/studies/nnodu-2024-39644044/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+      "title": "Sickle cell disease: what it is, treatment and newborn screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/",
+      "record": {
+        "id": "nnodu-2024",
+        "population": "Newborns in sub-Saharan Africa",
+        "n": "not applicable",
+        "design": "Review of newborn screening initiatives",
+        "finding": "Sub-Saharan Africa accounts for 75% of global sickle cell disease but has not been able to implement universal newborn screening. The article examines policy, methods, barriers and links to comprehensive care.",
+        "line_tier": "B",
+        "note": "Abstract read.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

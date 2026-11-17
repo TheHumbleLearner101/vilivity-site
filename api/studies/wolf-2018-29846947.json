@@ -1,0 +1,30 @@
+{
+  "pmid": "29846947",
+  "slug": "wolf-2018-29846947",
+  "citation": {
+    "authors": "Wolf AMD, Fontham ETH, Church TR et al",
+    "year": 2018,
+    "journal": "CA: A Cancer Journal for Clinicians"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29846947/",
+  "page": "https://vilivity.com/studies/wolf-2018-29846947/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "acs-2018",
+        "population": "US average-risk adults, American Cancer Society 2018 guideline",
+        "n": "not applicable",
+        "design": "Guideline from a systematic evidence review and microsimulation modelling, including an evaluation of the age to begin screening by race and sex",
+        "finding": "The ACS recommends that adults aged 45 and older at average risk have regular screening with a stool-based test or a visual exam, as a qualified recommendation at 45 to 49 and a strong one from 50. The modelling that included race and sex still identified strategies starting at 45; the abstract reports no race-specific start age.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[official]"
+      }
+    }
+  ]
+}

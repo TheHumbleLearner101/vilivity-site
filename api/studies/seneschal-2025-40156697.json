@@ -2,7 +2,7 @@
   "pmid": "40156697",
   "slug": "seneschal-2025-40156697",
   "citation": {
-    "authors": "Seneschal J, Wolkerstorfer A, Desai SR et al",
+    "authors": "Seneschal J, Wolkerstorfer A, Desai SR, et al",
     "year": 2025,
     "journal": "Dermatology and Therapy"
   },
@@ -23,6 +23,23 @@
         "finding": "At week 52, 50.3% of those applying ruxolitinib cream throughout reached the facial score target; responses were seen across subgroups including Fitzpatrick skin type. The abstract gives no numbers for dark skin types.",
         "line_tier": "B",
         "note": "Descriptive, post hoc; not a Black-population analysis.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "seneschal-2025",
+        "population": "674 people aged 12 or over with non-segmental vitiligo (two phase 3 trials, TRuE-V1 and V2); how many were Black is not in the abstract",
+        "n": 674,
+        "design": "Post hoc pooled descriptive analysis of two randomised vehicle-controlled trials of 1.5% ruxolitinib cream",
+        "finding": "At week 52, 50.3% (176 of 350) who used the cream throughout reached 75% improvement in facial vitiligo score, against 28.2% (46 of 163) who switched from vehicle cream after week 24. Responses were seen across age, sex and Fitzpatrick skin type, with similar side-effect rates; the abstract gives no figure per skin type.",
+        "line_tier": "B",
+        "note": "Descriptive subgroup analysis, so it does not show the cream works equally in every skin type. Funding not stated in the abstract; funding not checked. The American Academy of Dermatology page acknowledges support from Incyte Dermatology.",
         "tag": "[primary]"
       }
     }

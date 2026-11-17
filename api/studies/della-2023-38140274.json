@@ -1,0 +1,30 @@
+{
+  "pmid": "38140274",
+  "slug": "della-2023-38140274",
+  "citation": {
+    "authors": "Della Porta M, Maier JA, Cazzola R",
+    "year": 2023,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38140274/",
+  "page": "https://vilivity.com/studies/della-2023-38140274/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "dellaporta-2023",
+        "population": "Stressed adults in 9 clinical trials (country and ethnicity not stated in the abstract)",
+        "n": "9 trials",
+        "design": "Systematic review of trials of Withania somnifera and cortisol, from 4,788 records screened, trials lasting 30 to 112 days",
+        "finding": "Supplementation decreased cortisol with no significant adverse effects. The studies differed in design, dose and duration. None looked at the effect of lowering cortisol on adrenal function or at long-term effects.",
+        "line_tier": "B",
+        "note": "No pooled figure in the abstract. Short trials. Ethnicity not reported.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

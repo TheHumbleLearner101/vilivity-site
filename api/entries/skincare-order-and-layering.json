@@ -1,0 +1,246 @@
+{
+  "slug": "skincare-order-and-layering",
+  "title": "Skincare order and layering",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "What is the correct order for a skincare routine?",
+    "What order to apply skincare in the morning or at night?",
+    "What order to apply skincare products and serums?",
+    "What order to apply skincare and sunscreen?",
+    "What order to apply skincare and makeup?",
+    "What order to apply skincare with retinol or tretinoin?"
+  ],
+  "tradition_says": "Online guides teach a fixed order: thinnest product to thickest, serums before creams, sunscreen last by day, retinol at night, with some products kept apart. Many people believe the wrong order stops products working.",
+  "layer1": {
+    "plain_answer": "No study or guidance we opened sets one correct order for a whole routine. Dermatology guidance gives the steps: wash gently, moisturise, and use sunscreen by day. In a test in 25 volunteers, UV reflectance did not differ significantly whether moisturiser went on before or after sunscreen. Prescription products: follow your prescriber.",
+    "do": [
+      {
+        "text": "Wash gently with lukewarm water and your fingertips, then moisturise if your skin is dry or itchy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Face washing 101\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Moisturise when skin is still damp: thicker creams spread more easily and trap water in the skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"How to pick the right moisturizer\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/dry/pick-moisturizer",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Put sunscreen on before you go out: the US American Academy of Dermatology says on dry skin 15 minutes ahead; the UK's NHS says 30 minutes ahead and again just before if you will be out long enough to burn.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Sunscreen FAQs\"",
+          "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/sunscreen-faqs",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Moisturiser and sunscreen in either order: in a 25-person test, UV reflection did not differ significantly between the two orders.",
+        "basis": "tested",
+        "source": "galvez-2022"
+      },
+      {
+        "text": "If you use tretinoin, ask your prescriber how to fit a moisturiser around it; a moisturiser alongside it made it easier to tolerate in a split-face study.",
+        "basis": "tested",
+        "source": "schorr-2012"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Layering on a product that stings or burns: irritation from a skin or hair product can leave dark spots, and spots often clear once the skin stops being irritated.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Counting a moisturiser or makeup with SPF as all your sun protection: the American Academy of Dermatology says these still need reapplying about every two hours outdoors.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Sunscreen FAQs\"",
+          "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/sunscreen-faqs",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Using a thin layer of sunscreen: at typical consumer amounts the SPF was far below the label in a lab test.",
+        "basis": "tested",
+        "source": "kim-2021"
+      },
+      {
+        "text": "Rubbing each product in with repeated circular or linear strokes: in 528 women in China this caused the most pilling, where products ball up into flakes.",
+        "basis": "tested",
+        "source": "lua-2024"
+      }
+    ],
+    "see_someone_when": [
+      "A product burns, stings, or leaves a rash or darker patches (tell a pharmacist or dermatologist; if it is prescribed, ask the prescriber).",
+      "Dark marks are spreading or not fading after the irritation has stopped (dermatologist).",
+      "You use a prescription product such as tretinoin and your skin is very sore or peeling (the person who prescribed it)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "25 volunteers (back skin); ancestry not given in the abstract. Sunscreens: ISO-standard SPF 16 and 63 and four commercial SPF 50 or 50+ products",
+      "design": "Experiment: sunscreen and moisturising cream applied in different orders, measured by ultraviolet reflectance photography",
+      "n": 25,
+      "finding": "There were no significant differences in UV reflection when moisturising creams were applied before or after the sunscreens. The sunscreens themselves reduced the colour measure by 35% to 70%, showing real UV absorption. The authors conclude sunscreen effectiveness was not altered by concomitant moisturiser.",
+      "source": {
+        "authors": "Gálvez MV, Aguilera J, Leal M, et al",
+        "year": 2022,
+        "journal": "Photodermatology, Photoimmunology and Photomedicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34674316/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small; measured UV reflectance, not sunburn or real-world protection; only non-sunscreen moisturising creams, not serums, acids or retinoids; funding not checked.",
+      "id": "galvez-2022"
+    },
+    {
+      "population": "Laboratory test of sunscreen and facial makeup products",
+      "design": "Laboratory study of sun protection factor (SPF) after layering products at typical consumer amounts",
+      "n": "not stated",
+      "finding": "At typical consumer amounts, which are lower than recommended, the SPF of each sunscreen and makeup product was dramatically lower than the label. Layering sunscreen with makeup greatly increased effective SPF compared with either alone, even at amounts below those recommended. The authors suggest layering may compensate for too little sunscreen.",
+      "source": {
+        "authors": "Kim MA, Jung YC, Bae J, et al",
+        "year": 2021,
+        "journal": "Skin Research and Technology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33660348/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Laboratory measurement, not people; skin tones not described in the abstract.",
+      "id": "kim-2021"
+    },
+    {
+      "population": "528 women aged 20 to 49 in Guangzhou, China",
+      "design": "Clinical skin assessment followed by three steps of product layering, with pilling assessed after each step (pilling is when products ball up into flakes on the skin)",
+      "n": 528,
+      "finding": "217 women (41%) had pilling. Most pilling (655 events) followed sunscreen; only 35 followed foundation, and foundation improved sunscreen-caused pilling in 98.9% of cases. Women who pilled with both products had lower skin hydration and oiliness and higher pH. Rubbing products in circular or linear motions produced the most pilling.",
+      "source": {
+        "authors": "Lua BL, Ruan L, Lyu Y, et al",
+        "year": 2024,
+        "journal": "Skin Research and Technology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39092468/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Chinese women, so this is Asian-skin evidence and says nothing about Black skin; funding not checked.",
+      "id": "lua-2024"
+    },
+    {
+      "population": "Adults with healthy skin (number not given in the abstract)",
+      "design": "Randomised, investigator-blinded, split-face study: tretinoin 0.05% cream to the whole face once daily, plus an SPF 30 ceramide moisturiser (a marketed product) once daily to one randomised side",
+      "n": "not stated",
+      "finding": "About 83% to 86% of people had irritation on both sides, mostly mild on the moisturiser side. Tolerability preferences favoured the moisturiser plus tretinoin side, and the authors concluded the moisturiser improved tolerance of tretinoin.",
+      "source": {
+        "authors": "Schorr ES, Sidou F, Kerrouche N, et al",
+        "year": 2012,
+        "journal": "Journal of Drugs in Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23135655/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Marketed product, probably industry-run; funding not checked. It tested adding a moisturiser, not the order of application; ancestry not given.",
+      "id": "schorr-2012"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "The only direct test of order we found: sunscreen and moisturiser in either order gave the same UV reflectance in 25 volunteers of unstated ancestry; order for other products has no study in our search.",
+  "tier_note": "One 25-person experiment on sunscreen and moisturiser, plus lab and Chinese-population studies, is thin evidence; every other order question (serums, acids, retinoids) is untested in our search and in people of African descent.",
+  "harm_flag": true,
+  "harm_note": "Irritation: the American Academy of Dermatology (US) says a skin or hair product that irritates can cause dark spots, which can take a long time to fade. In a tretinoin split-face study about 83% to 86% had irritation on both sides. Tell a pharmacist or dermatologist if a product stings or burns; for a prescribed product, ask the prescriber.",
+  "founder_flag": false,
+  "evidence_summary": "No study or official guidance we opened sets one correct order for a full routine. What exists: the US American Academy of Dermatology gives the steps (wash gently with fingertips, moisturise if dry, moisturise damp skin, sunscreen daily) without ranking serums, acids or retinoids; the UK's NHS and the AAD differ on timing, with the NHS advising sunscreen 30 minutes before going out and again just before if you will burn, and the AAD saying 15 minutes on dry skin. The only direct test of order found: 25 volunteers, sunscreens and moisturising creams applied in different sequences, no significant difference in UV reflectance (Gálvez 2022). In the lab, layering sunscreen with makeup raised effective SPF above either alone (Kim 2021). In 528 women in Guangzhou, 41% had product pilling, mostly after sunscreen, and foundation reduced sunscreen pilling in 98.9% of cases; circular and linear rubbing caused the most (Lua 2024). A moisturiser alongside tretinoin 0.05% was better tolerated in a split-face study, which tested adding a moisturiser and not its order (Schorr 2012). For dark marks, the American Academy of Dermatology says a tinted sunscreen with iron oxide protects against visible light, which can cause dark spots, and lists azelaic, glycolic and kojic acid, retinoids and vitamin C as over-the-counter ingredients that can fade them.",
+  "measured_variables": [
+    "Skin pigmentation (irritation can cause longer-lasting dark marks)",
+    "Amount of sunscreen applied (SPF falls at consumer amounts)",
+    "Skin hydration and pH (linked to product pilling)"
+  ],
+  "gaps": "Searches 17 Nov 2026 (PubMed E-utilities): skincare with order of application and products or layering found 0 records; sunscreen and moisturizer with layering, applied over or order of application and SPF found 3 (none on order, none opened); a broader search for moisturizer and sunscreen with SPF and interaction or applied before or after found 18, of which Gálvez 2022 was opened; skincare with sequence or layering, serum or moisturizer and penetration or absorption found 0; tretinoin with moisturizer and buffering, sandwich, order or tolerability and randomized found 11, one opened; sunscreen with skin type V, VI, dark skin or skin of color and moisturizer or routine found 14, none on order. Control: sunscreen and makeup with SPF or layering returned the Kim 2021 layering paper, so the search finds known layering work. Our search found no study of order for serums, vitamin C, acids, niacinamide or retinol, none in people of African descent, and no official page we opened that ranks the order of steps (the UK NHS and US American Academy of Dermatology pages were read as text only). Untested: whether applying actives to damp skin changes irritation, whether waiting between layers matters, and whether any order changes results on dark skin. Prescribed products: follow the prescriber's instructions; nothing here changes them.",
+  "related": [
+    "skincare-routine-basics",
+    "sunscreen-on-dark-skin",
+    "dark-marks-after-acne",
+    "dry-skin-causes-and-care-by-body-area",
+    "moisturising-and-ashy-skin"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Gálvez MV et al",
+      "year": 2022,
+      "journal": "Photodermatology, Photoimmunology and Photomedicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34674316/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kim MA et al",
+      "year": 2021,
+      "journal": "Skin Research and Technology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33660348/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Lua BL et al",
+      "year": 2024,
+      "journal": "Skin Research and Technology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39092468/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Schorr ES et al",
+      "year": 2012,
+      "journal": "Journal of Drugs in Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23135655/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "American Academy of Dermatology (US), \"Face washing 101\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Academy of Dermatology (US), \"How to pick the right moisturizer\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/dry/pick-moisturizer",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Academy of Dermatology (US), \"Sunscreen FAQs\"",
+      "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/sunscreen-faqs",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Academy of Dermatology (US), \"Fade dark spots\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Sunscreen and sun safety\"",
+      "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

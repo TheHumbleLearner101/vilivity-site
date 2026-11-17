@@ -1,0 +1,30 @@
+{
+  "pmid": "33762368",
+  "slug": "al-naseem-2021-33762368",
+  "citation": {
+    "authors": "Al-Naseem A, Sallam A, Choudhury S",
+    "year": 2021,
+    "journal": "Clinical Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33762368/",
+  "page": "https://vilivity.com/studies/al-naseem-2021-33762368/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "alnaseem-2021",
+        "population": "Review of iron deficiency with and without anaemia",
+        "n": "not applicable",
+        "design": "Narrative review",
+        "finding": "Iron deficiency without anaemia is at least twice as common as iron deficiency anaemia and is poorly recognised. Diagnosis relies on a combination of tests: haemoglobin, ferritin and transferrin saturation.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

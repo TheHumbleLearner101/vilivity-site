@@ -1,0 +1,30 @@
+{
+  "pmid": "33660348",
+  "slug": "kim-2021-33660348",
+  "citation": {
+    "authors": "Kim MA, Jung YC, Bae J, et al",
+    "year": 2021,
+    "journal": "Skin Research and Technology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33660348/",
+  "page": "https://vilivity.com/studies/kim-2021-33660348/",
+  "cited_by": [
+    {
+      "entry": "skincare-order-and-layering",
+      "title": "Skincare order and layering",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skincare-order-and-layering/",
+      "record": {
+        "id": "kim-2021",
+        "population": "Laboratory test of sunscreen and facial makeup products",
+        "n": "not stated",
+        "design": "Laboratory study of sun protection factor (SPF) after layering products at typical consumer amounts",
+        "finding": "At typical consumer amounts, which are lower than recommended, the SPF of each sunscreen and makeup product was dramatically lower than the label. Layering sunscreen with makeup greatly increased effective SPF compared with either alone, even at amounts below those recommended. The authors suggest layering may compensate for too little sunscreen.",
+        "line_tier": "C",
+        "note": "Laboratory measurement, not people; skin tones not described in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

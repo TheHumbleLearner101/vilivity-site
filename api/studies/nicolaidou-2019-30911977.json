@@ -1,0 +1,30 @@
+{
+  "pmid": "30911977",
+  "slug": "nicolaidou-2019-30911977",
+  "citation": {
+    "authors": "Nicolaidou E, Mastraftsi S, Tzanetakou V, Rigopoulos D",
+    "year": 2019,
+    "journal": "American Journal of Clinical Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30911977/",
+  "page": "https://vilivity.com/studies/nicolaidou-2019-30911977/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "nicolaidou-2019",
+        "population": "Children with vitiligo (onset before age 12)",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Childhood vitiligo can appear from the first years of life. According to the guidelines the authors cite, topical corticosteroids, topical calcineurin inhibitors and narrowband UVB are the most used treatments in children.",
+        "line_tier": "B",
+        "note": "Narrative review, not graded evidence.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

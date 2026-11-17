@@ -1,0 +1,30 @@
+{
+  "pmid": "38006746",
+  "slug": "yerram-2023-38006746",
+  "citation": {
+    "authors": "Yerram C, Jillella A, Reddy V",
+    "year": 2023,
+    "journal": "Journal of Ayurveda and Integrative Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38006746/",
+  "page": "https://vilivity.com/studies/yerram-2023-38006746/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "yerram-2023",
+        "population": "Healthy adults aged 18 to 45 with mild to moderate hair loss (61 analysed), India",
+        "n": 61,
+        "design": "Randomised, double-blind, placebo-controlled, topical ashwagandha root-extract serum for 75 days",
+        "finding": "Hair shedding fell in the 60-second comb test and hair density, growth and thickness improved compared with placebo at day 75.",
+        "line_tier": "B",
+        "note": "A serum on the scalp, not a capsule. Hair type not stated.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

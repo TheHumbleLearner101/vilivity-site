@@ -1,0 +1,336 @@
+{
+  "slug": "colonoscopy-when-and-how-often",
+  "title": "Colonoscopy: when to start and how often",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "When should Black men and women get a colonoscopy?",
+    "Should I get a colonoscopy before 50?",
+    "How often should you have a colonoscopy in your 50s?",
+    "When should you get your first colonoscopy?",
+    "What are the recommended repeat colonoscopy guidelines?"
+  ],
+  "tradition_says": "People hear that colonoscopy is for the over-50s or for those with symptoms, and some Black families say screening should start earlier because bowel cancer is more common. My search found no study of what families pass down about this.",
+  "layer1": {
+    "plain_answer": "In the US, screening starts at 45 and a colonoscopy every 10 years is one way to do it. In England, the NHS starts at 50 with a home stool test every 2 years; a colonoscopy follows a positive result. Our search found no study showing Black adults should start before 45. Symptoms, polyps or family history change timing.",
+    "do": [
+      {
+        "text": "If you are in the US and at average risk, start screening at 45 and choose a test through to 75: colonoscopy every 10 years is one option, a yearly stool test (FIT) another (US Preventive Services Task Force).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US Preventive Services Task Force, \"Colorectal Cancer: Screening\"",
+          "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "In England, the NHS posts a home stool test (FIT) every 2 years from 50 to 74; a positive result usually leads to a colonoscopy. (Check your own UK nation's programme.)",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Bowel cancer screening\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If a stool test is positive, go to the follow-up colonoscopy: in the US, the American Cancer Society says preferably within 6 months.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Cancer Society (US), colorectal cancer screening guideline update 2026 (abstract, PubMed 42200680)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42200680/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you have had polyps removed, follow the repeat date on your report, which depends on what was found: the UK guideline gives one colonoscopy at 3 years for higher-risk findings, and the European guideline returns people with 1 to 4 small adenomas to screening.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "BSG, ACPGBI and Public Health England (UK), post-polypectomy surveillance guidelines 2020 (abstract, PubMed 31776230)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31776230/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "See a doctor about bowel symptoms whether or not you have been screened (UK NHS).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Symptoms of bowel cancer\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Thinking bowel cancer is only for older people: the US Task Force says an estimated 10.5% of new cases are in people under 50.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US Preventive Services Task Force, \"Colorectal Cancer: Screening\"",
+          "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Treating one normal stool test as a lifelong all-clear: England's NHS says it does not always mean you do not have bowel cancer.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Bowel cancer screening\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Using the average-risk ages if you have had polyps, bowel inflammation or have an inherited bowel cancer condition in the family: the US Task Force advice excludes you, so ask your doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US Preventive Services Task Force, \"Colorectal Cancer: Screening\"",
+          "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Blood in your poo, a bowel change that lasts, weight loss you cannot explain or a lump in your tummy (UK NHS list): doctor. Black or dark red poo: ask for an urgent appointment or NHS 111 (England).",
+      "You are 50 to 74 in England, registered with a doctor and have not been sent a kit: the bowel cancer screening helpline on 0800 707 6060 (NHS, England).",
+      "A close relative had bowel cancer or you have had polyps or bowel inflammation: ask a doctor whether you should start earlier or be checked more often.",
+      "A stool test was positive and no colonoscopy has been booked (doctor or the screening programme)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "US average-risk adults, American Cancer Society 2018 guideline",
+      "design": "Guideline from a systematic evidence review and microsimulation modelling, including an evaluation of the age to begin screening by race and sex",
+      "n": "not applicable",
+      "finding": "The ACS recommends that adults aged 45 and older at average risk have regular screening with a stool-based test or a visual exam, as a qualified recommendation at 45 to 49 and a strong one from 50. The modelling that included race and sex still identified strategies starting at 45; the abstract reports no race-specific start age.",
+      "source": {
+        "authors": "Wolf AMD, Fontham ETH, Church TR et al",
+        "year": 2018,
+        "journal": "CA: A Cancer Journal for Clinicians",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29846947/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "id": "acs-2018"
+    },
+    {
+      "population": "US average-risk adults, American Cancer Society 2026 update",
+      "design": "Guideline update from a targeted evidence review and modelling",
+      "n": "not applicable",
+      "finding": "The ACS reaffirms starting at 45 and continuing to 75 for those with a life expectancy over 10 years, and says a positive result on any non-colonoscopy test needs timely follow-up colonoscopy, preferably within 6 months.",
+      "source": {
+        "authors": "Wolf AMD, Hoffman RM, Walter LC et al",
+        "year": 2026,
+        "journal": "CA: A Cancer Journal for Clinicians",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42200680/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "id": "acs-2026"
+    },
+    {
+      "population": "US average-risk adults, US Multi-Society Task Force (gastroenterology societies)",
+      "design": "Focused guideline update on the age to start and stop screening",
+      "n": "not applicable",
+      "finding": "The Task Force suggests average-risk screening begin at 45, while noting no literature shows screening under 50 improves outcomes such as incidence or death; the case rests on rising disease burden under 50, adenoma rates at 45 to 49 approaching those at 50 to 59, and modelling. For 76 to 85 the decision is individual; screening is not recommended after 85.",
+      "source": {
+        "authors": "Patel SG, May FP, Anderson JC et al",
+        "year": 2022,
+        "journal": "Gastroenterology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34794816/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "id": "patel-2022"
+    },
+    {
+      "population": "UK adults aged 18 and over after polyp removal or cancer surgery",
+      "design": "Consensus guideline from BSG, ACPGBI and Public Health England",
+      "n": "not applicable",
+      "finding": "High risk of future bowel cancer after polypectomy is two or more premalignant polyps including at least one advanced polyp, or five or more premalignant polyps; this group has a one-off surveillance colonoscopy at 3 years.",
+      "source": {
+        "authors": "Rutter MD, East J, Rees CJ et al",
+        "year": 2020,
+        "journal": "Gut",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31776230/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Abstract read in full.",
+      "id": "rutter-2020"
+    },
+    {
+      "population": "Patients in Europe after complete polyp removal at a high-quality colonoscopy",
+      "design": "Guideline update from the European Society of Gastrointestinal Endoscopy",
+      "n": "not applicable",
+      "finding": "ESGE says 1 to 4 small adenomas (under 10 mm, low grade) or a small serrated polyp need no surveillance and return to screening (or a repeat colonoscopy at 10 years if there is no organised screening); an adenoma of 10 mm or more, high-grade dysplasia, 5 or more adenomas or a large serrated polyp needs a colonoscopy at 3 years.",
+      "source": {
+        "authors": "Hassan C, Antonelli G, Dumonceau JM et al",
+        "year": 2020,
+        "journal": "Endoscopy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32572858/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Abstract read; recommendations are strong with moderate-quality evidence.",
+      "id": "hassan-2020"
+    },
+    {
+      "population": "5,075 adults aged 50 and over having a first screening colonoscopy at one tertiary centre in the US (591 Black, 942 Hispanic, 3,542 white)",
+      "design": "Cross-sectional cohort",
+      "n": 5075,
+      "finding": "At least one adenoma was found in 26% of Black patients, 22% of Hispanic and 19% of white patients. Black patients had a higher adenoma rate (risk ratio 1.76) and more advanced adenomas (odds ratio 1.91) than white patients.",
+      "source": {
+        "authors": "Lebwohl B, Capiak K, Neugut AI",
+        "year": 2012,
+        "journal": "Alimentary Pharmacology and Therapeutics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22540887/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single centre; ages 50 and over, so it says nothing about 40 to 49.",
+      "id": "lebwohl-2012"
+    },
+    {
+      "population": "28,100 average-risk adults aged 40 to 89 at first screening colonoscopy in South Carolina, 58.4% Black",
+      "design": "Cross-sectional observational study",
+      "n": 28100,
+      "finding": "Black patients had lower age- and sex-adjusted odds of an adenoma (odds ratio 0.88) than white patients, and similar odds of advanced adenoma or three or more non-advanced adenomas. The authors say polyp profiles were similar and that other factors must explain the higher bowel cancer rates in Black Americans.",
+      "source": {
+        "authors": "Wu Y, de Groen PC, Natafgi N et al",
+        "year": 2025,
+        "journal": "Cancer Epidemiology, Biomarkers and Prevention",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40063509/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Racially balanced sample, one US state; includes ages 40 to 49.",
+      "id": "wu-2025"
+    },
+    {
+      "population": "Nearly 3 million outpatient colonoscopies in US ambulatory centres, patients aged 18 to 54",
+      "design": "Registry analysis",
+      "n": "not applicable",
+      "finding": "Among patients aged 45 to 49, 32% had any neoplasia, 7.5% an advanced premalignant lesion and 0.58% cancer; rates were almost as high at 40 to 44. Advanced lesions were higher in American Indian and Alaska Native patients and lower in Black, Asian and Hispanic patients than in white patients. A family history of bowel cancer brought neoplasia rates about 5 years earlier. The authors support starting at 45.",
+      "source": {
+        "authors": "Trivedi PD, Mohapatra A, Morris MK et al",
+        "year": 2022,
+        "journal": "Gastroenterology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35007513/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Colonoscopies done for screening and other reasons, so rates are not population rates.",
+      "id": "trivedi-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That screening from 45 (US) or 50 (England) is recommended in the general population: US Preventive Services Task Force certainty ratings (high for 50 to 75, moderate for 45 to 49) and the ACS and gastroenterology society updates. For Black adults the opened evidence is observational and points both ways.",
+  "tier_note": "B trial-other-population: the benefit is established in mixed populations. Black-specific data are cross-sectional and conflict (higher adenoma rates at 50 and over in one centre, lower or similar in two larger sets), so no earlier start for Black adults is supported. Moderate, not strong, because the question this site was asked is untested.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search for the advice on this card. England's NHS lists bloating, cramps and some bleeding after a colonoscopy as common; I did not read the NHS complications section in full.",
+  "founder_flag": false,
+  "evidence_summary": "The US Task Force recommends screening for average-risk adults 45 to 75 (high certainty of substantial benefit at 50 to 75, moderate certainty at 45 to 49), and lists colonoscopy every 10 years as one of several tests; a yearly stool test is another. The ACS reaffirmed 45 in 2026, and the US Multi-Society Task Force suggests 45 while saying no study shows screening under 50 improves outcomes. The NHS in England offers a home stool test every 2 years from 50 to 74 (75 and over on request); colonoscopy is for a positive test, symptoms or polyp follow-up. After polyp removal the interval depends on findings: the UK guideline gives a 3-year colonoscopy for higher-risk polyps and the European guideline a 3-year interval for larger or multiple adenomas, with no surveillance for 1 to 4 small ones; the US 2020 surveillance guidance was not opened. Rates of bowel cancer are higher in Black Americans, but screening-colonoscopy findings differ: one US centre found more adenomas in Black patients aged 50 and over, a South Carolina series of 28,100 found similar or lower rates, and a registry of nearly 3 million colonoscopies found fewer advanced lesions in Black patients aged 18 to 54. None supports a separate, earlier start; the US Task Force says everyone 45 and over should be offered screening.",
+  "measured_variables": [
+    "Age at start of screening",
+    "Test used (stool FIT, colonoscopy, other)",
+    "Polyp findings at a previous colonoscopy",
+    "Family history of bowel cancer",
+    "Self-reported race in US studies, a stand-in for factors not separated"
+  ],
+  "gaps": "Searches run 17 Nov 2026 on PubMed: \"African American earlier age 45 colonoscopy guideline\" (2 records, neither opened); \"colorectal cancer screening Black patients age 40 colonoscopy advanced neoplasia\" (12 records, 2 opened); \"post-polypectomy surveillance colonoscopy guideline\" (53 records, 2 guidelines opened); \"colorectal cancer Black adults earlier onset screening age 45 incidence systematic review\" (our search found nothing). Control: the exact title of the ACS 2018 guideline returned it (2 records, the 2026 update was the other). Not opened: the US 2020 post-polypectomy guideline (PubMed record had no abstract); the ACG 2021 guideline text (abstract only, no age table); the full US Task Force evidence report; screening ages in other countries such as Canada and Australia (pages did not open or were blocked); bowel cancer rates in Black adults in the UK or Africa; colonoscopy access in Africa and the Caribbean; the CDC and ACS web pages (403 and 406). A family history changes timing, but no family-history interval was opened.",
+  "related": [
+    "bowel-and-colon-cancer-screening",
+    "breast-cancer-and-cancer-screening",
+    "prostate-cancer-and-psa-testing",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Wolf AMD, Fontham ETH, Church TR et al",
+      "year": 2018,
+      "journal": "CA: A Cancer Journal for Clinicians",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29846947/",
+      "tag": "[official]"
+    },
+    {
+      "authors": "Wolf AMD, Hoffman RM, Walter LC et al",
+      "year": 2026,
+      "journal": "CA: A Cancer Journal for Clinicians",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42200680/",
+      "tag": "[official]"
+    },
+    {
+      "authors": "Patel SG, May FP, Anderson JC et al",
+      "year": 2022,
+      "journal": "Gastroenterology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34794816/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Rutter MD, East J, Rees CJ et al",
+      "year": 2020,
+      "journal": "Gut",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31776230/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Hassan C, Antonelli G, Dumonceau JM et al",
+      "year": 2020,
+      "journal": "Endoscopy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32572858/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Lebwohl B, Capiak K, Neugut AI",
+      "year": 2012,
+      "journal": "Alimentary Pharmacology and Therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22540887/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wu Y, de Groen PC, Natafgi N et al",
+      "year": 2025,
+      "journal": "Cancer Epidemiology, Biomarkers and Prevention",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40063509/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Trivedi PD, Mohapatra A, Morris MK et al",
+      "year": 2022,
+      "journal": "Gastroenterology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35007513/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "US Preventive Services Task Force, \"Colorectal Cancer: Screening\"",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Bowel cancer screening\"",
+      "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Colonoscopy\"",
+      "url": "https://www.nhs.uk/conditions/colonoscopy/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Symptoms of bowel cancer\"",
+      "url": "https://www.nhs.uk/conditions/bowel-cancer/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "taking-too-many-vitamins",
+  "title": "Taking too many vitamins and supplements",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Can you take too many vitamins?",
+    "What happens if you take too many vitamins?",
+    "Can you take too much vitamin C?",
+    "Can you take too much vitamin B12?",
+    "Can you take too many vitamins when pregnant?"
+  ],
+  "tradition_says": "Many families keep a cupboard of tonics, multivitamins and single vitamins, on the idea that more is safer or stronger, and that anything sold as a vitamin cannot hurt.",
+  "layer1": {
+    "plain_answer": "Yes. Food rarely causes trouble, but supplements can, and the safe daily ceiling differs by vitamin and by country. Some taken in large amounts cause stomach upset; others build up in the body, such as vitamin A and vitamin D. Add up everything you take, and ask a pharmacist or doctor if you are pregnant.",
+    "do": [
+      {
+        "text": "Add up every product you take (a multivitamin plus a single vitamin plus fortified drinks can double up) and compare each total with the ceiling for your country. In the UK, the NHS figures to stay under are: vitamin A 1.5 mg a day from food and supplements together; and from supplements, vitamin B6 10 mg, vitamin D 100 micrograms (4,000 IU, for adults and children aged 11 and over; lower for younger children) and iron 17 mg, unless a doctor advises otherwise. The NHS pages were last reviewed in August 2020.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitamins and minerals\" pages for vitamin A, vitamin B, vitamin D and iron",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "In the US, the National Library of Medicine (NIH) MedlinePlus gives the vitamin D upper limit as 4,000 IU (100 micrograms) a day for children and adults aged 9 and over, and says amounts of vitamin C above 2,000 mg a day are not recommended. The UK NHS figure for vitamin C is lower: under 1,000 mg a day. The two bodies differ, so do not treat one number as universal.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus (US National Library of Medicine, NIH), \"Vitamin D\" and \"Vitamin C\"",
+          "url": "https://medlineplus.gov/ency/article/002405.htm",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Eat a varied diet first: the UK NHS says you should be able to get what you need that way, and that taking too much of a supplement could be harmful.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitamin C\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Keep iron out of reach of children: the UK NHS says very high doses of iron can be fatal, particularly in children.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Iron\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/iron/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Liver and liver products, and large doses of vitamin A, if you are pregnant or may become pregnant: the UK NHS says to avoid liver and liver products in pregnancy, and MedlinePlus (US) says large vitamin A doses in pregnancy can cause birth defects. Ask a pharmacist or doctor before any vitamin A supplement.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitamin A\"; MedlinePlus (US), \"Vitamin A\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Large vitamin B6 supplements: the UK NHS says 200 mg or more a day can cause nerve damage (numbness, tingling) that in a few people was permanent, and advises no more than 10 mg a day in supplements unless a doctor says otherwise; the effect between 10 and 200 mg is unclear.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitamin B\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Taking more because you feel unwell or tired without a blood test: too much vitamin D over a long time can raise blood calcium (hypercalcaemia) and harm the bones, kidneys and heart, says the UK NHS.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Beta-carotene supplements if you smoke or have been exposed to asbestos: the UK NHS says they raised lung cancer risk in these groups.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Other vitamins and minerals\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You are pregnant, planning a pregnancy or breastfeeding and take any supplement (doctor, midwife or pharmacist, before the next dose).",
+      "You take a prescribed medicine and want to add a supplement (pharmacist).",
+      "Tingling or numbness in hands or feet, ongoing nausea, constipation, stomach pain, weakness or confusion while taking supplements (doctor; the US MedlinePlus vitamin D page lists weakness and confusion).",
+      "A child has swallowed iron tablets or a large amount of any supplement: get urgent medical help straight away (check the emergency number for your country)."
+    ]
+  },
+  "tested": [],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That people can harm themselves with too many supplements: the evidence is official guidance from the UK NHS and the US MedlinePlus, with no trial or study opened for this card and nothing opened about Black adults.",
+  "tier_note": "D because the headline rests on official guidance and no study was opened, none in Black adults. Guidance is not graded as a trial: this is guidance only. The UK NHS pages opened were last reviewed in August 2020 with review overdue (August 2023), so treat the figures as dated; the US MedlinePlus pages were reviewed in January 2025. The NIH Office of Dietary Supplements fact sheets blocked our fetch (403) and were not opened.",
+  "harm_flag": true,
+  "harm_note": "Reported by the UK NHS and MedlinePlus (US): vitamin D excess can cause high blood calcium; vitamin B6 at 200 mg or more a day can cause nerve damage (the effect between 10 and 200 mg is unclear); vitamin A in pregnancy can cause birth defects; iron overdose can be fatal in children; high vitamin C causes stomach upset and, rarely, kidney stones (MedlinePlus). Vitamin E and K: the UK NHS says there is not enough evidence on high doses.",
+  "founder_flag": false,
+  "evidence_summary": "Both bodies say food is enough for most people and that supplements can be taken to excess. They give different ceilings. The UK NHS: vitamin C under 1,000 mg a day, vitamin D 100 micrograms (4,000 IU) at most for adults and children aged 11 and over (lower for younger children), iron 17 mg or less, vitamin A 1.5 mg (1,500 micrograms) a day from all sources, vitamin B6 10 mg or less in supplements (the NHS says 200 mg or more a day can cause nerve damage; the effect between 10 and 200 mg is unclear), vitamin E 540 mg (800 IU) or less, vitamin K 1 mg or less, calcium 1,500 mg or less, magnesium 400 mg or less. The US MedlinePlus (NIH, National Library of Medicine): vitamin D 4,000 IU (100 micrograms) for ages 9 and over, and vitamin C not above 2,000 mg a day. MedlinePlus also warns that high-dose vitamin E might raise the risk of bleeding in the brain. The vitamin D figure matches in both countries; the vitamin C figure does not. I did not obtain US figures for vitamins A, B6, E, iron or calcium because the NIH Office of Dietary Supplements pages were blocked.",
+  "measured_variables": [
+    "Daily dose from food and supplements together (mg, micrograms, IU)",
+    "Blood calcium and 25(OH)D (vitamin D excess)",
+    "No ancestry or skin-pigmentation variable in the guidance opened"
+  ],
+  "gaps": "Opened 17 Nov 2026: NHS (UK) pages for vitamins A, C, D, E, K, B, iron, calcium and others; MedlinePlus (US) vitamin A, C, D, E, B6 pages. Not opened: NIH Office of Dietary Supplements fact sheets (HTTP 403, Cloudflare), NCBI Bookshelf dietary reference intakes (blocked), European Food Safety Authority limits (not searched), any trial or case series. No PubMed search was run for this card, so I make no claim about studies in Black adults; the card does not say none exist. Vitamin B12: I opened no page that gives a ceiling, so it is not covered here. The question about taking many vitamins at once or in a day is answered only as daily totals; no source opened covers timing. Fortified foods and herbal products were not searched.",
+  "related": [
+    "vitamins-and-supplements-basics",
+    "vitamin-d-and-dark-skin",
+    "creatine-supplements",
+    "collagen-supplements"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "name": "NHS (UK), \"Vitamins and minerals\" (vitamin A, B, C, D, E, K, iron, calcium, other)",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "MedlinePlus (US National Library of Medicine, NIH), \"Vitamin D\"",
+      "url": "https://medlineplus.gov/ency/article/002405.htm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "MedlinePlus (US National Library of Medicine, NIH), \"Vitamin C\"",
+      "url": "https://medlineplus.gov/ency/article/002404.htm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "MedlinePlus (US National Library of Medicine, NIH), \"Vitamin A\"",
+      "url": "https://medlineplus.gov/ency/article/002400.htm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "42429418",
+  "slug": "jirapak-2026-42429418",
+  "citation": {
+    "authors": "Jirapak A, Adams E, Black GM, Devlin BL",
+    "year": 2026,
+    "journal": "Nutrition and Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42429418/",
+  "page": "https://vilivity.com/studies/jirapak-2026-42429418/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-specific-groups",
+      "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-specific-groups/",
+      "record": {
+        "id": "jirapak-2026",
+        "population": "6 studies of time-restricted eating in adult females (randomised trials in women with obesity; non-randomised studies in women with PCOS)",
+        "n": null,
+        "design": "Systematic review of reproductive hormones and androgen markers",
+        "finding": "Randomised trials in women with obesity found no significant change in testosterone, oestrogen, progesterone, LH, cortisol, DHEA or SHBG. Non-randomised PCOS studies reported lower testosterone and LH, possibly because of weight loss. The authors call the evidence inconclusive.",
+        "line_tier": "B",
+        "note": "Searched to May 2024; I did not see ethnicity in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "19325277",
+  "slug": "sprigle-2009-19325277",
+  "citation": {
+    "authors": "Sprigle S, Zhang L, Duckworth M",
+    "year": 2009,
+    "journal": "Advances in Skin and Wound Care"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19325277/",
+  "page": "https://vilivity.com/studies/sprigle-2009-19325277/",
+  "cited_by": [
+    {
+      "entry": "rashes-on-dark-skin",
+      "title": "Rashes on dark skin: what to look for",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/rashes-on-dark-skin/",
+      "record": {
+        "id": "sprigle-2009",
+        "population": "56 volunteers in a research laboratory in Atlanta, US, 28 with darkly pigmented skin",
+        "n": 56,
+        "design": "Imaging experiment: multispectral photographs of induced redness, tested with detection algorithms",
+        "finding": "Several image-processing methods raised the contrast of redness by about ten times compared with an ordinary digital photograph; one method had accuracy, sensitivity and specificity above 90%. The authors aim for a handheld device to detect redness in dark skin.",
+        "line_tier": "C",
+        "note": "Laboratory technique on induced redness (not a rash); it shows ordinary photographs show redness poorly on dark skin but does not say how any named rash looks.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

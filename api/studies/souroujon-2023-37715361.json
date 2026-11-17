@@ -1,0 +1,30 @@
+{
+  "pmid": "37715361",
+  "slug": "souroujon-2023-37715361",
+  "citation": {
+    "authors": "Souroujon AA, Guttman I, Levin N",
+    "year": 2023,
+    "journal": "International Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37715361/",
+  "page": "https://vilivity.com/studies/souroujon-2023-37715361/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "souroujon-2023",
+        "population": "Six studies of autologous (own-skin) cell transplants for stable segmental vitiligo; ancestry not given in the abstract",
+        "n": "not stated",
+        "design": "Systematic review",
+        "finding": "Cultured and non-cultured transplants each pigmented 80% or more of the treated area in the studies reviewed, with cultured cells doing better. The authors note the small amount of literature, and the cost and logistics that limit access.",
+        "line_tier": "B",
+        "note": "Applies to stable segmental vitiligo only, not the common generalised type. These are the cell treatments sometimes described as stem cell treatment; our search found no randomised trial for generalised vitiligo that used the term stem cell and was opened.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

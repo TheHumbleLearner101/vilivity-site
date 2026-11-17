@@ -1,0 +1,30 @@
+{
+  "pmid": "40815242",
+  "slug": "jones-2025-40815242",
+  "citation": {
+    "authors": "Jones DW, Ferdinand KC, Taler SJ et al",
+    "year": 2025,
+    "journal": "Journal of the American College of Cardiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40815242/",
+  "page": "https://vilivity.com/studies/jones-2025-40815242/",
+  "cited_by": [
+    {
+      "entry": "normal-blood-pressure-by-age",
+      "title": "Normal blood pressure by age and sex, and for children",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/normal-blood-pressure-by-age/",
+      "record": {
+        "id": "acc-aha-2025",
+        "population": "US adults, 2025 high blood pressure guideline from the AHA, ACC and partner bodies",
+        "n": "not applicable",
+        "design": "Clinical practice guideline (literature search to June 2024)",
+        "finding": "The 2025 guideline \"retires and replaces\" the 2017 US guideline. The abstract does not list the categories.",
+        "line_tier": "B",
+        "note": "Only the abstract was opened. The American Heart Association page read on 17 Nov 2026 still lists the categories used on this card; check whether the 2025 text changes them.",
+        "tag": "[official]"
+      }
+    }
+  ]
+}

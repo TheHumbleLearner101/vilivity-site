@@ -1,0 +1,30 @@
+{
+  "pmid": "23135655",
+  "slug": "schorr-2012-23135655",
+  "citation": {
+    "authors": "Schorr ES, Sidou F, Kerrouche N, et al",
+    "year": 2012,
+    "journal": "Journal of Drugs in Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23135655/",
+  "page": "https://vilivity.com/studies/schorr-2012-23135655/",
+  "cited_by": [
+    {
+      "entry": "skincare-order-and-layering",
+      "title": "Skincare order and layering",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skincare-order-and-layering/",
+      "record": {
+        "id": "schorr-2012",
+        "population": "Adults with healthy skin (number not given in the abstract)",
+        "n": "not stated",
+        "design": "Randomised, investigator-blinded, split-face study: tretinoin 0.05% cream to the whole face once daily, plus an SPF 30 ceramide moisturiser (a marketed product) once daily to one randomised side",
+        "finding": "About 83% to 86% of people had irritation on both sides, mostly mild on the moisturiser side. Tolerability preferences favoured the moisturiser plus tretinoin side, and the authors concluded the moisturiser improved tolerance of tretinoin.",
+        "line_tier": "B",
+        "note": "Marketed product, probably industry-run; funding not checked. It tested adding a moisturiser, not the order of application; ancestry not given.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

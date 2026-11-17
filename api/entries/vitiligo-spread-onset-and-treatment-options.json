@@ -1,0 +1,459 @@
+{
+  "slug": "vitiligo-spread-onset-and-treatment-options",
+  "title": "Vitiligo, spread, starting age and treatment options",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "At what age does vitiligo start?",
+    "Does vitiligo spread over time?",
+    "Does vitiligo spread to the whole body?",
+    "Does vitiligo spread with stress?",
+    "Does vitiligo spread from mother or father to child?",
+    "Can vitiligo be cured if caught early?",
+    "Can vitiligo be cured by laser treatment, surgery or stem cells?",
+    "Can vitiligo be cured by ayurveda or homeopathic medicine?",
+    "Can vitiligo be cured in kids?",
+    "What are the treatment options for vitiligo on the lips?",
+    "Can vitiligo patches be dark?"
+  ],
+  "tradition_says": "Many families look for a cure through herbal, ayurvedic or homeopathic medicine, or believe vitiligo spreads from touch, from a parent, or with worry. People often hope that treating it early will cure it.",
+  "layer1": {
+    "plain_answer": "Vitiligo can start at any age, but a Cochrane review says more than half of people develop it before 20. It can spread over years, and nobody can predict how far. No treatment cures it. Light therapy and some prescription creams bring colour back in some people, slowly, and it can fade again.",
+    "do": [
+      {
+        "text": "Take new pale patches to a doctor or dermatologist, who can tell vitiligo from other causes of pale skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Vitiligo: Diagnosis and treatment\"",
+          "url": "https://www.aad.org/public/diseases/a-z/vitiligo-treatment",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Ask which treatments fit your age, where the patches are and whether they are spreading; there is no single best treatment.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Vitiligo: Diagnosis and treatment\"",
+          "url": "https://www.aad.org/public/diseases/a-z/vitiligo-treatment",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you try light therapy, expect to stay with it for months; in a pooled review the response grew between 3 and 12 months.",
+        "basis": "tested",
+        "source": "bae-2017"
+      },
+      {
+        "text": "Protect pale patches from the sun; the UK's NHS advises sunscreen with an SPF of 50 or above and no sunbeds.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitiligo: treatment\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/treatment/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Treating or not treating is your choice; camouflage cream, makeup or leaving it alone are all options.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology (US), \"Vitiligo: Diagnosis and treatment\"",
+          "url": "https://www.aad.org/public/diseases/a-z/vitiligo-treatment",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Paying for anything sold as a cure: the Cochrane review says treatments can restore pigment but none can cure the disease.",
+        "basis": "tested",
+        "source": "whitton-2015"
+      },
+      {
+        "text": "Home sunlamps: the UK's NHS says they are not recommended because they are unregulated and not as effective as hospital light therapy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitiligo: treatment\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/treatment/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Sunburn and skin injury on affected skin: the UK's NHS says they may trigger new patches (the Koebner response).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Assuming a treatment will stop the spread: the UK's NHS treatment page says steroid creams can sometimes stop it, and its overview page says treatment cannot.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Vitiligo\" and \"Vitiligo: treatment\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/treatment/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "New pale or white patches appear, or existing ones are growing (doctor first, then dermatologist).",
+      "You are very tired, very thirsty or passing urine a lot, as vitiligo is linked with thyroid disease, diabetes and Addison's disease (doctor).",
+      "Eye pain, redness or changes in vision (an eye doctor, urgently), as the UK's NHS links vitiligo with iris and eye inflammation.",
+      "A treatment burns, thins the skin or makes patches worse (the person who prescribed it)."
+    ]
+  },
+  "tested": [
+    {
+      "id": "bae-2017",
+      "population": "1,428 people in 35 prospective studies of generalised vitiligo (29 studies of narrowband UVB, 9 of PUVA); ancestry not given in the abstract",
+      "design": "Systematic review and meta-analysis of single-arm response rates",
+      "n": 1428,
+      "finding": "With narrowband UVB, at least mild repigmentation (25% or more) was seen in 74.2% of 232 patients at 6 months and 75.0% of 512 at 12 months; marked repigmentation (75% or more) in 19.2% of 266 at 6 months and 35.7% of 540 at 12 months. After 6 months or more, marked response on the face and neck was 44.2%, on the trunk 26.1%, on the limbs 17.3%, and none on the hands and feet. The authors recommend long-duration treatment.",
+      "source": {
+        "authors": "Bae JM, Jung HM, Hong BY, Lee JH, Choi WJ, Lee JH, Kim GM",
+        "year": 2017,
+        "journal": "JAMA Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28355423/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Single-arm studies, no untreated comparison; the abstract does not give participants' ancestry or skin types; funding not checked."
+    },
+    {
+      "id": "whitton-2015",
+      "population": "4,512 participants in 96 randomised trials of vitiligo treatments; ancestry not given in the abstract",
+      "design": "Cochrane systematic review (searches to October 2013)",
+      "n": 4512,
+      "finding": "Most trials had fewer than 50 participants. Combination treatments, usually including light, generally did better. The review states that several treatments can restore pigment but none can cure vitiligo. Six studies measured whether spread stopped; none measured whether repigmentation lasted at two years. No studies of micropigmentation, depigmentation or camouflage were found. The authors say the usefulness of the findings is limited by trial design.",
+      "source": {
+        "authors": "Whitton ME, Pinart M, Batchelor J, et al",
+        "year": 2015,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25710794/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "The 2010 version (PMID 20091542, 57 trials, 3,139 participants) reached the same conclusion; it was also read."
+    },
+    {
+      "id": "seneschal-2025",
+      "population": "674 people aged 12 or over with non-segmental vitiligo (two phase 3 trials, TRuE-V1 and V2); how many were Black is not in the abstract",
+      "design": "Post hoc pooled descriptive analysis of two randomised vehicle-controlled trials of 1.5% ruxolitinib cream",
+      "n": 674,
+      "finding": "At week 52, 50.3% (176 of 350) who used the cream throughout reached 75% improvement in facial vitiligo score, against 28.2% (46 of 163) who switched from vehicle cream after week 24. Responses were seen across age, sex and Fitzpatrick skin type, with similar side-effect rates; the abstract gives no figure per skin type.",
+      "source": {
+        "authors": "Seneschal J, Wolkerstorfer A, Desai SR, et al",
+        "year": 2025,
+        "journal": "Dermatology and Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40156697/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Descriptive subgroup analysis, so it does not show the cream works equally in every skin type. Funding not stated in the abstract; funding not checked. The American Academy of Dermatology page acknowledges support from Incyte Dermatology."
+    },
+    {
+      "id": "liu-2005",
+      "population": "3,742 outpatients with vitiligo in China",
+      "design": "Retrospective questionnaire survey",
+      "n": 3742,
+      "finding": "Mean age of onset was 18.88 years and more than 60% were affected before 20. Segmental vitiligo began earlier (15.55 years). After 3 to 5 years, 99% of active vitiligo had worsened or shifted from one clinical type to another.",
+      "source": {
+        "authors": "Liu JB, Li M, Yang S, et al",
+        "year": 2005,
+        "journal": "Clinical and Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15953059/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Chinese clinic population, retrospective, and the 99% applies to patients whose vitiligo was classed as active, not to everyone with vitiligo."
+    },
+    {
+      "id": "ayanlowo-2009",
+      "population": "186 patients with vitiligo (2.8% of dermatology clinic attenders) at one hospital in Lagos, Nigeria, 2003 to 2006",
+      "design": "Consecutive clinic case series",
+      "n": 186,
+      "finding": "Vitiligo affected all ages, from 1 to 86 years. The face and limbs were most often affected. Fifteen patients (0.81% as printed in the abstract) had features suggesting an associated autoimmune disease such as type 1 diabetes.",
+      "source": {
+        "authors": "Ayanlowo O, Olumide YM, Akinkugbe A",
+        "year": 2009,
+        "journal": "West African Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19761176/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Describes who attends one clinic, so it cannot give a population age of onset. The abstract's percentage for the 15 patients does not match 15 of 186 and is quoted as printed."
+    },
+    {
+      "id": "mason-2005",
+      "population": "41 adults at a university clinic in Sheffield, UK (37 European Caucasian, 3 Asian Caucasian, 1 Black African)",
+      "design": "Case review",
+      "n": 41,
+      "finding": "Mean age of onset was 28 years (oldest 74), with 17 of 41 before 20. A family history of vitiligo was given by 7 (18%) and a precipitating factor by 9 (22%), including pregnancy, sunburn and skin injury. Thyroid disease was present in 14 (34%).",
+      "source": {
+        "authors": "Mason CP, Gawkrodger DJ",
+        "year": 2005,
+        "journal": "Clinical and Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15953063/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, almost entirely European, adults only."
+    },
+    {
+      "id": "spritz-2021",
+      "population": "Family and genetic studies, mostly in European-derived populations",
+      "design": "Review of the genetic basis of vitiligo",
+      "n": "not stated",
+      "finding": "Heritability from family studies in European-derived people is 0.75 to 0.83, and more than 50 susceptibility regions are known. The abstract does not give the chance that a child of a person with vitiligo will have it.",
+      "source": {
+        "authors": "Spritz RA, Santorico SA",
+        "year": 2021,
+        "journal": "Journal of Investigative Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32778407/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Evidence is from European-derived populations; our search found none from Black populations on inheritance."
+    },
+    {
+      "id": "singh-2010",
+      "population": "15 adults with stable localised lip vitiligo, followed 2 to 3 years (India)",
+      "design": "Uncontrolled case series of medical tattooing",
+      "n": 15,
+      "finding": "Cosmetically acceptable results in all 15, with better pigmentation in darker-complexioned patients than fair ones; no allergic reactions or new patches at the tattooed site. The authors state that medical therapies for lip vitiligo are often ineffective because the lips have no hair follicles.",
+      "source": {
+        "authors": "Singh AK, Karki D",
+        "year": 2010,
+        "journal": "Journal of Plastic, Reconstructive and Aesthetic Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19481511/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Tattooing adds pigment and does not restore the person's own melanocytes; permanent; no comparison group."
+    },
+    {
+      "id": "souroujon-2023",
+      "population": "Six studies of autologous (own-skin) cell transplants for stable segmental vitiligo; ancestry not given in the abstract",
+      "design": "Systematic review",
+      "n": "not stated",
+      "finding": "Cultured and non-cultured transplants each pigmented 80% or more of the treated area in the studies reviewed, with cultured cells doing better. The authors note the small amount of literature, and the cost and logistics that limit access.",
+      "source": {
+        "authors": "Souroujon AA, Guttman I, Levin N",
+        "year": 2023,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37715361/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Applies to stable segmental vitiligo only, not the common generalised type. These are the cell treatments sometimes described as stem cell treatment; our search found no randomised trial for generalised vitiligo that used the term stem cell and was opened."
+    },
+    {
+      "id": "nicolaidou-2019",
+      "population": "Children with vitiligo (onset before age 12)",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Childhood vitiligo can appear from the first years of life. According to the guidelines the authors cite, topical corticosteroids, topical calcineurin inhibitors and narrowband UVB are the most used treatments in children.",
+      "source": {
+        "authors": "Nicolaidou E, Mastraftsi S, Tzanetakou V, Rigopoulos D",
+        "year": 2019,
+        "journal": "American Journal of Clinical Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30911977/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Narrative review, not graded evidence."
+    },
+    {
+      "id": "karuppusamy-2022",
+      "population": "60 patients with vitiligo at a homeopathy institute in India",
+      "design": "Double-blind randomised placebo-controlled pilot trial of individualised homeopathic medicines, 6 months",
+      "n": 60,
+      "finding": "Recruitment and retention were satisfactory and mean reductions in vitiligo and quality-of-life scores were larger with the homeopathic medicines than placebo. The authors conclude only that definitive efficacy trials are warranted.",
+      "source": {
+        "authors": "Karuppusamy A, Paul S, Chattopadhyay A, et al",
+        "year": 2022,
+        "journal": "Journal of Integrative and Complementary Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35085016/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A feasibility pilot, not an efficacy trial. Results were not tested for statistical significance in the abstract; funding not checked."
+    },
+    {
+      "id": "donata-1990",
+      "population": "10 patients with vitiligo given an ayurvedic preparation by mouth and a herbal paste on the skin",
+      "design": "Small clinical trial (comparison group not described in the abstract)",
+      "n": 10,
+      "finding": "Four of 10 had relief within six months, three had relief with an adverse skin reaction, and the rest did not respond.",
+      "source": {
+        "authors": "Donata, Kesavan M, Austin, et al",
+        "year": 1990,
+        "journal": "Ancient Science of Life",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22557698/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Very small and old; no control group described in the abstract, so it cannot show the preparation works. The paste included Psoralea corylifolia."
+    },
+    {
+      "id": "shakhbazova-2021",
+      "population": "Human studies of diet, supplements and herbs in vitiligo (26 studies reviewed)",
+      "design": "Systematic review of adjunctive therapies",
+      "n": "not stated",
+      "finding": "Supplements reviewed included Ginkgo biloba, oral Polypodium leucotomos, alpha lipoic acid, vitamins B12, D and E, folic acid, phenylalanine and Nigella sativa oil. The authors call the evidence promising and say more studies are needed.",
+      "source": {
+        "authors": "Shakhbazova A, Wu H, Chambers CJ",
+        "year": 2021,
+        "journal": "Journal of Alternative and Complementary Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33337930/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract does not give effect sizes or say how well the supplement studies were run; read at abstract level only."
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That some treatments return colour but none cure vitiligo and colour can fade again; this rests on a Cochrane review of 96 mostly small trials and a pooled review of light therapy, in populations whose ancestry is not given, plus guidance from the US and UK.",
+  "tier_note": "Reviews and trials are in mixed or non-Black populations and most trials were small, so the strength is thin; our search found no treatment trial reporting results for Black participants, and the spread, onset and inheritance answers rest on clinic series and guidance.",
+  "harm_flag": true,
+  "harm_note": "Treatments carry named harms: topical steroids can thin skin and cause stretch marks (UK NHS), phototherapy can raise skin cancer risk (less with UVB; UK NHS), hydroquinone depigmentation is usually permanent and leaves skin with no sun protection (UK NHS), and in a 1990 ayurvedic trial three of 10 had an adverse skin reaction (Donata). Pale patches burn more easily. Unregulated home sunlamps are not recommended (UK NHS).",
+  "founder_flag": false,
+  "evidence_summary": "Vitiligo is a loss of skin colour in patches; the common non-segmental type (about 9 in 10 people, per the UK's NHS) is thought to be autoimmune. It starts at any age: the Cochrane review says more than half of people develop it before 20, a Chinese clinic series of 3,742 gave a mean onset of 18.9 years, and a Lagos clinic series of 186 patients ranged from 1 to 86 years. Spread is unpredictable: the UK's NHS says there is no way of predicting how much skin will be affected, and in the Chinese series nearly all active vitiligo had worsened after 3 to 5 years. The UK's NHS lists stress, skin injury, hormonal change and some chemicals as possible triggers. Vitiligo is not infectious, and family history raises the risk (heritability 0.75 to 0.83 in European-derived families; 18% of 41 mostly European adults gave a family history). No treatment cures it. A Cochrane review of 96 trials found treatments can restore pigment, combinations including light generally did better, and none assessed whether colour lasted at two years. In pooled light-therapy studies, marked repigmentation reached 35.7% at 12 months and was best on the face and neck, with none on hands and feet. A ruxolitinib cream reached 75% facial improvement in 50.3% of those using it for 52 weeks. Surgery and cell transplants are for stable patches only; for lips, medical treatment is often ineffective and tattooing was tried in 15 people. The ayurvedic and homeopathic evidence is one 10-person trial and one 60-person feasibility pilot. The pale patches are the condition; the UK's NHS notes patch edges can be red or brownish.",
+  "measured_variables": [
+    "Fitzpatrick skin type, reported only as a subgroup descriptor in the ruxolitinib analysis (Seneschal 2025)",
+    "Vitiligo type (segmental or non-segmental), disease activity and whether patches have been stable for 12 months",
+    "Body site (face and neck respond best to light therapy; hands and feet worst)"
+  ],
+  "gaps": "Searches 17 Nov 2026 (PubMed, E-utilities): vitiligo with African American, Black, African, skin type V or skin of colour and treatment or phototherapy found 145 records and none whose abstract reported results for Black participants; vitiligo with Nigeria, Ghana, Zimbabwe, Kenya, Sub-Saharan or Black patients found 6 records, of which the Lagos series (19761176) was opened and the Zimbabwe record (6722868, 1984) has no abstract on PubMed so was not read; vitiligo with homeopathy and a randomised trial found 1 record (read); vitiligo with ayurveda and a trial found 4 records, of which one trial was read; vitiligo with stem cell and a trial found 34 records, not opened apart from the transplant review above; vitiligo with excimer laser and randomised found 73 records, not opened beyond the Cochrane review. Control search: \"Interventions for vitiligo Cochrane\" returned both Cochrane reviews. Not opened: the Korean family-risk cohort (PMID 32888956, no abstract shown), the 2023 international position statement (PMID 37746876, abstract only, no treatment detail), the stress-and-onset literature (our search found no case-control or review of stress and vitiligo onset; the UK NHS page lists stress as a possible trigger without a source). Untested or not found: treatment results by skin tone in Black participants; whether treating early changes the long-term course; whether stem cell treatment works for generalised vitiligo; lip-specific controlled trials. Dark patches: the UK's NHS describes vitiligo patches as pale or white with edges that are sometimes brownish; our search found nothing else on dark vitiligo patches, and a doctor can say what a dark patch is.",
+  "related": [
+    "vitiligo",
+    "sunscreen-on-dark-skin",
+    "conditions-look-different-on-dark-skin",
+    "skin-lightening-creams"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Bae JM et al",
+      "year": 2017,
+      "journal": "JAMA Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28355423/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Whitton ME et al",
+      "year": 2015,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25710794/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Whitton ME et al",
+      "year": 2010,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20091542/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Seneschal J et al",
+      "year": 2025,
+      "journal": "Dermatology and Therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40156697/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Liu JB et al",
+      "year": 2005,
+      "journal": "Clinical and Experimental Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15953059/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ayanlowo O et al",
+      "year": 2009,
+      "journal": "West African Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19761176/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Mason CP, Gawkrodger DJ",
+      "year": 2005,
+      "journal": "Clinical and Experimental Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15953063/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Spritz RA, Santorico SA",
+      "year": 2021,
+      "journal": "Journal of Investigative Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32778407/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Singh AK, Karki D",
+      "year": 2010,
+      "journal": "Journal of Plastic, Reconstructive and Aesthetic Surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19481511/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Souroujon AA et al",
+      "year": 2023,
+      "journal": "International Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37715361/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Nicolaidou E et al",
+      "year": 2019,
+      "journal": "American Journal of Clinical Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30911977/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Karuppusamy A et al",
+      "year": 2022,
+      "journal": "Journal of Integrative and Complementary Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35085016/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Donata et al",
+      "year": 1990,
+      "journal": "Ancient Science of Life",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22557698/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Shakhbazova A et al",
+      "year": 2021,
+      "journal": "Journal of Alternative and Complementary Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33337930/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS (UK), \"Vitiligo\"",
+      "url": "https://www.nhs.uk/conditions/vitiligo/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Vitiligo: treatment\"",
+      "url": "https://www.nhs.uk/conditions/vitiligo/treatment/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Academy of Dermatology (US), \"Vitiligo: Diagnosis and treatment\"",
+      "url": "https://www.aad.org/public/diseases/a-z/vitiligo-treatment",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

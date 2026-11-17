@@ -1,0 +1,30 @@
+{
+  "pmid": "39092468",
+  "slug": "lua-2024-39092468",
+  "citation": {
+    "authors": "Lua BL, Ruan L, Lyu Y, et al",
+    "year": 2024,
+    "journal": "Skin Research and Technology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39092468/",
+  "page": "https://vilivity.com/studies/lua-2024-39092468/",
+  "cited_by": [
+    {
+      "entry": "skincare-order-and-layering",
+      "title": "Skincare order and layering",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skincare-order-and-layering/",
+      "record": {
+        "id": "lua-2024",
+        "population": "528 women aged 20 to 49 in Guangzhou, China",
+        "n": 528,
+        "design": "Clinical skin assessment followed by three steps of product layering, with pilling assessed after each step (pilling is when products ball up into flakes on the skin)",
+        "finding": "217 women (41%) had pilling. Most pilling (655 events) followed sunscreen; only 35 followed foundation, and foundation improved sunscreen-caused pilling in 98.9% of cases. Women who pilled with both products had lower skin hydration and oiliness and higher pH. Rubbing products in circular or linear motions produced the most pilling.",
+        "line_tier": "B",
+        "note": "Chinese women, so this is Asian-skin evidence and says nothing about Black skin; funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

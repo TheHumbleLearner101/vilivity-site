@@ -1,0 +1,30 @@
+{
+  "pmid": "22557698",
+  "slug": "donata-1990-22557698",
+  "citation": {
+    "authors": "Donata, Kesavan M, Austin, et al",
+    "year": 1990,
+    "journal": "Ancient Science of Life"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22557698/",
+  "page": "https://vilivity.com/studies/donata-1990-22557698/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "donata-1990",
+        "population": "10 patients with vitiligo given an ayurvedic preparation by mouth and a herbal paste on the skin",
+        "n": 10,
+        "design": "Small clinical trial (comparison group not described in the abstract)",
+        "finding": "Four of 10 had relief within six months, three had relief with an adverse skin reaction, and the rest did not respond.",
+        "line_tier": "B",
+        "note": "Very small and old; no control group described in the abstract, so it cannot show the preparation works. The paste included Psoralea corylifolia.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

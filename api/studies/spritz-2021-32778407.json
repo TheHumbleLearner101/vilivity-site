@@ -1,0 +1,30 @@
+{
+  "pmid": "32778407",
+  "slug": "spritz-2021-32778407",
+  "citation": {
+    "authors": "Spritz RA, Santorico SA",
+    "year": 2021,
+    "journal": "Journal of Investigative Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32778407/",
+  "page": "https://vilivity.com/studies/spritz-2021-32778407/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "spritz-2021",
+        "population": "Family and genetic studies, mostly in European-derived populations",
+        "n": "not stated",
+        "design": "Review of the genetic basis of vitiligo",
+        "finding": "Heritability from family studies in European-derived people is 0.75 to 0.83, and more than 50 susceptibility regions are known. The abstract does not give the chance that a child of a person with vitiligo will have it.",
+        "line_tier": "B",
+        "note": "Evidence is from European-derived populations; our search found none from Black populations on inheritance.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

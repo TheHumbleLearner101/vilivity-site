@@ -1,0 +1,30 @@
+{
+  "pmid": "34794816",
+  "slug": "patel-2022-34794816",
+  "citation": {
+    "authors": "Patel SG, May FP, Anderson JC et al",
+    "year": 2022,
+    "journal": "Gastroenterology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34794816/",
+  "page": "https://vilivity.com/studies/patel-2022-34794816/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "patel-2022",
+        "population": "US average-risk adults, US Multi-Society Task Force (gastroenterology societies)",
+        "n": "not applicable",
+        "design": "Focused guideline update on the age to start and stop screening",
+        "finding": "The Task Force suggests average-risk screening begin at 45, while noting no literature shows screening under 50 improves outcomes such as incidence or death; the case rests on rising disease burden under 50, adenoma rates at 45 to 49 approaching those at 50 to 59, and modelling. For 76 to 85 the decision is individual; screening is not recommended after 85.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

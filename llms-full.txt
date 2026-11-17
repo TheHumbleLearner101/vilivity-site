@@ -407,6 +407,35 @@ See someone when:
 - Dryness spreads, thickens or leaves darker patches (dermatologist).
 - A rash covers large areas or a child has persistent itchy, dry skin (doctor).
 
+## Rashes on dark skin: what to look for
+URL: https://vilivity.com/skin/rashes-on-dark-skin/
+Module: Skin
+Tier: D (Untested)
+Harm signal: no
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: On brown and black skin, the redness of a rash can be harder to see, so it may look darker, or show mainly as raised, rough or itchy skin. Check texture, not just colour. For a fever with a rash, press a clear glass on it and check palms and soles: spots that do not fade are an emergency.
+
+Do:
+- Look at texture as well as colour: hives show as itchy raised bumps or patches, and the UK's NHS says the colour can be harder to see on brown and black skin. [clinical guidance: NHS (UK), "Hives", https://www.nhs.uk/conditions/hives/]
+- If someone is ill with a fever and a rash, press the side of a clear glass firmly on it; spots that do not fade need urgent care. Check paler areas such as palms, soles, inside the eyelids and the roof of the mouth, where they are easier to see on dark skin. [clinical guidance: NHS (UK), "Meningitis", https://www.nhs.uk/conditions/meningitis/]
+- For a one-sided blotchy rash that turns into itchy blisters, see a doctor or pharmacist quickly: the UK's NHS says shingles redness can be harder to see on brown and black skin. [clinical guidance: NHS (UK), "Shingles", https://www.nhs.uk/conditions/shingles/]
+- Ask a pharmacist about a ring-shaped, scaly, itchy patch: it may be ringworm, which can look darker rather than red on your skin. [clinical guidance: NHS (UK), "Ringworm", https://www.nhs.uk/conditions/ringworm/]
+- For itchy red or skin-coloured sweat bumps in hot weather, cool the skin, wear loose cotton and avoid tight clothes and harsh soap. [clinical guidance: DermNet (New Zealand), "Miliaria (heat rash)", https://dermnetnz.org/topics/miliaria]
+
+Avoid:
+- Waiting for a rash to appear or turn red: the UK's NHS says not everyone with meningitis gets a rash and it can be harder to see on black or brown skin. [clinical guidance: NHS (UK), "Meningitis", https://www.nhs.uk/conditions/meningitis/]
+- Waiting at home if hives come with swollen lips, mouth or tongue, a tight throat or struggling to breathe: call your local emergency number (999 in the UK, per the NHS). [clinical guidance: NHS (UK), "Hives", https://www.nhs.uk/conditions/hives/]
+- Ignoring a rash that does not settle: see a doctor. DermNet (New Zealand) says patches left after inflamed skin tend to be more intense and last longer in darker skin. [clinical guidance: DermNet (New Zealand), "Postinflammatory hyperpigmentation", https://dermnetnz.org/topics/postinflammatory-hyperpigmentation]
+
+See someone when:
+- A fever with spots or a rash that does not fade under a glass, or anyone who is very ill (urgent: your local emergency number or nearest emergency department).
+- Swollen lips, mouth or tongue, a tight throat, or trouble breathing with hives (emergency: your local emergency number).
+- A rash that is spreading, has lasted more than a couple of days without improving, keeps coming back, or comes with a high temperature (doctor).
+- Blisters in a band on one side of the body, or a blistering rash near an eye (doctor, urgently).
+
 ## Shaving and razor bumps (pseudofolliculitis barbae)
 URL: https://vilivity.com/skin/shaving-and-razor-bumps/
 Module: Skin
@@ -549,6 +578,35 @@ See someone when:
 - You feel unwell after using a cream that may contain mercury, for example swelling, a metallic taste, sore gums or nausea, or you notice changes in your urine (doctor, the same day if severe).
 - You want to stop and the skin darkens or flares when you do (dermatologist).
 
+## Skincare order and layering
+URL: https://vilivity.com/skin/skincare-order-and-layering/
+Module: Skin
+Tier: B thin (Tested, but not in people like you)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: No study or guidance we opened sets one correct order for a whole routine. Dermatology guidance gives the steps: wash gently, moisturise, and use sunscreen by day. In a test in 25 volunteers, UV reflectance did not differ significantly whether moisturiser went on before or after sunscreen. Prescription products: follow your prescriber.
+
+Do:
+- Wash gently with lukewarm water and your fingertips, then moisturise if your skin is dry or itchy. [clinical guidance: American Academy of Dermatology (US), "Face washing 101", https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101]
+- Moisturise when skin is still damp: thicker creams spread more easily and trap water in the skin. [clinical guidance: American Academy of Dermatology (US), "How to pick the right moisturizer", https://www.aad.org/public/everyday-care/skin-care-basics/dry/pick-moisturizer]
+- Put sunscreen on before you go out: the US American Academy of Dermatology says on dry skin 15 minutes ahead; the UK's NHS says 30 minutes ahead and again just before if you will be out long enough to burn. [clinical guidance: American Academy of Dermatology (US), "Sunscreen FAQs", https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/sunscreen-faqs]
+- Moisturiser and sunscreen in either order: in a 25-person test, UV reflection did not differ significantly between the two orders. [tested: Gálvez 2022, https://pubmed.ncbi.nlm.nih.gov/34674316/]
+- If you use tretinoin, ask your prescriber how to fit a moisturiser around it; a moisturiser alongside it made it easier to tolerate in a split-face study. [tested: Schorr 2012, https://pubmed.ncbi.nlm.nih.gov/23135655/]
+
+Avoid:
+- Layering on a product that stings or burns: irritation from a skin or hair product can leave dark spots, and spots often clear once the skin stops being irritated. [clinical guidance: American Academy of Dermatology (US), "Fade dark spots", https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots]
+- Counting a moisturiser or makeup with SPF as all your sun protection: the American Academy of Dermatology says these still need reapplying about every two hours outdoors. [clinical guidance: American Academy of Dermatology (US), "Sunscreen FAQs", https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/sunscreen-faqs]
+- Using a thin layer of sunscreen: at typical consumer amounts the SPF was far below the label in a lab test. [tested: Kim 2021, https://pubmed.ncbi.nlm.nih.gov/33660348/]
+- Rubbing each product in with repeated circular or linear strokes: in 528 women in China this caused the most pilling, where products ball up into flakes. [tested: Lua 2024, https://pubmed.ncbi.nlm.nih.gov/39092468/]
+
+See someone when:
+- A product burns, stings, or leaves a rash or darker patches (tell a pharmacist or dermatologist; if it is prescribed, ask the prescriber).
+- Dark marks are spreading or not fading after the irritation has stopped (dermatologist).
+- You use a prescription product such as tretinoin and your skin is very sore or peeling (the person who prescribed it).
+
 ## Skincare routine basics (and Korean multi-step routines)
 URL: https://vilivity.com/skin/skincare-routine-basics/
 Module: Skin
@@ -685,6 +743,36 @@ See someone when:
 - Pale or white patches appear on your skin (doctor, to confirm it is vitiligo and not another condition).
 - The patches are spreading or affecting your confidence or mood (doctor, then dermatologist).
 - A treatment makes skin sore or irritated (the prescriber).
+
+## Vitiligo, spread, starting age and treatment options
+URL: https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/
+Module: Skin
+Tier: B thin (Tested, but not in people like you)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Vitiligo can start at any age, but a Cochrane review says more than half of people develop it before 20. It can spread over years, and nobody can predict how far. No treatment cures it. Light therapy and some prescription creams bring colour back in some people, slowly, and it can fade again.
+
+Do:
+- Take new pale patches to a doctor or dermatologist, who can tell vitiligo from other causes of pale skin. [clinical guidance: American Academy of Dermatology (US), "Vitiligo: Diagnosis and treatment", https://www.aad.org/public/diseases/a-z/vitiligo-treatment]
+- Ask which treatments fit your age, where the patches are and whether they are spreading; there is no single best treatment. [clinical guidance: American Academy of Dermatology (US), "Vitiligo: Diagnosis and treatment", https://www.aad.org/public/diseases/a-z/vitiligo-treatment]
+- If you try light therapy, expect to stay with it for months; in a pooled review the response grew between 3 and 12 months. [tested: Bae 2017, https://pubmed.ncbi.nlm.nih.gov/28355423/]
+- Protect pale patches from the sun; the UK's NHS advises sunscreen with an SPF of 50 or above and no sunbeds. [clinical guidance: NHS (UK), "Vitiligo: treatment", https://www.nhs.uk/conditions/vitiligo/treatment/]
+- Treating or not treating is your choice; camouflage cream, makeup or leaving it alone are all options. [clinical guidance: American Academy of Dermatology (US), "Vitiligo: Diagnosis and treatment", https://www.aad.org/public/diseases/a-z/vitiligo-treatment]
+
+Avoid:
+- Paying for anything sold as a cure: the Cochrane review says treatments can restore pigment but none can cure the disease. [tested: Whitton 2015, https://pubmed.ncbi.nlm.nih.gov/25710794/]
+- Home sunlamps: the UK's NHS says they are not recommended because they are unregulated and not as effective as hospital light therapy. [clinical guidance: NHS (UK), "Vitiligo: treatment", https://www.nhs.uk/conditions/vitiligo/treatment/]
+- Sunburn and skin injury on affected skin: the UK's NHS says they may trigger new patches (the Koebner response). [clinical guidance: NHS (UK), "Vitiligo", https://www.nhs.uk/conditions/vitiligo/]
+- Assuming a treatment will stop the spread: the UK's NHS treatment page says steroid creams can sometimes stop it, and its overview page says treatment cannot. [clinical guidance: NHS (UK), "Vitiligo" and "Vitiligo: treatment", https://www.nhs.uk/conditions/vitiligo/treatment/]
+
+See someone when:
+- New pale or white patches appear, or existing ones are growing (doctor first, then dermatologist).
+- You are very tired, very thirsty or passing urine a lot, as vitiligo is linked with thyroid disease, diabetes and Addison's disease (doctor).
+- Eye pain, redness or changes in vision (an eye doctor, urgently), as the UK's NHS links vitiligo with iris and eye inflammation.
+- A treatment burns, thins the skin or makes patches worse (the person who prescribed it).
 
 ## Babies' and children's hair
 URL: https://vilivity.com/hair/children-and-babies-hair/
@@ -877,6 +965,32 @@ See someone when:
 - Hair loss, bald patches, or a scalp that is sore, itchy or scaly: a doctor, for a dermatology referral, not a stylist.
 - A stylist or braider tells you to see a doctor about your scalp (doctor or dermatologist).
 - A hairline that keeps moving back (doctor or dermatologist).
+
+## Collagen for hair, nails and joints
+URL: https://vilivity.com/hair/collagen-for-hair-nails-and-joints/
+Module: Hair
+Tier: B thin (Tested, but not in people like you)
+Harm signal: no
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Collagen may ease knee osteoarthritis pain a little in pooled trials, though those trials disagreed with each other. For hair and nails we found a few small trials of branded products with mixed results. Our search found no trial in Black participants. It is not a medicine: for hair loss or sore joints, get the cause checked first.
+
+Do:
+- Check the source on the label: marine collagen may not suit you if you have a fish allergy. [clinical guidance: Cleveland Clinic (US), "Collagen Peptides: Benefits and Side Effects", https://health.clevelandclinic.org/what-do-collagen-peptides-do]
+- If you buy it, look for products verified by an outside tester such as NSF Certified for Sport or USP Verified (US bodies), and ask a doctor or pharmacist about any amount. [clinical guidance: Cleveland Clinic (US), "Collagen Peptides: Benefits and Side Effects", https://health.clevelandclinic.org/what-do-collagen-peptides-do]
+
+Avoid:
+- Buying it to treat hair loss: the one hair-loss trial we read tested a mix with amino acids, iron and selenium alongside drug treatment, so it cannot show collagen did the work. [tested: Milani 2023, https://pubmed.ncbi.nlm.nih.gov/37357646/]
+- Taking social media or brand claims at face value: a review found dermatology claims online go beyond the evidence. [tested: Rustad 2022, https://pubmed.ncbi.nlm.nih.gov/34694676/]
+- Assuming it is tested before sale: Cleveland Clinic (US) says the FDA does not test or approve collagen peptides. [clinical guidance: Cleveland Clinic (US), "Collagen Peptides: Benefits and Side Effects", https://health.clevelandclinic.org/what-do-collagen-peptides-do]
+
+See someone when:
+- Hair coming out in patches, sudden heavy shedding or a sore scalp (doctor or dermatologist, before spending on supplements).
+- Knee or other joint pain with swelling, locking, or trouble putting weight on it (doctor).
+- Itching, swelling or breathing trouble after taking it (your local emergency number: 999 in the UK, 911 in the US and Canada, 112 in the EU).
+- Stomach upset that carries on (pharmacist or doctor).
 
 ## Colouring and bleaching afro-textured hair
 URL: https://vilivity.com/hair/colouring-and-bleaching-textured-hair/
@@ -1568,6 +1682,34 @@ In other countries:
 - In Canada, call or text 9-8-8 for the Suicide Crisis Helpline, 24 hours a day; call 9-1-1 if your safety is at risk. (https://988.ca/)
 - In the US, call or text 988 for emotional support from the 988 Lifeline. (https://988lifeline.org/)
 
+## Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver
+URL: https://vilivity.com/mind/ashwagandha-other-claims/
+Module: Mind
+Tier: B thin (Tested, but not in people like you)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: In short trials ashwagandha lowered cortisol and stress scores, and a review of 14 trials in mental disorders (mostly anxiety) found less anxiety, with depression less certain. We found no human trial for tension headaches, stress acne or gut. It has been linked to liver injury, deaths in people with liver disease, and one kidney-transplant rejection. Ask a pharmacist first.
+
+Do:
+- Ask a pharmacist or doctor before starting if you have liver disease, or a thyroid or autoimmune condition, or take diabetes, blood-pressure, sedative, seizure, thyroid or immune-suppressing medicines: NCCIH (US) says it might interact with those medicines and advises against it with thyroid or autoimmune conditions. [clinical guidance: NCCIH (US), "Ashwagandha: Usefulness and Safety", https://www.nccih.nih.gov/health/ashwagandha]
+- Get medical advice if you notice signs of liver trouble such as yellow skin or eyes (NCCIH, US, notes rare liver injury cases). [clinical guidance: NCCIH (US), "Ashwagandha: Usefulness and Safety", https://www.nccih.nih.gov/health/ashwagandha]
+- Tell your doctor or pharmacist about any herbal product you take: the UK's NHS says herbal medicines can stop medicines working or cause harm. [clinical guidance: NHS (UK), "Herbal medicines and complementary therapies", https://www.nhs.uk/conditions/herbal-medicines/]
+
+Avoid:
+- Taking it if you already have liver disease: in an Indian case series, five of eight had existing liver disease, and the three who developed acute-on-chronic liver failure all died. [tested: Philips 2023, https://pubmed.ncbi.nlm.nih.gov/37756041/]
+- Taking it while pregnant or breastfeeding: NCCIH (US) says to avoid it in pregnancy and not to use it while breastfeeding. [clinical guidance: NCCIH (US), "Ashwagandha: Usefulness and Safety", https://www.nccih.nih.gov/health/ashwagandha]
+- Taking it after an organ transplant without asking your transplant team: one report describes acute rejection that needed the transplanted kidney removed after ashwagandha use, and NCCIH (US) says it might interact with immune-suppressing medicines. [tested: Sriperumbuduri 2020, https://pubmed.ncbi.nlm.nih.gov/33305135/]
+- Taking it for more than about three months on the assumption that it is safe: NCCIH (US) says there is not enough information on long-term safety. [clinical guidance: NCCIH (US), "Ashwagandha: Usefulness and Safety", https://www.nccih.nih.gov/health/ashwagandha]
+
+See someone when:
+- Signs of liver trouble such as yellow skin or eyes while taking it (doctor, urgent care if severe; call your local emergency number, 999 in the UK, 911 in the US and Canada, 112 in the EU, for collapse or severe symptoms).
+- You have liver disease, a thyroid condition or an organ transplant, or take any regular medicine, and are thinking of taking it (doctor or pharmacist first).
+- Weight loss, diarrhoea, night fevers and tiredness that began after you started it (doctor; one case report found an overactive thyroid that settled after stopping).
+- Low mood, anxiety or stress that is not easing or is getting in the way of daily life (doctor or mental-health service): a supplement is not a treatment for depression.
+
 ## Ashwagandha: stress, sleep, thyroid and liver cautions
 URL: https://vilivity.com/mind/ashwagandha/
 Module: Mind
@@ -1753,6 +1895,35 @@ See someone when:
 - Low mood, anxiety or worry that is stopping you working, studying or looking after yourself (doctor or NHS in the UK talking therapies self-referral).
 - Drinking, drug use or eating that is getting out of your control (doctor; NHS in the UK says these need a doctor referral for talking therapy).
 - In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option, or Samaritans free on 116 123.
+
+## Coping with anxiety day to day
+URL: https://vilivity.com/mind/coping-with-anxiety-day-to-day/
+Module: Mind
+Tier: B thin (Tested, but not in people like you)
+Harm signal: no
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Anxiety is common and treatable. The UK's NHS and the US's NIMH both say regular exercise, enough sleep, less caffeine, calming breathing and talking to someone you trust can help. Two small pilots in Black adults found mindfulness feasible. Nothing we found tests the popular 3-3-3 rule. If it stops you living normally, get help.
+
+Do:
+- Talk to a friend, family member or professional about how you feel. [clinical guidance: NHS (UK), "Generalised anxiety disorder (GAD)", https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/]
+- Move regularly (walking, swimming, running or yoga) and get enough sleep. [clinical guidance: NHS (UK), "Generalised anxiety disorder (GAD)", https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/]
+- Try calming breathing exercises; they are in the UK's NHS self-help list, though our search found no trial of them in Black adults. [clinical guidance: NHS (UK), "Generalised anxiety disorder (GAD)", https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/]
+- Eat regular meals and cut back on coffee, tea, cola and energy drinks, which the UK's NHS says can disrupt sleep and make anxiety harder to control. [clinical guidance: NHS (UK), "Generalised anxiety disorder (GAD)", https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/]
+- Work out what triggers your stress and keep what works for you; the US's NIMH says it may take trial and error. [clinical guidance: NIMH (US), "I'm So Stressed Out! Fact Sheet", https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet]
+
+Avoid:
+- Alcohol, cigarettes, gambling or drugs to take the edge off: the UK's NHS says they can contribute to poor mental health. [clinical guidance: NHS (UK), "Generalised anxiety disorder (GAD)", https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/]
+- Avoiding every situation that makes you anxious: the UK's NHS says to build up time in them slowly. [clinical guidance: NHS (UK), "Generalised anxiety disorder (GAD)", https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/]
+- In pregnancy, stopping a prescribed medicine before you have spoken to your doctor (the UK's NHS says this). [clinical guidance: NHS (UK), "Mental health in pregnancy and after the birth", https://www.nhs.uk/pregnancy/mental-health-in-pregnancy-and-after-the-birth/mental-health/]
+
+See someone when:
+- Anxiety is hard to control, affects your daily life or sleep, or self-help is not working (doctor or a talking therapy service; in the UK you can refer yourself to NHS talking therapies if you are 18 or over).
+- You are pregnant or have had a baby in the last 12 months and feel anxious: tell your midwife, doctor or health visitor (UK), or your ob-gyn or doctor (US, ACOG). Do not stop any medicine until you have spoken to them.
+- You have thoughts of harming yourself or ending your life. In the UK call Samaritans on 116 123. In the US call or text 988. This is an emergency if you may act on them: call your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU) or go to an emergency department.
+- Chest pain, fainting or severe breathlessness, which can have a physical cause (urgent care: your local emergency number).
 
 ## Finding a Black therapist or one who understands being Black
 URL: https://vilivity.com/mind/finding-a-black-therapist/
@@ -2133,6 +2304,35 @@ In other countries:
 - In the US, the USPSTF recommends a mammogram every 2 years for women aged 40 to 74. (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening)
 - WHO describes mammography screening as usually for women aged 50 to 69. (https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
 
+## Colonoscopy: when to start and how often
+URL: https://vilivity.com/body/colonoscopy-when-and-how-often/
+Module: Body
+Tier: B moderate (Tested, but not in people like you)
+Harm signal: no
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: In the US, screening starts at 45 and a colonoscopy every 10 years is one way to do it. In England, the NHS starts at 50 with a home stool test every 2 years; a colonoscopy follows a positive result. Our search found no study showing Black adults should start before 45. Symptoms, polyps or family history change timing.
+
+Do:
+- If you are in the US and at average risk, start screening at 45 and choose a test through to 75: colonoscopy every 10 years is one option, a yearly stool test (FIT) another (US Preventive Services Task Force). [clinical guidance: US Preventive Services Task Force, "Colorectal Cancer: Screening", https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening]
+- In England, the NHS posts a home stool test (FIT) every 2 years from 50 to 74; a positive result usually leads to a colonoscopy. (Check your own UK nation's programme.) [clinical guidance: NHS (UK), "Bowel cancer screening", https://www.nhs.uk/conditions/bowel-cancer-screening/]
+- If a stool test is positive, go to the follow-up colonoscopy: in the US, the American Cancer Society says preferably within 6 months. [clinical guidance: American Cancer Society (US), colorectal cancer screening guideline update 2026 (abstract, PubMed 42200680), https://pubmed.ncbi.nlm.nih.gov/42200680/]
+- If you have had polyps removed, follow the repeat date on your report, which depends on what was found: the UK guideline gives one colonoscopy at 3 years for higher-risk findings, and the European guideline returns people with 1 to 4 small adenomas to screening. [clinical guidance: BSG, ACPGBI and Public Health England (UK), post-polypectomy surveillance guidelines 2020 (abstract, PubMed 31776230), https://pubmed.ncbi.nlm.nih.gov/31776230/]
+- See a doctor about bowel symptoms whether or not you have been screened (UK NHS). [clinical guidance: NHS (UK), "Symptoms of bowel cancer", https://www.nhs.uk/conditions/bowel-cancer/symptoms/]
+
+Avoid:
+- Thinking bowel cancer is only for older people: the US Task Force says an estimated 10.5% of new cases are in people under 50. [clinical guidance: US Preventive Services Task Force, "Colorectal Cancer: Screening", https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening]
+- Treating one normal stool test as a lifelong all-clear: England's NHS says it does not always mean you do not have bowel cancer. [clinical guidance: NHS (UK), "Bowel cancer screening", https://www.nhs.uk/conditions/bowel-cancer-screening/]
+- Using the average-risk ages if you have had polyps, bowel inflammation or have an inherited bowel cancer condition in the family: the US Task Force advice excludes you, so ask your doctor. [clinical guidance: US Preventive Services Task Force, "Colorectal Cancer: Screening", https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening]
+
+See someone when:
+- Blood in your poo, a bowel change that lasts, weight loss you cannot explain or a lump in your tummy (UK NHS list): doctor. Black or dark red poo: ask for an urgent appointment or NHS 111 (England).
+- You are 50 to 74 in England, registered with a doctor and have not been sent a kit: the bowel cancer screening helpline on 0800 707 6060 (NHS, England).
+- A close relative had bowel cancer or you have had polyps or bowel inflammation: ask a doctor whether you should start earlier or be checked more often.
+- A stool test was positive and no colonoscopy has been booked (doctor or the screening programme).
+
 ## Creatine supplements: strength, kidneys and your kidney test
 URL: https://vilivity.com/body/creatine-supplements/
 Module: Body
@@ -2317,6 +2517,34 @@ See someone when:
 - Hot skin without sweating, a very high temperature, fast breathing, confusion or a seizure (call 999 in the UK, or your local emergency number: heatstroke).
 - Heat exhaustion that has not eased after 30 minutes of cooling down (NHS 111 in the UK).
 - A child or older relative is unwell in the heat (NHS 111 in the UK, or 999, or your local emergency number if they are confused or unresponsive).
+
+## Heavy periods by life stage and cause
+URL: https://vilivity.com/body/heavy-periods-by-life-stage-and-cause/
+Module: Body
+Tier: B thin (Observed in Black populations)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: The NHS (UK) says heavy periods can be normal after pregnancy or approaching menopause; ACOG (US) says heavy bleeding is not normal. Either way, get it checked if bleeding disrupts your life or you feel tired or breathless. In a small US study, about two thirds of 44 African American women had iron deficiency; about half reported heavy periods.
+
+Do:
+- Note how heavy: two products at once, over 7 days, soaking through clothes or bedding, or missing exercise or work. [clinical guidance: NHS (UK), "Heavy periods", https://www.nhs.uk/conditions/heavy-periods/]
+- Take a log of your dates and flow to your appointment (a calendar or app); doctors in the US (ACOG) ask for several cycles. [clinical guidance: ACOG (US), "Heavy Menstrual Bleeding", https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding]
+- Ask for a blood test for iron deficiency or anaemia if bleeding is heavy or you feel unusually tired. [tested: Bernardi 2016, https://pubmed.ncbi.nlm.nih.gov/27524363/]
+- After a birth, use pads rather than tampons until after your 6-week postnatal check (NHS, UK), and expect bleeding to carry on for a few weeks. [clinical guidance: NHS (UK), "Your body after the birth", https://www.nhs.uk/pregnancy/labour-and-birth/your-body/]
+- If you take HRT and still have heavier or irregular bleeding after 6 months, tell your doctor (the UK's NHS says this). [clinical guidance: NHS (UK), "Menopause and perimenopause: symptoms", https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/]
+
+Avoid:
+- Assuming it is just your age or just your period when you are bleeding more than before: it can be fibroids, a copper coil, a clotting problem or, rarely, cancer. [clinical guidance: ACOG (US), "Heavy Menstrual Bleeding", https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding]
+- Waiting if you have any vaginal bleeding after 12 months with no period: the NHS (UK) says to see a doctor. [clinical guidance: NHS (UK), "Menopause and perimenopause: symptoms", https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/]
+
+See someone when:
+- Heavy periods are affecting your life, you have had them for some time, or you have severe period pain (doctor).
+- You bleed between periods or after sex, or have pain when peeing, pooing or having sex with heavy periods (doctor).
+- You have had no period for 12 months or more and get any vaginal bleeding (doctor, soon).
+- Soon after a birth, sudden or very heavy blood loss, feeling faint or a racing heart (the UK's NHS lists this as postpartum haemorrhage): tell your midwife or doctor straight away, and if it is severe or you feel faint, call your local emergency number (999 in the UK). In pregnancy, bleeding that soaks a pad soon after you put it on needs urgent help the same way.
 
 ## High blood pressure in Black adults
 URL: https://vilivity.com/body/high-blood-pressure-in-black-adults/
@@ -2552,6 +2780,53 @@ See someone when:
 - Blood in your poo, or weight loss without trying (doctor).
 - Lips, mouth, throat or tongue swelling, fast breathing or a tight throat after eating (call 999 in the UK, or your local emergency number).
 
+## Low haemoglobin, low or high white cells: causes, thresholds and pregnancy
+URL: https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/
+Module: Body
+Tier: B thin (Observed in Black populations)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Low haemoglobin is called anaemia. Iron shortage is the commonest cause; others include blood loss, infection, other vitamin shortages and inherited traits. White cell counts shift with infection, medicines and pregnancy. Lab ranges vary, and a Duffy-null result can sit below the usual neutrophil line without being a disease. Your doctor needs the cause, not just the number.
+
+What it is:
+- Anaemia means haemoglobin below a cut-off set by age, sex and pregnancy. WHO's page defines it at sea level as under 110 g/L in pregnant women and under 120 g/L in non-pregnant women. [clinical guidance: WHO, Nutrition Landscape Information System, "Anaemia", https://www.who.int/data/nutrition/nlis/info/anaemia]
+- WHO names iron deficiency as the most common cause of anaemia, then infection and inflammation, blood loss, shortage of folate, vitamin B12 or vitamin A, and inherited traits such as thalassaemia. [clinical guidance: WHO, Nutrition Landscape Information System, "Anaemia", https://www.who.int/data/nutrition/nlis/info/anaemia]
+- The UK's NHS lists heavy periods, pregnancy and bleeding in the stomach or gut (from ibuprofen or aspirin, ulcers, piles or, less often, cancers) as common causes of iron deficiency anaemia. [clinical guidance: NHS (UK), "Iron deficiency anaemia", https://www.nhs.uk/conditions/iron-deficiency-anaemia/]
+- A US primary care review (American Family Physician) defines neutropenia as a neutrophil count under 1,500 per microlitre (1.5 on a lab report in x10^9 per litre) in adults: mild 1,000 to 1,500, moderate 500 to 999, severe under 500. Labs elsewhere may use their own ranges. [tested: Kim 2025, https://pubmed.ncbi.nlm.nih.gov/41533406/]
+- The UK's NHS lists these causes of a low white cell count: cancer treatment, antipsychotic medicines, medicine for an overactive thyroid, some cancers such as leukaemia, infections such as HIV or hepatitis, and autoimmune conditions. [clinical guidance: NHS (UK), "Low white blood cell count", https://www.nhs.uk/conditions/low-white-blood-cell-count/]
+- MedlinePlus (US) gives the normal white cell count as 4,500 to 11,000 per microlitre, says labs differ slightly, and lists infection (most often bacterial), allergic reaction and inflammation among reasons for a high count. [clinical guidance: MedlinePlus (US National Library of Medicine), "WBC count", https://medlineplus.gov/ency/article/003643.htm]
+
+How to find out if you have it:
+- A doctor checks for anaemia with a full blood count, and if the cause is unclear may add other tests or a referral to a specialist. [clinical guidance: NHS (UK), "Iron deficiency anaemia", https://www.nhs.uk/conditions/iron-deficiency-anaemia/]
+- The UK's NHS lists tiredness, shortness of breath, noticeable heartbeats, paler skin and headaches as symptoms, but says a blood test is how iron deficiency anaemia is checked. [clinical guidance: NHS (UK), "Iron deficiency anaemia", https://www.nhs.uk/conditions/iron-deficiency-anaemia/]
+- A review says iron deficiency can be present without anaemia, so a normal haemoglobin does not rule out low iron; diagnosis uses haemoglobin, ferritin and transferrin saturation. Our search found no source that confirms low iron from symptoms alone. [tested: Al-Naseem 2021, https://pubmed.ncbi.nlm.nih.gov/33762368/]
+- For a raised white cell count, the type of cell raised and a look at a blood smear decide what testing comes next. [tested: Chabot-Richards 2014, https://pubmed.ncbi.nlm.nih.gov/24750674/]
+- Duffy status is a separate blood test; it was measured with a full blood count in the 120-adult Duffy study. [tested: Merz 2023, https://pubmed.ncbi.nlm.nih.gov/35994632/]
+
+What it changes:
+- Pregnancy lowers the haemoglobin line: among healthy pregnant people the fifth centile was 110.3 g/L in the first trimester and 105.9 g/L in the second, against 119.7 g/L in non-pregnant women. [tested: Braat 2024, https://pubmed.ncbi.nlm.nih.gov/38432242/]
+- In 299 healthy early pregnancies in Croatia, haemoglobin was lower and total white cells and neutrophils were higher than non-pregnant ranges, so a mildly high white count in pregnancy can be expected. No pregnancy neutrophil range was in the abstract. [tested: Supak-Smolcic 2025, https://pubmed.ncbi.nlm.nih.gov/40002566/]
+- Duffy-null changes the neutrophil line. In 122 healthy Duffy-null adults at a US university hospital the 95% interval was 1.01 to 4.34 (x10^3 per microlitre), and in 146 Duffy-null Brazilian blood donors 1.18 to 4.80, so values near 1.1 to 1.9 can be that person's normal. Whether a given lab flags 1.6 to 2.6 as low depends on its own range, which our search did not open. [tested: Barouqa 2026, https://pubmed.ncbi.nlm.nih.gov/42345734/]
+- In 120 healthy Black adults at one US centre, 80 were Duffy-null; their median neutrophil count was 2,820 against 5,005 per microlitre. [tested: Merz 2023, https://pubmed.ncbi.nlm.nih.gov/35994632/]
+- If a low white cell count comes from illness, cancer treatment or a medicine, the UK's NHS advises avoiding close contact with sick people, washing hands regularly, not eating raw meat, shellfish or eggs, and not sharing food, cups or utensils. [clinical guidance: NHS (UK), "Low white blood cell count", https://www.nhs.uk/conditions/low-white-blood-cell-count/]
+- The UK's NHS says treatment follows the cause. For iron deficiency anaemia it names iron tablets and iron-rich foods (leafy greens, fortified cereals, meat, dried fruit, pulses) and says tea, coffee and dairy in large amounts make iron harder to absorb. The UK's NHS says a doctor recommends iron tablets and to keep them away from young children. [clinical guidance: NHS (UK), "Iron deficiency anaemia", https://www.nhs.uk/conditions/iron-deficiency-anaemia/]
+- A narrative review says postoperative anaemia is common among surgical patients and is neither inevitable nor harmless. [tested: Crispell 2023, https://pubmed.ncbi.nlm.nih.gov/39764835/]
+
+What it does not change:
+- The authors of the 120-adult US study call the Duffy-null phenotype clinically insignificant and say lower counts in people of African ancestry occur without increased infection risk (stated as background; the study measured counts, not infections). [tested: Merz 2023, https://pubmed.ncbi.nlm.nih.gov/35994632/]
+- Ancestry does not move the WHO anaemia thresholds in the 2024 pooled analysis of healthy reference samples, which found no evidence they should differ by ancestry. The older US study argues for group-specific ranges after finding lower average haemoglobin in African Americans, so this is contested. [tested: Braat 2024, https://pubmed.ncbi.nlm.nih.gov/38432242/]
+- The UK's NHS lists leukaemia as one of many causes of a low white cell count, alongside medicines, infections and autoimmune conditions; the cause needs to be found by a doctor. [clinical guidance: NHS (UK), "Low white blood cell count", https://www.nhs.uk/conditions/low-white-blood-cell-count/]
+- Sickle trait had no effect on the haemoglobin gap between African Americans and white people in the large US laboratory study; the alpha-thalassaemia deletion accounted for about a third of it, and removing iron-deficient people narrowed it slightly. [tested: Beutler 2005, https://pubmed.ncbi.nlm.nih.gov/15790781/]
+
+See someone when:
+- New or worsening tiredness, breathlessness, paler skin, headaches or a noticeable heartbeat (doctor, for a full blood count and iron tests).
+- A known low white cell count and a fever, chills, sore throat or mouth sores: the UK's NHS says see a doctor if you are at risk of a low count and get an infection, or keep getting infections. After cancer treatment, a fever with a very low neutrophil count is an emergency (US review): call your cancer team or your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU).
+- You are pregnant and told your haemoglobin is low: tell your midwife or doctor, because the UK's NHS says untreated iron deficiency anaemia can raise the risk of complications before and after birth.
+- Told a count is low or high with no reason given: ask what is behind it, whether to repeat it or check iron, and whether Duffy status could explain a low neutrophil count (doctor or haematologist).
+
 ## Lung function tests and race correction in spirometry
 URL: https://vilivity.com/body/lung-function-tests-and-race-correction-in-spirometry/
 Module: Body
@@ -2642,6 +2917,47 @@ See someone when:
 - Cramps that are frequent, severe, or come with weakness or swelling (doctor).
 - Trouble sleeping most nights for more than a few weeks (doctor; see sleep and sleep apnoea).
 - You have kidney disease or take regular medicines and want to start a magnesium supplement (pharmacist).
+
+## Normal blood pressure by age and sex, and for children
+URL: https://vilivity.com/body/normal-blood-pressure-by-age/
+Module: Body
+Tier: B thin (Observed in Black populations)
+Harm signal: no
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: There is one blood pressure line for all adults, not a different normal by age or sex. In the UK, a clinic reading of 140/90 or higher is high; in the US, under 120/80 counts as normal and 130/80 starts stage 1. Age changes the treatment target, not the diagnosis. Children are judged against paediatric tables.
+
+What it is:
+- The UK's NHS says blood pressure is usually considered high at 140/90 or higher when checked by a healthcare professional, or 135/85 or higher at home. Low blood pressure is under 90/60. [clinical guidance: NHS (UK), "Blood pressure test", https://www.nhs.uk/conditions/blood-pressure-test/]
+- In the US the American Heart Association lists normal as under 120 and under 80, elevated as 120 to 129 and under 80, stage 1 high as 130 to 139 or 80 to 89, stage 2 as 140 or more or 90 or more, and over 180 and over 120 as severe. [clinical guidance: American Heart Association (US), "Understanding Blood Pressure Readings", https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings]
+- WHO defines hypertension as 140/90 mmHg or higher, diagnosed when two readings on different days are at or above that line. [clinical guidance: WHO, "Hypertension" fact sheet (25 September 2025), https://www.who.int/news-room/fact-sheets/detail/hypertension]
+- The UK's NICE confirms a high clinic reading (140/90 to 180/120) with ambulatory or home monitoring before diagnosing hypertension. [clinical guidance: NICE (UK), NG136 "Hypertension in adults: diagnosis and management", recommendations, https://www.nice.org.uk/guidance/ng136/chapter/Recommendations]
+- A 2025 US guideline (AHA/ACC) retires and replaces the 2017 one; we opened only its abstract, so check whether its categories differ from the AHA page above. [clinical guidance: Jones DW, Ferdinand KC, Taler SJ et al (2025), https://pubmed.ncbi.nlm.nih.gov/40815242/]
+
+How to find out if you have it:
+- Have it measured: the UK's NHS says pharmacies, doctors' surgeries and some workplaces check it, and free pharmacy checks are offered to people aged 40 or over. [clinical guidance: NHS (UK), "Blood pressure test", https://www.nhs.uk/conditions/blood-pressure-test/]
+- The UK's NHS says to sit, rest your arm on a table, and expect the test to be repeated; for home checks take it twice, a minute apart, morning and evening, for the days your doctor sets. [clinical guidance: NHS (UK), "Blood pressure test", https://www.nhs.uk/conditions/blood-pressure-test/]
+- The UK's NHS says if you are 40 or over and have not been checked for more than 5 years, get it checked; NICE says to re-measure at least every 5 years if hypertension is not diagnosed. [clinical guidance: NICE (UK), NG136 "Hypertension in adults: diagnosis and management", recommendations, https://www.nice.org.uk/guidance/ng136/chapter/Recommendations]
+
+What it changes:
+- Age moves the treatment target, not the diagnosis line. NICE (UK) aims for a clinic reading below 140/90 in adults with hypertension under 80, and below 150/90 at 80 and over, using clinical judgement for frailty. [clinical guidance: NICE (UK), NG136 "Hypertension in adults: diagnosis and management", recommendations, https://www.nice.org.uk/guidance/ng136/chapter/Recommendations]
+- Age raises the chance of high blood pressure: the UK's NHS says you are more likely to get it as you get older, and WHO lists age over 65 as a risk factor. [clinical guidance: WHO, "Hypertension" fact sheet (25 September 2025), https://www.who.int/news-room/fact-sheets/detail/hypertension]
+- For Black adults the line is the same, but averages rise earlier. In England, African-Caribbean blood pressure moved above white from about 30 to 40, and the authors advise extra vigilance in screening from 30. [tested: Agyemang 2012, https://pubmed.ncbi.nlm.nih.gov/21881618/]
+- Children are judged against tables, not one number. The US AAP guideline (2017) bases its tables on normal-weight children and, from age 13, uses a simplified classification that aligns with the US adult guideline of that time; we did not open the tables, so no child figure is given. [clinical guidance: Flynn JT, Kaelber DC, Baker-Smith CM et al (2017), https://pubmed.ncbi.nlm.nih.gov/28827377/]
+- Weight is a risk factor, not a separate normal: the UK's NHS lists living with obesity as raising risk, and the AHA page lists one set of categories. [clinical guidance: NHS (UK), "Blood pressure test", https://www.nhs.uk/conditions/blood-pressure-test/]
+
+What it does not change:
+- Being a man or a woman: the UK's NHS, WHO and the US American Heart Association pages opened give one set of thresholds with no separate figures for men and women. [clinical guidance: NHS (UK), "High blood pressure (hypertension)", https://www.nhs.uk/conditions/high-blood-pressure-hypertension/]
+- Feeling well: the UK's NHS says high blood pressure usually causes no symptoms, so a normal feeling is not a normal reading. [clinical guidance: NHS (UK), "High blood pressure (hypertension)", https://www.nhs.uk/conditions/high-blood-pressure-hypertension/]
+- Being fit: the UK's NHS says low blood pressure can be because you are fit and healthy, or inherited, and that you may need treatment if it causes symptoms; dizziness or fainting is the cue to get it checked. [clinical guidance: NHS (UK), "Low blood pressure (hypotension)", https://www.nhs.uk/conditions/low-blood-pressure-hypotension/]
+
+See someone when:
+- A clinic reading of 140/90 or higher, or a home average of 135/85 or higher (UK NHS thresholds), or a top number of 130 or more, or a bottom number of 80 or more, on repeated checks (US stage 1): doctor.
+- A reading over 180/120 with no symptoms: call your healthcare professional (US AHA advice). With chest pain, breathlessness, back pain, numbness, weakness, vision change or trouble speaking, call 911 in the US or your local emergency number (999 in the UK, 112 in the EU).
+- Keep getting dizziness, nausea, blurred vision, weakness or fainting with readings under 90/60 (UK NHS): doctor.
+- A child or teenager has a high reading: ask the doctor to read it against the paediatric tables.
 
 ## PCOS, endometriosis and heavy periods
 URL: https://vilivity.com/body/pcos-endometriosis-and-heavy-periods/
@@ -2849,6 +3165,36 @@ In other countries:
 - In Ghana, the Ghana Health Service said in June 2025 it is pursuing newborn screening initiatives for sickle cell disease. (https://ghs.gov.gh/news-and-events/ghana-health-service-marks-world-sickle-cell-day-with-hope-and-action)
 - In Kenya, a Ministry of Health policy (June 2023) sets out how to carry out universal infant screening for sickle cell disease. (https://www.health.go.ke/sites/default/files/2023-06/Policy%20guidelines%20on%20infant%20screening%20of%20Sickle%20Cell%20Disease.pdf)
 - WHO says early diagnosis, for example through newborn screening, is essential for managing sickle-cell disease. (https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease)
+
+## Sickle cell disease: what it is, treatment and newborn screening
+URL: https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/
+Module: Body
+Tier: B thin (Observed in Black populations)
+Harm signal: no
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Sickle cell disease is inherited: you need the gene from both parents. One copy is trait, not the disease. A blood test tells you. Newborn screening is offered in the UK (NHS) and all US states, not yet universally in sub-Saharan Africa. Care helps manage it; in the US, life expectancy is about 20 years shorter.
+
+Do:
+- If you are in the UK, take up the newborn blood spot test, usually at 5 days: results come by 6 weeks and go in your baby's red book. If your baby missed it, tell your midwife, health visitor or doctor. [clinical guidance: NHS (UK), "Newborn blood spot test", https://www.nhs.uk/conditions/baby/newborn-screening/blood-spot-test/]
+- If you do not know your status, ask a doctor for a carrier blood test at any time (UK NHS). If you are pregnant in the UK, the midwife offers screening before 10 weeks. [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+- If you have the disease, keep to your care plan and regular check-ups, stay up to date with vaccinations and drink plenty of fluids (UK NHS). [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+- Ask your sickle cell specialist what is open to you: the UK's NHS names hydroxycarbamide (hydroxyurea), blood transfusion, stem cell transplant and gene therapy. [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+- If you have the disease and are planning a pregnancy, WHO advises genetic counselling, timing the pregnancy for when you are well and making an emergency plan for crises. [clinical guidance: WHO, "Sickle-cell disease" fact sheet (6 August 2025), https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease]
+
+Avoid:
+- Treating trait as the disease: the UK's NHS says a trait carrier does not have the disease and cannot develop it, but can pass it on. [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+- Alcohol and smoking if you have the disease: the UK's NHS says they can raise the risk of acute chest syndrome. [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+- Driving yourself to A&E in the UK during a crisis: call 999 or your local emergency number for severe pain, breathing trouble or being sick. [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+- Waiting for symptoms before testing a baby: they can start from about 6 months (UK NHS), which is why newborn screening exists. [clinical guidance: NHS (UK), "Sickle cell disease", https://www.nhs.uk/conditions/sickle-cell-disease/]
+
+See someone when:
+- Sudden severe pain, breathing difficulty or being sick with sickle cell disease, a high temperature with the disease, or a painful erection that will not go away: call 999 in the UK, 911 in the US and Canada, 112 in the EU, or your local emergency number.
+- A baby of about 5 to 6 months has painful swelling of the hands or feet, is unusually fussy or tired, or has yellow skin or eyes (US MedlinePlus lists these early signs), especially with no newborn screening result on record: see a doctor.
+- You are not sure whether you carry the gene and are planning a pregnancy (doctor, for a blood test and counselling).
+- You have the disease and period pain feels like your sickle cell pain: tell your sickle cell team, who can involve a gynaecologist (do not change your contraception yourself).
 
 ## Sickle cell trait and hard exercise
 URL: https://vilivity.com/body/sickle-cell-trait-and-hard-exercise/
@@ -3346,6 +3692,34 @@ See someone when:
 - Food is taking over your thoughts, or you are eating very little (doctor or an eating disorder service).
 - You are fasting for religious reasons with diabetes or sickle cell (see the Ramadan and religious fasting entry).
 
+## Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions
+URL: https://vilivity.com/food/intermittent-fasting-for-specific-groups/
+Module: Food
+Tier: B thin (Tested, but not in people like you)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Intermittent fasting is not one answer for everyone. In trials of women with overweight, it lowered BMI and fasting blood sugar a little. Australia's official health service says it is not recommended for children, teenagers or older adults. Nothing we found tests it in Black women by life stage, or with thyroid or heart disease. Talk to your doctor first.
+
+Do:
+- Healthdirect (Australia) says intermittent fasting is not safe for children, teenagers, older adults, anyone underweight, or anyone taking daily medicine that must be taken with food; if you have cancer treatment or take diabetes medicines, talk to your doctor first. [clinical guidance: healthdirect (Australia), "Intermittent fasting", https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting]
+- If you try it and feel weak, anxious, irritable or cannot concentrate, stop and speak to your doctor (healthdirect, Australia). [clinical guidance: healthdirect (Australia), "Intermittent fasting", https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting]
+- Drink enough water on fasting days; you also get fluid from the food you skip. [clinical guidance: healthdirect (Australia), "Intermittent fasting", https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting]
+- Expect a small effect: in trials of women with overweight, BMI fell by about 0.4 points on average and fasting blood sugar a little. [tested: He 2026, https://pubmed.ncbi.nlm.nih.gov/42221756/]
+
+Avoid:
+- Intermittent fasting if you have had an eating disorder, are pregnant or breastfeeding: the UK's NHS says not to attempt it. [clinical guidance: NHS My Health London (UK), "Intermittent fasting", https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/]
+- Never delay or skip meals if you have diabetes (British Dietetic Association, quoted on the UK's NHS My Health London page); do not change any medicine yourself. [clinical guidance: NHS My Health London (UK), "Intermittent fasting", https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/]
+- Treating a very short eating window as a safe heart plan: a preliminary US study (news release only, not peer reviewed at the time) linked eating within under 8 hours with more cardiovascular death, including in people with heart disease. It cannot show cause. [common advice, untested: American Heart Association (2024), https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death]
+
+See someone when:
+- You have high blood pressure, a heart condition or a thyroid condition and are thinking of fasting (doctor, before you start).
+- You are 18 or under, or older and losing weight without meaning to (doctor).
+- You feel faint, weak or unusually anxious while fasting (doctor, and stop).
+- You have chest pain, severe breathlessness or fainting: call your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU).
+
 ## Kola nut: caffeine, the heart and health claims
 URL: https://vilivity.com/food/kola-nut/
 Module: Food
@@ -3543,6 +3917,35 @@ See someone when:
 - You have cancer and are thinking of stopping or delaying treatment for a herbal remedy (your cancer team, first).
 - New tremor, stiffness, balance problems, hallucinations or memory loss in someone who uses soursop regularly (doctor, urgently).
 - You take diabetes or blood pressure medicine and drink soursop leaf tea (pharmacist or doctor).
+
+## Taking too many vitamins and supplements
+URL: https://vilivity.com/food/taking-too-many-vitamins/
+Module: Food
+Tier: D (Untested)
+Harm signal: yes
+Founder's own practice: no
+Last checked: 2026-11-17
+Clinical review: not yet clinically reviewed
+
+Answer: Yes. Food rarely causes trouble, but supplements can, and the safe daily ceiling differs by vitamin and by country. Some taken in large amounts cause stomach upset; others build up in the body, such as vitamin A and vitamin D. Add up everything you take, and ask a pharmacist or doctor if you are pregnant.
+
+Do:
+- Add up every product you take (a multivitamin plus a single vitamin plus fortified drinks can double up) and compare each total with the ceiling for your country. In the UK, the NHS figures to stay under are: vitamin A 1.5 mg a day from food and supplements together; and from supplements, vitamin B6 10 mg, vitamin D 100 micrograms (4,000 IU, for adults and children aged 11 and over; lower for younger children) and iron 17 mg, unless a doctor advises otherwise. The NHS pages were last reviewed in August 2020. [clinical guidance: NHS (UK), "Vitamins and minerals" pages for vitamin A, vitamin B, vitamin D and iron, https://www.nhs.uk/conditions/vitamins-and-minerals/]
+- In the US, the National Library of Medicine (NIH) MedlinePlus gives the vitamin D upper limit as 4,000 IU (100 micrograms) a day for children and adults aged 9 and over, and says amounts of vitamin C above 2,000 mg a day are not recommended. The UK NHS figure for vitamin C is lower: under 1,000 mg a day. The two bodies differ, so do not treat one number as universal. [clinical guidance: MedlinePlus (US National Library of Medicine, NIH), "Vitamin D" and "Vitamin C", https://medlineplus.gov/ency/article/002405.htm]
+- Eat a varied diet first: the UK NHS says you should be able to get what you need that way, and that taking too much of a supplement could be harmful. [clinical guidance: NHS (UK), "Vitamin C", https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/]
+- Keep iron out of reach of children: the UK NHS says very high doses of iron can be fatal, particularly in children. [clinical guidance: NHS (UK), "Iron", https://www.nhs.uk/conditions/vitamins-and-minerals/iron/]
+
+Avoid:
+- Liver and liver products, and large doses of vitamin A, if you are pregnant or may become pregnant: the UK NHS says to avoid liver and liver products in pregnancy, and MedlinePlus (US) says large vitamin A doses in pregnancy can cause birth defects. Ask a pharmacist or doctor before any vitamin A supplement. [clinical guidance: NHS (UK), "Vitamin A"; MedlinePlus (US), "Vitamin A", https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/]
+- Large vitamin B6 supplements: the UK NHS says 200 mg or more a day can cause nerve damage (numbness, tingling) that in a few people was permanent, and advises no more than 10 mg a day in supplements unless a doctor says otherwise; the effect between 10 and 200 mg is unclear. [clinical guidance: NHS (UK), "Vitamin B", https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/]
+- Taking more because you feel unwell or tired without a blood test: too much vitamin D over a long time can raise blood calcium (hypercalcaemia) and harm the bones, kidneys and heart, says the UK NHS. [clinical guidance: NHS (UK), "Vitamin D", https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/]
+- Beta-carotene supplements if you smoke or have been exposed to asbestos: the UK NHS says they raised lung cancer risk in these groups. [clinical guidance: NHS (UK), "Other vitamins and minerals", https://www.nhs.uk/conditions/vitamins-and-minerals/others/]
+
+See someone when:
+- You are pregnant, planning a pregnancy or breastfeeding and take any supplement (doctor, midwife or pharmacist, before the next dose).
+- You take a prescribed medicine and want to add a supplement (pharmacist).
+- Tingling or numbness in hands or feet, ongoing nausea, constipation, stomach pain, weakness or confusion while taking supplements (doctor; the US MedlinePlus vitamin D page lists weakness and confusion).
+- A child has swallowed iron tablets or a large amount of any supplement: get urgent medical help straight away (check the emergency number for your country).
 
 ## Turmeric and curcumin supplements
 URL: https://vilivity.com/food/turmeric-and-curcumin-supplements/
@@ -4083,6 +4486,7 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/35994632/
 Citation: Merz LE, Story CM, Osei MA, Jolley K et al (2023), Blood Advances
 - In A low white cell count that may be Duffy-null (neutrophil count): 120 healthy self-identified Black and African American adults at one US primary care centre (n=120). 66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 cells per microlitre in Duffy-null people against 5,005 in Duffy non-null (P<.001). 23.8% (19 of 80) of Duffy-null people had a count below 2,000, against none of the non-null. The authors state the Duffy-null phenotype is clinically insignificant and advocate Duffy-null-specific reference ranges.
 - In Haemoglobin and white cell ranges on your blood test: 120 healthy self-identified Black adults at one primary care centre (n=120). 66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 per microlitre in Duffy-null and 5,005 in Duffy non-null (P under .001); 19 of 80 Duffy-null adults had counts under 2,000 and none of the others did. The authors call the Duffy-null phenotype clinically insignificant and advocate Duffy-null-specific ranges and replacing the term benign ethnic neutropenia.
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: 120 healthy self-identified Black and African American adults at one US primary care centre (n=120). 66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 per microlitre in Duffy-null and 5,005 in Duffy non-null (P under .001); 19 of 80 Duffy-null adults had counts under 2,000 and none of the others did. The abstract says many people of African ancestry have lower neutrophil counts without increased infection risk, calls the Duffy-null phenotype clinically insignificant, and advocates Duffy-null-specific ranges.
 
 ## Reduced neutrophil count in people of African descent is due to a regulatory variant in the Duffy antigen receptor for chemokines gene
 URL: https://vilivity.com/studies/reich-2009-19180233/
@@ -4141,6 +4545,7 @@ Citation: Beutler E, West C (2005), Blood
 - In Alpha-thalassaemia trait: small red cells that are not low iron: 1,491 African American and 31,005 white people with routine blood results and stored samples, about half men and half women (n=32496). Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans; ferritin was higher. The -3.7 kb alpha-thalassaemia deletion accounted for about one third of the haemoglobin difference; sickle trait and raised creatinine had no effect. Of women, 19.8% of African Americans and 5.3% of white women would be called anaemic; without iron-deficient or thalassaemic people the figures were 6.1% and 2.77% (men 17.7% and 7.6%, then 4.29% and 3.6%). The authors say the same reference standards do not apply to all ethnic groups.
 - In Haemoglobin and white cell ranges on your blood test: 1,491 African American and 31,005 white people with routine laboratory results, about half men and half women (n=32496). Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans and ferritin higher. The -3.7 kb alpha-thalassaemia deletion accounted for about a third of the haemoglobin difference. With iron-deficient and thalassaemic people removed, the share classed anaemic was 6.1% against 2.77% in women and 4.29% against 3.6% in men.
 - In Iron, heavy periods and fibroids: 1,491 African-American and 31,005 White laboratory subjects (n=32496). Haemoglobin, haematocrit and MCV were lower in African-Americans. Among all subjects 19.8% of African-American women would be classed as anaemic against 5.3% of White women; after removing iron-deficient and thalassaemic subjects the gap narrowed to 6.1% and 2.77%. The alpha-thalassaemia deletion explained about a third of the haemoglobin difference. The authors say the same reference standards do not apply to all ethnic groups.
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: 1,491 African American and 31,005 white people with routine laboratory results, about half men and half women (n=32496). Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans and ferritin higher. The -3.7 kb alpha-thalassaemia deletion accounted for about a third of the haemoglobin difference; sickle trait had no effect. Before iron deficiency and thalassaemia were removed, 19.8% of African American women and 5.3% of white women would have been classed anaemic; after, 6.1% and 2.77%. The authors say the same reference standards do not apply to all ethnic groups.
 
 ## The α-thalassemias
 URL: https://vilivity.com/studies/piel-2014-25390741/
@@ -4178,6 +4583,96 @@ URL: https://vilivity.com/studies/bmj-2025-41789013/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/41789013/
 Citation: BMJ Nutrition, Prevention and Health (retraction notice) (2025), BMJ Nutrition, Prevention and Health
 - In Apple cider vinegar: weight, blood sugar and safety: Lebanese adolescents and young adults with overweight and obesity (a 2024 randomised trial of apple cider vinegar for weight) (n=not applicable). BMJ Nutrition, Prevention and Health retracted its 2024 trial of apple cider vinegar for weight management in Lebanese young people. The notice I opened gives the DOI of the retracted article and no reasons in the part I read.
+
+## Effects of Withania somnifera on Cortisol Levels in Stressed Human Subjects: A Systematic Review
+URL: https://vilivity.com/studies/della-2023-38140274/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38140274/
+Citation: Della Porta M, Maier JA, Cazzola R (2023), Nutrients
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: Stressed adults in 9 clinical trials (country and ethnicity not stated in the abstract) (n=9 trials). Supplementation decreased cortisol with no significant adverse effects. The studies differed in design, dose and duration. None looked at the effect of lowering cortisol on adrenal function or at long-term effects.
+
+## The effect of Withania somnifera (Ashwagandha) on mental health symptoms in individuals with mental disorders: systematic review and meta-analysis
+URL: https://vilivity.com/studies/marchi-2025-41140145/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41140145/
+Citation: Marchi M, Grenzi P, Travascio A, Uberti D et al (2025), BJPsych Open
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 360 people treated and 353 controls in 14 randomised trials, people with mental disorders (mostly anxiety; inclusion was any age), median dose 600 mg a day, median follow-up 8 weeks (n=713). Ashwagandha improved anxiety, depression, stress and sleep quality compared with comparators. The Bayesian analysis confirmed the anxiety result but not the depression result. The authors list few studies, large differences between studies and outlier effects as limits. No significant difference in safety or tolerability.
+
+## Body Weight Management in Adults Under Chronic Stress Through Treatment With Ashwagandha Root Extract: A Double-Blind, Randomized, Placebo-Controlled Trial
+URL: https://vilivity.com/studies/choudhary-2017-27055824/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/27055824/
+Citation: Choudhary D, Bhattacharyya S, Joshi K (2017), Journal of Evidence-Based Complementary & Alternative Medicine
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 52 adults under chronic stress (country and ethnicity not stated in the abstract) (n=52). Perceived stress, food cravings, eating behaviour, serum cortisol, body weight and BMI all improved compared with placebo. The extract was reported safe and tolerable.
+
+## The Impact of Ashwagandha on Stress, Sleep Quality, and Food Cravings in College Students: Quantitative Analysis of a Double-Blind Randomized Control Trial
+URL: https://vilivity.com/studies/o-connor-2022-35984871/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35984871/
+Citation: O'Connor J, Lindsay K, Baker C, Kirby J et al (2022), Journal of Medicinal Food
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 60 healthy college students, Colorado Springs, US (ethnicity not stated in the abstract) (n=60). Restorative sleep scores were better on ashwagandha (58.4 against 48.2, adjusted for starting sleep) and food cravings were lower than on placebo by the end. The overall test for sleep and stress together was not significant; the authors say stress differences usually need about six weeks.
+
+## Efficacy and Safety of Ashwagandha Root Extract on Cognitive Functions in Healthy, Stressed Adults: A Randomized, Double-Blind, Placebo-Controlled Study
+URL: https://vilivity.com/studies/gopukumar-2021-34858513/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/34858513/
+Citation: Gopukumar K, Thanawala S, Somepalli V, Rao TSS et al (2021), Evidence-Based Complementary and Alternative Medicine
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 130 healthy stressed adults aged 20 to 55 (125 completed); registered in the Clinical Trials Registry-India; ethnicity not stated (n=130). Recall memory scores improved and pattern recall errors fell compared with placebo. Perceived stress, serum cortisol and sleep quality scores improved and happiness scores rose.
+
+## Immunomodulatory Effect of Withania somnifera (Ashwagandha) Extract-A Randomized, Double-Blind, Placebo Controlled Trial with an Open Label Extension on Healthy Participants
+URL: https://vilivity.com/studies/tharakan-2021-34441940/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/34441940/
+Citation: Tharakan A, Shukla H, Benny IR, Tharakan M et al (2021), Journal of Clinical Medicine
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: Healthy adults (number not stated in the abstract), 30-day blinded period then 30-day open-label extension (n=not stated in the abstract). Blood levels of several immunoglobulins, cytokines and immune cell counts (including NK cells) rose in the ashwagandha group. No adverse events reported. The abstract reports lab markers, not fewer infections.
+
+## A Prospective, Randomized, Double-Blind, Placebo-Controlled Clinical Study of Efficacy and Safety of Ashwagandha Root Extract Capsule on Skin and Hair Health in Healthy Adults
+URL: https://vilivity.com/studies/jillella-2026-41770039/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41770039/
+Citation: Jillella A, Keerthi N, Venkateswar Reddy J (2026), Phytotherapy Research
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: Adults aged 18 to 60 with hair loss or skin conditions (number not stated in the abstract), one clinic in Hyderabad, India (n=not stated in the abstract). Greater improvement than placebo in transepidermal water loss (skin barrier), in hair density, growth and anagen:telogen ratio, and in skin and hair quality-of-life scores. No adverse events. The extract was supplied by the manufacturer, Ixoreal Biomed.
+
+## Effects of Withania somnifera root extract serum application on hair health in healthy adults: A prospective, double-blind, randomized, parallel, placebo-controlled study
+URL: https://vilivity.com/studies/yerram-2023-38006746/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38006746/
+Citation: Yerram C, Jillella A, Reddy V (2023), Journal of Ayurveda and Integrative Medicine
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: Healthy adults aged 18 to 45 with mild to moderate hair loss (61 analysed), India (n=61). Hair shedding fell in the 60-second comb test and hair density, growth and thickness improved compared with placebo at day 75.
+
+## Impact of ashwagandha (Withania somnifera L.) supplementation on serum lipid concentrations and anthropometric parameters in adults with overweight and obesity: a double-blind, placebo-controlled pilot study
+URL: https://vilivity.com/studies/ballesteros-torres-2025-41204297/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41204297/
+Citation: Ballesteros-Torres JM, Vazquez-Aguilar A, Luzardo-Ocampo I, Escalante-Aburto A et al (2025), Nutrition & Metabolism
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 43 adults with overweight or obesity, Mexico (the abstract reports 17 control and 21 intervention) (n=43). No significant change in weight, BMI or waist circumference. Triglycerides and VLDL cholesterol fell. The authors call for longer studies.
+
+## Safety of Ashwagandha Root Extract: A Randomized, Placebo-Controlled, study in Healthy Volunteers
+URL: https://vilivity.com/studies/verma-2021-33338583/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33338583/
+Citation: Verma N, Gupta SK, Tiwari S, Mishra AK (2021), Complementary Therapies in Medicine
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 80 healthy adults (40 men, 40 women), Lucknow, India (n=80). No untoward effects in any treated volunteer. Blood counts, biochemistry including liver tests, vital signs including blood pressure, and thyroid hormones showed no significant abnormal change.
+
+## Back to the Roots: Safety and Tolerability of Standardised Ashwagandha (Withania somnifera) Root Extract in Healthy Adults-A Systematic Review of Biomarkers and Adverse Events
+URL: https://vilivity.com/studies/coope-2026-42198398/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42198398/
+Citation: Coope OC, Willems MET, Levington A, Tallon MJ et al (2026), Pharmaceuticals (Basel)
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 2,317 healthy adults in 23 randomised trials of standardised, single-ingredient root extract (125 to 600 mg a day, up to 180 days) (n=2317). Liver, kidney, blood, hormone and cardiovascular markers stayed within normal ranges. No serious adverse events attributable to the extract. Mild effects (stomach discomfort, headache, drowsiness) were infrequent and occurred in both treatment and comparison groups. Long-term data beyond 180 days are limited.
+
+## Ashwagandha-induced liver injury-A case series from India and literature review
+URL: https://vilivity.com/studies/philips-2023-37756041/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/37756041/
+Citation: Philips CA, Valsan A, Theruvath AH, Ravindran R et al (2023), Hepatology Communications
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 8 patients with liver injury from single-ingredient ashwagandha products (of 23 with ashwagandha-related injury), multiple centres in India, 2019 to 2022 (n=8). Cholestatic hepatitis was the commonest presentation. Five had existing chronic liver disease; three of them presented with acute-on-chronic liver failure and all three died. In the others the injury was prolonged but resolved on its own, and one progressed to chronic injury. The product contained only natural plant chemicals, with no adulteration found.
+
+## Ashwagandha and Kidney Transplant Rejection
+URL: https://vilivity.com/studies/sriperumbuduri-2020-33305135/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33305135/
+Citation: Sriperumbuduri S, Umar MS, Lajoie-Starkell G, Fairhead TR et al (2020), Kidney International Reports
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: One 69-year-old male kidney transplant recipient, Ottawa, Canada (n=1). He developed acute rejection requiring removal of the transplanted kidney after using ashwagandha, while taking tacrolimus, mycophenolate and prednisone. The authors recommend warning transplant recipients about herbal products including ashwagandha.
+
+## Painless Thyroiditis by Withania somnifera (Ashwagandha)
+URL: https://vilivity.com/studies/hayashi-2024-38559552/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38559552/
+Citation: Hayashi M, Hamada H, Azuma SI, Hayashi K (2024), Cureus
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: One 47-year-old previously healthy Japanese man (n=1). Painless thyroiditis with an overactive thyroid two months after starting ashwagandha; symptoms and thyroid blood tests improved after he stopped.
+
+## Estimated Exposure to 6 Potentially Hepatotoxic Botanicals in US Adults
+URL: https://vilivity.com/studies/likhitsup-2024-39102266/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39102266/
+Citation: Likhitsup A, Chen VL, Fontana RJ (2024), JAMA Network Open
+- In Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver: 9,685 US adults in the NHANES survey, 2017 to March 2020 (n=9685). Ashwagandha-containing products were used by 28 of the survey adults. An estimated 15.6 million US adults had used at least one of six botanicals with a liver-injury link (turmeric, green tea extract, ashwagandha, Garcinia cambogia, red yeast rice, black cohosh) in the past 30 days, similar to the number taking the cholesterol drug simvastatin (about 14 million) or NSAID painkillers (about 14.8 million).
 
 ## Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials
 URL: https://vilivity.com/studies/akhgarjand-2022-36017529/
@@ -4592,6 +5087,60 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/21677119/
 Citation: Linday LA (2010), Journal of the American College of Nutrition
 - In Cod liver oil: vitamin D, vitamin A and colds: Young children (US, low-income; details not given in the abstract) (n=not stated). The author reports that these supplements cut winter and spring visits for upper respiratory illness by 36% to 58%. The paper notes cod liver oil is culturally valued and has been a folk remedy among many low-income minorities in the United States.
 
+## Effect of collagen supplementation on knee osteoarthritis: an updated systematic review and meta-analysis of randomised controlled trials
+URL: https://vilivity.com/studies/simental-mendia-2025-39212129/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39212129/
+Citation: Simental-Mendia M, Ortega-Mata D, Acosta-Olivo CA, Simental-Mendia LE et al (2025), Clinical and Experimental Rheumatology
+- In Collagen for hair, nails and joints: Adults with knee osteoarthritis in 11 randomised trials (451 on collagen, 419 on placebo) (n=870). Collagen supplements improved function (mean difference -6.46) and pain scores (-13.63) compared with placebo. Results varied widely between trials (I2 75% for function, 88% for pain). The authors conclude it relieves osteoarthritis symptoms.
+
+## Effect of collagen supplementation on osteoarthritis symptoms: a meta-analysis of randomized placebo-controlled trials
+URL: https://vilivity.com/studies/garcia-coronado-2019-30368550/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/30368550/
+Citation: Garcia-Coronado JM, Martinez-Olvera L, Elizondo-Omana RE, Acosta-Olivo CA et al (2019), International Orthopaedics
+- In Collagen for hair, nails and joints: Adults with osteoarthritis in randomised placebo-controlled trials of oral collagen (n=not recorded). Total WOMAC score and VAS pain score fell with collagen, and stiffness improved. The WOMAC pain and function sub-scores did not differ significantly from placebo.
+
+## Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis
+URL: https://vilivity.com/studies/liu-2018-29018060/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/29018060/
+Citation: Liu X, Machado GC, Eyles JP, Ravi V, Hunter DJ (2018), British Journal of Sports Medicine
+- In Collagen for hair, nails and joints: People with hand, hip or knee osteoarthritis in 69 randomised trials of 20 dietary supplements (n=not recorded). Collagen hydrolysate was one of 7 supplements with large short-term pain effects. No supplement had clinically important effects on pain at long term, and evidence quality was rated very low to high, very low overall.
+
+## Influence of collagen peptide supplementation on visible signs of skin and nail health and -aging in an East Asian population: A double blind, randomized, placebo-controlled trial
+URL: https://vilivity.com/studies/vleminckx-2024-39143887/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39143887/
+Citation: Vleminckx S, Virgilio N, Asserin J, Prawitt J, Silva CIF (2024), Journal of Cosmetic Dermatology
+- In Collagen for hair, nails and joints: 85 healthy women aged 43 to 65, East Asian population (n=85). Skin density and moisture improved over placebo at 84 days. Nail colour and overall beauty perception improved within 28 days in the collagen group; the placebo group showed the same effects only at 84 days. Hair was not measured.
+
+## A Clinical Trial Shows Improvement in Skin Collagen, Hydration, Elasticity, Wrinkles, Scalp, and Hair Condition following 12-Week Oral Intake of a Supplement Containing Hydrolysed Collagen
+URL: https://vilivity.com/studies/reilly-2024-39021368/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39021368/
+Citation: Reilly DM, Kynaston L, Naseem S, Proudman E, Laceby D (2024), Dermatology Research and Practice
+- In Collagen for hair, nails and joints: Adults taking a hydrolysed collagen plus vitamin C supplement, daily or every 48 hours (number not given in the abstract) (n=not recorded). At 12 weeks the supplement group had better skin hydration and elasticity. The number of hairs counted rose 27.6% against placebo, which was not statistically significant (p not significant); the rating for healthy hair appearance rose 31.9% (p<0.01).
+
+## Efficacy and Safety of Low-Molecular-Weight Collagen Peptide GT for Improving Hair Condition in Individuals with Damaged Hair: A Randomized, Double-Blind, Placebo-Controlled Trial
+URL: https://vilivity.com/studies/kim-2026-42624827/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42624827/
+Citation: Kim TK, Oh J, Ha YS, Son HJ et al (2026), International Journal of Stem Cells
+- In Collagen for hair, nails and joints: Korean adults aged 19 to 60 with mild to moderate hair damage and no alopecia (number not given in the abstract) (n=not recorded). Compared with placebo, hair gloss, elasticity (tensile strength) and diameter improved, and scalp elasticity rose. No treatment-related adverse events.
+
+## Efficacy and tolerability of an oral supplement containing amino acids, iron, selenium, and marine hydrolyzed collagen in subjects with hair loss (androgenetic alopecia, AGA or FAGA or telogen effluvium). A prospective, randomized, 3-month, controlled, assessor-blinded study
+URL: https://vilivity.com/studies/milani-2023-37357646/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/37357646/
+Citation: Milani M, Colombo F et al (2023), Skin Research and Technology
+- In Collagen for hair, nails and joints: 83 people with hair loss (androgenetic alopecia or chronic telogen effluvium); 26 men, 57 women (n=83). The supplement group scored higher on a photo-based global assessment at 12 weeks (1.67 against 0.66, p<0.001).
+
+## Myths and media in oral collagen supplementation for the skin, nails, and hair: A review
+URL: https://vilivity.com/studies/rustad-2022-34694676/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/34694676/
+Citation: Rustad AM, Nickles MA, McKenney JE, Bilimoria SN, Lio PA (2022), Journal of Cosmetic Dermatology
+- In Collagen for hair, nails and joints: Claims on Instagram and YouTube, by collagen companies, and in the literature (n=not recorded). Some studies show better skin elasticity and hydration, but dermatology claims in the media go beyond the evidence; the authors say more research is needed.
+
+## Collagen Peptide Supplementation Enhances Muscle-Tendon Stiffness and Explosive Strength: A 16-wk Randomized Controlled Trial
+URL: https://vilivity.com/studies/miyamoto-2025-40623147/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40623147/
+Citation: Miyamoto N, Ishihara K, Oshima T, Kawai M et al (2025), Medicine and Science in Sports and Exercise
+- In Collagen for hair, nails and joints: 50 healthy young sedentary men (n=50). Calf muscle and Achilles tendon stiffness rose and rate of torque development rose; tendon and muscle size and maximal strength did not change.
+
 ## Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis
 URL: https://vilivity.com/studies/pu-2023-37432180/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/37432180/
@@ -4603,6 +5152,54 @@ URL: https://vilivity.com/studies/myung-2025-40324552/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/40324552/
 Citation: Myung SK, Park Y (2025), American Journal of Medicine
 - In Collagen supplements for skin and joints: Adults in 23 randomised trials of collagen supplements for skin ageing (n=1474). Across all trials, collagen improved hydration, elasticity and wrinkles. Trials not funded by pharmaceutical companies found no effect, as did high-quality trials, while industry-funded and low-quality trials found benefit. The authors conclude there is currently no clinical evidence to support collagen supplements to prevent or treat skin ageing.
+
+## Colorectal cancer screening for average-risk adults: 2018 guideline update from the American Cancer Society
+URL: https://vilivity.com/studies/wolf-2018-29846947/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/29846947/
+Citation: Wolf AMD, Fontham ETH, Church TR et al (2018), CA: A Cancer Journal for Clinicians
+- In Colonoscopy: when to start and how often: US average-risk adults, American Cancer Society 2018 guideline (n=not applicable). The ACS recommends that adults aged 45 and older at average risk have regular screening with a stool-based test or a visual exam, as a qualified recommendation at 45 to 49 and a strong one from 50. The modelling that included race and sex still identified strategies starting at 45; the abstract reports no race-specific start age.
+
+## Colorectal cancer screening: An update to the American Cancer Society guideline, 2026
+URL: https://vilivity.com/studies/wolf-2026-42200680/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42200680/
+Citation: Wolf AMD, Hoffman RM, Walter LC et al (2026), CA: A Cancer Journal for Clinicians
+- In Colonoscopy: when to start and how often: US average-risk adults, American Cancer Society 2026 update (n=not applicable). The ACS reaffirms starting at 45 and continuing to 75 for those with a life expectancy over 10 years, and says a positive result on any non-colonoscopy test needs timely follow-up colonoscopy, preferably within 6 months.
+
+## Updates on Age to Start and Stop Colorectal Cancer Screening: Recommendations From the U.S. Multi-Society Task Force on Colorectal Cancer
+URL: https://vilivity.com/studies/patel-2022-34794816/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/34794816/
+Citation: Patel SG, May FP, Anderson JC et al (2022), Gastroenterology
+- In Colonoscopy: when to start and how often: US average-risk adults, US Multi-Society Task Force (gastroenterology societies) (n=not applicable). The Task Force suggests average-risk screening begin at 45, while noting no literature shows screening under 50 improves outcomes such as incidence or death; the case rests on rising disease burden under 50, adenoma rates at 45 to 49 approaching those at 50 to 59, and modelling. For 76 to 85 the decision is individual; screening is not recommended after 85.
+
+## British Society of Gastroenterology/Association of Coloproctology of Great Britain and Ireland/Public Health England post-polypectomy and post-colorectal cancer resection surveillance guidelines
+URL: https://vilivity.com/studies/rutter-2020-31776230/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/31776230/
+Citation: Rutter MD, East J, Rees CJ et al (2020), Gut
+- In Colonoscopy: when to start and how often: UK adults aged 18 and over after polyp removal or cancer surgery (n=not applicable). High risk of future bowel cancer after polypectomy is two or more premalignant polyps including at least one advanced polyp, or five or more premalignant polyps; this group has a one-off surveillance colonoscopy at 3 years.
+
+## Post-polypectomy colonoscopy surveillance: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2020
+URL: https://vilivity.com/studies/hassan-2020-32572858/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/32572858/
+Citation: Hassan C, Antonelli G, Dumonceau JM et al (2020), Endoscopy
+- In Colonoscopy: when to start and how often: Patients in Europe after complete polyp removal at a high-quality colonoscopy (n=not applicable). ESGE says 1 to 4 small adenomas (under 10 mm, low grade) or a small serrated polyp need no surveillance and return to screening (or a repeat colonoscopy at 10 years if there is no organised screening); an adenoma of 10 mm or more, high-grade dysplasia, 5 or more adenomas or a large serrated polyp needs a colonoscopy at 3 years.
+
+## Risk of colorectal adenomas and advanced neoplasia in Hispanic, black and white patients undergoing screening colonoscopy
+URL: https://vilivity.com/studies/lebwohl-2012-22540887/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/22540887/
+Citation: Lebwohl B, Capiak K, Neugut AI (2012), Alimentary Pharmacology and Therapeutics
+- In Colonoscopy: when to start and how often: 5,075 adults aged 50 and over having a first screening colonoscopy at one tertiary centre in the US (591 Black, 942 Hispanic, 3,542 white) (n=5075). At least one adenoma was found in 26% of Black patients, 22% of Hispanic and 19% of white patients. Black patients had a higher adenoma rate (risk ratio 1.76) and more advanced adenomas (odds ratio 1.91) than white patients.
+
+## Racial Differences in Colorectal Adenomas at Screening Colonoscopy in the United States
+URL: https://vilivity.com/studies/wu-2025-40063509/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40063509/
+Citation: Wu Y, de Groen PC, Natafgi N et al (2025), Cancer Epidemiology, Biomarkers and Prevention
+- In Colonoscopy: when to start and how often: 28,100 average-risk adults aged 40 to 89 at first screening colonoscopy in South Carolina, 58.4% Black (n=28100). Black patients had lower age- and sex-adjusted odds of an adenoma (odds ratio 0.88) than white patients, and similar odds of advanced adenoma or three or more non-advanced adenomas. The authors say polyp profiles were similar and that other factors must explain the higher bowel cancer rates in Black Americans.
+
+## Prevalence and Predictors of Young-Onset Colorectal Neoplasia: Insights From a Nationally Representative Colonoscopy Registry
+URL: https://vilivity.com/studies/trivedi-2022-35007513/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35007513/
+Citation: Trivedi PD, Mohapatra A, Morris MK et al (2022), Gastroenterology
+- In Colonoscopy: when to start and how often: Nearly 3 million outpatient colonoscopies in US ambulatory centres, patients aged 18 to 54 (n=not applicable). Among patients aged 45 to 49, 32% had any neoplasia, 7.5% an advanced premalignant lesion and 0.58% cancer; rates were almost as high at 40 to 44. Advanced lesions were higher in American Indian and Alaska Native patients and lower in Black, Asian and Hispanic patients than in white patients. A family history of bowel cancer brought neoplasia rates about 5 years earlier. The authors support starting at 45.
 
 ## Chemical and physical treatments damage Caucasian and Afro-ethnic hair fibre: analytical and image assays
 URL: https://vilivity.com/studies/bloch-2019-31237371/
@@ -4648,6 +5245,30 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/21875181/
 Citation: Cabral RR, Smith TB (2011), Journal of Counseling Psychology
 - In Colourism, skin tone and mental health: Clients and therapists across 52 to 81 studies per question; countries not stated in the abstract (n=52 preference, 81 perception, 53 outcome studies). Matching made almost no difference to treatment outcomes on average (d 0.09), despite a moderately strong preference for a matched therapist (d 0.63). Studies with African American participants had the highest effect sizes.
 - In Finding a Black therapist or one who understands being Black: Clients and therapists across 52 to 81 studies per question; countries not stated in the abstract (n=52 preference, 81 perception, 53 outcome studies). People preferred a therapist of their own race or ethnicity (d 0.63, moderately strong) and rated them somewhat more positively (d 0.32), but matching made almost no difference to treatment outcomes on average (d 0.09). Effects varied a lot between studies, and studies with African American participants had the highest effect sizes on all three.
+
+## Evaluating smartphone-based interventions for anxiety and depressive symptoms: A randomized controlled trial
+URL: https://vilivity.com/studies/zvolensky-2026-42617378/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42617378/
+Citation: Zvolensky MJ, Garey L, Gallagher MW, Cheney MK et al (2026), Behaviour Research and Therapy
+- In Coping with anxiety day to day: 822 US adults with raised anxiety or depression (25.1% African American, 25.3% American Indian, 24.6% Latinx, 25.1% non-Latinx White) (n=822). Differences between the two programmes were small and not statistically significant. Within each group anxiety, depression and anxiety sensitivity fell over the follow-up. Subgroup patterns by race and ethnicity varied but the study was not powered to test them.
+
+## Mindfulness-based therapy for insomnia in Black women: a pilot randomized controlled trial
+URL: https://vilivity.com/studies/nam-2024-39306634/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39306634/
+Citation: Nam S, Jeon S, Ordway M, Mazure C et al (2024), Journal of Behavioral Medicine
+- In Coping with anxiety day to day: 30 Black women with insomnia, US (n=30). Insomnia improved in both groups; anxiety and depression symptoms improved significantly only in the mindfulness group. Nearly all attended 6 to 8 of 8 sessions. The authors call it feasible and acceptable.
+
+## A digital mindfulness application for African American caregivers of people living with HIV/AIDS: feasibility trial findings
+URL: https://vilivity.com/studies/alexander-2026-42764478/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42764478/
+Citation: Alexander K, Carswell SB, Woolworth R, Simpson A et al (2026), AIDS Care
+- In Coping with anxiety day to day: 30 African American caregivers of people with HIV/AIDS, US (n=30). All 30 completed it, and 83.3% rated usability acceptable. Baseline anxiety and depression risk were high. Change in anxiety was not tested; the authors call for a randomised trial.
+
+## Aggregate Effects of Yoga-Based Volitional Breathing Interventions on Perceived Stress and Anxiety Levels Among Medical Students Worldwide: A Systematic Review and Meta-Analysis
+URL: https://vilivity.com/studies/thind-2026-42326246/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42326246/
+Citation: Thind A, Pisudde PM, Kochhar S (2026), Cureus
+- In Coping with anxiety day to day: Medical students worldwide: 7 studies (1 randomised trial, 6 single-arm) (n=None). A large fall in perceived stress and anxiety (standardised mean difference -1.25) with high heterogeneity (67%). Only one study was randomised.
 
 ## Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis
 URL: https://vilivity.com/studies/wang-2024-39519498/
@@ -5137,6 +5758,31 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/19209002/
 Citation: Lambert MI, Mann T, Dugas JP (2008), Medicine and Sport Science
 - In Heat, sweating and hydration: Narrative review of ethnicity and temperature regulation (n=not applicable). Phenotypic differences between groups living in different climates are very clear, but genotypic differences are less easy to discern because of the difficulty of controlling environmental and lifestyle factors. The authors say it is reasonable to assume more genetic differences will be found as data become available.
 
+## The association between subjective assessment of menstrual bleeding and measures of iron deficiency anemia in premenopausal African-American women: a cross-sectional study
+URL: https://vilivity.com/studies/bernardi-2016-27524363/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/27524363/
+Citation: Bernardi LA, Ghant MS, Andrade C, Recht H et al (2016), BMC Women's Health
+- In Heavy periods by life stage and cause: 44 premenopausal African American women, mean age 37.9, US (n=44). Iron deficiency was present in 68.2% and anaemia in 18.2%. Almost half said their periods were heavy or very heavy; of those, 35.0% were anaemic. Women reporting heavy periods had lower haemoglobin and ferritin than those reporting normal or light periods.
+- In Iron, heavy periods and fibroids: 44 premenopausal African American women, a pilot (n=44). Iron deficiency was present in 68.2% and anaemia in 18.2%. Women who reported heavy or very heavy periods had lower haemoglobin, haematocrit and ferritin and more anaemia symptoms. Of those reporting heavy periods, 35% were anaemic. The authors recommend evaluation for iron deficiency and anaemia whenever African American women report heavy bleeding.
+
+## Uterine fibroids with heavy menstrual bleeding stratified by race in a commercial and Medicaid database
+URL: https://vilivity.com/studies/agarwal-2024-39559275/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39559275/
+Citation: Agarwal SK, Stokes M, Chen R, Lickert C (2024), AJOG Global Reports
+- In Heavy periods by life stage and cause: 46,139 White and 17,297 Black women (commercial insurance) and 7,353 White and 16,776 Black women (Medicaid), US, with uterine fibroids and heavy menstrual bleeding (n=87565). Black women were diagnosed at a younger age; anaemia was more common (commercial 5.9% against 3.6%; Medicaid 7.0% against 4.5%). Hysterectomy was more common in White women (commercial 43.9% against 37.8%). About half stopped hormonal contraceptive treatment within about 5 months.
+
+## Menorrhagia, active component service women, U.S. Armed Forces, 1998-2012
+URL: https://vilivity.com/studies/dorsey-2013-24093961/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/24093961/
+Citation: Dorsey KA (2013), MSMR
+- In Heavy periods by life stage and cause: Active component US Armed Forces women, 1998 to 2012 (n=None). Incidence was 6.2 cases per 1,000 person years and rose each year. Rates were highest in women aged 40 to 49 and in women of black, non-Hispanic ethnicity. Fibroids and ovarian cysts were the most common co-occurring conditions; under 1% of cases had a documented bleeding disorder.
+
+## Pre-diagnosis symptoms reported among endometrial cancer survivors
+URL: https://vilivity.com/studies/wise-2026-42491348/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42491348/
+Citation: Wise MK, Brookes JJ, Wu T, Peterson M et al (2026), Gynecologic Oncology Reports
+- In Heavy periods by life stage and cause: 638 endometrial cancer survivors (36% Black or African American), Carolina Endometrial Cancer Study, US (n=638). Women with fibroids were more likely to report heavy periods (prevalence ratio 1.23) and periods over 7 days (1.37). After adjusting for age, fibroids and BMI, symptoms did not vary by race. Only 23% knew bleeding after menopause could be a sign of endometrial cancer.
+
 ## Effect of Hibiscus sabdariffaon blood pressure and electrolyte profile of mild to moderate hypertensive Nigerians: A comparative study with hydrochlorothiazide
 URL: https://vilivity.com/studies/nwachukwu-2015-26289514/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/26289514/
@@ -5172,6 +5818,7 @@ URL: https://vilivity.com/studies/agyemang-2012-21881618/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/21881618/
 Citation: Agyemang C, Humphry RW, Bhopal R (2012), American Journal of Hypertension
 - In High blood pressure in Black adults: 22,723 adults in the Health Surveys for England (1,379 African-Caribbean, 21,344 White) (n=22723). African-Caribbean blood pressure crossed above White at about 30-40 years. At 20-29 African-Caribbean men were advantaged, but not after that. African-Caribbean women had higher BMI than White women; men did not differ much. The authors advise extra vigilance in screening African-Caribbean patients from age 30 and call the mechanism "still mysterious".
+- In Normal blood pressure by age and sex, and for children: 22,723 adults in the Health Surveys for England (1,379 African-Caribbean, 21,344 white) (n=22723). African-Caribbean blood pressure crossed above white at about 30 to 40 years (28 for men's systolic pressure, 40 for women's diastolic). At 20 to 29 African-Caribbean men were advantaged, but not after that. The authors advise extra vigilance in screening African-Caribbean patients from age 30.
 - In Weight, BMI and losing weight safely: 22,723 adults in the Health Surveys for England (1,379 African-Caribbean) (n=22723). African-Caribbean women had higher BMI than white women; there was little difference in BMI in men.
 
 ## Antiretroviral prophylaxis for HIV prevention in heterosexual men and women
@@ -5281,6 +5928,7 @@ URL: https://vilivity.com/studies/yeary-2025-38986868/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/38986868/
 Citation: Yeary KHK, Johnson D, Harris N, Yu H et al (2025), Journal of the Academy of Nutrition and Dietetics
 - In Intermittent fasting for weight and health: Black adults with BMI of 25 or more, from five Black churches in Western New York State (n=42). Weight fell in both arms (fasting -3.5 kg, calorie reduction -2.9 kg). The fasting group ate about 414 kcal a day less than the calorie-reduction group, but ate less fruit, vegetables and fibre. Satisfaction was high. The authors conclude it is feasible and larger studies are needed.
+- In Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions: 42 Black adults with BMI 25 or more, 5 churches in Western New York State, US (n=42). Both arms lost weight (intermittent fasting -3.5 kg; calorie reduction -2.9 kg). Intermittent fasting led to lower daily energy and fat intake, and possibly lower fruit, vegetable and fibre intake. Satisfaction was high. The authors conclude it is feasible and call for larger studies.
 
 ## Do the Effects of Early Time-Restricted Eating Vary by Cardiometabolic Phenotype, Age, Sex, or Race? A Secondary Analysis of a Randomized Controlled Trial
 URL: https://vilivity.com/studies/rehman-2026-41941962/
@@ -5288,17 +5936,35 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/41941962/
 Citation: Rehman Z, Altonji OM, Steger FL, Jamshed H et al (2026), Journal of Nutrition
 - In Intermittent fasting for weight and health: Adults aged 25 to 75 with obesity (BMI 30 to 60) in a 14-week weight-loss trial; the race analysis used 13 Black participants (n=not stated for the whole trial). Early time-restricted eating lowered blood pressure in adults with hypertension and HbA1c in prediabetes, and raised cholesterol in people with severe obesity. Blood pressure and glucose measures improved more in Black than in White participants, but the authors say the Black group was small and the result needs further investigation.
 
+## The effects of intermittent fasting on BMI, fasting blood glucose, and blood pressure in women with overweight or obesity: a systematic review and meta-analysis with dose-response relationships
+URL: https://vilivity.com/studies/he-2026-42221756/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42221756/
+Citation: He H, Qin Z, Liu K, Wang Z et al (2026), Frontiers in Nutrition
+- In Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions: 22 randomised trials, 1,287 women with overweight or obesity (n=1287). Intermittent fasting reduced BMI a little (mean difference -0.41, borderline after removing one influential study) and fasting blood glucose (-2.18), with no significant effect on blood pressure. Heterogeneity in the BMI result was high (80%); subgroup findings were based on limited evidence. A frequency of about twice a week looked most favourable in modelling.
+
+## Impact of time-restricted eating on reproductive hormones and androgen markers in adult females: A systematic review
+URL: https://vilivity.com/studies/jirapak-2026-42429418/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42429418/
+Citation: Jirapak A, Adams E, Black GM, Devlin BL (2026), Nutrition and Health
+- In Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions: 6 studies of time-restricted eating in adult females (randomised trials in women with obesity; non-randomised studies in women with PCOS) (n=None). Randomised trials in women with obesity found no significant change in testosterone, oestrogen, progesterone, LH, cortisol, DHEA or SHBG. Non-randomised PCOS studies reported lower testosterone and LH, possibly because of weight loss. The authors call the evidence inconclusive.
+
+## Effects of Body-Mass-Scaled Protein and Leucine Supplementation on Body Composition and Cardiometabolic Blood Markers During Weight Loss in Older Men-A Randomized Controlled Trial
+URL: https://vilivity.com/studies/pang-2026-42884706/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42884706/
+Citation: Pang BWJ, Yang Y, Cheon BK (2026), Nutrients
+- In Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions: 61 older men with BMI 23 or more, in a four-week alternate-day fasting programme (n=61). Over four weeks body composition measures (not bone density), systolic blood pressure and lipids fell and muscle strength and function improved; the supplements gave no extra benefit except for diastolic blood pressure and HDL cholesterol. The authors note that fasting diets risk muscle loss in older people.
+
+## Ramadan fasting and thyroid function: a narrative review of physiological adaptation and clinical management
+URL: https://vilivity.com/studies/mohseni-2026-42801042/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42801042/
+Citation: Mohseni S, Mohajeri-Tehrani M, Larijani B, Pejman Sani M (2026), Journal of Diabetes and Metabolic Disorders
+- In Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions: Hyperthyroid people, adults and those fasting for Ramadan (n=None). In hyperthyroid patients direct evidence is limited and advice rests on expert opinion: fasting may be considered individually in stable, well-controlled disease, while active thyrotoxicosis needs caution.
+
 ## Uterine fibroid incidence and growth in an ultrasound-based, prospective study of young African Americans
 URL: https://vilivity.com/studies/baird-2020-32105679/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/32105679/
 Citation: Baird DD, Patchel SA, Saldana TM, Umbach DM et al (2020), American Journal of Obstetrics and Gynecology
 - In Iron, heavy periods and fibroids: 1,693 African American women aged 23-35 with no prior fibroid diagnosis (n=1693). Among 1,123 fibroid-free women with follow-up, incidence was 9.4% over about 18 months, rising from 6% at ages 23-25 to 13% at 32-35. Women with existing fibroids were more than twice as likely to develop new ones (relative risk 2.3). Average fibroid growth was 89% per 18 months.
-
-## The association between subjective assessment of menstrual bleeding and measures of iron deficiency anemia in premenopausal African-American women: a cross-sectional study
-URL: https://vilivity.com/studies/bernardi-2016-27524363/
-PubMed: https://pubmed.ncbi.nlm.nih.gov/27524363/
-Citation: Bernardi LA, Ghant MS, Andrade C, Recht H et al (2016), BMC Women's Health
-- In Iron, heavy periods and fibroids: 44 premenopausal African American women, a pilot (n=44). Iron deficiency was present in 68.2% and anaemia in 18.2%. Women who reported heavy or very heavy periods had lower haemoglobin, haematocrit and ferritin and more anaemia symptoms. Of those reporting heavy periods, 35% were anaemic. The authors recommend evaluation for iron deficiency and anaemia whenever African American women report heavy bleeding.
 
 ## Multi-ancestry meta-analysis of keloids uncovers novel susceptibility loci in diverse populations
 URL: https://vilivity.com/studies/greene-2025-40835838/
@@ -5432,6 +6098,54 @@ URL: https://vilivity.com/studies/csuka-2023-35218566/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/35218566/
 Citation: Csuka EA et al (2023), International Journal of Dermatology
 - In LOC and LCO: layering liquid, oil and cream: Review of 59 articles on lipid content of human hair (n=59 articles). Hair lipid composition varies by ethnic hair type and by hair layer; lipids affect water permeability, hydration, strength and texture.
+
+## Haemoglobin thresholds to define anaemia from age 6 months to 65 years: estimates from international data sources
+URL: https://vilivity.com/studies/braat-2024-38432242/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38432242/
+Citation: Braat S, Fielding KL, Han J et al (2024), The Lancet Haematology
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: Healthy reference samples from 8 data sources (USA, England, Australia, China, the Netherlands, Canada, Ecuador, Bangladesh): 3,640 non-pregnant women, 2,377 men, 772 first-trimester and 111 second-trimester pregnancies, plus children and adolescents (n=not applicable). Fifth-centile haemoglobin in adults aged 18 to 65 was 119.7 g/L in non-pregnant women and 134.9 g/L in men; in pregnancy it was 110.3 g/L in the first trimester and 105.9 g/L in the second, with too little data for the third. The authors found no evidence that thresholds should differ between people of different ancestries.
+
+## Neutropenia: Evaluation and Management in the Primary Care Setting
+URL: https://vilivity.com/studies/kim-2025-41533406/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41533406/
+Citation: Kim MJ, Forlini C, Kremsreiter K (2025), American Family Physician
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: Adults and children in a US primary care review (n=not applicable). Neutropenia is an absolute neutrophil count under 1,500 per microlitre in adults and children over 1 year, classed mild (1,000 to 1,500), moderate (500 to 999) or severe (under 500). Causes include autoimmune and drug-induced neutropenia, infection, chemotherapy, blood cancers, nutritional deficiency (vitamin B12, folate, copper) and inherited forms. Febrile neutropenia (fever with a count under 500) is an oncology emergency.
+
+## Establishing Reference Intervals for White Blood Cell and Absolute Neutrophil Counts in Duffy Null Individuals
+URL: https://vilivity.com/studies/barouqa-2026-42345734/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42345734/
+Citation: Barouqa M, Ashfaq MA, Jiang KJ et al (2026), Hematology Reports
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: 122 healthy adults with confirmed Duffy-null [Fy(a-b-)] phenotype, drawn from 1,695 adults with a blood count and red cell phenotyping at one institution (2020 to 2026) (n=122). Median neutrophil count was 1.45 against 4.45 x10^3 per microlitre in the institution's reference. The Duffy-null 95% reference interval for neutrophils was 1.01 to 4.34 x10^3 per microlitre, with the lower bound below the standard neutropenia cut-off. The authors support Duffy-null-specific ranges.
+
+## Blood Cell Counts and the Duffy Null Phenotype: Beyond Neutropenia
+URL: https://vilivity.com/studies/velloso-2026-42678004/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42678004/
+Citation: Velloso EDRP, Dos Santos AO, Dinardo CL et al (2026), International Journal of Laboratory Hematology
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: 311 healthy adult blood donors at two Brazilian blood banks; 46.6% self-identified as Black or mixed-race; 146 (46.9%) Duffy-null (n=311). Duffy-null donors had a median neutrophil count of 2,250 against 4,070 per microlitre; the 95% reference range was 1,180 to 4,800 against 2,200 to 7,250. They also had higher red cell counts, haemoglobin, haematocrit and platelet counts. The authors support Duffy-specific intervals.
+
+## Reference Intervals for Common Biochemistry and Hematology Parameters in Early Pregnancy-A Prospective Study
+URL: https://vilivity.com/studies/supak-smolcic-2025-40002566/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40002566/
+Citation: Supak-Smolcic V, Franin L, Antoncic D et al (2025), Diagnostics
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: 299 healthy pregnant women in early pregnancy at one hospital in Rijeka, Croatia (n=299). Compared with non-pregnant reference intervals, haemoglobin, MCV, haematocrit and MCH were clinically relevantly lower in early pregnancy, and total white cell count, neutrophils and monocytes were clinically relevantly higher. The abstract gives no numeric ranges.
+
+## Iron deficiency without anaemia: a diagnosis that matters
+URL: https://vilivity.com/studies/al-naseem-2021-33762368/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33762368/
+Citation: Al-Naseem A, Sallam A, Choudhury S (2021), Clinical Medicine
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: Review of iron deficiency with and without anaemia (n=not applicable). Iron deficiency without anaemia is at least twice as common as iron deficiency anaemia and is poorly recognised. Diagnosis relies on a combination of tests: haemoglobin, ferritin and transferrin saturation.
+
+## Leukocytosis
+URL: https://vilivity.com/studies/chabot-richards-2014-24750674/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/24750674/
+Citation: Chabot-Richards DS, George TI (2014), International Journal of Laboratory Hematology
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: Laboratory review of raised white cell counts (n=not applicable). The next steps for a raised white cell count depend on which cell types are raised and what a blood smear shows. Blasts on the smear are concerning for acute leukaemia. Many raised counts are reactive; the review lists reactive conditions and malignancies as separate groups.
+
+## Postoperative anaemia: Hiding in plain sight
+URL: https://vilivity.com/studies/crispell-2023-39764835/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39764835/
+Citation: Crispell EH, Trinh J, Warner MA (2023), Best Practice and Research Clinical Anaesthesiology
+- In Low haemoglobin, low or high white cells: causes, thresholds and pregnancy: Surgical patients (n=not applicable). Postoperative anaemia is common among surgical patients and is neither inevitable nor harmless. The abstract describes prevalence, causes, outcomes and prevention but does not list the causes.
 
 ## Race and Ethnicity in Pulmonary Function Test Interpretation: An Official American Thoracic Society Statement
 URL: https://vilivity.com/studies/bhakta-2023-36973004/
@@ -5633,6 +6347,18 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/25808883/
 Citation: Stohs SJ, Hartman MJ (2015), Phytotherapy Research
 - In Moringa: blood sugar, blood pressure and general health: Humans and animals (narrative safety and efficacy review) (n=five human studies of leaf powder). Animal safety studies of aqueous leaf extract indicate a high degree of safety, and the authors say no adverse effects were reported in human studies. They describe the five human studies as showing anti-hyperglycaemic and anti-dyslipidaemic activity, and call for human studies with standardised extracts.
 
+## Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents
+URL: https://vilivity.com/studies/flynn-2017-28827377/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/28827377/
+Citation: Flynn JT, Kaelber DC, Baker-Smith CM et al (2017), Pediatrics
+- In Normal blood pressure by age and sex, and for children: Children and adolescents, US paediatric guideline (AAP, endorsed by the American Heart Association) (n=not applicable). New normative blood pressure tables are based on normal-weight children. Teenagers aged 13 and over use a simplified classification that aligns with the adult American Heart Association and American College of Cardiology guideline. Screening is at preventive-care visits, and ambulatory monitoring has a larger role in diagnosis.
+
+## 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines
+URL: https://vilivity.com/studies/jones-2025-40815242/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40815242/
+Citation: Jones DW, Ferdinand KC, Taler SJ et al (2025), Journal of the American College of Cardiology
+- In Normal blood pressure by age and sex, and for children: US adults, 2025 high blood pressure guideline from the AHA, ACC and partner bodies (n=not applicable). The 2025 guideline "retires and replaces" the 2017 US guideline. The abstract does not list the categories.
+
 ## Racial and ethnic differences in the polycystic ovary syndrome metabolic phenotype
 URL: https://vilivity.com/studies/engmann-2017-28104402/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/28104402/
@@ -5740,6 +6466,24 @@ URL: https://vilivity.com/studies/valbuena-2022-35793817/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/35793817/
 Citation: Valbuena VSM, Seelye S, Sjoding MW, Valley TS et al (2022), BMJ
 - In Pulse oximeters and dark skin: 30,039 paired readings in general-care inpatients, Veterans Health Administration, 2013-2019 (21.6% from non-Hispanic Black patients) (n=30039). Among SpO2 readings of 92% or more, the unadjusted probability of occult hypoxaemia (SaO2 below 88%) was 15.6% in white patients and 19.6% in black patients (P<0.001, similar in adjusted models). The authors say this could limit access to oxygen and other treatment for black patients.
+
+## Investigating and Summarizing Information Resources Related to the Clinical Presentation and Diagnosis of Cutaneous Manifestations of Infectious Diseases in Patients With Skin of Color
+URL: https://vilivity.com/studies/mcgowan-2024-38390461/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38390461/
+Citation: McGowan D, Kermani A, Sheagren J, et al (2024), Open Forum Infectious Diseases
+- In Rashes on dark skin: what to look for: Published literature on skin of colour (the review does not give study numbers in its abstract) (n=not stated). The review found literature gaps, including a lack of visual examples and of precise descriptions of common infectious rashes in patients with skin of colour. The authors say the lack of good-quality resources may contribute to barriers to care.
+
+## Diagnosis of Allergic Dermatoses in Skin of Color
+URL: https://vilivity.com/studies/nazarian-2024-38776041/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38776041/
+Citation: Nazarian A, Alexis AF (2024), Current Allergy and Asthma Reports
+- In Rashes on dark skin: what to look for: Published literature on allergic skin conditions in people with skin of colour (n=not stated). Allergic skin conditions affect all backgrounds, but the authors say the way redness (erythema) is assessed and how patch tests are read need extra care in skin of colour.
+
+## Detection of skin erythema in darkly pigmented skin using multispectral images
+URL: https://vilivity.com/studies/sprigle-2009-19325277/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/19325277/
+Citation: Sprigle S, Zhang L, Duckworth M (2009), Advances in Skin and Wound Care
+- In Rashes on dark skin: what to look for: 56 volunteers in a research laboratory in Atlanta, US, 28 with darkly pigmented skin (n=56). Several image-processing methods raised the contrast of redness by about ten times compared with an ordinary digital photograph; one method had accuracy, sensitivity and specificity above 90%. The authors aim for a handheld device to detect redness in dark skin.
 
 ## Uncovering the genetic architecture and evolutionary roots of androgenetic alopecia in African men
 URL: https://vilivity.com/studies/janivara-2025-40134218/
@@ -5909,6 +6653,36 @@ PubMed: https://pubmed.ncbi.nlm.nih.gov/22445352/
 Citation: Taylor SM, Parobek CM, Fairhurst RM (2012), Lancet Infectious Diseases
 - In Sickle cell disease, trait and pregnancy: 62 studies of children and pregnant women in malaria regions (n=62 studies). Haemoglobin AS (the trait) cut the risk of severe falciparum malaria (odds ratio 0.09, 95% CI 0.06-0.12) and was the only genotype consistently protective against uncomplicated malaria (incidence rate ratio 0.69, 95% CI 0.61-0.79).
 
+## Sickle Cell Disease: A Review
+URL: https://vilivity.com/studies/kavanagh-2022-35788790/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35788790/
+Citation: Kavanagh PL, Fasipe TA, Wun T (2022), JAMA
+- In Sickle cell disease: what it is, treatment and newborn screening: Adults and children with sickle cell disease, mainly in the US, plus worldwide figures (n=not applicable). About 300,000 infants a year are born with sickle cell disease worldwide, most living in sub-Saharan Africa, India, the Mediterranean and the Middle East; about 100,000 people have it in the US. Diagnosis is by newborn screening where available. In the US nearly all children survive to adulthood, but average life expectancy remains about 20 years less than the general population. Hydroxyurea is first-line therapy for most people; stem cell transplant is the only curative therapy, limited by donor availability.
+
+## Newborn screening initiatives for sickle cell disease in Africa
+URL: https://vilivity.com/studies/nnodu-2024-39644044/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39644044/
+Citation: Nnodu OE, Okeke CO, Isa HA et al (2024), Hematology (ASH Education Program)
+- In Sickle cell disease: what it is, treatment and newborn screening: Newborns in sub-Saharan Africa (n=not applicable). Sub-Saharan Africa accounts for 75% of global sickle cell disease but has not been able to implement universal newborn screening. The article examines policy, methods, barriers and links to comprehensive care.
+
+## Hydroxyurea dose optimisation for children with sickle cell anaemia in sub-Saharan Africa (REACH): extended follow-up of a multicentre, open-label, phase 1/2 trial
+URL: https://vilivity.com/studies/aygun-2024-38701812/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/38701812/
+Citation: Aygun B, Lane A, Smart LR et al (2024), The Lancet Haematology
+- In Sickle cell disease: what it is, treatment and newborn screening: 606 children aged 1 to 10 with haemoglobin SS or S-beta-zero thalassaemia given hydroxyurea in Kenya, Uganda, Angola and the Democratic Republic of Congo (635 enrolled) (n=606). Escalating hydroxyurea under monitoring to the maximum tolerated dose reduced pain episodes (rate ratio 0.60 against the fixed-dose phase), acute chest syndrome (0.21), malaria (0.58) and non-malarial infections (0.52), and raised haemoglobin from 7.3 to 8.5 g/dL; serious side effects were uncommon. The abstract gave no significant change in deaths (0.70, P 0.50).
+
+## Understanding and treating menstruation associated sickle cell pain
+URL: https://vilivity.com/studies/olaniyan-2025-40181434/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40181434/
+Citation: Olaniyan H, Carrithers B, Van Doren L (2025), Contraception and Reproductive Medicine
+- In Sickle cell disease: what it is, treatment and newborn screening: People with sickle cell disease who menstruate (n=not applicable). Menstruation presents a challenge in sickle cell disease because of blood loss and can worsen pain episodes. The authors discuss hormonal options, say combined hormonal contraceptives raise concern in this group, and stress care shared between gynaecologists and haematologists.
+
+## Vaso-Occlusive Pain and Menstruation in Sickle Cell Disease: A Focus Group Analysis
+URL: https://vilivity.com/studies/day-2020-33786471/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33786471/
+Citation: Day M, Bonnet K, Schlundt DG et al (2020), Women's Health Reports
+- In Sickle cell disease: what it is, treatment and newborn screening: 14 women with sickle cell disease in focus groups (n=14). Women with sickle cell disease could tell acute sickle cell pain from menstrual cramps. Themes included effects on quality of life and emotional well-being. The authors say providers should become more familiar with sickle cell pain linked to menstruation.
+
 ## Sickle Cell Trait, Rhabdomyolysis, and Mortality among U.S. Army Soldiers
 URL: https://vilivity.com/studies/nelson-2016-27518662/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/27518662/
@@ -6017,6 +6791,30 @@ URL: https://vilivity.com/studies/tang-2006-16912361/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/16912361/
 Citation: Tang HL et al (2006), Hong Kong Med J
 - In Skin lightening and bleaching creams: listed as a source, no finding recorded.
+
+## Sunscreens effectiveness are not altered by concomitant use of moisturizing creams: An ultraviolet reflectance photography study
+URL: https://vilivity.com/studies/g-lvez-2022-34674316/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/34674316/
+Citation: Gálvez MV, Aguilera J, Leal M, et al (2022), Photodermatology, Photoimmunology and Photomedicine
+- In Skincare order and layering: 25 volunteers (back skin); ancestry not given in the abstract. Sunscreens: ISO-standard SPF 16 and 63 and four commercial SPF 50 or 50+ products (n=25). There were no significant differences in UV reflection when moisturising creams were applied before or after the sunscreens. The sunscreens themselves reduced the colour measure by 35% to 70%, showing real UV absorption. The authors conclude sunscreen effectiveness was not altered by concomitant moisturiser.
+
+## Layering sunscreen with facial makeup enhances its sun protection factor under real-use conditions
+URL: https://vilivity.com/studies/kim-2021-33660348/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33660348/
+Citation: Kim MA, Jung YC, Bae J, et al (2021), Skin Research and Technology
+- In Skincare order and layering: Laboratory test of sunscreen and facial makeup products (n=not stated). At typical consumer amounts, which are lower than recommended, the SPF of each sunscreen and makeup product was dramatically lower than the label. Layering sunscreen with makeup greatly increased effective SPF compared with either alone, even at amounts below those recommended. The authors suggest layering may compensate for too little sunscreen.
+
+## Understanding the causes of skincare product pilling
+URL: https://vilivity.com/studies/lua-2024-39092468/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/39092468/
+Citation: Lua BL, Ruan L, Lyu Y, et al (2024), Skin Research and Technology
+- In Skincare order and layering: 528 women aged 20 to 49 in Guangzhou, China (n=528). 217 women (41%) had pilling. Most pilling (655 events) followed sunscreen; only 35 followed foundation, and foundation improved sunscreen-caused pilling in 98.9% of cases. Women who pilled with both products had lower skin hydration and oiliness and higher pH. Rubbing products in circular or linear motions produced the most pilling.
+
+## Adjunctive use of a facial moisturizer SPF 30 containing ceramide precursor improves tolerability of topical tretinoin 0.05%: a randomized, investigator-blinded, split-face study
+URL: https://vilivity.com/studies/schorr-2012-23135655/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/23135655/
+Citation: Schorr ES, Sidou F, Kerrouche N, et al (2012), Journal of Drugs in Dermatology
+- In Skincare order and layering: Adults with healthy skin (number not given in the abstract) (n=not stated). About 83% to 86% of people had irritation on both sides, mostly mild on the moisturiser side. Tolerability preferences favoured the moisturiser plus tretinoin side, and the authors concluded the moisturiser improved tolerance of tretinoin.
 
 ## Racial/Ethnic Differences in Sleep Disturbances: The Multi-Ethnic Study of Atherosclerosis (MESA)
 URL: https://vilivity.com/studies/chen-2015-25409106/
@@ -6179,8 +6977,87 @@ Citation: Rosmarin D, Passeron T, Pandya AG et al (2022), New England Journal of
 ## Efficacy and Safety of Ruxolitinib Cream in Vitiligo by Patient Characteristic Subgroups: Descriptive Pooled Analysis From Two Phase 3 Studies
 URL: https://vilivity.com/studies/seneschal-2025-40156697/
 PubMed: https://pubmed.ncbi.nlm.nih.gov/40156697/
-Citation: Seneschal J, Wolkerstorfer A, Desai SR et al (2025), Dermatology and Therapy
+Citation: Seneschal J, Wolkerstorfer A, Desai SR, et al (2025), Dermatology and Therapy
 - In Vitiligo: The same 674 patients, pooled post hoc (n=674). At week 52, 50.3% of those applying ruxolitinib cream throughout reached the facial score target; responses were seen across subgroups including Fitzpatrick skin type. The abstract gives no numbers for dark skin types.
+- In Vitiligo, spread, starting age and treatment options: 674 people aged 12 or over with non-segmental vitiligo (two phase 3 trials, TRuE-V1 and V2); how many were Black is not in the abstract (n=674). At week 52, 50.3% (176 of 350) who used the cream throughout reached 75% improvement in facial vitiligo score, against 28.2% (46 of 163) who switched from vehicle cream after week 24. Responses were seen across age, sex and Fitzpatrick skin type, with similar side-effect rates; the abstract gives no figure per skin type.
+
+## Phototherapy for Vitiligo: A Systematic Review and Meta-analysis
+URL: https://vilivity.com/studies/bae-2017-28355423/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/28355423/
+Citation: Bae JM, Jung HM, Hong BY, Lee JH, Choi WJ, Lee JH, Kim GM (2017), JAMA Dermatology
+- In Vitiligo, spread, starting age and treatment options: 1,428 people in 35 prospective studies of generalised vitiligo (29 studies of narrowband UVB, 9 of PUVA); ancestry not given in the abstract (n=1428). With narrowband UVB, at least mild repigmentation (25% or more) was seen in 74.2% of 232 patients at 6 months and 75.0% of 512 at 12 months; marked repigmentation (75% or more) in 19.2% of 266 at 6 months and 35.7% of 540 at 12 months. After 6 months or more, marked response on the face and neck was 44.2%, on the trunk 26.1%, on the limbs 17.3%, and none on the hands and feet. The authors recommend long-duration treatment.
+
+## Interventions for vitiligo
+URL: https://vilivity.com/studies/whitton-2015-25710794/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/25710794/
+Citation: Whitton ME, Pinart M, Batchelor J, et al (2015), Cochrane Database of Systematic Reviews
+- In Vitiligo, spread, starting age and treatment options: 4,512 participants in 96 randomised trials of vitiligo treatments; ancestry not given in the abstract (n=4512). Most trials had fewer than 50 participants. Combination treatments, usually including light, generally did better. The review states that several treatments can restore pigment but none can cure vitiligo. Six studies measured whether spread stopped; none measured whether repigmentation lasted at two years. No studies of micropigmentation, depigmentation or camouflage were found. The authors say the usefulness of the findings is limited by trial design.
+
+## Clinical profiles of vitiligo in China: an analysis of 3742 patients
+URL: https://vilivity.com/studies/liu-2005-15953059/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/15953059/
+Citation: Liu JB, Li M, Yang S, et al (2005), Clinical and Experimental Dermatology
+- In Vitiligo, spread, starting age and treatment options: 3,742 outpatients with vitiligo in China (n=3742). Mean age of onset was 18.88 years and more than 60% were affected before 20. Segmental vitiligo began earlier (15.55 years). After 3 to 5 years, 99% of active vitiligo had worsened or shifted from one clinical type to another.
+
+## Characteristics of vitiligo in Lagos, Nigeria
+URL: https://vilivity.com/studies/ayanlowo-2009-19761176/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/19761176/
+Citation: Ayanlowo O, Olumide YM, Akinkugbe A (2009), West African Journal of Medicine
+- In Vitiligo, spread, starting age and treatment options: 186 patients with vitiligo (2.8% of dermatology clinic attenders) at one hospital in Lagos, Nigeria, 2003 to 2006 (n=186). Vitiligo affected all ages, from 1 to 86 years. The face and limbs were most often affected. Fifteen patients (0.81% as printed in the abstract) had features suggesting an associated autoimmune disease such as type 1 diabetes.
+
+## Vitiligo presentation in adults
+URL: https://vilivity.com/studies/mason-2005-15953063/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/15953063/
+Citation: Mason CP, Gawkrodger DJ (2005), Clinical and Experimental Dermatology
+- In Vitiligo, spread, starting age and treatment options: 41 adults at a university clinic in Sheffield, UK (37 European Caucasian, 3 Asian Caucasian, 1 Black African) (n=41). Mean age of onset was 28 years (oldest 74), with 17 of 41 before 20. A family history of vitiligo was given by 7 (18%) and a precipitating factor by 9 (22%), including pregnancy, sunburn and skin injury. Thyroid disease was present in 14 (34%).
+
+## The Genetic Basis of Vitiligo
+URL: https://vilivity.com/studies/spritz-2021-32778407/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/32778407/
+Citation: Spritz RA, Santorico SA (2021), Journal of Investigative Dermatology
+- In Vitiligo, spread, starting age and treatment options: Family and genetic studies, mostly in European-derived populations (n=not stated). Heritability from family studies in European-derived people is 0.75 to 0.83, and more than 50 susceptibility regions are known. The abstract does not give the chance that a child of a person with vitiligo will have it.
+
+## Micropigmentation: tattooing for the treatment of lip vitiligo
+URL: https://vilivity.com/studies/singh-2010-19481511/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/19481511/
+Citation: Singh AK, Karki D (2010), Journal of Plastic, Reconstructive and Aesthetic Surgery
+- In Vitiligo, spread, starting age and treatment options: 15 adults with stable localised lip vitiligo, followed 2 to 3 years (India) (n=15). Cosmetically acceptable results in all 15, with better pigmentation in darker-complexioned patients than fair ones; no allergic reactions or new patches at the tattooed site. The authors state that medical therapies for lip vitiligo are often ineffective because the lips have no hair follicles.
+
+## Autologous cell transplant as a treatment for stable segmental vitiligo: a systematic review
+URL: https://vilivity.com/studies/souroujon-2023-37715361/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/37715361/
+Citation: Souroujon AA, Guttman I, Levin N (2023), International Journal of Dermatology
+- In Vitiligo, spread, starting age and treatment options: Six studies of autologous (own-skin) cell transplants for stable segmental vitiligo; ancestry not given in the abstract (n=not stated). Cultured and non-cultured transplants each pigmented 80% or more of the treated area in the studies reviewed, with cultured cells doing better. The authors note the small amount of literature, and the cost and logistics that limit access.
+
+## Childhood Vitiligo
+URL: https://vilivity.com/studies/nicolaidou-2019-30911977/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/30911977/
+Citation: Nicolaidou E, Mastraftsi S, Tzanetakou V, Rigopoulos D (2019), American Journal of Clinical Dermatology
+- In Vitiligo, spread, starting age and treatment options: Children with vitiligo (onset before age 12) (n=not stated). Childhood vitiligo can appear from the first years of life. According to the guidelines the authors cite, topical corticosteroids, topical calcineurin inhibitors and narrowband UVB are the most used treatments in children.
+
+## Individualized Homeopathic Medicines in Treatment of Vitiligo: Double-Blind, Randomized, Placebo-Controlled Pilot Trial
+URL: https://vilivity.com/studies/karuppusamy-2022-35085016/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/35085016/
+Citation: Karuppusamy A, Paul S, Chattopadhyay A, et al (2022), Journal of Integrative and Complementary Medicine
+- In Vitiligo, spread, starting age and treatment options: 60 patients with vitiligo at a homeopathy institute in India (n=60). Recruitment and retention were satisfactory and mean reductions in vitiligo and quality-of-life scores were larger with the homeopathic medicines than placebo. The authors conclude only that definitive efficacy trials are warranted.
+
+## Clinical trial of certain ayurvedic medicines indicated in vitiligo
+URL: https://vilivity.com/studies/donata-1990-22557698/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/22557698/
+Citation: Donata, Kesavan M, Austin, et al (1990), Ancient Science of Life
+- In Vitiligo, spread, starting age and treatment options: 10 patients with vitiligo given an ayurvedic preparation by mouth and a herbal paste on the skin (n=10). Four of 10 had relief within six months, three had relief with an adverse skin reaction, and the rest did not respond.
+
+## A Systematic Review of Nutrition, Supplement, and Herbal-Based Adjunctive Therapies for Vitiligo
+URL: https://vilivity.com/studies/shakhbazova-2021-33337930/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/33337930/
+Citation: Shakhbazova A, Wu H, Chambers CJ (2021), Journal of Alternative and Complementary Medicine
+- In Vitiligo, spread, starting age and treatment options: Human studies of diet, supplements and herbs in vitiligo (26 studies reviewed) (n=not stated). Supplements reviewed included Ginkgo biloba, oral Polypodium leucotomos, alpha lipoic acid, vitamins B12, D and E, folic acid, phenylalanine and Nigella sativa oil. The authors call the evidence promising and say more studies are needed.
+
+## Interventions for vitiligo
+URL: https://vilivity.com/studies/whitton-2010-20091542/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/20091542/
+Citation: Whitton ME et al (2010), Cochrane Database of Systematic Reviews
+- In Vitiligo, spread, starting age and treatment options: listed as a source, no finding recorded.
 
 # Comparisons
 

@@ -1,0 +1,30 @@
+{
+  "pmid": "15953063",
+  "slug": "mason-2005-15953063",
+  "citation": {
+    "authors": "Mason CP, Gawkrodger DJ",
+    "year": 2005,
+    "journal": "Clinical and Experimental Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15953063/",
+  "page": "https://vilivity.com/studies/mason-2005-15953063/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "mason-2005",
+        "population": "41 adults at a university clinic in Sheffield, UK (37 European Caucasian, 3 Asian Caucasian, 1 Black African)",
+        "n": 41,
+        "design": "Case review",
+        "finding": "Mean age of onset was 28 years (oldest 74), with 17 of 41 before 20. A family history of vitiligo was given by 7 (18%) and a precipitating factor by 9 (22%), including pregnancy, sunburn and skin injury. Thyroid disease was present in 14 (34%).",
+        "line_tier": "B",
+        "note": "Small, almost entirely European, adults only.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

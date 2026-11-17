@@ -1,0 +1,30 @@
+{
+  "pmid": "41533406",
+  "slug": "kim-2025-41533406",
+  "citation": {
+    "authors": "Kim MJ, Forlini C, Kremsreiter K",
+    "year": 2025,
+    "journal": "American Family Physician"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41533406/",
+  "page": "https://vilivity.com/studies/kim-2025-41533406/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "kim-2025",
+        "population": "Adults and children in a US primary care review",
+        "n": "not applicable",
+        "design": "Narrative review of neutropenia evaluation",
+        "finding": "Neutropenia is an absolute neutrophil count under 1,500 per microlitre in adults and children over 1 year, classed mild (1,000 to 1,500), moderate (500 to 999) or severe (under 500). Causes include autoimmune and drug-induced neutropenia, infection, chemotherapy, blood cancers, nutritional deficiency (vitamin B12, folate, copper) and inherited forms. Febrile neutropenia (fever with a count under 500) is an oncology emergency.",
+        "line_tier": "B",
+        "note": "US primary care review; abstract read in full.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

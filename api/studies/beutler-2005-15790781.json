@@ -59,6 +59,23 @@
         "note": "Laboratory-referred samples, not a population survey. A good example of a measured variable (alpha-thalassaemia deletion) standing behind a race difference.",
         "tag": "[primary]"
       }
+    },
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "beutler-2005b",
+        "population": "1,491 African American and 31,005 white people with routine laboratory results, about half men and half women",
+        "n": 32496,
+        "design": "Retrospective analysis of laboratory data, with alpha-thalassaemia DNA testing",
+        "finding": "Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans and ferritin higher. The -3.7 kb alpha-thalassaemia deletion accounted for about a third of the haemoglobin difference; sickle trait had no effect. Before iron deficiency and thalassaemia were removed, 19.8% of African American women and 5.3% of white women would have been classed anaemic; after, 6.1% and 2.77%. The authors say the same reference standards do not apply to all ethnic groups.",
+        "line_tier": "B",
+        "note": "US laboratory population; abstract read in full.",
+        "tag": "[primary]"
+      }
     }
   ]
 }

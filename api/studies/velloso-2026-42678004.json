@@ -1,0 +1,30 @@
+{
+  "pmid": "42678004",
+  "slug": "velloso-2026-42678004",
+  "citation": {
+    "authors": "Velloso EDRP, Dos Santos AO, Dinardo CL et al",
+    "year": 2026,
+    "journal": "International Journal of Laboratory Hematology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42678004/",
+  "page": "https://vilivity.com/studies/velloso-2026-42678004/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "velloso-2026",
+        "population": "311 healthy adult blood donors at two Brazilian blood banks; 46.6% self-identified as Black or mixed-race; 146 (46.9%) Duffy-null",
+        "n": 311,
+        "design": "Prospective reference-interval study with Duffy phenotyping",
+        "finding": "Duffy-null donors had a median neutrophil count of 2,250 against 4,070 per microlitre; the 95% reference range was 1,180 to 4,800 against 2,200 to 7,250. They also had higher red cell counts, haemoglobin, haematocrit and platelet counts. The authors support Duffy-specific intervals.",
+        "line_tier": "A",
+        "note": "Participants grouped by Duffy status. Blood donors are healthier than average.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

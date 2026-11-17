@@ -1,0 +1,30 @@
+{
+  "pmid": "42200680",
+  "slug": "wolf-2026-42200680",
+  "citation": {
+    "authors": "Wolf AMD, Hoffman RM, Walter LC et al",
+    "year": 2026,
+    "journal": "CA: A Cancer Journal for Clinicians"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42200680/",
+  "page": "https://vilivity.com/studies/wolf-2026-42200680/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "acs-2026",
+        "population": "US average-risk adults, American Cancer Society 2026 update",
+        "n": "not applicable",
+        "design": "Guideline update from a targeted evidence review and modelling",
+        "finding": "The ACS reaffirms starting at 45 and continuing to 75 for those with a life expectancy over 10 years, and says a positive result on any non-colonoscopy test needs timely follow-up colonoscopy, preferably within 6 months.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[official]"
+      }
+    }
+  ]
+}

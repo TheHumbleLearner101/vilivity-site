@@ -1,0 +1,30 @@
+{
+  "pmid": "24750674",
+  "slug": "chabot-richards-2014-24750674",
+  "citation": {
+    "authors": "Chabot-Richards DS, George TI",
+    "year": 2014,
+    "journal": "International Journal of Laboratory Hematology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24750674/",
+  "page": "https://vilivity.com/studies/chabot-richards-2014-24750674/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "chabot-2014",
+        "population": "Laboratory review of raised white cell counts",
+        "n": "not applicable",
+        "design": "Narrative review",
+        "finding": "The next steps for a raised white cell count depend on which cell types are raised and what a blood smear shows. Blasts on the smear are concerning for acute leukaemia. Many raised counts are reactive; the review lists reactive conditions and malignancies as separate groups.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

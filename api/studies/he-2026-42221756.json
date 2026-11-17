@@ -1,0 +1,30 @@
+{
+  "pmid": "42221756",
+  "slug": "he-2026-42221756",
+  "citation": {
+    "authors": "He H, Qin Z, Liu K, Wang Z et al",
+    "year": 2026,
+    "journal": "Frontiers in Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42221756/",
+  "page": "https://vilivity.com/studies/he-2026-42221756/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-specific-groups",
+      "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-specific-groups/",
+      "record": {
+        "id": "he-2026",
+        "population": "22 randomised trials, 1,287 women with overweight or obesity",
+        "n": 1287,
+        "design": "Systematic review and meta-analysis of intermittent fasting trials, with dose-response analysis",
+        "finding": "Intermittent fasting reduced BMI a little (mean difference -0.41, borderline after removing one influential study) and fasting blood glucose (-2.18), with no significant effect on blood pressure. Heterogeneity in the BMI result was high (80%); subgroup findings were based on limited evidence. A frequency of about twice a week looked most favourable in modelling.",
+        "line_tier": "B",
+        "note": "Ethnicity of participants not given in the abstract; I did not read the full text.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

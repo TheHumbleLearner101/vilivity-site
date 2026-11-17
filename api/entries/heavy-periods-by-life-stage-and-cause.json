@@ -1,0 +1,271 @@
+{
+  "slug": "heavy-periods-by-life-stage-and-cause",
+  "title": "Heavy periods by life stage and cause",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "Is it normal to have heavy periods after having a baby?",
+    "Is it normal to have heavy periods during perimenopause?",
+    "Is it normal to have heavy periods after a miscarriage?",
+    "Why are my periods so heavy after stopping birth control?",
+    "Is it normal to have heavy periods on HRT?",
+    "Why are some periods worse than others?"
+  ],
+  "tradition_says": "Heavy bleeding is often put down to 'just your period', or to being a certain age, and women are told to put up with it.",
+  "layer1": {
+    "plain_answer": "The NHS (UK) says heavy periods can be normal after pregnancy or approaching menopause; ACOG (US) says heavy bleeding is not normal. Either way, get it checked if bleeding disrupts your life or you feel tired or breathless. In a small US study, about two thirds of 44 African American women had iron deficiency; about half reported heavy periods.",
+    "do": [
+      {
+        "text": "Note how heavy: two products at once, over 7 days, soaking through clothes or bedding, or missing exercise or work.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Take a log of your dates and flow to your appointment (a calendar or app); doctors in the US (ACOG) ask for several cycles.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "ACOG (US), \"Heavy Menstrual Bleeding\"",
+          "url": "https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Ask for a blood test for iron deficiency or anaemia if bleeding is heavy or you feel unusually tired.",
+        "basis": "tested",
+        "source": "bernardi-2016"
+      },
+      {
+        "text": "After a birth, use pads rather than tampons until after your 6-week postnatal check (NHS, UK), and expect bleeding to carry on for a few weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Your body after the birth\"",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/your-body/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you take HRT and still have heavier or irregular bleeding after 6 months, tell your doctor (the UK's NHS says this).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Menopause and perimenopause: symptoms\"",
+          "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming it is just your age or just your period when you are bleeding more than before: it can be fibroids, a copper coil, a clotting problem or, rarely, cancer.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "ACOG (US), \"Heavy Menstrual Bleeding\"",
+          "url": "https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Waiting if you have any vaginal bleeding after 12 months with no period: the NHS (UK) says to see a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Menopause and perimenopause: symptoms\"",
+          "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Heavy periods are affecting your life, you have had them for some time, or you have severe period pain (doctor).",
+      "You bleed between periods or after sex, or have pain when peeing, pooing or having sex with heavy periods (doctor).",
+      "You have had no period for 12 months or more and get any vaginal bleeding (doctor, soon).",
+      "Soon after a birth, sudden or very heavy blood loss, feeling faint or a racing heart (the UK's NHS lists this as postpartum haemorrhage): tell your midwife or doctor straight away, and if it is severe or you feel faint, call your local emergency number (999 in the UK). In pregnancy, bleeding that soaks a pad soon after you put it on needs urgent help the same way."
+    ]
+  },
+  "tested": [
+    {
+      "population": "44 premenopausal African American women, mean age 37.9, US",
+      "design": "Cross-sectional pilot study with surveys and blood tests",
+      "n": 44,
+      "finding": "Iron deficiency was present in 68.2% and anaemia in 18.2%. Almost half said their periods were heavy or very heavy; of those, 35.0% were anaemic. Women reporting heavy periods had lower haemoglobin and ferritin than those reporting normal or light periods.",
+      "source": {
+        "authors": "Bernardi LA, Ghant MS, Andrade C, Recht H et al",
+        "year": 2016,
+        "journal": "BMC Women's Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27524363/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Pilot of 44 women: too small to say how common this is.",
+      "id": "bernardi-2016"
+    },
+    {
+      "population": "46,139 White and 17,297 Black women (commercial insurance) and 7,353 White and 16,776 Black women (Medicaid), US, with uterine fibroids and heavy menstrual bleeding",
+      "design": "Retrospective cohort from insurance claims, 2010 to 2020",
+      "n": 87565,
+      "finding": "Black women were diagnosed at a younger age; anaemia was more common (commercial 5.9% against 3.6%; Medicaid 7.0% against 4.5%). Hysterectomy was more common in White women (commercial 43.9% against 37.8%). About half stopped hormonal contraceptive treatment within about 5 months.",
+      "source": {
+        "authors": "Agarwal SK, Stokes M, Chen R, Lickert C",
+        "year": 2024,
+        "journal": "AJOG Global Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39559275/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Claims data in insured people only; race as recorded in the database.",
+      "id": "agarwal-2024"
+    },
+    {
+      "population": "Active component US Armed Forces women, 1998 to 2012",
+      "design": "Surveillance analysis of medical records for menorrhagia",
+      "n": null,
+      "finding": "Incidence was 6.2 cases per 1,000 person years and rose each year. Rates were highest in women aged 40 to 49 and in women of black, non-Hispanic ethnicity. Fibroids and ovarian cysts were the most common co-occurring conditions; under 1% of cases had a documented bleeding disorder.",
+      "source": {
+        "authors": "Dorsey KA",
+        "year": 2013,
+        "journal": "MSMR",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24093961/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Serving women only, diagnosed cases only. The abstract gives no count; I did not read the full report.",
+      "id": "dorsey-2013"
+    },
+    {
+      "population": "638 endometrial cancer survivors (36% Black or African American), Carolina Endometrial Cancer Study, US",
+      "design": "Survey of symptoms before diagnosis",
+      "n": 638,
+      "finding": "Women with fibroids were more likely to report heavy periods (prevalence ratio 1.23) and periods over 7 days (1.37). After adjusting for age, fibroids and BMI, symptoms did not vary by race. Only 23% knew bleeding after menopause could be a sign of endometrial cancer.",
+      "source": {
+        "authors": "Wise MK, Brookes JJ, Wu T, Peterson M et al",
+        "year": 2026,
+        "journal": "Gynecologic Oncology Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42491348/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "People who already had cancer, so it says nothing about how often heavy periods mean cancer.",
+      "id": "wise-2026"
+    },
+    {
+      "population": "Official guidance, UK and US",
+      "design": "NHS (UK) heavy periods page and ACOG (US) heavy menstrual bleeding page, opened 17 Nov 2026",
+      "n": null,
+      "finding": "The UK's NHS says heavy periods can be normal, including when you first start, after pregnancy or approaching menopause, and lists when to see a doctor. ACOG (US) says heavy menstrual bleeding is not normal, defines it as over 7 days or soaking pads hourly for several hours, and names bleeding disorders, aspirin and blood thinners, the copper coil, fibroids, perimenopause, pregnancy-related causes and cancer. The two bodies differ on whether to call it normal; both say to get it checked when it disrupts life. NHS (UK) says after a miscarriage a period can take up to 8 weeks and it may take a few months to settle; ACOG's page does not give this.",
+      "source": {
+        "authors": "NHS (UK); ACOG (US)",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "id": "official-2026"
+    },
+    {
+      "population": "Heavy periods in Black women after birth, after a miscarriage, after a coil removal, after tubal ligation or on HRT",
+      "design": "PubMed searches listed in gaps",
+      "n": 0,
+      "finding": "My search found no study on these stages in women of African descent.",
+      "source": {
+        "authors": "PubMed searches, 17 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=heavy+menstrual+bleeding+Black+women"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "note": "Search results, not a document; the re-checker could not reopen the search, so treat the negative as not independently rerun.",
+      "id": "pubmed-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That heavy bleeding in Black women is linked to iron deficiency and should be checked: one pilot of 44 African American women and insurance-claims data; the stage-by-stage questions rest on official guidance only.",
+  "tier_note": "Thin because the Black-population data are one 44-woman pilot, claims data and surveillance records; nothing tests bleeding after birth, miscarriage, coil removal, tubal ligation or HRT in Black women specifically.",
+  "harm_flag": true,
+  "harm_note": "The harm is delay: heavy bleeding left unchecked can cause anaemia, and sudden heavy bleeding after birth or in pregnancy is an emergency (NHS, UK). Bleeding after menopause can be a sign of cancer (NHS, UK; ACOG, US).",
+  "founder_flag": false,
+  "evidence_summary": "Official guidance in the UK (NHS) and the US (ACOG) agrees that heavy periods can have many causes and should be checked when they disrupt life; the UK's NHS says they can be normal at times such as after pregnancy or approaching menopause, ACOG (US) says heavy bleeding is not normal. In a 44-woman US pilot of African American women, iron deficiency was present in about two thirds and anaemia in about one in five, and heavy periods went with lower iron. US claims data show Black women with fibroid-related heavy bleeding were diagnosed younger and had more anaemia. Stage by stage, my search found no study in women of African descent, so the answers by life stage come from official guidance only.",
+  "measured_variables": [
+    "Haemoglobin and ferritin (Bernardi 2016)",
+    "Anaemia diagnosis in claims data (Agarwal 2024)",
+    "Race as recorded in the database or survey"
+  ],
+  "gaps": "Searches run 17 Nov 2026 on PubMed: 'heavy menstrual bleeding Black women prevalence' (39 records), 'heavy menstrual bleeding African American perimenopause' (0), 'postpartum menstrual bleeding return of menses heavy' (3, none about Black women), 'heavy menstrual bleeding hormone replacement therapy irregular bleeding' (11, none opened), 'heavy menstrual bleeding after stopping hormonal contraception' (5, none relevant). Control: 'heavy menstrual bleeding fibroids African American women' returned 17 records, so the method works. Our search found no study on heavy periods after tubal ligation, after a C-section, or after coil removal in any group. Not opened: the CDC (US) heavy bleeding pages (403 error). NHS (UK) pages on stopping contraception and on vaginal bleeding after birth returned 404, so the contraception-stopping and coil-removal questions have no opened official page. The NHS (UK) page on bleeding in pregnancy was not opened; the 'soaks a pad' line comes from the NHS miscarriage page, where I did not read which urgency level it sits under. Untested: the proportion of Black women who have heavy periods in perimenopause. Not opened: the PubMed search-results link cited in the tested entry on these stages was a search page, not a document, and the checker could not reopen it; treat that negative as not independently rerun.",
+  "related": [
+    "pcos-endometriosis-and-heavy-periods",
+    "fibroids-symptoms-treatment-and-pregnancy",
+    "iron-and-fibroids",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Bernardi LA et al",
+      "year": 2016,
+      "journal": "BMC Womens Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27524363/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Agarwal SK et al",
+      "year": 2024,
+      "journal": "AJOG Glob Rep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39559275/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Dorsey KA",
+      "year": 2013,
+      "journal": "MSMR",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24093961/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wise MK et al",
+      "year": 2026,
+      "journal": "Gynecol Oncol Rep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42491348/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS (UK), \"Heavy periods\"",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Menopause and perimenopause: symptoms\"",
+      "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Your body after the birth\"",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/your-body/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Miscarriage\"",
+      "url": "https://www.nhs.uk/conditions/miscarriage/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "ACOG (US), \"Heavy Menstrual Bleeding\"",
+      "url": "https://www.acog.org/womens-health/faqs/heavy-menstrual-bleeding",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

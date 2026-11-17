@@ -1,0 +1,30 @@
+{
+  "pmid": "39102266",
+  "slug": "likhitsup-2024-39102266",
+  "citation": {
+    "authors": "Likhitsup A, Chen VL, Fontana RJ",
+    "year": 2024,
+    "journal": "JAMA Network Open"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39102266/",
+  "page": "https://vilivity.com/studies/likhitsup-2024-39102266/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "likhitsup-2024",
+        "population": "9,685 US adults in the NHANES survey, 2017 to March 2020",
+        "n": 9685,
+        "design": "Nationally representative cross-sectional survey of herbal and supplement use",
+        "finding": "Ashwagandha-containing products were used by 28 of the survey adults. An estimated 15.6 million US adults had used at least one of six botanicals with a liver-injury link (turmeric, green tea extract, ashwagandha, Garcinia cambogia, red yeast rice, black cohosh) in the past 30 days, similar to the number taking the cholesterol drug simvastatin (about 14 million) or NSAID painkillers (about 14.8 million).",
+        "line_tier": "B",
+        "note": "Shows how common use is, not how often harm happens. I did not read any breakdown by race.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

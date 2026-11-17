@@ -1,0 +1,294 @@
+{
+  "slug": "intermittent-fasting-for-specific-groups",
+  "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does intermittent fasting work for women?",
+    "Is intermittent fasting safe for women over 50 or in menopause?",
+    "Is intermittent fasting safe for a 16 year old?",
+    "Is intermittent fasting safe for high blood pressure or heart patients?",
+    "Is intermittent fasting safe for hyperthyroidism?",
+    "Is intermittent fasting safe for seniors?"
+  ],
+  "tradition_says": "Eating in a short window or skipping days is widely promoted for belly fat, energy and heart health, for everyone, whatever their age or health.",
+  "layer1": {
+    "plain_answer": "Intermittent fasting is not one answer for everyone. In trials of women with overweight, it lowered BMI and fasting blood sugar a little. Australia's official health service says it is not recommended for children, teenagers or older adults. Nothing we found tests it in Black women by life stage, or with thyroid or heart disease. Talk to your doctor first.",
+    "do": [
+      {
+        "text": "Healthdirect (Australia) says intermittent fasting is not safe for children, teenagers, older adults, anyone underweight, or anyone taking daily medicine that must be taken with food; if you have cancer treatment or take diabetes medicines, talk to your doctor first.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "healthdirect (Australia), \"Intermittent fasting\"",
+          "url": "https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you try it and feel weak, anxious, irritable or cannot concentrate, stop and speak to your doctor (healthdirect, Australia).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "healthdirect (Australia), \"Intermittent fasting\"",
+          "url": "https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Drink enough water on fasting days; you also get fluid from the food you skip.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "healthdirect (Australia), \"Intermittent fasting\"",
+          "url": "https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Expect a small effect: in trials of women with overweight, BMI fell by about 0.4 points on average and fasting blood sugar a little.",
+        "basis": "tested",
+        "source": "he-2026"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Intermittent fasting if you have had an eating disorder, are pregnant or breastfeeding: the UK's NHS says not to attempt it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS My Health London (UK), \"Intermittent fasting\"",
+          "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Never delay or skip meals if you have diabetes (British Dietetic Association, quoted on the UK's NHS My Health London page); do not change any medicine yourself.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS My Health London (UK), \"Intermittent fasting\"",
+          "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Treating a very short eating window as a safe heart plan: a preliminary US study (news release only, not peer reviewed at the time) linked eating within under 8 hours with more cardiovascular death, including in people with heart disease. It cannot show cause.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "American Heart Association (2024)",
+          "url": "https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You have high blood pressure, a heart condition or a thyroid condition and are thinking of fasting (doctor, before you start).",
+      "You are 18 or under, or older and losing weight without meaning to (doctor).",
+      "You feel faint, weak or unusually anxious while fasting (doctor, and stop).",
+      "You have chest pain, severe breathlessness or fainting: call your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "22 randomised trials, 1,287 women with overweight or obesity",
+      "design": "Systematic review and meta-analysis of intermittent fasting trials, with dose-response analysis",
+      "n": 1287,
+      "finding": "Intermittent fasting reduced BMI a little (mean difference -0.41, borderline after removing one influential study) and fasting blood glucose (-2.18), with no significant effect on blood pressure. Heterogeneity in the BMI result was high (80%); subgroup findings were based on limited evidence. A frequency of about twice a week looked most favourable in modelling.",
+      "source": {
+        "authors": "He H, Qin Z, Liu K, Wang Z et al",
+        "year": 2026,
+        "journal": "Frontiers in Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42221756/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Ethnicity of participants not given in the abstract; I did not read the full text.",
+      "id": "he-2026"
+    },
+    {
+      "population": "6 studies of time-restricted eating in adult females (randomised trials in women with obesity; non-randomised studies in women with PCOS)",
+      "design": "Systematic review of reproductive hormones and androgen markers",
+      "n": null,
+      "finding": "Randomised trials in women with obesity found no significant change in testosterone, oestrogen, progesterone, LH, cortisol, DHEA or SHBG. Non-randomised PCOS studies reported lower testosterone and LH, possibly because of weight loss. The authors call the evidence inconclusive.",
+      "source": {
+        "authors": "Jirapak A, Adams E, Black GM, Devlin BL",
+        "year": 2026,
+        "journal": "Nutrition and Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429418/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Searched to May 2024; I did not see ethnicity in the abstract.",
+      "id": "jirapak-2026"
+    },
+    {
+      "population": "42 Black adults with BMI 25 or more, 5 churches in Western New York State, US",
+      "design": "Cluster randomised pilot: 6-month faith-based intermittent fasting against continuous calorie reduction",
+      "n": 42,
+      "finding": "Both arms lost weight (intermittent fasting -3.5 kg; calorie reduction -2.9 kg). Intermittent fasting led to lower daily energy and fat intake, and possibly lower fruit, vegetable and fibre intake. Satisfaction was high. The authors conclude it is feasible and call for larger studies.",
+      "source": {
+        "authors": "Yeary KHK, Johnson D, Harris N, Yu H et al",
+        "year": 2025,
+        "journal": "Journal of the Academy of Nutrition and Dietetics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38986868/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "A feasibility pilot, not a test of whether it works better or is safe; adults free of conditions that would rule out weight loss, so not people with heart or thyroid disease.",
+      "id": "yeary-2025"
+    },
+    {
+      "population": "61 older men with BMI 23 or more, in a four-week alternate-day fasting programme",
+      "design": "Randomised trial of protein or leucine supplement against none during alternate-day fasting",
+      "n": 61,
+      "finding": "Over four weeks body composition measures (not bone density), systolic blood pressure and lipids fell and muscle strength and function improved; the supplements gave no extra benefit except for diastolic blood pressure and HDL cholesterol. The authors note that fasting diets risk muscle loss in older people.",
+      "source": {
+        "authors": "Pang BWJ, Yang Y, Cheon BK",
+        "year": 2026,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884706/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Older men only, four weeks, no comparison with eating normally; it cannot show safety for older women or over months.",
+      "id": "pang-2026"
+    },
+    {
+      "population": "More than 20,000 US adults, about 8% non-Hispanic Black",
+      "design": "Preliminary observational analysis presented at an American Heart Association meeting (not yet peer reviewed at the time of the release)",
+      "n": 20000,
+      "finding": "People who ate within under 8 hours a day had higher risk of cardiovascular death than those eating over 12 to 16 hours, including people with heart disease or cancer. The association cannot show cause.",
+      "source": {
+        "authors": "American Heart Association",
+        "year": 2024,
+        "journal": "not applicable",
+        "url": "https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death"
+      },
+      "tag": "[news]",
+      "line_tier": "C",
+      "note": "Preliminary; the release says abstracts are not peer reviewed. I read the press release only, not the abstract or a paper.",
+      "id": "aha-2024"
+    },
+    {
+      "population": "Hyperthyroid people, adults and those fasting for Ramadan",
+      "design": "Narrative review of fasting and thyroid function",
+      "n": null,
+      "finding": "In hyperthyroid patients direct evidence is limited and advice rests on expert opinion: fasting may be considered individually in stable, well-controlled disease, while active thyrotoxicosis needs caution.",
+      "source": {
+        "authors": "Mohseni S, Mohajeri-Tehrani M, Larijani B, Pejman Sani M",
+        "year": 2026,
+        "journal": "Journal of Diabetes and Metabolic Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42801042/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "About Ramadan fasting, which differs from other fasting plans.",
+      "id": "mohseni-2026"
+    },
+    {
+      "population": "Official guidance, UK and Australia",
+      "design": "UK NHS My Health London and healthdirect (Australia) intermittent fasting pages, opened 17 Nov 2026",
+      "n": null,
+      "finding": "They differ. The UK page says people with a history of anorexia or bulimia, and pregnant or breastfeeding women, should not try it, and never to skip meals with diabetes. Australia's page says it is not recommended for children, adolescents, older adults, anyone underweight, with an eating disorder, pregnant or breastfeeding, or taking daily medicine that must be taken with food, and to talk to a doctor if on cancer treatment or diabetes medicines. Australia also says many claimed benefits are unconfirmed in humans.",
+      "source": {
+        "authors": "NHS My Health London; healthdirect Australia",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "id": "official-2026"
+    },
+    {
+      "population": "Intermittent fasting in Black women by life stage (perimenopause, menopause, over 50), in teenagers of African descent, or in Black adults with hypertension, heart disease or hyperthyroidism",
+      "design": "PubMed searches listed in gaps",
+      "n": 0,
+      "finding": "My search found no study of these groups.",
+      "source": {
+        "authors": "PubMed searches, 17 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=intermittent+fasting+African+American"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "id": "pubmed-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That intermittent fasting lowers BMI and fasting glucose a little in women with overweight: one meta-analysis of 22 trials with high heterogeneity, population mix not given; the Black-adult evidence is a 42-person feasibility pilot.",
+  "tier_note": "Thin because the headline effect is borderline with high heterogeneity, and nothing tests the groups the questions ask about (menopause, older age, teenagers, high blood pressure, heart or thyroid disease) in people of African descent. Safety statements come from official guidance, which differs between countries.",
+  "harm_flag": true,
+  "harm_note": "The UK's NHS says people with an eating disorder history, and pregnant or breastfeeding women, should not try intermittent fasting, and never to skip meals with diabetes. Australia's healthdirect also lists children, teenagers and older adults. A preliminary US study linked an under-8-hour eating window with more cardiovascular death.",
+  "founder_flag": false,
+  "evidence_summary": "In 22 trials of 1,287 women with overweight, intermittent fasting reduced BMI slightly and fasting blood glucose; blood pressure did not change significantly. Time-restricted eating did not change reproductive hormones in trials of women with obesity. A 42-person pilot in Black adults in US churches found it workable, with weight loss similar to calorie cutting. A four-week trial in 61 older men saw lower body composition measures and systolic blood pressure, but fasting diets risk muscle loss in older people. A preliminary US analysis linked eating within under 8 hours to more cardiovascular death. Official advice differs: the UK's NHS lists eating disorders, pregnancy, breastfeeding and diabetes; Australia's healthdirect also lists children, teenagers and older adults. For menopause, perimenopause, hyperthyroidism and Black adults with heart disease, our search found no human study.",
+  "measured_variables": [
+    "BMI and fasting blood glucose (He 2026)",
+    "Reproductive hormones (Jirapak 2026)",
+    "Body weight, energy and fibre intake (Yeary 2025)"
+  ],
+  "gaps": "PubMed searches run 17 Nov 2026: 'intermittent fasting African American randomized' (2 records, one opened: Yeary 2025), 'intermittent fasting menopausal women weight randomized' (6; one rheumatoid arthritis trial and a protocol seen, not opened in full), 'intermittent fasting menopause' (43, none specific opened), 'intermittent fasting hyperthyroidism' (4; one Ramadan review opened, three not), 'intermittent fasting adolescents obesity randomized trial' (21, not opened) and 'intermittent fasting children adolescents systematic review safety' (0). Control: 'intermittent fasting women systematic review randomized controlled trials' returned 14 records, so the method works. Our search found no study of intermittent fasting in Black women in menopause or perimenopause, and none in teenagers of African descent. Not opened: the CDC (US) and Johns Hopkins pages (403 errors), the American Heart Association page on intermittent fasting (not found), the Victorian Better Health page (404), and the AHA paper itself (only the news release). I did not find or open an official US page on intermittent fasting for the groups asked about, so only two countries' guidance (UK, Australia) are given.",
+  "related": [
+    "intermittent-fasting-for-weight-and-health",
+    "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+    "type-2-diabetes-risk"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "He H et al",
+      "year": 2026,
+      "journal": "Front Nutr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42221756/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Jirapak A et al",
+      "year": 2026,
+      "journal": "Nutr Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42429418/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Yeary KHK et al",
+      "year": 2025,
+      "journal": "J Acad Nutr Diet",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38986868/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Pang BWJ et al",
+      "year": 2026,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42884706/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Mohseni S et al",
+      "year": 2026,
+      "journal": "J Diabetes Metab Disord",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801042/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS My Health London (UK), \"Intermittent fasting\"",
+      "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "healthdirect (Australia), \"Intermittent fasting\"",
+      "url": "https://www.healthdirect.gov.au/healthy-living/food-and-nutrition/intermittent-fasting",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Heart Association (US) news release, \"8-hour time-restricted eating linked to a 91% higher risk of cardiovascular death\", 18 March 2024 (preliminary abstract)",
+      "url": "https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death",
+      "tag": "[news]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "38432242",
+  "slug": "braat-2024-38432242",
+  "citation": {
+    "authors": "Braat S, Fielding KL, Han J et al",
+    "year": 2024,
+    "journal": "The Lancet Haematology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38432242/",
+  "page": "https://vilivity.com/studies/braat-2024-38432242/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "braat-2024",
+        "population": "Healthy reference samples from 8 data sources (USA, England, Australia, China, the Netherlands, Canada, Ecuador, Bangladesh): 3,640 non-pregnant women, 2,377 men, 772 first-trimester and 111 second-trimester pregnancies, plus children and adolescents",
+        "n": "not applicable",
+        "design": "Pooled analysis of fifth-centile haemoglobin, with a summary of three genetic studies",
+        "finding": "Fifth-centile haemoglobin in adults aged 18 to 65 was 119.7 g/L in non-pregnant women and 134.9 g/L in men; in pregnancy it was 110.3 g/L in the first trimester and 105.9 g/L in the second, with too little data for the third. The authors found no evidence that thresholds should differ between people of different ancestries.",
+        "line_tier": "B",
+        "note": "These are statistical thresholds from healthy reference samples, not outcomes. Funded by WHO and the Gates Foundation.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

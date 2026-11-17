@@ -1,6 +1,6 @@
 {
   "site": "Vilivity",
-  "count": 341,
+  "count": 419,
   "studies": [
     {
       "slug": "merz-2023-35994632",
@@ -9,7 +9,7 @@
       "modules": [
         "body"
       ],
-      "cited_by": 2,
+      "cited_by": 3,
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/merz-2023-35994632/",
       "json": "https://vilivity.com/api/studies/merz-2023-35994632.json"
@@ -117,7 +117,7 @@
       "modules": [
         "body"
       ],
-      "cited_by": 3,
+      "cited_by": 4,
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/beutler-2005-15790781/",
       "json": "https://vilivity.com/api/studies/beutler-2005-15790781.json"
@@ -193,6 +193,186 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/bmj-2025-41789013/",
       "json": "https://vilivity.com/api/studies/bmj-2025-41789013.json"
+    },
+    {
+      "slug": "della-2023-38140274",
+      "pmid": "38140274",
+      "title": "Effects of Withania somnifera on Cortisol Levels in Stressed Human Subjects: A Systematic Review",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/della-2023-38140274/",
+      "json": "https://vilivity.com/api/studies/della-2023-38140274.json"
+    },
+    {
+      "slug": "marchi-2025-41140145",
+      "pmid": "41140145",
+      "title": "The effect of Withania somnifera (Ashwagandha) on mental health symptoms in individuals with mental disorders: systematic review and meta-analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/marchi-2025-41140145/",
+      "json": "https://vilivity.com/api/studies/marchi-2025-41140145.json"
+    },
+    {
+      "slug": "choudhary-2017-27055824",
+      "pmid": "27055824",
+      "title": "Body Weight Management in Adults Under Chronic Stress Through Treatment With Ashwagandha Root Extract: A Double-Blind, Randomized, Placebo-Controlled Trial",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/choudhary-2017-27055824/",
+      "json": "https://vilivity.com/api/studies/choudhary-2017-27055824.json"
+    },
+    {
+      "slug": "o-connor-2022-35984871",
+      "pmid": "35984871",
+      "title": "The Impact of Ashwagandha on Stress, Sleep Quality, and Food Cravings in College Students: Quantitative Analysis of a Double-Blind Randomized Control Trial",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/o-connor-2022-35984871/",
+      "json": "https://vilivity.com/api/studies/o-connor-2022-35984871.json"
+    },
+    {
+      "slug": "gopukumar-2021-34858513",
+      "pmid": "34858513",
+      "title": "Efficacy and Safety of Ashwagandha Root Extract on Cognitive Functions in Healthy, Stressed Adults: A Randomized, Double-Blind, Placebo-Controlled Study",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gopukumar-2021-34858513/",
+      "json": "https://vilivity.com/api/studies/gopukumar-2021-34858513.json"
+    },
+    {
+      "slug": "tharakan-2021-34441940",
+      "pmid": "34441940",
+      "title": "Immunomodulatory Effect of Withania somnifera (Ashwagandha) Extract-A Randomized, Double-Blind, Placebo Controlled Trial with an Open Label Extension on Healthy Participants",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/tharakan-2021-34441940/",
+      "json": "https://vilivity.com/api/studies/tharakan-2021-34441940.json"
+    },
+    {
+      "slug": "jillella-2026-41770039",
+      "pmid": "41770039",
+      "title": "A Prospective, Randomized, Double-Blind, Placebo-Controlled Clinical Study of Efficacy and Safety of Ashwagandha Root Extract Capsule on Skin and Hair Health in Healthy Adults",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jillella-2026-41770039/",
+      "json": "https://vilivity.com/api/studies/jillella-2026-41770039.json"
+    },
+    {
+      "slug": "yerram-2023-38006746",
+      "pmid": "38006746",
+      "title": "Effects of Withania somnifera root extract serum application on hair health in healthy adults: A prospective, double-blind, randomized, parallel, placebo-controlled study",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/yerram-2023-38006746/",
+      "json": "https://vilivity.com/api/studies/yerram-2023-38006746.json"
+    },
+    {
+      "slug": "ballesteros-torres-2025-41204297",
+      "pmid": "41204297",
+      "title": "Impact of ashwagandha (Withania somnifera L.) supplementation on serum lipid concentrations and anthropometric parameters in adults with overweight and obesity: a double-blind, placebo-controlled pilot study",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ballesteros-torres-2025-41204297/",
+      "json": "https://vilivity.com/api/studies/ballesteros-torres-2025-41204297.json"
+    },
+    {
+      "slug": "verma-2021-33338583",
+      "pmid": "33338583",
+      "title": "Safety of Ashwagandha Root Extract: A Randomized, Placebo-Controlled, study in Healthy Volunteers",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/verma-2021-33338583/",
+      "json": "https://vilivity.com/api/studies/verma-2021-33338583.json"
+    },
+    {
+      "slug": "coope-2026-42198398",
+      "pmid": "42198398",
+      "title": "Back to the Roots: Safety and Tolerability of Standardised Ashwagandha (Withania somnifera) Root Extract in Healthy Adults-A Systematic Review of Biomarkers and Adverse Events",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/coope-2026-42198398/",
+      "json": "https://vilivity.com/api/studies/coope-2026-42198398.json"
+    },
+    {
+      "slug": "philips-2023-37756041",
+      "pmid": "37756041",
+      "title": "Ashwagandha-induced liver injury-A case series from India and literature review",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/philips-2023-37756041/",
+      "json": "https://vilivity.com/api/studies/philips-2023-37756041.json"
+    },
+    {
+      "slug": "sriperumbuduri-2020-33305135",
+      "pmid": "33305135",
+      "title": "Ashwagandha and Kidney Transplant Rejection",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/sriperumbuduri-2020-33305135/",
+      "json": "https://vilivity.com/api/studies/sriperumbuduri-2020-33305135.json"
+    },
+    {
+      "slug": "hayashi-2024-38559552",
+      "pmid": "38559552",
+      "title": "Painless Thyroiditis by Withania somnifera (Ashwagandha)",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hayashi-2024-38559552/",
+      "json": "https://vilivity.com/api/studies/hayashi-2024-38559552.json"
+    },
+    {
+      "slug": "likhitsup-2024-39102266",
+      "pmid": "39102266",
+      "title": "Estimated Exposure to 6 Potentially Hepatotoxic Botanicals in US Adults",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/likhitsup-2024-39102266/",
+      "json": "https://vilivity.com/api/studies/likhitsup-2024-39102266.json"
     },
     {
       "slug": "akhgarjand-2022-36017529",
@@ -965,6 +1145,114 @@
       "json": "https://vilivity.com/api/studies/linday-2010-21677119.json"
     },
     {
+      "slug": "simental-mendia-2025-39212129",
+      "pmid": "39212129",
+      "title": "Effect of collagen supplementation on knee osteoarthritis: an updated systematic review and meta-analysis of randomised controlled trials",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/simental-mendia-2025-39212129/",
+      "json": "https://vilivity.com/api/studies/simental-mendia-2025-39212129.json"
+    },
+    {
+      "slug": "garcia-coronado-2019-30368550",
+      "pmid": "30368550",
+      "title": "Effect of collagen supplementation on osteoarthritis symptoms: a meta-analysis of randomized placebo-controlled trials",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/garcia-coronado-2019-30368550/",
+      "json": "https://vilivity.com/api/studies/garcia-coronado-2019-30368550.json"
+    },
+    {
+      "slug": "liu-2018-29018060",
+      "pmid": "29018060",
+      "title": "Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/liu-2018-29018060/",
+      "json": "https://vilivity.com/api/studies/liu-2018-29018060.json"
+    },
+    {
+      "slug": "vleminckx-2024-39143887",
+      "pmid": "39143887",
+      "title": "Influence of collagen peptide supplementation on visible signs of skin and nail health and -aging in an East Asian population: A double blind, randomized, placebo-controlled trial",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/vleminckx-2024-39143887/",
+      "json": "https://vilivity.com/api/studies/vleminckx-2024-39143887.json"
+    },
+    {
+      "slug": "reilly-2024-39021368",
+      "pmid": "39021368",
+      "title": "A Clinical Trial Shows Improvement in Skin Collagen, Hydration, Elasticity, Wrinkles, Scalp, and Hair Condition following 12-Week Oral Intake of a Supplement Containing Hydrolysed Collagen",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/reilly-2024-39021368/",
+      "json": "https://vilivity.com/api/studies/reilly-2024-39021368.json"
+    },
+    {
+      "slug": "kim-2026-42624827",
+      "pmid": "42624827",
+      "title": "Efficacy and Safety of Low-Molecular-Weight Collagen Peptide GT for Improving Hair Condition in Individuals with Damaged Hair: A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kim-2026-42624827/",
+      "json": "https://vilivity.com/api/studies/kim-2026-42624827.json"
+    },
+    {
+      "slug": "milani-2023-37357646",
+      "pmid": "37357646",
+      "title": "Efficacy and tolerability of an oral supplement containing amino acids, iron, selenium, and marine hydrolyzed collagen in subjects with hair loss (androgenetic alopecia, AGA or FAGA or telogen effluvium). A prospective, randomized, 3-month, controlled, assessor-blinded study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/milani-2023-37357646/",
+      "json": "https://vilivity.com/api/studies/milani-2023-37357646.json"
+    },
+    {
+      "slug": "rustad-2022-34694676",
+      "pmid": "34694676",
+      "title": "Myths and media in oral collagen supplementation for the skin, nails, and hair: A review",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rustad-2022-34694676/",
+      "json": "https://vilivity.com/api/studies/rustad-2022-34694676.json"
+    },
+    {
+      "slug": "miyamoto-2025-40623147",
+      "pmid": "40623147",
+      "title": "Collagen Peptide Supplementation Enhances Muscle-Tendon Stiffness and Explosive Strength: A 16-wk Randomized Controlled Trial",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/miyamoto-2025-40623147/",
+      "json": "https://vilivity.com/api/studies/miyamoto-2025-40623147.json"
+    },
+    {
       "slug": "pu-2023-37432180",
       "pmid": "37432180",
       "title": "Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis",
@@ -987,6 +1275,102 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/myung-2025-40324552/",
       "json": "https://vilivity.com/api/studies/myung-2025-40324552.json"
+    },
+    {
+      "slug": "wolf-2018-29846947",
+      "pmid": "29846947",
+      "title": "Colorectal cancer screening for average-risk adults: 2018 guideline update from the American Cancer Society",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wolf-2018-29846947/",
+      "json": "https://vilivity.com/api/studies/wolf-2018-29846947.json"
+    },
+    {
+      "slug": "wolf-2026-42200680",
+      "pmid": "42200680",
+      "title": "Colorectal cancer screening: An update to the American Cancer Society guideline, 2026",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wolf-2026-42200680/",
+      "json": "https://vilivity.com/api/studies/wolf-2026-42200680.json"
+    },
+    {
+      "slug": "patel-2022-34794816",
+      "pmid": "34794816",
+      "title": "Updates on Age to Start and Stop Colorectal Cancer Screening: Recommendations From the U.S. Multi-Society Task Force on Colorectal Cancer",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/patel-2022-34794816/",
+      "json": "https://vilivity.com/api/studies/patel-2022-34794816.json"
+    },
+    {
+      "slug": "rutter-2020-31776230",
+      "pmid": "31776230",
+      "title": "British Society of Gastroenterology/Association of Coloproctology of Great Britain and Ireland/Public Health England post-polypectomy and post-colorectal cancer resection surveillance guidelines",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rutter-2020-31776230/",
+      "json": "https://vilivity.com/api/studies/rutter-2020-31776230.json"
+    },
+    {
+      "slug": "hassan-2020-32572858",
+      "pmid": "32572858",
+      "title": "Post-polypectomy colonoscopy surveillance: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2020",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hassan-2020-32572858/",
+      "json": "https://vilivity.com/api/studies/hassan-2020-32572858.json"
+    },
+    {
+      "slug": "lebwohl-2012-22540887",
+      "pmid": "22540887",
+      "title": "Risk of colorectal adenomas and advanced neoplasia in Hispanic, black and white patients undergoing screening colonoscopy",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lebwohl-2012-22540887/",
+      "json": "https://vilivity.com/api/studies/lebwohl-2012-22540887.json"
+    },
+    {
+      "slug": "wu-2025-40063509",
+      "pmid": "40063509",
+      "title": "Racial Differences in Colorectal Adenomas at Screening Colonoscopy in the United States",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wu-2025-40063509/",
+      "json": "https://vilivity.com/api/studies/wu-2025-40063509.json"
+    },
+    {
+      "slug": "trivedi-2022-35007513",
+      "pmid": "35007513",
+      "title": "Prevalence and Predictors of Young-Onset Colorectal Neoplasia: Insights From a Nationally Representative Colonoscopy Registry",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/trivedi-2022-35007513/",
+      "json": "https://vilivity.com/api/studies/trivedi-2022-35007513.json"
     },
     {
       "slug": "bloch-2019-31237371",
@@ -1071,6 +1455,54 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/cabral-2011-21875181/",
       "json": "https://vilivity.com/api/studies/cabral-2011-21875181.json"
+    },
+    {
+      "slug": "zvolensky-2026-42617378",
+      "pmid": "42617378",
+      "title": "Evaluating smartphone-based interventions for anxiety and depressive symptoms: A randomized controlled trial",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/zvolensky-2026-42617378/",
+      "json": "https://vilivity.com/api/studies/zvolensky-2026-42617378.json"
+    },
+    {
+      "slug": "nam-2024-39306634",
+      "pmid": "39306634",
+      "title": "Mindfulness-based therapy for insomnia in Black women: a pilot randomized controlled trial",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/nam-2024-39306634/",
+      "json": "https://vilivity.com/api/studies/nam-2024-39306634.json"
+    },
+    {
+      "slug": "alexander-2026-42764478",
+      "pmid": "42764478",
+      "title": "A digital mindfulness application for African American caregivers of people living with HIV/AIDS: feasibility trial findings",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/alexander-2026-42764478/",
+      "json": "https://vilivity.com/api/studies/alexander-2026-42764478.json"
+    },
+    {
+      "slug": "thind-2026-42326246",
+      "pmid": "42326246",
+      "title": "Aggregate Effects of Yoga-Based Volitional Breathing Interventions on Perceived Stress and Anxiety Levels Among Medical Students Worldwide: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/thind-2026-42326246/",
+      "json": "https://vilivity.com/api/studies/thind-2026-42326246.json"
     },
     {
       "slug": "wang-2024-39519498",
@@ -2021,6 +2453,54 @@
       "json": "https://vilivity.com/api/studies/lambert-2008-19209002.json"
     },
     {
+      "slug": "bernardi-2016-27524363",
+      "pmid": "27524363",
+      "title": "The association between subjective assessment of menstrual bleeding and measures of iron deficiency anemia in premenopausal African-American women: a cross-sectional study",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 2,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/bernardi-2016-27524363/",
+      "json": "https://vilivity.com/api/studies/bernardi-2016-27524363.json"
+    },
+    {
+      "slug": "agarwal-2024-39559275",
+      "pmid": "39559275",
+      "title": "Uterine fibroids with heavy menstrual bleeding stratified by race in a commercial and Medicaid database",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/agarwal-2024-39559275/",
+      "json": "https://vilivity.com/api/studies/agarwal-2024-39559275.json"
+    },
+    {
+      "slug": "dorsey-2013-24093961",
+      "pmid": "24093961",
+      "title": "Menorrhagia, active component service women, U.S. Armed Forces, 1998-2012",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dorsey-2013-24093961/",
+      "json": "https://vilivity.com/api/studies/dorsey-2013-24093961.json"
+    },
+    {
+      "slug": "wise-2026-42491348",
+      "pmid": "42491348",
+      "title": "Pre-diagnosis symptoms reported among endometrial cancer survivors",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wise-2026-42491348/",
+      "json": "https://vilivity.com/api/studies/wise-2026-42491348.json"
+    },
+    {
       "slug": "nwachukwu-2015-26289514",
       "pmid": "26289514",
       "title": "Effect of Hibiscus sabdariffaon blood pressure and electrolyte profile of mild to moderate hypertensive Nigerians: A comparative study with hydrochlorothiazide",
@@ -2087,7 +2567,7 @@
       "modules": [
         "body"
       ],
-      "cited_by": 2,
+      "cited_by": 3,
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/agyemang-2012-21881618/",
       "json": "https://vilivity.com/api/studies/agyemang-2012-21881618.json"
@@ -2303,7 +2783,7 @@
       "modules": [
         "food"
       ],
-      "cited_by": 1,
+      "cited_by": 2,
       "tier_a_record": true,
       "page": "https://vilivity.com/studies/yeary-2025-38986868/",
       "json": "https://vilivity.com/api/studies/yeary-2025-38986868.json"
@@ -2321,6 +2801,54 @@
       "json": "https://vilivity.com/api/studies/rehman-2026-41941962.json"
     },
     {
+      "slug": "he-2026-42221756",
+      "pmid": "42221756",
+      "title": "The effects of intermittent fasting on BMI, fasting blood glucose, and blood pressure in women with overweight or obesity: a systematic review and meta-analysis with dose-response relationships",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/he-2026-42221756/",
+      "json": "https://vilivity.com/api/studies/he-2026-42221756.json"
+    },
+    {
+      "slug": "jirapak-2026-42429418",
+      "pmid": "42429418",
+      "title": "Impact of time-restricted eating on reproductive hormones and androgen markers in adult females: A systematic review",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jirapak-2026-42429418/",
+      "json": "https://vilivity.com/api/studies/jirapak-2026-42429418.json"
+    },
+    {
+      "slug": "pang-2026-42884706",
+      "pmid": "42884706",
+      "title": "Effects of Body-Mass-Scaled Protein and Leucine Supplementation on Body Composition and Cardiometabolic Blood Markers During Weight Loss in Older Men-A Randomized Controlled Trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/pang-2026-42884706/",
+      "json": "https://vilivity.com/api/studies/pang-2026-42884706.json"
+    },
+    {
+      "slug": "mohseni-2026-42801042",
+      "pmid": "42801042",
+      "title": "Ramadan fasting and thyroid function: a narrative review of physiological adaptation and clinical management",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mohseni-2026-42801042/",
+      "json": "https://vilivity.com/api/studies/mohseni-2026-42801042.json"
+    },
+    {
       "slug": "baird-2020-32105679",
       "pmid": "32105679",
       "title": "Uterine fibroid incidence and growth in an ultrasound-based, prospective study of young African Americans",
@@ -2331,18 +2859,6 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/baird-2020-32105679/",
       "json": "https://vilivity.com/api/studies/baird-2020-32105679.json"
-    },
-    {
-      "slug": "bernardi-2016-27524363",
-      "pmid": "27524363",
-      "title": "The association between subjective assessment of menstrual bleeding and measures of iron deficiency anemia in premenopausal African-American women: a cross-sectional study",
-      "modules": [
-        "body"
-      ],
-      "cited_by": 1,
-      "tier_a_record": false,
-      "page": "https://vilivity.com/studies/bernardi-2016-27524363/",
-      "json": "https://vilivity.com/api/studies/bernardi-2016-27524363.json"
     },
     {
       "slug": "greene-2025-40835838",
@@ -2607,6 +3123,102 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/csuka-2023-35218566/",
       "json": "https://vilivity.com/api/studies/csuka-2023-35218566.json"
+    },
+    {
+      "slug": "braat-2024-38432242",
+      "pmid": "38432242",
+      "title": "Haemoglobin thresholds to define anaemia from age 6 months to 65 years: estimates from international data sources",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/braat-2024-38432242/",
+      "json": "https://vilivity.com/api/studies/braat-2024-38432242.json"
+    },
+    {
+      "slug": "kim-2025-41533406",
+      "pmid": "41533406",
+      "title": "Neutropenia: Evaluation and Management in the Primary Care Setting",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kim-2025-41533406/",
+      "json": "https://vilivity.com/api/studies/kim-2025-41533406.json"
+    },
+    {
+      "slug": "barouqa-2026-42345734",
+      "pmid": "42345734",
+      "title": "Establishing Reference Intervals for White Blood Cell and Absolute Neutrophil Counts in Duffy Null Individuals",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/barouqa-2026-42345734/",
+      "json": "https://vilivity.com/api/studies/barouqa-2026-42345734.json"
+    },
+    {
+      "slug": "velloso-2026-42678004",
+      "pmid": "42678004",
+      "title": "Blood Cell Counts and the Duffy Null Phenotype: Beyond Neutropenia",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/velloso-2026-42678004/",
+      "json": "https://vilivity.com/api/studies/velloso-2026-42678004.json"
+    },
+    {
+      "slug": "supak-smolcic-2025-40002566",
+      "pmid": "40002566",
+      "title": "Reference Intervals for Common Biochemistry and Hematology Parameters in Early Pregnancy-A Prospective Study",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/supak-smolcic-2025-40002566/",
+      "json": "https://vilivity.com/api/studies/supak-smolcic-2025-40002566.json"
+    },
+    {
+      "slug": "al-naseem-2021-33762368",
+      "pmid": "33762368",
+      "title": "Iron deficiency without anaemia: a diagnosis that matters",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/al-naseem-2021-33762368/",
+      "json": "https://vilivity.com/api/studies/al-naseem-2021-33762368.json"
+    },
+    {
+      "slug": "chabot-richards-2014-24750674",
+      "pmid": "24750674",
+      "title": "Leukocytosis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/chabot-richards-2014-24750674/",
+      "json": "https://vilivity.com/api/studies/chabot-richards-2014-24750674.json"
+    },
+    {
+      "slug": "crispell-2023-39764835",
+      "pmid": "39764835",
+      "title": "Postoperative anaemia: Hiding in plain sight",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/crispell-2023-39764835/",
+      "json": "https://vilivity.com/api/studies/crispell-2023-39764835.json"
     },
     {
       "slug": "bhakta-2023-36973004",
@@ -3005,6 +3617,30 @@
       "json": "https://vilivity.com/api/studies/stohs-2015-25808883.json"
     },
     {
+      "slug": "flynn-2017-28827377",
+      "pmid": "28827377",
+      "title": "Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/flynn-2017-28827377/",
+      "json": "https://vilivity.com/api/studies/flynn-2017-28827377.json"
+    },
+    {
+      "slug": "jones-2025-40815242",
+      "pmid": "40815242",
+      "title": "2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jones-2025-40815242/",
+      "json": "https://vilivity.com/api/studies/jones-2025-40815242.json"
+    },
+    {
       "slug": "engmann-2017-28104402",
       "pmid": "28104402",
       "title": "Racial and ethnic differences in the polycystic ovary syndrome metabolic phenotype",
@@ -3219,6 +3855,42 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/valbuena-2022-35793817/",
       "json": "https://vilivity.com/api/studies/valbuena-2022-35793817.json"
+    },
+    {
+      "slug": "mcgowan-2024-38390461",
+      "pmid": "38390461",
+      "title": "Investigating and Summarizing Information Resources Related to the Clinical Presentation and Diagnosis of Cutaneous Manifestations of Infectious Diseases in Patients With Skin of Color",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mcgowan-2024-38390461/",
+      "json": "https://vilivity.com/api/studies/mcgowan-2024-38390461.json"
+    },
+    {
+      "slug": "nazarian-2024-38776041",
+      "pmid": "38776041",
+      "title": "Diagnosis of Allergic Dermatoses in Skin of Color",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/nazarian-2024-38776041/",
+      "json": "https://vilivity.com/api/studies/nazarian-2024-38776041.json"
+    },
+    {
+      "slug": "sprigle-2009-19325277",
+      "pmid": "19325277",
+      "title": "Detection of skin erythema in darkly pigmented skin using multispectral images",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/sprigle-2009-19325277/",
+      "json": "https://vilivity.com/api/studies/sprigle-2009-19325277.json"
     },
     {
       "slug": "janivara-2025-40134218",
@@ -3557,6 +4229,66 @@
       "json": "https://vilivity.com/api/studies/taylor-2012-22445352.json"
     },
     {
+      "slug": "kavanagh-2022-35788790",
+      "pmid": "35788790",
+      "title": "Sickle Cell Disease: A Review",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kavanagh-2022-35788790/",
+      "json": "https://vilivity.com/api/studies/kavanagh-2022-35788790.json"
+    },
+    {
+      "slug": "nnodu-2024-39644044",
+      "pmid": "39644044",
+      "title": "Newborn screening initiatives for sickle cell disease in Africa",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/nnodu-2024-39644044/",
+      "json": "https://vilivity.com/api/studies/nnodu-2024-39644044.json"
+    },
+    {
+      "slug": "aygun-2024-38701812",
+      "pmid": "38701812",
+      "title": "Hydroxyurea dose optimisation for children with sickle cell anaemia in sub-Saharan Africa (REACH): extended follow-up of a multicentre, open-label, phase 1/2 trial",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/aygun-2024-38701812/",
+      "json": "https://vilivity.com/api/studies/aygun-2024-38701812.json"
+    },
+    {
+      "slug": "olaniyan-2025-40181434",
+      "pmid": "40181434",
+      "title": "Understanding and treating menstruation associated sickle cell pain",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/olaniyan-2025-40181434/",
+      "json": "https://vilivity.com/api/studies/olaniyan-2025-40181434.json"
+    },
+    {
+      "slug": "day-2020-33786471",
+      "pmid": "33786471",
+      "title": "Vaso-Occlusive Pain and Menstruation in Sickle Cell Disease: A Focus Group Analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/day-2020-33786471/",
+      "json": "https://vilivity.com/api/studies/day-2020-33786471.json"
+    },
+    {
       "slug": "nelson-2016-27518662",
       "pmid": "27518662",
       "title": "Sickle Cell Trait, Rhabdomyolysis, and Mortality among U.S. Army Soldiers",
@@ -3771,6 +4503,54 @@
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/tang-2006-16912361/",
       "json": "https://vilivity.com/api/studies/tang-2006-16912361.json"
+    },
+    {
+      "slug": "g-lvez-2022-34674316",
+      "pmid": "34674316",
+      "title": "Sunscreens effectiveness are not altered by concomitant use of moisturizing creams: An ultraviolet reflectance photography study",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/g-lvez-2022-34674316/",
+      "json": "https://vilivity.com/api/studies/g-lvez-2022-34674316.json"
+    },
+    {
+      "slug": "kim-2021-33660348",
+      "pmid": "33660348",
+      "title": "Layering sunscreen with facial makeup enhances its sun protection factor under real-use conditions",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kim-2021-33660348/",
+      "json": "https://vilivity.com/api/studies/kim-2021-33660348.json"
+    },
+    {
+      "slug": "lua-2024-39092468",
+      "pmid": "39092468",
+      "title": "Understanding the causes of skincare product pilling",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lua-2024-39092468/",
+      "json": "https://vilivity.com/api/studies/lua-2024-39092468.json"
+    },
+    {
+      "slug": "schorr-2012-23135655",
+      "pmid": "23135655",
+      "title": "Adjunctive use of a facial moisturizer SPF 30 containing ceramide precursor improves tolerability of topical tretinoin 0.05%: a randomized, investigator-blinded, split-face study",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/schorr-2012-23135655/",
+      "json": "https://vilivity.com/api/studies/schorr-2012-23135655.json"
     },
     {
       "slug": "chen-2015-25409106",
@@ -4092,10 +4872,166 @@
       "modules": [
         "skin"
       ],
-      "cited_by": 1,
+      "cited_by": 2,
       "tier_a_record": false,
       "page": "https://vilivity.com/studies/seneschal-2025-40156697/",
       "json": "https://vilivity.com/api/studies/seneschal-2025-40156697.json"
+    },
+    {
+      "slug": "bae-2017-28355423",
+      "pmid": "28355423",
+      "title": "Phototherapy for Vitiligo: A Systematic Review and Meta-analysis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bae-2017-28355423/",
+      "json": "https://vilivity.com/api/studies/bae-2017-28355423.json"
+    },
+    {
+      "slug": "whitton-2015-25710794",
+      "pmid": "25710794",
+      "title": "Interventions for vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/whitton-2015-25710794/",
+      "json": "https://vilivity.com/api/studies/whitton-2015-25710794.json"
+    },
+    {
+      "slug": "liu-2005-15953059",
+      "pmid": "15953059",
+      "title": "Clinical profiles of vitiligo in China: an analysis of 3742 patients",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/liu-2005-15953059/",
+      "json": "https://vilivity.com/api/studies/liu-2005-15953059.json"
+    },
+    {
+      "slug": "ayanlowo-2009-19761176",
+      "pmid": "19761176",
+      "title": "Characteristics of vitiligo in Lagos, Nigeria",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ayanlowo-2009-19761176/",
+      "json": "https://vilivity.com/api/studies/ayanlowo-2009-19761176.json"
+    },
+    {
+      "slug": "mason-2005-15953063",
+      "pmid": "15953063",
+      "title": "Vitiligo presentation in adults",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mason-2005-15953063/",
+      "json": "https://vilivity.com/api/studies/mason-2005-15953063.json"
+    },
+    {
+      "slug": "spritz-2021-32778407",
+      "pmid": "32778407",
+      "title": "The Genetic Basis of Vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/spritz-2021-32778407/",
+      "json": "https://vilivity.com/api/studies/spritz-2021-32778407.json"
+    },
+    {
+      "slug": "singh-2010-19481511",
+      "pmid": "19481511",
+      "title": "Micropigmentation: tattooing for the treatment of lip vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/singh-2010-19481511/",
+      "json": "https://vilivity.com/api/studies/singh-2010-19481511.json"
+    },
+    {
+      "slug": "souroujon-2023-37715361",
+      "pmid": "37715361",
+      "title": "Autologous cell transplant as a treatment for stable segmental vitiligo: a systematic review",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/souroujon-2023-37715361/",
+      "json": "https://vilivity.com/api/studies/souroujon-2023-37715361.json"
+    },
+    {
+      "slug": "nicolaidou-2019-30911977",
+      "pmid": "30911977",
+      "title": "Childhood Vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/nicolaidou-2019-30911977/",
+      "json": "https://vilivity.com/api/studies/nicolaidou-2019-30911977.json"
+    },
+    {
+      "slug": "karuppusamy-2022-35085016",
+      "pmid": "35085016",
+      "title": "Individualized Homeopathic Medicines in Treatment of Vitiligo: Double-Blind, Randomized, Placebo-Controlled Pilot Trial",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/karuppusamy-2022-35085016/",
+      "json": "https://vilivity.com/api/studies/karuppusamy-2022-35085016.json"
+    },
+    {
+      "slug": "donata-1990-22557698",
+      "pmid": "22557698",
+      "title": "Clinical trial of certain ayurvedic medicines indicated in vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/donata-1990-22557698/",
+      "json": "https://vilivity.com/api/studies/donata-1990-22557698.json"
+    },
+    {
+      "slug": "shakhbazova-2021-33337930",
+      "pmid": "33337930",
+      "title": "A Systematic Review of Nutrition, Supplement, and Herbal-Based Adjunctive Therapies for Vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/shakhbazova-2021-33337930/",
+      "json": "https://vilivity.com/api/studies/shakhbazova-2021-33337930.json"
+    },
+    {
+      "slug": "whitton-2010-20091542",
+      "pmid": "20091542",
+      "title": "Interventions for vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/whitton-2010-20091542/",
+      "json": "https://vilivity.com/api/studies/whitton-2010-20091542.json"
     }
   ]
 }

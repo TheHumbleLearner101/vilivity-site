@@ -1,0 +1,30 @@
+{
+  "pmid": "27055824",
+  "slug": "choudhary-2017-27055824",
+  "citation": {
+    "authors": "Choudhary D, Bhattacharyya S, Joshi K",
+    "year": 2017,
+    "journal": "Journal of Evidence-Based Complementary & Alternative Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27055824/",
+  "page": "https://vilivity.com/studies/choudhary-2017-27055824/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "choudhary-2017",
+        "population": "52 adults under chronic stress (country and ethnicity not stated in the abstract)",
+        "n": 52,
+        "design": "Randomised, double-blind, placebo-controlled, 300 mg root extract twice a day for 8 weeks",
+        "finding": "Perceived stress, food cravings, eating behaviour, serum cortisol, body weight and BMI all improved compared with placebo. The extract was reported safe and tolerable.",
+        "line_tier": "B",
+        "note": "Small. The size of the weight change is not in the abstract. Waist circumference was not reported.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

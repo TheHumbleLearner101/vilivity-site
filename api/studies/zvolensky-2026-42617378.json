@@ -1,0 +1,30 @@
+{
+  "pmid": "42617378",
+  "slug": "zvolensky-2026-42617378",
+  "citation": {
+    "authors": "Zvolensky MJ, Garey L, Gallagher MW, Cheney MK et al",
+    "year": 2026,
+    "journal": "Behaviour Research and Therapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42617378/",
+  "page": "https://vilivity.com/studies/zvolensky-2026-42617378/",
+  "cited_by": [
+    {
+      "entry": "coping-with-anxiety-day-to-day",
+      "title": "Coping with anxiety day to day",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/coping-with-anxiety-day-to-day/",
+      "record": {
+        "id": "zvolensky-2026",
+        "population": "822 US adults with raised anxiety or depression (25.1% African American, 25.3% American Indian, 24.6% Latinx, 25.1% non-Latinx White)",
+        "n": 822,
+        "design": "Randomised trial of two smartphone programmes (anxiety-sensitivity reduction against mindfulness and relaxation), 6-month follow-up",
+        "finding": "Differences between the two programmes were small and not statistically significant. Within each group anxiety, depression and anxiety sensitivity fell over the follow-up. Subgroup patterns by race and ethnicity varied but the study was not powered to test them.",
+        "line_tier": "B",
+        "note": "Done during the COVID-19 pandemic; no no-treatment group, so the falls may not be due to the programmes.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "40063509",
+  "slug": "wu-2025-40063509",
+  "citation": {
+    "authors": "Wu Y, de Groen PC, Natafgi N et al",
+    "year": 2025,
+    "journal": "Cancer Epidemiology, Biomarkers and Prevention"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40063509/",
+  "page": "https://vilivity.com/studies/wu-2025-40063509/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "wu-2025",
+        "population": "28,100 average-risk adults aged 40 to 89 at first screening colonoscopy in South Carolina, 58.4% Black",
+        "n": 28100,
+        "design": "Cross-sectional observational study",
+        "finding": "Black patients had lower age- and sex-adjusted odds of an adenoma (odds ratio 0.88) than white patients, and similar odds of advanced adenoma or three or more non-advanced adenomas. The authors say polyp profiles were similar and that other factors must explain the higher bowel cancer rates in Black Americans.",
+        "line_tier": "B",
+        "note": "Racially balanced sample, one US state; includes ages 40 to 49.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

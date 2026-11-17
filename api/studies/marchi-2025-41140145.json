@@ -1,0 +1,30 @@
+{
+  "pmid": "41140145",
+  "slug": "marchi-2025-41140145",
+  "citation": {
+    "authors": "Marchi M, Grenzi P, Travascio A, Uberti D et al",
+    "year": 2025,
+    "journal": "BJPsych Open"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41140145/",
+  "page": "https://vilivity.com/studies/marchi-2025-41140145/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "marchi-2025",
+        "population": "360 people treated and 353 controls in 14 randomised trials, people with mental disorders (mostly anxiety; inclusion was any age), median dose 600 mg a day, median follow-up 8 weeks",
+        "n": 713,
+        "design": "Systematic review and meta-analysis, frequentist and Bayesian",
+        "finding": "Ashwagandha improved anxiety, depression, stress and sleep quality compared with comparators. The Bayesian analysis confirmed the anxiety result but not the depression result. The authors list few studies, large differences between studies and outlier effects as limits. No significant difference in safety or tolerability.",
+        "line_tier": "B",
+        "note": "Depression finding is the weakest part. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

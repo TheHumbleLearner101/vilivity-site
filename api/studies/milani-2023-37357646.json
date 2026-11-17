@@ -1,0 +1,30 @@
+{
+  "pmid": "37357646",
+  "slug": "milani-2023-37357646",
+  "citation": {
+    "authors": "Milani M, Colombo F et al",
+    "year": 2023,
+    "journal": "Skin Research and Technology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37357646/",
+  "page": "https://vilivity.com/studies/milani-2023-37357646/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "milani-2023",
+        "population": "83 people with hair loss (androgenetic alopecia or chronic telogen effluvium); 26 men, 57 women",
+        "n": 83,
+        "design": "Randomised, assessor-blinded, 12-week trial of a tablet with hydrolysed marine collagen, taurine, cysteine, methionine, iron and selenium plus drug treatment, against drug treatment alone",
+        "finding": "The supplement group scored higher on a photo-based global assessment at 12 weeks (1.67 against 0.66, p<0.001).",
+        "line_tier": "B",
+        "note": "Not placebo-controlled and not collagen alone: it cannot show collagen helped hair loss. Ethnicity not reported in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

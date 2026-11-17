@@ -1,0 +1,30 @@
+{
+  "pmid": "25710794",
+  "slug": "whitton-2015-25710794",
+  "citation": {
+    "authors": "Whitton ME, Pinart M, Batchelor J, et al",
+    "year": 2015,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25710794/",
+  "page": "https://vilivity.com/studies/whitton-2015-25710794/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "whitton-2015",
+        "population": "4,512 participants in 96 randomised trials of vitiligo treatments; ancestry not given in the abstract",
+        "n": 4512,
+        "design": "Cochrane systematic review (searches to October 2013)",
+        "finding": "Most trials had fewer than 50 participants. Combination treatments, usually including light, generally did better. The review states that several treatments can restore pigment but none can cure vitiligo. Six studies measured whether spread stopped; none measured whether repigmentation lasted at two years. No studies of micropigmentation, depigmentation or camouflage were found. The authors say the usefulness of the findings is limited by trial design.",
+        "line_tier": "B",
+        "note": "The 2010 version (PMID 20091542, 57 trials, 3,139 participants) reached the same conclusion; it was also read.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

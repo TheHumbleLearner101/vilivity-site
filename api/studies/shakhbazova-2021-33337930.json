@@ -1,0 +1,30 @@
+{
+  "pmid": "33337930",
+  "slug": "shakhbazova-2021-33337930",
+  "citation": {
+    "authors": "Shakhbazova A, Wu H, Chambers CJ",
+    "year": 2021,
+    "journal": "Journal of Alternative and Complementary Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33337930/",
+  "page": "https://vilivity.com/studies/shakhbazova-2021-33337930/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "shakhbazova-2021",
+        "population": "Human studies of diet, supplements and herbs in vitiligo (26 studies reviewed)",
+        "n": "not stated",
+        "design": "Systematic review of adjunctive therapies",
+        "finding": "Supplements reviewed included Ginkgo biloba, oral Polypodium leucotomos, alpha lipoic acid, vitamins B12, D and E, folic acid, phenylalanine and Nigella sativa oil. The authors call the evidence promising and say more studies are needed.",
+        "line_tier": "B",
+        "note": "Abstract does not give effect sizes or say how well the supplement studies were run; read at abstract level only.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

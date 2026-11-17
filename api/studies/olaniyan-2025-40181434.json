@@ -1,0 +1,30 @@
+{
+  "pmid": "40181434",
+  "slug": "olaniyan-2025-40181434",
+  "citation": {
+    "authors": "Olaniyan H, Carrithers B, Van Doren L",
+    "year": 2025,
+    "journal": "Contraception and Reproductive Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40181434/",
+  "page": "https://vilivity.com/studies/olaniyan-2025-40181434/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+      "title": "Sickle cell disease: what it is, treatment and newborn screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/",
+      "record": {
+        "id": "olaniyan-2025",
+        "population": "People with sickle cell disease who menstruate",
+        "n": "not applicable",
+        "design": "Narrative review",
+        "finding": "Menstruation presents a challenge in sickle cell disease because of blood loss and can worsen pain episodes. The authors discuss hormonal options, say combined hormonal contraceptives raise concern in this group, and stress care shared between gynaecologists and haematologists.",
+        "line_tier": "B",
+        "note": "Abstract only; treatment details were not read and no advice on them is given here.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

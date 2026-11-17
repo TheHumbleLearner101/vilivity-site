@@ -1,0 +1,30 @@
+{
+  "pmid": "39143887",
+  "slug": "vleminckx-2024-39143887",
+  "citation": {
+    "authors": "Vleminckx S, Virgilio N, Asserin J, Prawitt J, Silva CIF",
+    "year": 2024,
+    "journal": "Journal of Cosmetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39143887/",
+  "page": "https://vilivity.com/studies/vleminckx-2024-39143887/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "vleminckx-2024",
+        "population": "85 healthy women aged 43 to 65, East Asian population",
+        "n": 85,
+        "design": "Double-blind randomised placebo-controlled trial, 5 g collagen peptides daily for 84 days, plus a standard face cream",
+        "finding": "Skin density and moisture improved over placebo at 84 days. Nail colour and overall beauty perception improved within 28 days in the collagen group; the placebo group showed the same effects only at 84 days. Hair was not measured.",
+        "line_tier": "B",
+        "note": "The only nail result found, measured as nail colour, not growth or strength. East Asian women only; skin type not reported in the abstract. Funding not stated in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

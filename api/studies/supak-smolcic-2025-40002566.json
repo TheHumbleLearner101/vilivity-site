@@ -1,0 +1,30 @@
+{
+  "pmid": "40002566",
+  "slug": "supak-smolcic-2025-40002566",
+  "citation": {
+    "authors": "Supak-Smolcic V, Franin L, Antoncic D et al",
+    "year": 2025,
+    "journal": "Diagnostics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40002566/",
+  "page": "https://vilivity.com/studies/supak-smolcic-2025-40002566/",
+  "cited_by": [
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "supak-2025",
+        "population": "299 healthy pregnant women in early pregnancy at one hospital in Rijeka, Croatia",
+        "n": 299,
+        "design": "Prospective reference-interval study compared with non-pregnant ranges",
+        "finding": "Compared with non-pregnant reference intervals, haemoglobin, MCV, haematocrit and MCH were clinically relevantly lower in early pregnancy, and total white cell count, neutrophils and monocytes were clinically relevantly higher. The abstract gives no numeric ranges.",
+        "line_tier": "B",
+        "note": "European population, early pregnancy only. The abstract gives direction, not numbers, so no pregnancy neutrophil range is quoted on this card.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

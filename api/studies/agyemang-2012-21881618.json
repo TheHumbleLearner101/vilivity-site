@@ -27,6 +27,23 @@
       }
     },
     {
+      "entry": "normal-blood-pressure-by-age",
+      "title": "Normal blood pressure by age and sex, and for children",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/normal-blood-pressure-by-age/",
+      "record": {
+        "id": "agyemang-2012",
+        "population": "22,723 adults in the Health Surveys for England (1,379 African-Caribbean, 21,344 white)",
+        "n": 22723,
+        "design": "Secondary analysis of repeated cross-sectional surveys, age-specific blood pressure curves",
+        "finding": "African-Caribbean blood pressure crossed above white at about 30 to 40 years (28 for men's systolic pressure, 40 for women's diastolic). At 20 to 29 African-Caribbean men were advantaged, but not after that. The authors advise extra vigilance in screening African-Caribbean patients from age 30.",
+        "line_tier": "B",
+        "note": "Cross-sectional, so it compares different people at different ages. It describes averages, not a different threshold.",
+        "tag": "[primary]"
+      }
+    },
+    {
       "entry": "weight-bmi-and-ethnicity",
       "title": "Weight, BMI and losing weight safely",
       "module": "body",

@@ -42,6 +42,23 @@
         "note": "Single centre, small sample, US. Abstract read in full.",
         "tag": "[primary]"
       }
+    },
+    {
+      "entry": "blood-count-causes-thresholds-and-pregnancy",
+      "title": "Low haemoglobin, low or high white cells: causes, thresholds and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/blood-count-causes-thresholds-and-pregnancy/",
+      "record": {
+        "id": "merz-2023",
+        "population": "120 healthy self-identified Black and African American adults at one US primary care centre",
+        "n": 120,
+        "design": "Cross-sectional comparison of neutrophil counts by Duffy phenotype",
+        "finding": "66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 per microlitre in Duffy-null and 5,005 in Duffy non-null (P under .001); 19 of 80 Duffy-null adults had counts under 2,000 and none of the others did. The abstract says many people of African ancestry have lower neutrophil counts without increased infection risk, calls the Duffy-null phenotype clinically insignificant, and advocates Duffy-null-specific ranges.",
+        "line_tier": "B",
+        "note": "Single centre, small sample. Abstract read in full.",
+        "tag": "[primary]"
+      }
     }
   ]
 }

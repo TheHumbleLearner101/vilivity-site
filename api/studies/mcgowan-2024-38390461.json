@@ -1,0 +1,30 @@
+{
+  "pmid": "38390461",
+  "slug": "mcgowan-2024-38390461",
+  "citation": {
+    "authors": "McGowan D, Kermani A, Sheagren J, et al",
+    "year": 2024,
+    "journal": "Open Forum Infectious Diseases"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38390461/",
+  "page": "https://vilivity.com/studies/mcgowan-2024-38390461/",
+  "cited_by": [
+    {
+      "entry": "rashes-on-dark-skin",
+      "title": "Rashes on dark skin: what to look for",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/rashes-on-dark-skin/",
+      "record": {
+        "id": "mcgowan-2024",
+        "population": "Published literature on skin of colour (the review does not give study numbers in its abstract)",
+        "n": "not stated",
+        "design": "Scoping review of what is written about how infections look and are diagnosed on skin of colour: HIV, shingles, impetigo, scarlet fever, Lyme disease, toxic shock syndrome, scabies, rickettsioses and fungal infections",
+        "finding": "The review found literature gaps, including a lack of visual examples and of precise descriptions of common infectious rashes in patients with skin of colour. The authors say the lack of good-quality resources may contribute to barriers to care.",
+        "line_tier": "B",
+        "note": "A finding about the evidence, not about how a rash looks; \"skin of colour\" papers are mostly Asian, Latin American and Middle Eastern populations and are not evidence about Black skin; funding not checked.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

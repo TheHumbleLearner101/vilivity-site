@@ -1,0 +1,289 @@
+{
+  "slug": "coping-with-anxiety-day-to-day",
+  "title": "Coping with anxiety day to day",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do I cope with anxiety in the moment?",
+    "How do I cope with anxiety at night or at work?",
+    "How do I manage stress and anxiety without medication?",
+    "What does it mean to feel anxious about being anxious?",
+    "What is the 3-3-3 rule?",
+    "How do I cope with anxiety while pregnant?"
+  ],
+  "tradition_says": "Many families say anxiety is something to pray through, push through or keep private, and that strong people do not need help.",
+  "layer1": {
+    "plain_answer": "Anxiety is common and treatable. The UK's NHS and the US's NIMH both say regular exercise, enough sleep, less caffeine, calming breathing and talking to someone you trust can help. Two small pilots in Black adults found mindfulness feasible. Nothing we found tests the popular 3-3-3 rule. If it stops you living normally, get help.",
+    "do": [
+      {
+        "text": "Talk to a friend, family member or professional about how you feel.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Move regularly (walking, swimming, running or yoga) and get enough sleep.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Try calming breathing exercises; they are in the UK's NHS self-help list, though our search found no trial of them in Black adults.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Eat regular meals and cut back on coffee, tea, cola and energy drinks, which the UK's NHS says can disrupt sleep and make anxiety harder to control.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Work out what triggers your stress and keep what works for you; the US's NIMH says it may take trial and error.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NIMH (US), \"I'm So Stressed Out! Fact Sheet\"",
+          "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Alcohol, cigarettes, gambling or drugs to take the edge off: the UK's NHS says they can contribute to poor mental health.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Avoiding every situation that makes you anxious: the UK's NHS says to build up time in them slowly.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "In pregnancy, stopping a prescribed medicine before you have spoken to your doctor (the UK's NHS says this).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Mental health in pregnancy and after the birth\"",
+          "url": "https://www.nhs.uk/pregnancy/mental-health-in-pregnancy-and-after-the-birth/mental-health/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Anxiety is hard to control, affects your daily life or sleep, or self-help is not working (doctor or a talking therapy service; in the UK you can refer yourself to NHS talking therapies if you are 18 or over).",
+      "You are pregnant or have had a baby in the last 12 months and feel anxious: tell your midwife, doctor or health visitor (UK), or your ob-gyn or doctor (US, ACOG). Do not stop any medicine until you have spoken to them.",
+      "You have thoughts of harming yourself or ending your life. In the UK call Samaritans on 116 123. In the US call or text 988. This is an emergency if you may act on them: call your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU) or go to an emergency department.",
+      "Chest pain, fainting or severe breathlessness, which can have a physical cause (urgent care: your local emergency number)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "822 US adults with raised anxiety or depression (25.1% African American, 25.3% American Indian, 24.6% Latinx, 25.1% non-Latinx White)",
+      "design": "Randomised trial of two smartphone programmes (anxiety-sensitivity reduction against mindfulness and relaxation), 6-month follow-up",
+      "n": 822,
+      "finding": "Differences between the two programmes were small and not statistically significant. Within each group anxiety, depression and anxiety sensitivity fell over the follow-up. Subgroup patterns by race and ethnicity varied but the study was not powered to test them.",
+      "source": {
+        "authors": "Zvolensky MJ, Garey L, Gallagher MW, Cheney MK et al",
+        "year": 2026,
+        "journal": "Behaviour Research and Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42617378/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Done during the COVID-19 pandemic; no no-treatment group, so the falls may not be due to the programmes.",
+      "id": "zvolensky-2026"
+    },
+    {
+      "population": "30 Black women with insomnia, US",
+      "design": "Pilot randomised trial of online mindfulness-based therapy for insomnia against lifestyle health education, 10 weeks",
+      "n": 30,
+      "finding": "Insomnia improved in both groups; anxiety and depression symptoms improved significantly only in the mindfulness group. Nearly all attended 6 to 8 of 8 sessions. The authors call it feasible and acceptable.",
+      "source": {
+        "authors": "Nam S, Jeon S, Ordway M, Mazure C et al",
+        "year": 2024,
+        "journal": "Journal of Behavioral Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39306634/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "A pilot of 30 women with insomnia, not a trial of anxiety.",
+      "id": "nam-2024"
+    },
+    {
+      "population": "30 African American caregivers of people with HIV/AIDS, US",
+      "design": "Four-week single-group feasibility trial of a mindfulness app",
+      "n": 30,
+      "finding": "All 30 completed it, and 83.3% rated usability acceptable. Baseline anxiety and depression risk were high. Change in anxiety was not tested; the authors call for a randomised trial.",
+      "source": {
+        "authors": "Alexander K, Carswell SB, Woolworth R, Simpson A et al",
+        "year": 2026,
+        "journal": "AIDS Care",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764478/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Feasibility only: it does not show that the app reduces anxiety.",
+      "id": "alexander-2026"
+    },
+    {
+      "population": "Medical students worldwide: 7 studies (1 randomised trial, 6 single-arm)",
+      "design": "Systematic review and meta-analysis of yoga breathing (pranayama)",
+      "n": null,
+      "finding": "A large fall in perceived stress and anxiety (standardised mean difference -1.25) with high heterogeneity (67%). Only one study was randomised.",
+      "source": {
+        "authors": "Thind A, Pisudde PM, Kochhar S",
+        "year": 2026,
+        "journal": "Cureus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42326246/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "Mostly single-arm studies in medical students; ethnicity not given in the abstract; I did not read the full text.",
+      "id": "thind-2026"
+    },
+    {
+      "population": "Official guidance, UK, US and the 'anxious about being anxious' and 3-3-3 questions",
+      "design": "NHS (UK) GAD page, NIMH (US) stress fact sheet, NHS (UK) and ACOG (US) pregnancy pages, opened 17 Nov 2026",
+      "n": null,
+      "finding": "The UK's NHS lists talking, sleep, regular exercise, calming breathing, regular meals, less caffeine and no alcohol or drugs for anxiety, and says doctors usually advise talking therapies before medicine. The US's NIMH lists exercise, regular meals, sleep routine, less caffeine, relaxation apps and professional help, and says talk therapy and medication are the two main treatments. In pregnancy the UK's NHS and the US's ACOG both say to tell your midwife or doctor and that therapy can help; the NHS says not to stop a prescribed medicine until you have spoken to your doctor; ACOG says therapy is recommended and medication can be considered. Neither page I opened defines the 3-3-3 rule.",
+      "source": {
+        "authors": "NHS (UK); NIMH (US); ACOG (US)",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "id": "official-2026"
+    },
+    {
+      "population": "The 3-3-3 rule for anxiety (name three things you see, hear and move)",
+      "design": "PubMed searches '3-3-3 rule anxiety grounding' and '5-4-3-2-1 grounding exercise'",
+      "n": 0,
+      "finding": "My search found no study of the 3-3-3 rule or of the similar 5-4-3-2-1 exercise. Our search found no study of day-to-day coping skills for anxiety in Black adults beyond the small pilots above.",
+      "source": {
+        "authors": "PubMed searches, 17 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=3-3-3+rule+anxiety+grounding"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "id": "pubmed-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That everyday coping skills (exercise, sleep, breathing, mindfulness, talking) ease anxiety: official guidance in the UK and US plus one large mixed-population US trial where both programmes helped, and two small feasibility pilots in Black adults.",
+  "tier_note": "Thin because the large trial had no no-treatment group and did not analyse Black participants separately, the Black-population studies are pilots of 30 people about feasibility, and the 3-3-3 rule is untested.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the coping advice. The risk is delay in getting help; alcohol, drugs, caffeine and avoiding triggers can worsen anxiety (NHS, UK; NIMH, US). Never stop prescribed medicine without speaking to your prescriber.",
+  "founder_flag": false,
+  "evidence_summary": "Official guidance in the UK (NHS) and the US (NIMH, ACOG) lists the same everyday steps: talk to someone, move, sleep, eat regularly, cut caffeine, avoid alcohol and drugs, and get help if anxiety will not settle. A US trial of 822 adults (a quarter African American) found two smartphone programmes both reduced anxiety, with no difference between them and no untreated comparison. A 30-woman pilot in Black women found online mindfulness feasible, with anxiety symptoms improved significantly only in the mindfulness group (the abstract gives no between-group comparison for anxiety). A 30-person app pilot in African American caregivers was feasible, with anxiety change not tested. The 3-3-3 rule is untested in my search. Whether any of this works differently in Black adults is untested.",
+  "measured_variables": [
+    "Anxiety symptom scores (Zvolensky 2026; Nam 2024)",
+    "Feasibility: completion and usability (Alexander 2026)"
+  ],
+  "gaps": "PubMed searches 17 Nov 2026: 'mindfulness anxiety African American randomized' (14 records; three opened), 'anxiety coping Black women intervention randomized' (11; one opened), 'breathing exercises anxiety systematic review meta-analysis' (58; one opened), '3-3-3 rule anxiety grounding' (0), '5-4-3-2-1 grounding exercise' (0), 'grounding techniques anxiety randomized' (208, none opened). Control: 'anxiety pregnancy cognitive behavioural therapy systematic review' returned 76 records, so the method works. Our search found no trial of exercise, breathing or caffeine reduction for anxiety in Black adults. Not opened: the CDC and 988lifeline.org pages (403 error); the 988 number is from the US's NIMH 'Find help' page. NHS (UK) tips-to-reduce-anxiety page (404). I did not find an official page opened for 'anxious about being anxious' (anxiety sensitivity); the Zvolensky trial's programme targets anxiety sensitivity but I read only its abstract. Crisis lines for other countries were not looked up: only the UK and US are given.",
+  "related": [
+    "anxiety-depression-and-what-helps",
+    "meditation",
+    "breathwork",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Zvolensky MJ et al",
+      "year": 2026,
+      "journal": "Behav Res Ther",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617378/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Nam S et al",
+      "year": 2024,
+      "journal": "J Behav Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39306634/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Alexander K et al",
+      "year": 2026,
+      "journal": "AIDS Care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764478/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Thind A et al",
+      "year": 2026,
+      "journal": "Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42326246/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS (UK), \"Generalised anxiety disorder (GAD)\"",
+      "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NIMH (US), \"I'm So Stressed Out! Fact Sheet\"",
+      "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Help for suicidal thoughts\"",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NIMH (US), \"Find help\"",
+      "url": "https://www.nimh.nih.gov/health/find-help",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Mental health in pregnancy and after the birth\"",
+      "url": "https://www.nhs.uk/pregnancy/mental-health-in-pregnancy-and-after-the-birth/mental-health/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "ACOG (US), \"Anxiety and Pregnancy\"",
+      "url": "https://www.acog.org/womens-health/faqs/anxiety-and-pregnancy",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

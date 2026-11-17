@@ -1,0 +1,30 @@
+{
+  "pmid": "35085016",
+  "slug": "karuppusamy-2022-35085016",
+  "citation": {
+    "authors": "Karuppusamy A, Paul S, Chattopadhyay A, et al",
+    "year": 2022,
+    "journal": "Journal of Integrative and Complementary Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35085016/",
+  "page": "https://vilivity.com/studies/karuppusamy-2022-35085016/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "karuppusamy-2022",
+        "population": "60 patients with vitiligo at a homeopathy institute in India",
+        "n": 60,
+        "design": "Double-blind randomised placebo-controlled pilot trial of individualised homeopathic medicines, 6 months",
+        "finding": "Recruitment and retention were satisfactory and mean reductions in vitiligo and quality-of-life scores were larger with the homeopathic medicines than placebo. The authors conclude only that definitive efficacy trials are warranted.",
+        "line_tier": "B",
+        "note": "A feasibility pilot, not an efficacy trial. Results were not tested for statistical significance in the abstract; funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

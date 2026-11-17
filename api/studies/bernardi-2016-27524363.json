@@ -10,6 +10,23 @@
   "page": "https://vilivity.com/studies/bernardi-2016-27524363/",
   "cited_by": [
     {
+      "entry": "heavy-periods-by-life-stage-and-cause",
+      "title": "Heavy periods by life stage and cause",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/heavy-periods-by-life-stage-and-cause/",
+      "record": {
+        "id": "bernardi-2016",
+        "population": "44 premenopausal African American women, mean age 37.9, US",
+        "n": 44,
+        "design": "Cross-sectional pilot study with surveys and blood tests",
+        "finding": "Iron deficiency was present in 68.2% and anaemia in 18.2%. Almost half said their periods were heavy or very heavy; of those, 35.0% were anaemic. Women reporting heavy periods had lower haemoglobin and ferritin than those reporting normal or light periods.",
+        "line_tier": "A",
+        "note": "Pilot of 44 women: too small to say how common this is.",
+        "tag": "[primary]"
+      }
+    },
+    {
       "entry": "iron-and-fibroids",
       "title": "Iron, heavy periods and fibroids",
       "module": "body",

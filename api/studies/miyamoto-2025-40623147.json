@@ -1,0 +1,30 @@
+{
+  "pmid": "40623147",
+  "slug": "miyamoto-2025-40623147",
+  "citation": {
+    "authors": "Miyamoto N, Ishihara K, Oshima T, Kawai M et al",
+    "year": 2025,
+    "journal": "Medicine and Science in Sports and Exercise"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40623147/",
+  "page": "https://vilivity.com/studies/miyamoto-2025-40623147/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "miyamoto-2025",
+        "population": "50 healthy young sedentary men",
+        "n": 50,
+        "design": "Double-blind randomised placebo-controlled trial, 10 g collagen peptide daily for 16 weeks",
+        "finding": "Calf muscle and Achilles tendon stiffness rose and rate of torque development rose; tendon and muscle size and maximal strength did not change.",
+        "line_tier": "B",
+        "note": "Healthy tendons, not tendon injury. It tests a stiffness measure, not repair or pain.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

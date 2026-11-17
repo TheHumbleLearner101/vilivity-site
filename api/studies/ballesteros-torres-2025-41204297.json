@@ -1,0 +1,30 @@
+{
+  "pmid": "41204297",
+  "slug": "ballesteros-torres-2025-41204297",
+  "citation": {
+    "authors": "Ballesteros-Torres JM, Vazquez-Aguilar A, Luzardo-Ocampo I, Escalante-Aburto A et al",
+    "year": 2025,
+    "journal": "Nutrition & Metabolism"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41204297/",
+  "page": "https://vilivity.com/studies/ballesteros-torres-2025-41204297/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "ballesteros-2025",
+        "population": "43 adults with overweight or obesity, Mexico (the abstract reports 17 control and 21 intervention)",
+        "n": 43,
+        "design": "Double-blind, randomised, placebo-controlled pilot, 500 mg a day for 40 days with a monitored diet",
+        "finding": "No significant change in weight, BMI or waist circumference. Triglycerides and VLDL cholesterol fell. The authors call for longer studies.",
+        "line_tier": "B",
+        "note": "Pilot, 40 days. Participant numbers in the abstract do not add up to 43.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

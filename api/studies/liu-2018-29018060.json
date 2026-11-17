@@ -1,0 +1,30 @@
+{
+  "pmid": "29018060",
+  "slug": "liu-2018-29018060",
+  "citation": {
+    "authors": "Liu X, Machado GC, Eyles JP, Ravi V, Hunter DJ",
+    "year": 2018,
+    "journal": "British Journal of Sports Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29018060/",
+  "page": "https://vilivity.com/studies/liu-2018-29018060/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "liu-2018",
+        "population": "People with hand, hip or knee osteoarthritis in 69 randomised trials of 20 dietary supplements",
+        "n": "not recorded",
+        "design": "Systematic review and meta-analysis with GRADE rating",
+        "finding": "Collagen hydrolysate was one of 7 supplements with large short-term pain effects. No supplement had clinically important effects on pain at long term, and evidence quality was rated very low to high, very low overall.",
+        "line_tier": "B",
+        "note": "Collagen is one of 20 supplements here. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

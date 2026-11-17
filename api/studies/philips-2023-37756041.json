@@ -1,0 +1,30 @@
+{
+  "pmid": "37756041",
+  "slug": "philips-2023-37756041",
+  "citation": {
+    "authors": "Philips CA, Valsan A, Theruvath AH, Ravindran R et al",
+    "year": 2023,
+    "journal": "Hepatology Communications"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37756041/",
+  "page": "https://vilivity.com/studies/philips-2023-37756041/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "philips-2023",
+        "population": "8 patients with liver injury from single-ingredient ashwagandha products (of 23 with ashwagandha-related injury), multiple centres in India, 2019 to 2022",
+        "n": 8,
+        "design": "Retrospective case series with work-up to exclude other causes and chemical analysis of the product",
+        "finding": "Cholestatic hepatitis was the commonest presentation. Five had existing chronic liver disease; three of them presented with acute-on-chronic liver failure and all three died. In the others the injury was prolonged but resolved on its own, and one progressed to chronic injury. The product contained only natural plant chemicals, with no adulteration found.",
+        "line_tier": "B",
+        "note": "A harm signal from a handful of cases; it cannot say how common this is. The existing ashwagandha card describes a smaller series in which no one developed liver failure.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "33338583",
+  "slug": "verma-2021-33338583",
+  "citation": {
+    "authors": "Verma N, Gupta SK, Tiwari S, Mishra AK",
+    "year": 2021,
+    "journal": "Complementary Therapies in Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33338583/",
+  "page": "https://vilivity.com/studies/verma-2021-33338583/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "verma-2021",
+        "population": "80 healthy adults (40 men, 40 women), Lucknow, India",
+        "n": 80,
+        "design": "Randomised, double-blind, placebo-controlled safety study, 300 mg root extract twice a day for 8 weeks",
+        "finding": "No untoward effects in any treated volunteer. Blood counts, biochemistry including liver tests, vital signs including blood pressure, and thyroid hormones showed no significant abnormal change.",
+        "line_tier": "B",
+        "note": "Healthy people, 8 weeks. Ethnicity not stated.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "35007513",
+  "slug": "trivedi-2022-35007513",
+  "citation": {
+    "authors": "Trivedi PD, Mohapatra A, Morris MK et al",
+    "year": 2022,
+    "journal": "Gastroenterology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35007513/",
+  "page": "https://vilivity.com/studies/trivedi-2022-35007513/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "trivedi-2022",
+        "population": "Nearly 3 million outpatient colonoscopies in US ambulatory centres, patients aged 18 to 54",
+        "n": "not applicable",
+        "design": "Registry analysis",
+        "finding": "Among patients aged 45 to 49, 32% had any neoplasia, 7.5% an advanced premalignant lesion and 0.58% cancer; rates were almost as high at 40 to 44. Advanced lesions were higher in American Indian and Alaska Native patients and lower in Black, Asian and Hispanic patients than in white patients. A family history of bowel cancer brought neoplasia rates about 5 years earlier. The authors support starting at 45.",
+        "line_tier": "B",
+        "note": "Colonoscopies done for screening and other reasons, so rates are not population rates.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

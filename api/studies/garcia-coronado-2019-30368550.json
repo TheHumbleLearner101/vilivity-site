@@ -1,0 +1,30 @@
+{
+  "pmid": "30368550",
+  "slug": "garcia-coronado-2019-30368550",
+  "citation": {
+    "authors": "Garcia-Coronado JM, Martinez-Olvera L, Elizondo-Omana RE, Acosta-Olivo CA et al",
+    "year": 2019,
+    "journal": "International Orthopaedics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30368550/",
+  "page": "https://vilivity.com/studies/garcia-coronado-2019-30368550/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "garcia-2019",
+        "population": "Adults with osteoarthritis in randomised placebo-controlled trials of oral collagen",
+        "n": "not recorded",
+        "design": "Meta-analysis (WOMAC and VAS scores)",
+        "finding": "Total WOMAC score and VAS pain score fell with collagen, and stiffness improved. The WOMAC pain and function sub-scores did not differ significantly from placebo.",
+        "line_tier": "B",
+        "note": "Number of participants and ethnicity not in the abstract. The mixed sub-scores are why this card stays thin.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

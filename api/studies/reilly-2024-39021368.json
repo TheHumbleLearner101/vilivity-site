@@ -1,0 +1,30 @@
+{
+  "pmid": "39021368",
+  "slug": "reilly-2024-39021368",
+  "citation": {
+    "authors": "Reilly DM, Kynaston L, Naseem S, Proudman E, Laceby D",
+    "year": 2024,
+    "journal": "Dermatology Research and Practice"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39021368/",
+  "page": "https://vilivity.com/studies/reilly-2024-39021368/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "reilly-2024",
+        "population": "Adults taking a hydrolysed collagen plus vitamin C supplement, daily or every 48 hours (number not given in the abstract)",
+        "n": "not recorded",
+        "design": "Randomised double-blind placebo-controlled trial, 12 weeks",
+        "finding": "At 12 weeks the supplement group had better skin hydration and elasticity. The number of hairs counted rose 27.6% against placebo, which was not statistically significant (p not significant); the rating for healthy hair appearance rose 31.9% (p<0.01).",
+        "line_tier": "B",
+        "note": "A branded product that also contains vitamin C. Participant number, skin type and funding not in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

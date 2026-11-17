@@ -1,0 +1,30 @@
+{
+  "pmid": "32572858",
+  "slug": "hassan-2020-32572858",
+  "citation": {
+    "authors": "Hassan C, Antonelli G, Dumonceau JM et al",
+    "year": 2020,
+    "journal": "Endoscopy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32572858/",
+  "page": "https://vilivity.com/studies/hassan-2020-32572858/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "hassan-2020",
+        "population": "Patients in Europe after complete polyp removal at a high-quality colonoscopy",
+        "n": "not applicable",
+        "design": "Guideline update from the European Society of Gastrointestinal Endoscopy",
+        "finding": "ESGE says 1 to 4 small adenomas (under 10 mm, low grade) or a small serrated polyp need no surveillance and return to screening (or a repeat colonoscopy at 10 years if there is no organised screening); an adenoma of 10 mm or more, high-grade dysplasia, 5 or more adenomas or a large serrated polyp needs a colonoscopy at 3 years.",
+        "line_tier": "B",
+        "note": "Abstract read; recommendations are strong with moderate-quality evidence.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

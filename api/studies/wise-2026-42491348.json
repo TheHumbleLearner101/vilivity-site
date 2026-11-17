@@ -1,0 +1,30 @@
+{
+  "pmid": "42491348",
+  "slug": "wise-2026-42491348",
+  "citation": {
+    "authors": "Wise MK, Brookes JJ, Wu T, Peterson M et al",
+    "year": 2026,
+    "journal": "Gynecologic Oncology Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42491348/",
+  "page": "https://vilivity.com/studies/wise-2026-42491348/",
+  "cited_by": [
+    {
+      "entry": "heavy-periods-by-life-stage-and-cause",
+      "title": "Heavy periods by life stage and cause",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/heavy-periods-by-life-stage-and-cause/",
+      "record": {
+        "id": "wise-2026",
+        "population": "638 endometrial cancer survivors (36% Black or African American), Carolina Endometrial Cancer Study, US",
+        "n": 638,
+        "design": "Survey of symptoms before diagnosis",
+        "finding": "Women with fibroids were more likely to report heavy periods (prevalence ratio 1.23) and periods over 7 days (1.37). After adjusting for age, fibroids and BMI, symptoms did not vary by race. Only 23% knew bleeding after menopause could be a sign of endometrial cancer.",
+        "line_tier": "B",
+        "note": "People who already had cancer, so it says nothing about how often heavy periods mean cancer.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "rashes-on-dark-skin",
+  "title": "Rashes on dark skin: what to look for",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "What does a heat rash look like on dark skin?",
+    "What does a fungal rash look like on Black skin?",
+    "What does a butterfly rash look like on Black skin?",
+    "What does hives look like on Black skin?",
+    "What does a meningitis rash look like on dark skin?",
+    "What does a herpes, HIV, stress or sun rash look like on dark skin?",
+    "What does a diaper rash look like on dark skin?"
+  ],
+  "tradition_says": "Rashes are described and taught by how they look on white skin: red, with a \"butterfly\" over the cheeks or a rash that blanches under a glass. Many families only worry once a rash turns red.",
+  "layer1": {
+    "plain_answer": "On brown and black skin, the redness of a rash can be harder to see, so it may look darker, or show mainly as raised, rough or itchy skin. Check texture, not just colour. For a fever with a rash, press a clear glass on it and check palms and soles: spots that do not fade are an emergency.",
+    "do": [
+      {
+        "text": "Look at texture as well as colour: hives show as itchy raised bumps or patches, and the UK's NHS says the colour can be harder to see on brown and black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Hives\"",
+          "url": "https://www.nhs.uk/conditions/hives/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If someone is ill with a fever and a rash, press the side of a clear glass firmly on it; spots that do not fade need urgent care. Check paler areas such as palms, soles, inside the eyelids and the roof of the mouth, where they are easier to see on dark skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Meningitis\"",
+          "url": "https://www.nhs.uk/conditions/meningitis/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "For a one-sided blotchy rash that turns into itchy blisters, see a doctor or pharmacist quickly: the UK's NHS says shingles redness can be harder to see on brown and black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Shingles\"",
+          "url": "https://www.nhs.uk/conditions/shingles/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Ask a pharmacist about a ring-shaped, scaly, itchy patch: it may be ringworm, which can look darker rather than red on your skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Ringworm\"",
+          "url": "https://www.nhs.uk/conditions/ringworm/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "For itchy red or skin-coloured sweat bumps in hot weather, cool the skin, wear loose cotton and avoid tight clothes and harsh soap.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "DermNet (New Zealand), \"Miliaria (heat rash)\"",
+          "url": "https://dermnetnz.org/topics/miliaria",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting for a rash to appear or turn red: the UK's NHS says not everyone with meningitis gets a rash and it can be harder to see on black or brown skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Meningitis\"",
+          "url": "https://www.nhs.uk/conditions/meningitis/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Waiting at home if hives come with swollen lips, mouth or tongue, a tight throat or struggling to breathe: call your local emergency number (999 in the UK, per the NHS).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Hives\"",
+          "url": "https://www.nhs.uk/conditions/hives/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Ignoring a rash that does not settle: see a doctor. DermNet (New Zealand) says patches left after inflamed skin tend to be more intense and last longer in darker skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "DermNet (New Zealand), \"Postinflammatory hyperpigmentation\"",
+          "url": "https://dermnetnz.org/topics/postinflammatory-hyperpigmentation",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A fever with spots or a rash that does not fade under a glass, or anyone who is very ill (urgent: your local emergency number or nearest emergency department).",
+      "Swollen lips, mouth or tongue, a tight throat, or trouble breathing with hives (emergency: your local emergency number).",
+      "A rash that is spreading, has lasted more than a couple of days without improving, keeps coming back, or comes with a high temperature (doctor).",
+      "Blisters in a band on one side of the body, or a blistering rash near an eye (doctor, urgently)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Published literature on skin of colour (the review does not give study numbers in its abstract)",
+      "design": "Scoping review of what is written about how infections look and are diagnosed on skin of colour: HIV, shingles, impetigo, scarlet fever, Lyme disease, toxic shock syndrome, scabies, rickettsioses and fungal infections",
+      "n": "not stated",
+      "finding": "The review found literature gaps, including a lack of visual examples and of precise descriptions of common infectious rashes in patients with skin of colour. The authors say the lack of good-quality resources may contribute to barriers to care.",
+      "source": {
+        "authors": "McGowan D, Kermani A, Sheagren J, et al",
+        "year": 2024,
+        "journal": "Open Forum Infectious Diseases",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38390461/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A finding about the evidence, not about how a rash looks; \"skin of colour\" papers are mostly Asian, Latin American and Middle Eastern populations and are not evidence about Black skin; funding not checked.",
+      "id": "mcgowan-2024"
+    },
+    {
+      "population": "Published literature on allergic skin conditions in people with skin of colour",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Allergic skin conditions affect all backgrounds, but the authors say the way redness (erythema) is assessed and how patch tests are read need extra care in skin of colour.",
+      "source": {
+        "authors": "Nazarian A, Alexis AF",
+        "year": 2024,
+        "journal": "Current Allergy and Asthma Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38776041/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read only; says redness assessment is a nuance but gives no figures.",
+      "id": "nazarian-2024"
+    },
+    {
+      "population": "56 volunteers in a research laboratory in Atlanta, US, 28 with darkly pigmented skin",
+      "design": "Imaging experiment: multispectral photographs of induced redness, tested with detection algorithms",
+      "n": 56,
+      "finding": "Several image-processing methods raised the contrast of redness by about ten times compared with an ordinary digital photograph; one method had accuracy, sensitivity and specificity above 90%. The authors aim for a handheld device to detect redness in dark skin.",
+      "source": {
+        "authors": "Sprigle S, Zhang L, Duckworth M",
+        "year": 2009,
+        "journal": "Advances in Skin and Wound Care",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19325277/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Laboratory technique on induced redness (not a rash); it shows ordinary photographs show redness poorly on dark skin but does not say how any named rash looks.",
+      "id": "sprigle-2009"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That named rashes look different on dark skin: guidance from the UK NHS and a UK charity says colour is harder to see, but our search found no study measuring how these rashes look in Black people.",
+  "tier_note": "This is expert guidance (NHS, a UK charity, a New Zealand dermatology reference) with no human study of how these rashes appear in Black people in our search; a lab study and a scoping review only show that redness is harder to see on dark skin and that images are lacking. Untested, so tier D.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the sources read; the risk is delay: the UK's NHS says the meningitis rash can be harder to see on black or brown skin and that not everyone gets one.",
+  "founder_flag": false,
+  "evidence_summary": "Several rashes can look different on dark skin, and the guidance is consistent where we found it. The UK's NHS says hives can look pink or red on white skin but the colour can be harder to see on brown and black skin; the redness of ringworm, athlete's foot and shingles may be less noticeable; and the meningitis rash can be harder to see on black or brown skin, so check palms, soles, the roof of the mouth, the whites of the eyes and inside the eyelids. Meningitis Now (UK charity) gives the same advice for the glass test. Not every rash has a dark-skin description in a source we opened: for ringworm the UK's NHS says it may look red or darker than the surrounding skin; for herpes simplex DermNet (New Zealand) says white patches or scars after recurrences are more evident in skin of colour; for sun-triggered polymorphic light eruption DermNet says the most common look in darker skin types is grouped pinhead-sized papules; for discoid lupus, which gives scarring facial patches, DermNet says it is more common in skin of colour and the lighter and darker pigment changes are especially noticeable. The UK's NHS describes the lupus rash as often over the nose and cheeks after sun, without a dark-skin description (see the lupus card). Heat rash (miliaria) is described by DermNet as small itchy red bumps or clear sweat-like blisters; our search found no source describing it on dark skin. Nappy (diaper) rash is described as redness with spots in the nappy area, with no dark-skin description in the page opened. The UK's NHS HIV page lists a skin rash among flu-like symptoms 2 to 6 weeks after infection, with no dark-skin description; a 2024 scoping review found a lack of visual examples for HIV and other infectious rashes on skin of colour (McGowan 2024). Stress is a trigger the UK's NHS lists for hives and the American Academy of Dermatology says can flare eczema, psoriasis, acne and rosacea. One 56-person imaging study showed ordinary photographs capture redness poorly on dark skin (Sprigle 2009).",
+  "measured_variables": [
+    "Skin pigmentation (redness is harder to see as pigmentation increases)",
+    "Site: check paler skin on palms, soles, eyelids and mouth"
+  ],
+  "gaps": "Searches 17 Nov 2026 (PubMed E-utilities): meningococcal with rash and dark skin, black skin, skin of colour or pigmented skin found 0 records; erythema with detection or recognition and dark skin, skin of color or skin tone and clinicians or students found 13, two opened; cutaneous lupus with malar rash and Black, African American or skin of color found 1 (a 1994 incidence paper, not opened); urticaria with skin of color, dark skin or Fitzpatrick V and presentation found 38, none opened; non-blanching with skin tone, pigmentation, dark skin or skin colour found 3, none relevant; skin of color with fungal, tinea or dermatophyte and presentation found 30, 1 opened (McGowan 2024); skin of color with photosensitivity, polymorphous light eruption or sun-induced found 29, none opened; skin of color with herpes, zoster or shingles and presentation found 2; HIV with skin and skin of color or dark skin and rash found 0. Control: the erythema-detection search returned Sprigle 2009, a known paper on redness in dark skin, so the search finds such work. Our search found no study that photographs or measures how heat rash, nappy rash, stress rash, a herpes rash, an HIV rash or a sun rash look in Black people, and none for the meningitis rash in dark skin beyond guidance. The UK NHS heat rash and nappy rash pages did not open at the addresses tried. Pages by NHS (UK), Meningitis Now, DermNet (New Zealand) and the American Academy of Dermatology were read as text; image galleries were not viewed. Not opened: the Mind the Gap handbook of clinical signs in Black and brown skin (a book, not accessed), and US official pages on these rashes. The guidance given is for recognising and getting help, not for diagnosing yourself.",
+  "related": [
+    "conditions-look-different-on-dark-skin",
+    "lupus-in-black-women",
+    "eczema-on-dark-skin",
+    "hiv-prevention-testing-and-prep",
+    "dry-skin-causes-and-care-by-body-area",
+    "finding-a-dermatologist-for-dark-skin",
+    "vitiligo"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "McGowan D et al",
+      "year": 2024,
+      "journal": "Open Forum Infectious Diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38390461/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Nazarian A et al",
+      "year": 2024,
+      "journal": "Current Allergy and Asthma Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38776041/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Sprigle S et al",
+      "year": 2009,
+      "journal": "Advances in Skin and Wound Care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19325277/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS (UK), \"Hives\"",
+      "url": "https://www.nhs.uk/conditions/hives/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Ringworm\"",
+      "url": "https://www.nhs.uk/conditions/ringworm/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Athlete's foot\"",
+      "url": "https://www.nhs.uk/conditions/athletes-foot/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Meningitis\"",
+      "url": "https://www.nhs.uk/conditions/meningitis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Shingles\"",
+      "url": "https://www.nhs.uk/conditions/shingles/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Lupus\"",
+      "url": "https://www.nhs.uk/conditions/lupus/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"HIV symptoms\"",
+      "url": "https://www.nhs.uk/conditions/hiv-and-aids/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "Meningitis Now (UK charity), \"Glass test\"",
+      "url": "https://www.meningitisnow.org/meningitis-explained/signs-and-symptoms/glass-test/",
+      "tag": "[commentary]",
+      "role": "practical advice (charity guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Miliaria (heat rash)\"",
+      "url": "https://dermnetnz.org/topics/miliaria",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Herpes simplex\"",
+      "url": "https://dermnetnz.org/topics/herpes-simplex",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Polymorphic light eruption\"",
+      "url": "https://dermnetnz.org/topics/polymorphic-light-eruption",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Discoid lupus erythematosus\"",
+      "url": "https://dermnetnz.org/topics/discoid-lupus-erythematosus",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Napkin dermatitis\"",
+      "url": "https://dermnetnz.org/topics/napkin-dermatitis",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Tinea corporis\"",
+      "url": "https://dermnetnz.org/topics/tinea-corporis",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "DermNet (New Zealand), \"Postinflammatory hyperpigmentation\"",
+      "url": "https://dermnetnz.org/topics/postinflammatory-hyperpigmentation",
+      "tag": "[commentary]",
+      "role": "expert reference",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "American Academy of Dermatology (US), \"Healthier-looking skin\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/healthier-looking-skin",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

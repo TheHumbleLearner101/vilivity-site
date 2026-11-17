@@ -1,0 +1,30 @@
+{
+  "pmid": "34858513",
+  "slug": "gopukumar-2021-34858513",
+  "citation": {
+    "authors": "Gopukumar K, Thanawala S, Somepalli V, Rao TSS et al",
+    "year": 2021,
+    "journal": "Evidence-Based Complementary and Alternative Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34858513/",
+  "page": "https://vilivity.com/studies/gopukumar-2021-34858513/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "gopukumar-2021",
+        "population": "130 healthy stressed adults aged 20 to 55 (125 completed); registered in the Clinical Trials Registry-India; ethnicity not stated",
+        "n": 130,
+        "design": "Randomised, double-blind, placebo-controlled, 300 mg sustained-release extract once a day for 90 days",
+        "finding": "Recall memory scores improved and pattern recall errors fell compared with placebo. Perceived stress, serum cortisol and sleep quality scores improved and happiness scores rose.",
+        "line_tier": "B",
+        "note": "One branded product. Healthy stressed adults, not people with memory problems.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

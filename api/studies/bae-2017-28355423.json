@@ -1,0 +1,30 @@
+{
+  "pmid": "28355423",
+  "slug": "bae-2017-28355423",
+  "citation": {
+    "authors": "Bae JM, Jung HM, Hong BY, Lee JH, Choi WJ, Lee JH, Kim GM",
+    "year": 2017,
+    "journal": "JAMA Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28355423/",
+  "page": "https://vilivity.com/studies/bae-2017-28355423/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "bae-2017",
+        "population": "1,428 people in 35 prospective studies of generalised vitiligo (29 studies of narrowband UVB, 9 of PUVA); ancestry not given in the abstract",
+        "n": 1428,
+        "design": "Systematic review and meta-analysis of single-arm response rates",
+        "finding": "With narrowband UVB, at least mild repigmentation (25% or more) was seen in 74.2% of 232 patients at 6 months and 75.0% of 512 at 12 months; marked repigmentation (75% or more) in 19.2% of 266 at 6 months and 35.7% of 540 at 12 months. After 6 months or more, marked response on the face and neck was 44.2%, on the trunk 26.1%, on the limbs 17.3%, and none on the hands and feet. The authors recommend long-duration treatment.",
+        "line_tier": "B",
+        "note": "Single-arm studies, no untreated comparison; the abstract does not give participants' ancestry or skin types; funding not checked.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

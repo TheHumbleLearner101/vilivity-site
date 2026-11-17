@@ -1,0 +1,30 @@
+{
+  "pmid": "42198398",
+  "slug": "coope-2026-42198398",
+  "citation": {
+    "authors": "Coope OC, Willems MET, Levington A, Tallon MJ et al",
+    "year": 2026,
+    "journal": "Pharmaceuticals (Basel)"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42198398/",
+  "page": "https://vilivity.com/studies/coope-2026-42198398/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "coope-2026",
+        "population": "2,317 healthy adults in 23 randomised trials of standardised, single-ingredient root extract (125 to 600 mg a day, up to 180 days)",
+        "n": 2317,
+        "design": "Systematic review of safety and tolerability",
+        "finding": "Liver, kidney, blood, hormone and cardiovascular markers stayed within normal ranges. No serious adverse events attributable to the extract. Mild effects (stomach discomfort, headache, drowsiness) were infrequent and occurred in both treatment and comparison groups. Long-term data beyond 180 days are limited.",
+        "line_tier": "B",
+        "note": "Authors say case reports of harm mostly involved non-standardised or multi-ingredient products. Some authors are affiliated with supplement companies. Healthy adults only, so it says little about people with liver or kidney disease.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

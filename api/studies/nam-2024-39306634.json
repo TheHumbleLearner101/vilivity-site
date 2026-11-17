@@ -1,0 +1,30 @@
+{
+  "pmid": "39306634",
+  "slug": "nam-2024-39306634",
+  "citation": {
+    "authors": "Nam S, Jeon S, Ordway M, Mazure C et al",
+    "year": 2024,
+    "journal": "Journal of Behavioral Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39306634/",
+  "page": "https://vilivity.com/studies/nam-2024-39306634/",
+  "cited_by": [
+    {
+      "entry": "coping-with-anxiety-day-to-day",
+      "title": "Coping with anxiety day to day",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/coping-with-anxiety-day-to-day/",
+      "record": {
+        "id": "nam-2024",
+        "population": "30 Black women with insomnia, US",
+        "n": 30,
+        "design": "Pilot randomised trial of online mindfulness-based therapy for insomnia against lifestyle health education, 10 weeks",
+        "finding": "Insomnia improved in both groups; anxiety and depression symptoms improved significantly only in the mindfulness group. Nearly all attended 6 to 8 of 8 sessions. The authors call it feasible and acceptable.",
+        "line_tier": "A",
+        "note": "A pilot of 30 women with insomnia, not a trial of anxiety.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

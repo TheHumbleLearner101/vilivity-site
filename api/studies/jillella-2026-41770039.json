@@ -1,0 +1,30 @@
+{
+  "pmid": "41770039",
+  "slug": "jillella-2026-41770039",
+  "citation": {
+    "authors": "Jillella A, Keerthi N, Venkateswar Reddy J",
+    "year": 2026,
+    "journal": "Phytotherapy Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41770039/",
+  "page": "https://vilivity.com/studies/jillella-2026-41770039/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha-other-claims",
+      "title": "Ashwagandha: cortisol, mood, skin, hair, heart, kidneys and liver",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha-other-claims/",
+      "record": {
+        "id": "jillella-2026",
+        "population": "Adults aged 18 to 60 with hair loss or skin conditions (number not stated in the abstract), one clinic in Hyderabad, India",
+        "n": "not stated in the abstract",
+        "design": "Randomised, double-blind, placebo-controlled, 300 mg standardised root extract twice a day for 75 days",
+        "finding": "Greater improvement than placebo in transepidermal water loss (skin barrier), in hair density, growth and anagen:telogen ratio, and in skin and hair quality-of-life scores. No adverse events. The extract was supplied by the manufacturer, Ixoreal Biomed.",
+        "line_tier": "B",
+        "note": "One clinic, manufacturer-supplied product, sample size not in the abstract. Ethnicity and hair type not stated, so nothing is known about afro-textured hair or skin of colour.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

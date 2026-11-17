@@ -1,0 +1,30 @@
+{
+  "pmid": "33786471",
+  "slug": "day-2020-33786471",
+  "citation": {
+    "authors": "Day M, Bonnet K, Schlundt DG et al",
+    "year": 2020,
+    "journal": "Women's Health Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33786471/",
+  "page": "https://vilivity.com/studies/day-2020-33786471/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+      "title": "Sickle cell disease: what it is, treatment and newborn screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/",
+      "record": {
+        "id": "day-2020",
+        "population": "14 women with sickle cell disease in focus groups",
+        "n": 14,
+        "design": "Qualitative focus group study",
+        "finding": "Women with sickle cell disease could tell acute sickle cell pain from menstrual cramps. Themes included effects on quality of life and emotional well-being. The authors say providers should become more familiar with sickle cell pain linked to menstruation.",
+        "line_tier": "B",
+        "note": "Very small qualitative study.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

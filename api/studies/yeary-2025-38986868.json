@@ -25,6 +25,23 @@
         "note": "The one randomised trial in Black adults I found. A pilot built to test feasibility, with no proof that fasting beats calorie reduction.",
         "tag": "[primary]"
       }
+    },
+    {
+      "entry": "intermittent-fasting-for-specific-groups",
+      "title": "Intermittent fasting for women, older adults, teenagers and people with heart or thyroid conditions",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-specific-groups/",
+      "record": {
+        "id": "yeary-2025",
+        "population": "42 Black adults with BMI 25 or more, 5 churches in Western New York State, US",
+        "n": 42,
+        "design": "Cluster randomised pilot: 6-month faith-based intermittent fasting against continuous calorie reduction",
+        "finding": "Both arms lost weight (intermittent fasting -3.5 kg; calorie reduction -2.9 kg). Intermittent fasting led to lower daily energy and fat intake, and possibly lower fruit, vegetable and fibre intake. Satisfaction was high. The authors conclude it is feasible and call for larger studies.",
+        "line_tier": "A",
+        "note": "A feasibility pilot, not a test of whether it works better or is safe; adults free of conditions that would rule out weight loss, so not people with heart or thyroid disease.",
+        "tag": "[primary]"
+      }
     }
   ]
 }

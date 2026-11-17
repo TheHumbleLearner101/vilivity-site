@@ -1,0 +1,30 @@
+{
+  "pmid": "15953059",
+  "slug": "liu-2005-15953059",
+  "citation": {
+    "authors": "Liu JB, Li M, Yang S, et al",
+    "year": 2005,
+    "journal": "Clinical and Experimental Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15953059/",
+  "page": "https://vilivity.com/studies/liu-2005-15953059/",
+  "cited_by": [
+    {
+      "entry": "vitiligo-spread-onset-and-treatment-options",
+      "title": "Vitiligo, spread, starting age and treatment options",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo-spread-onset-and-treatment-options/",
+      "record": {
+        "id": "liu-2005",
+        "population": "3,742 outpatients with vitiligo in China",
+        "n": 3742,
+        "design": "Retrospective questionnaire survey",
+        "finding": "Mean age of onset was 18.88 years and more than 60% were affected before 20. Segmental vitiligo began earlier (15.55 years). After 3 to 5 years, 99% of active vitiligo had worsened or shifted from one clinical type to another.",
+        "line_tier": "B",
+        "note": "Chinese clinic population, retrospective, and the 99% applies to patients whose vitiligo was classed as active, not to everyone with vitiligo.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

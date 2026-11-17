@@ -1,0 +1,30 @@
+{
+  "pmid": "39212129",
+  "slug": "simental-mendia-2025-39212129",
+  "citation": {
+    "authors": "Simental-Mendia M, Ortega-Mata D, Acosta-Olivo CA, Simental-Mendia LE et al",
+    "year": 2025,
+    "journal": "Clinical and Experimental Rheumatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39212129/",
+  "page": "https://vilivity.com/studies/simental-mendia-2025-39212129/",
+  "cited_by": [
+    {
+      "entry": "collagen-for-hair-nails-and-joints",
+      "title": "Collagen for hair, nails and joints",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/collagen-for-hair-nails-and-joints/",
+      "record": {
+        "id": "simental-2025",
+        "population": "Adults with knee osteoarthritis in 11 randomised trials (451 on collagen, 419 on placebo)",
+        "n": 870,
+        "design": "Systematic review and meta-analysis",
+        "finding": "Collagen supplements improved function (mean difference -6.46) and pain scores (-13.63) compared with placebo. Results varied widely between trials (I2 75% for function, 88% for pain). The authors conclude it relieves osteoarthritis symptoms.",
+        "line_tier": "B",
+        "note": "Ethnicity not reported in the abstract. High heterogeneity lowers confidence.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

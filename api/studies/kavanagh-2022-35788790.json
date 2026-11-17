@@ -1,0 +1,30 @@
+{
+  "pmid": "35788790",
+  "slug": "kavanagh-2022-35788790",
+  "citation": {
+    "authors": "Kavanagh PL, Fasipe TA, Wun T",
+    "year": 2022,
+    "journal": "JAMA"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35788790/",
+  "page": "https://vilivity.com/studies/kavanagh-2022-35788790/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+      "title": "Sickle cell disease: what it is, treatment and newborn screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-disease-basics-treatment-and-newborn-screening/",
+      "record": {
+        "id": "kavanagh-2022",
+        "population": "Adults and children with sickle cell disease, mainly in the US, plus worldwide figures",
+        "n": "not applicable",
+        "design": "Narrative review (JAMA)",
+        "finding": "About 300,000 infants a year are born with sickle cell disease worldwide, most living in sub-Saharan Africa, India, the Mediterranean and the Middle East; about 100,000 people have it in the US. Diagnosis is by newborn screening where available. In the US nearly all children survive to adulthood, but average life expectancy remains about 20 years less than the general population. Hydroxyurea is first-line therapy for most people; stem cell transplant is the only curative therapy, limited by donor availability.",
+        "line_tier": "B",
+        "note": "Review, mostly US data; the 20-year figure is a US figure.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

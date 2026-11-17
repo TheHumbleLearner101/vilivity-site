@@ -1,0 +1,294 @@
+{
+  "slug": "sickle-cell-disease-basics-treatment-and-newborn-screening",
+  "title": "Sickle cell disease: what it is, treatment and newborn screening",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "How is sickle cell anaemia different from sickle cell disease?",
+    "How do you get tested for sickle cell?",
+    "What is the difference between sickle cell and thalassaemia?",
+    "What are the signs of sickle cell disease in babies?",
+    "Can people with sickle cell anaemia live normal lives?",
+    "How do you treat sickle cell anaemia?"
+  ],
+  "tradition_says": "Families often talk about \"genotype\" (AA, AS, SS) and may hear that sickle cell only affects Africans or that trait is a mild form of the disease. My search found no study of what is passed down about it.",
+  "layer1": {
+    "plain_answer": "Sickle cell disease is inherited: you need the gene from both parents. One copy is trait, not the disease. A blood test tells you. Newborn screening is offered in the UK (NHS) and all US states, not yet universally in sub-Saharan Africa. Care helps manage it; in the US, life expectancy is about 20 years shorter.",
+    "do": [
+      {
+        "text": "If you are in the UK, take up the newborn blood spot test, usually at 5 days: results come by 6 weeks and go in your baby's red book. If your baby missed it, tell your midwife, health visitor or doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Newborn blood spot test\"",
+          "url": "https://www.nhs.uk/conditions/baby/newborn-screening/blood-spot-test/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you do not know your status, ask a doctor for a carrier blood test at any time (UK NHS). If you are pregnant in the UK, the midwife offers screening before 10 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you have the disease, keep to your care plan and regular check-ups, stay up to date with vaccinations and drink plenty of fluids (UK NHS).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Ask your sickle cell specialist what is open to you: the UK's NHS names hydroxycarbamide (hydroxyurea), blood transfusion, stem cell transplant and gene therapy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "If you have the disease and are planning a pregnancy, WHO advises genetic counselling, timing the pregnancy for when you are well and making an emergency plan for crises.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, \"Sickle-cell disease\" fact sheet (6 August 2025)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating trait as the disease: the UK's NHS says a trait carrier does not have the disease and cannot develop it, but can pass it on.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Alcohol and smoking if you have the disease: the UK's NHS says they can raise the risk of acute chest syndrome.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Driving yourself to A&E in the UK during a crisis: call 999 or your local emergency number for severe pain, breathing trouble or being sick.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      },
+      {
+        "text": "Waiting for symptoms before testing a baby: they can start from about 6 months (UK NHS), which is why newborn screening exists.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS (UK), \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-17"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Sudden severe pain, breathing difficulty or being sick with sickle cell disease, a high temperature with the disease, or a painful erection that will not go away: call 999 in the UK, 911 in the US and Canada, 112 in the EU, or your local emergency number.",
+      "A baby of about 5 to 6 months has painful swelling of the hands or feet, is unusually fussy or tired, or has yellow skin or eyes (US MedlinePlus lists these early signs), especially with no newborn screening result on record: see a doctor.",
+      "You are not sure whether you carry the gene and are planning a pregnancy (doctor, for a blood test and counselling).",
+      "You have the disease and period pain feels like your sickle cell pain: tell your sickle cell team, who can involve a gynaecologist (do not change your contraception yourself)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults and children with sickle cell disease, mainly in the US, plus worldwide figures",
+      "design": "Narrative review (JAMA)",
+      "n": "not applicable",
+      "finding": "About 300,000 infants a year are born with sickle cell disease worldwide, most living in sub-Saharan Africa, India, the Mediterranean and the Middle East; about 100,000 people have it in the US. Diagnosis is by newborn screening where available. In the US nearly all children survive to adulthood, but average life expectancy remains about 20 years less than the general population. Hydroxyurea is first-line therapy for most people; stem cell transplant is the only curative therapy, limited by donor availability.",
+      "source": {
+        "authors": "Kavanagh PL, Fasipe TA, Wun T",
+        "year": 2022,
+        "journal": "JAMA",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35788790/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Review, mostly US data; the 20-year figure is a US figure.",
+      "id": "kavanagh-2022"
+    },
+    {
+      "population": "Newborns in sub-Saharan Africa",
+      "design": "Review of newborn screening initiatives",
+      "n": "not applicable",
+      "finding": "Sub-Saharan Africa accounts for 75% of global sickle cell disease but has not been able to implement universal newborn screening. The article examines policy, methods, barriers and links to comprehensive care.",
+      "source": {
+        "authors": "Nnodu OE, Okeke CO, Isa HA et al",
+        "year": 2024,
+        "journal": "Hematology (ASH Education Program)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39644044/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read.",
+      "id": "nnodu-2024"
+    },
+    {
+      "population": "606 children aged 1 to 10 with haemoglobin SS or S-beta-zero thalassaemia given hydroxyurea in Kenya, Uganda, Angola and the Democratic Republic of Congo (635 enrolled)",
+      "design": "Open-label, non-randomised phase 1/2 trial (REACH) with up to 8 years of follow-up",
+      "n": 606,
+      "finding": "Escalating hydroxyurea under monitoring to the maximum tolerated dose reduced pain episodes (rate ratio 0.60 against the fixed-dose phase), acute chest syndrome (0.21), malaria (0.58) and non-malarial infections (0.52), and raised haemoglobin from 7.3 to 8.5 g/dL; serious side effects were uncommon. The abstract gave no significant change in deaths (0.70, P 0.50).",
+      "source": {
+        "authors": "Aygun B, Lane A, Smart LR et al",
+        "year": 2024,
+        "journal": "The Lancet Haematology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38701812/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Uncontrolled: it compares dosing phases within the same children, not against placebo. Participants were selected by haemoglobin genotype.",
+      "id": "aygun-2024"
+    },
+    {
+      "population": "People with sickle cell disease who menstruate",
+      "design": "Narrative review",
+      "n": "not applicable",
+      "finding": "Menstruation presents a challenge in sickle cell disease because of blood loss and can worsen pain episodes. The authors discuss hormonal options, say combined hormonal contraceptives raise concern in this group, and stress care shared between gynaecologists and haematologists.",
+      "source": {
+        "authors": "Olaniyan H, Carrithers B, Van Doren L",
+        "year": 2025,
+        "journal": "Contraception and Reproductive Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40181434/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only; treatment details were not read and no advice on them is given here.",
+      "id": "olaniyan-2025"
+    },
+    {
+      "population": "14 women with sickle cell disease in focus groups",
+      "design": "Qualitative focus group study",
+      "n": 14,
+      "finding": "Women with sickle cell disease could tell acute sickle cell pain from menstrual cramps. Themes included effects on quality of life and emotional well-being. The authors say providers should become more familiar with sickle cell pain linked to menstruation.",
+      "source": {
+        "authors": "Day M, Bonnet K, Schlundt DG et al",
+        "year": 2020,
+        "journal": "Women's Health Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33786471/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Very small qualitative study.",
+      "id": "day-2020"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That sickle cell disease is inherited, is found by blood test and newborn screening (more complete in the UK and US than in sub-Saharan Africa), and is treatable: official UK, US and WHO pages and two reviews. The only trial opened is one uncontrolled phase 1/2 study of hydroxyurea in 606 African children.",
+  "tier_note": "Thin: the treatment evidence opened is one open-label, non-randomised trial of children, and the rest is official guidance and reviews. It does not cover adults, pregnancy outcomes or most self-care advice.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search for the advice on this card. The risk is the disease itself: WHO lists stroke, acute chest syndrome, infection, organ damage and pregnancy complications, and says deaths are under-recorded.",
+  "founder_flag": false,
+  "evidence_summary": "Sickle cell disease is a group of inherited red blood cell conditions; sickle cell anaemia (two copies of the sickle gene, HbSS) is the most severe form (WHO), and MedlinePlus (US) lists \"sickle cell anemia\" as another name. Trait is one copy: generally healthy, but able to pass the gene on. In the US about 1 in 13 Black or African American babies has trait and about 1 in 365 has the disease (MedlinePlus). Anaemia is a low red cell count and haemoglobin; sickle cell disease causes anaemia, but iron deficiency anaemia is the most common type of anaemia (UK NHS). Thalassaemia is a different inherited haemoglobin condition, mainly of Mediterranean, south Asian, southeast Asian and Middle Eastern origin (UK NHS). Testing: in the UK a pregnancy blood test before 10 weeks and the newborn blood spot test; in the US all states test newborns (MedlinePlus); sub-Saharan Africa, with about 75% (Nnodu 2024) to nearly 80% (WHO 2025) of global cases, lacks universal newborn screening. Life with the disease varies: the UK NHS says when not in a crisis you may feel generally well, while a US review puts average life expectancy about 20 years below the general population. Complications named by WHO include pain crises, infection, stroke, acute chest syndrome and damage to the spleen, liver and kidneys, so there is no single organ. The NHS and WHO pages describe it as inherited from parents; neither describes any other way of getting it. Menstruation can worsen sickle cell pain (a 2025 review).",
+  "measured_variables": [
+    "Haemoglobin genotype (AA, AS, SS, SC, S-beta thalassaemia) by blood test or genetic test",
+    "Newborn blood spot result",
+    "Full blood count and haemoglobin"
+  ],
+  "gaps": "Searches run 17 Nov 2026 on PubMed: \"sickle cell disease life expectancy median survival\" (14 records; the JAMA review opened; no UK-specific survival study opened); \"sickle cell disease newborn screening sub-Saharan Africa\" (195 records, one opened); \"hydroxyurea children sickle cell anaemia Africa randomised trial\" (28 records, REACH opened, the Nigerian stroke trial was fetched but not used because its arms differ by dose); \"sickle cell disease menstruation\" (35 records, 2 opened). Control: the exact title of the JAMA review returned that review (1 record). Our search found no source I opened that says whether the genotype can change in pregnancy (the NHS calls it inherited); that trait cells sickle or not (MedlinePlus and NHS say trait is generally healthy); about sexual transmission (the NHS pages describe inheritance only); or about disability status of sickle cell trait. Not opened: NICE sickle cell guidance; the US 2020 sickle cell guidelines; pregnancy outcomes for women with the disease; adult hydroxyurea trials; gene therapy results; the NHS complications page (404); the US CDC pages (403); a UK survival figure; an African newborn screening result process. Hydroxyurea doses are deliberately not given: a specialist sets them.",
+  "related": [
+    "sickle-cell-disease-trait-and-pregnancy",
+    "sickle-cell-trait-and-hard-exercise",
+    "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+    "alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron",
+    "haemoglobin-and-white-cell-reference-ranges",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-17",
+  "sources": [
+    {
+      "authors": "Kavanagh PL, Fasipe TA, Wun T",
+      "year": 2022,
+      "journal": "JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35788790/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Nnodu OE, Okeke CO, Isa HA et al",
+      "year": 2024,
+      "journal": "Hematology (ASH Education Program)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39644044/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Aygun B, Lane A, Smart LR et al",
+      "year": 2024,
+      "journal": "The Lancet Haematology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38701812/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Olaniyan H, Carrithers B, Van Doren L",
+      "year": 2025,
+      "journal": "Contraception and Reproductive Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40181434/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Day M, Bonnet K, Schlundt DG et al",
+      "year": 2020,
+      "journal": "Women's Health Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33786471/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS (UK), \"Sickle cell disease\"",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Newborn blood spot test\"",
+      "url": "https://www.nhs.uk/conditions/baby/newborn-screening/blood-spot-test/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Thalassaemia\"",
+      "url": "https://www.nhs.uk/conditions/thalassaemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "WHO, \"Sickle-cell disease\" fact sheet (6 August 2025)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "MedlinePlus (US National Library of Medicine), \"Sickle Cell Disease\"",
+      "url": "https://medlineplus.gov/sicklecelldisease.html",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    },
+    {
+      "name": "NHS (UK), \"Iron deficiency anaemia\"",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-17"
+    }
+  ]
+}

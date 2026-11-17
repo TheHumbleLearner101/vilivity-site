@@ -1,0 +1,30 @@
+{
+  "pmid": "28827377",
+  "slug": "flynn-2017-28827377",
+  "citation": {
+    "authors": "Flynn JT, Kaelber DC, Baker-Smith CM et al",
+    "year": 2017,
+    "journal": "Pediatrics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28827377/",
+  "page": "https://vilivity.com/studies/flynn-2017-28827377/",
+  "cited_by": [
+    {
+      "entry": "normal-blood-pressure-by-age",
+      "title": "Normal blood pressure by age and sex, and for children",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/normal-blood-pressure-by-age/",
+      "record": {
+        "id": "aap-2017",
+        "population": "Children and adolescents, US paediatric guideline (AAP, endorsed by the American Heart Association)",
+        "n": "not applicable",
+        "design": "Clinical practice guideline from a review of almost 15,000 papers, 30 key action statements",
+        "finding": "New normative blood pressure tables are based on normal-weight children. Teenagers aged 13 and over use a simplified classification that aligns with the adult American Heart Association and American College of Cardiology guideline. Screening is at preventive-care visits, and ambulatory monitoring has a larger role in diagnosis.",
+        "line_tier": "B",
+        "note": "Abstract read; the tables themselves were not opened, so no child figure is quoted.",
+        "tag": "[official]"
+      }
+    }
+  ]
+}

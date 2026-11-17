@@ -1,0 +1,30 @@
+{
+  "pmid": "31776230",
+  "slug": "rutter-2020-31776230",
+  "citation": {
+    "authors": "Rutter MD, East J, Rees CJ et al",
+    "year": 2020,
+    "journal": "Gut"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31776230/",
+  "page": "https://vilivity.com/studies/rutter-2020-31776230/",
+  "cited_by": [
+    {
+      "entry": "colonoscopy-when-and-how-often",
+      "title": "Colonoscopy: when to start and how often",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/colonoscopy-when-and-how-often/",
+      "record": {
+        "id": "rutter-2020",
+        "population": "UK adults aged 18 and over after polyp removal or cancer surgery",
+        "n": "not applicable",
+        "design": "Consensus guideline from BSG, ACPGBI and Public Health England",
+        "finding": "High risk of future bowel cancer after polypectomy is two or more premalignant polyps including at least one advanced polyp, or five or more premalignant polyps; this group has a one-off surveillance colonoscopy at 3 years.",
+        "line_tier": "B",
+        "note": "Abstract read in full.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "42326246",
+  "slug": "thind-2026-42326246",
+  "citation": {
+    "authors": "Thind A, Pisudde PM, Kochhar S",
+    "year": 2026,
+    "journal": "Cureus"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42326246/",
+  "page": "https://vilivity.com/studies/thind-2026-42326246/",
+  "cited_by": [
+    {
+      "entry": "coping-with-anxiety-day-to-day",
+      "title": "Coping with anxiety day to day",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/coping-with-anxiety-day-to-day/",
+      "record": {
+        "id": "thind-2026",
+        "population": "Medical students worldwide: 7 studies (1 randomised trial, 6 single-arm)",
+        "n": null,
+        "design": "Systematic review and meta-analysis of yoga breathing (pranayama)",
+        "finding": "A large fall in perceived stress and anxiety (standardised mean difference -1.25) with high heterogeneity (67%). Only one study was randomised.",
+        "line_tier": "C",
+        "note": "Mostly single-arm studies in medical students; ethnicity not given in the abstract; I did not read the full text.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}
