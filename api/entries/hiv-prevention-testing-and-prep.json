@@ -1,0 +1,223 @@
+{
+  "slug": "hiv-prevention-testing-and-prep",
+  "title": "HIV prevention, testing and PrEP",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "What is PrEP?",
+    "Does PrEP work for Black women?",
+    "How do I get an HIV test?",
+    "How can I stop myself getting HIV?",
+    "Is HIV treatment effective?"
+  ],
+  "tradition_says": "HIV is still surrounded by silence and shame in many families and communities, and testing is put off. My search found no study I opened of what families pass down.",
+  "layer1": {
+    "plain_answer": "PrEP is a medicine you take before a possible exposure to HIV, and it is highly effective when taken as prescribed. It comes as tablets, injections or a vaginal ring depending on where you live. Get an HIV test first and then regularly. HIV treatment is effective, so knowing your status is a good thing.",
+    "do": [
+      {
+        "text": "Get an HIV test at a clinic, an antenatal service or a pharmacy, or order a home testing kit. In the UK you may be eligible for a free one.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"HIV and AIDS\" (prevention and testing)",
+          "url": "https://www.nhs.uk/conditions/hiv-and-aids/prevention/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "In England, ask a sexual health clinic about PrEP: it is free on the NHS as daily or on-demand tablets, and some people may need an injection every two months.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"HIV and AIDS\" (prevention and testing)",
+          "url": "https://www.nhs.uk/conditions/hiv-and-aids/prevention/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "In the US, ask a provider or use the HIV.gov services locator: there are two FDA-approved daily oral PrEP medicines and two long-acting injections (every other month and twice a year).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "HIV.gov, Pre-Exposure Prophylaxis (PrEP)",
+          "url": "https://www.hiv.gov/hiv-basics/hiv-prevention/using-hiv-medication-to-reduce-risk/pre-exposure-prophylaxis",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Elsewhere ask a local HIV clinic. WHO recommends oral tenofovir-based PrEP, the dapivirine vaginal ring, long-acting injectable cabotegravir and long-acting injectable lenacapavir.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, HIV and AIDS fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "If you think you were exposed in the last 72 hours, go to a sexual health clinic or emergency department for PEP (post-exposure medicine) in the UK; elsewhere ask an emergency service.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"HIV and AIDS\" (prevention and testing)",
+          "url": "https://www.nhs.uk/conditions/hiv-and-aids/prevention/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Taking PrEP on and off: it reduces the risk of HIV from sex by about 99% when taken as prescribed and is much less effective when not taken consistently.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "HIV.gov, Pre-Exposure Prophylaxis (PrEP)",
+          "url": "https://www.hiv.gov/hiv-basics/hiv-prevention/using-hiv-medication-to-reduce-risk/pre-exposure-prophylaxis",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Starting PrEP without a clinician: WHO says people should seek advice from a clinician when thinking about PrEP or PEP.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, HIV and AIDS fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Dropping condoms and other protection: the UK's NHS calls condoms the most effective protection against HIV and other sexually transmitted infections.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"HIV and AIDS\" (prevention and testing)",
+          "url": "https://www.nhs.uk/conditions/hiv-and-aids/prevention/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Assuming it is someone else's risk: transmission is ongoing in all countries (WHO).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "WHO, HIV and AIDS fact sheet",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You think you were exposed in the last 72 hours (sexual health clinic or emergency department, the same day, for PEP).",
+      "You have not had an HIV test in the last year and have had a new partner or shared needles (sexual health clinic, doctor or a community HIV service).",
+      "A flu-like illness or rash after a possible exposure: ask for an HIV test and tell them if you take PrEP (clinic).",
+      "A positive test: treatment is available and effective; ask for a same-week appointment at an HIV clinic (where you live, ask the testing service)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "4,758 heterosexual HIV-serodiscordant couples in Kenya and Uganda; the HIV-negative partner (62% male) took tenofovir, tenofovir-emtricitabine or placebo",
+      "design": "Randomised, double-blind, placebo-controlled trial (Partners PrEP), follow-up up to 36 months",
+      "n": 4758,
+      "finding": "Of 82 HIV infections in the HIV-negative partners, 17 were in the tenofovir group (0.65 per 100 person-years), 13 in the tenofovir-emtricitabine group (0.50) and 52 in the placebo group (1.99). That is a 67% reduction with tenofovir (95% CI 44 to 81) and 75% with the combination (95% CI 55 to 87).",
+      "source": {
+        "authors": "Baeten JM, Donnell D, Ndase P, Mugo NR et al",
+        "year": 2012,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22784037/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "East African couples; the abstract was cut off before the adherence analysis, so the effect of taking every dose is not stated here.",
+      "id": "baeten-2012"
+    },
+    {
+      "population": "5,338 HIV-negative adolescent girls and young women in South Africa and Uganda",
+      "design": "Phase 3 randomised, double-blind, controlled trial (PURPOSE 1) of twice-yearly lenacapavir, daily F/TAF or daily F/TDF",
+      "n": 5338,
+      "finding": "55 HIV infections occurred: none among 2,134 on lenacapavir (0 per 100 person-years; 95% CI 0.00 to 0.19), 39 among 2,136 on F/TAF (2.02) and 16 among 1,068 on F/TDF (1.69). Background incidence in the screened population was 2.41 per 100 person-years. Lenacapavir was significantly lower than background and than F/TDF; F/TAF did not differ significantly from background. The authors note gaps in uptake, adherence and persistence of PrEP among cisgender women.",
+      "source": {
+        "authors": "Bekker LG, Das M, Abdool Karim Q, Ahmed K et al",
+        "year": 2024,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39046157/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "African adolescent girls and young women; the abstract was cut off before safety and adherence details.",
+      "id": "bekker-2024"
+    },
+    {
+      "population": "People at risk of HIV, global",
+      "design": "WHO fact sheet",
+      "n": "not applicable",
+      "finding": "WHO estimates 41.0 million people were living with HIV at the end of 2025, 64% of them in the WHO African Region, with 1.2 million new infections in 2025 and transmission ongoing in all countries; 88% of people living with HIV knew their status. WHO recommends four PrEP methods and says people who take treatment and have no virus in the blood will not pass HIV on sexually.",
+      "source": {
+        "authors": "World Health Organization",
+        "year": "current page, opened 2026-11-16",
+        "journal": "Fact sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "A fact sheet, not a study; figures are WHO estimates for end 2025.",
+      "id": "who-hiv"
+    }
+  ],
+  "tier": "A",
+  "strength": "strong",
+  "tier_driver": "That PrEP prevents HIV in African populations: two large randomised trials in Kenya and Uganda (4,758 couples) and South Africa and Uganda (5,338 young women) with a hard outcome, consistent with HIV.gov and WHO guidance.",
+  "tier_note": "Randomised trials in African populations (couples; adolescent girls and young women). The abstracts do not report Black populations in the UK, US or Caribbean, whom the guidance covers; no trial of PrEP uptake or outreach in Black communities outside Africa was opened.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the abstracts I opened. Kidney, bone and resistance monitoring on PrEP was not read; ask a clinician.",
+  "founder_flag": false,
+  "evidence_summary": "In Kenya and Uganda, 4,758 couples were randomised and daily tenofovir cut HIV infections by 67% and tenofovir-emtricitabine by 75% against placebo (Baeten 2012). In South Africa and Uganda, a twice-yearly lenacapavir injection had no infections in 2,134 young women, against background incidence of 2.41 per 100 person-years, while daily tablets did not clearly beat background (Bekker 2024), pointing to adherence. HIV.gov says PrEP reduces risk from sex by about 99% when taken as prescribed. WHO lists four PrEP methods and reports 64% of people living with HIV are in the African Region. Services, ages and costs differ by country. Stigma is not a moral failing and is not on you.",
+  "measured_variables": [
+    "HIV status (test result)",
+    "Adherence to PrEP",
+    "Incident HIV infection per 100 person-years"
+  ],
+  "gaps": "Not found or not opened: HIV prevalence by ethnicity in the UK, US and Caribbean (not opened this session); whether PrEP reaches Black communities in the UK and US at the same rate (not opened); the CDC PrEP page (blocked); HPTN 083 and HPTN 084 Black-specific results; UK PrEP eligibility beyond England; services in countries outside England, the US, South Africa, Kenya and Uganda; kidney and bone monitoring on PrEP.",
+  "related": [
+    "sickle-cell-disease-trait-and-pregnancy",
+    "pregnancy-and-maternity-care",
+    "stigma-and-starting-therapy",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Baeten JM, Donnell D, Ndase P, Mugo NR et al",
+      "year": 2012,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22784037/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bekker LG, Das M, Abdool Karim Q, Ahmed K et al",
+      "year": 2024,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39046157/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "World Health Organization",
+      "year": "current page, opened 2026-11-16",
+      "journal": "Fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+      "tag": "[official]"
+    },
+    {
+      "name": "NHS, \"HIV and AIDS\" (prevention and testing)",
+      "url": "https://www.nhs.uk/conditions/hiv-and-aids/prevention/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "HIV.gov, Pre-Exposure Prophylaxis (PrEP)",
+      "url": "https://www.hiv.gov/hiv-basics/hiv-prevention/using-hiv-medication-to-reduce-risk/pre-exposure-prophylaxis",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "WHO, HIV and AIDS fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

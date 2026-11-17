@@ -1,0 +1,30 @@
+{
+  "pmid": "29905969",
+  "slug": "aloia-2018-29905969",
+  "citation": {
+    "authors": "Aloia J, Fazzari M, Islam S, Mikhail M et al",
+    "year": 2018,
+    "journal": "Journal of Bone and Mineral Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29905969/",
+  "page": "https://vilivity.com/studies/aloia-2018-29905969/",
+  "cited_by": [
+    {
+      "entry": "vitamin-d-and-dark-skin",
+      "title": "Vitamin D and dark skin",
+      "module": "body",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/body/vitamin-d-and-dark-skin/",
+      "record": {
+        "id": "aloia-2018",
+        "population": "260 healthy Black American women aged 60 or over",
+        "n": 260,
+        "design": "Randomised, double-dummy, placebo-controlled, 3 years, vitamin D3 dose adjusted to keep blood level above 75 nmol/L",
+        "finding": "No bone-loss benefit of vitamin D over placebo; the groups were equivalent. Baseline 25(OH)D was 54.8 nmol/L. The authors concluded that Black Americans should have the same vitamin D exposure as White Americans.",
+        "line_tier": "A",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

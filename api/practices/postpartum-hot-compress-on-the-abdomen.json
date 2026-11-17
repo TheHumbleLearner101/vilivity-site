@@ -1,0 +1,63 @@
+{
+  "slug": "postpartum-hot-compress-on-the-abdomen",
+  "name": "Hot compress on the abdomen after birth",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "body",
+  "what_people_do": "After delivery a mother presses hot cloths or hot water bottles to the lower abdomen, often daily for weeks.",
+  "why_they_say_it_works": "To help the womb drain (lochia) and shrink back, and to keep the body \"warm\" after birth.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Okeke T et al 2013, Ann Med Health Sci Res, PMID 23634329",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23634329/",
+      "quote_or_summary": "Enugu, 420 mothers: 80.2% applied hot compresses to the lower abdomen to aid lochia drainage and uterine involution."
+    },
+    {
+      "source": "Udigwe GO, Emelumadu OF, Udigwe IB 2013, West Afr J Med, PMID 24488282",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24488282/",
+      "quote_or_summary": "Nnewi, 330 Igbo mothers: 63.6% used hot compresses on the abdomen."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Warm compress on the perineum in the second stage of labour (a different practice)",
+      "population": "Cochrane: 22 trials, about 15,000 women",
+      "finding": "Fewer third- or fourth-degree tears (RR 0.46) in the warm-compress group; applies to the perineum during pushing, not to the abdomen after birth.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Perineal techniques during the second stage of labour, Cochrane 2017, PMID 28608597",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28608597/"
+      }
+    },
+    {
+      "tested": "Hot compress on the abdomen after birth for lochia or involution",
+      "population": "n/a",
+      "finding": "My search found no trial of it.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Burn risk on a numb, tired post-delivery body is plausible but I found no source quantifying it. The Nnewi authors call some postpartum practices \"out rightly dangerous\" without naming which in the abstract.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Do not read the perineal warm compress Cochrane result as support for this practice.",
+    "Burn injuries from hot compresses not found."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/postpartum-hot-compress-on-the-abdomen/"
+}

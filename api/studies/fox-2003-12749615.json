@@ -1,0 +1,30 @@
+{
+  "pmid": "12749615",
+  "slug": "fox-2003-12749615",
+  "citation": {
+    "authors": "Fox CH, Mahoney MC, Ramsoomair D, Carter CA",
+    "year": 2003,
+    "journal": "Journal of the National Medical Association"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/12749615/",
+  "page": "https://vilivity.com/studies/fox-2003-12749615/",
+  "cited_by": [
+    {
+      "entry": "magnesium-supplements-for-sleep-and-cramps",
+      "title": "Magnesium supplements for sleep and cramps",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/magnesium-supplements-for-sleep-and-cramps/",
+      "record": {
+        "id": "fox-2003",
+        "population": "African Americans (narrative review of observational evidence on magnesium status)",
+        "n": "not applicable",
+        "design": "Narrative review",
+        "finding": "The authors report that lower dietary and serum magnesium go with hypertension, insulin resistance and diabetes, and that occult magnesium deficiency may be more prevalent in African Americans than in other groups. They say trials that correct magnesium status in African Americans still need to be done.",
+        "line_tier": "B",
+        "note": "Review from 2003 and an association, not a trial. It is a reason to ask for a trial in Black participants, and it does not show that a supplement helps.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

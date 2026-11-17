@@ -1,0 +1,199 @@
+{
+  "slug": "salt-and-blood-pressure",
+  "title": "Salt and blood pressure",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does salt matter more for Black people's blood pressure?",
+    "Are Black people salt sensitive?",
+    "How much salt should I eat?"
+  ],
+  "tradition_says": "It is widely said that Black people are \"salt sensitive\" because of a gene from the slave trade, and that high blood pressure is simply in the blood.",
+  "layer1": {
+    "plain_answer": "Cutting salt lowers blood pressure in Black and non-Black adults alike, and the DASH eating pattern did too in a large US feeding trial that was mostly Black. Salt matters, but a special inherited salt gene is not established, and historians dispute the slavery-era theory behind it. Aim for no more than 6g a day, like every adult.",
+    "do": [
+      {
+        "text": "Eat no more than 6g of salt a day as an adult: about three-quarters of the salt we eat is already in the food we buy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"8 tips for healthy eating\"",
+          "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check food labels: more than 1.5g of salt per 100g means a food is high in salt.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"8 tips for healthy eating\"",
+          "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Combine less salt with the DASH pattern (fruit, vegetables, low-fat dairy): together they lowered blood pressure in the trial.",
+        "basis": "tested",
+        "source": "hussain-2026"
+      },
+      {
+        "text": "Get your blood pressure checked, even if you feel well.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Believing salt is only a problem for you or that you are immune: reducing sodium lowered blood pressure in both Black and non-Black participants.",
+        "basis": "tested",
+        "source": "hussain-2026"
+      },
+      {
+        "text": "Stopping or changing blood pressure medicine because you have cut salt: tell your doctor or pharmacist first.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A home reading above 135/85 on average or a clinic reading of 140/90 or above (doctor).",
+      "A high reading with headache, blurred vision or chest pain (NHS 111 in the UK; 999, or your local emergency number for chest pain that does not go away)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "335 adults with ambulatory blood pressure data in the DASH-Sodium feeding trial, 58% self-reported Black",
+      "design": "Randomised controlled feeding trial: control or DASH diet, each at low, intermediate and high sodium for 30 days in random order",
+      "n": 335,
+      "finding": "Compared with the control diet at high sodium, reducing sodium and eating the DASH diet, alone or combined, significantly lowered 24-hour, awake and asleep blood pressure in Black and non-Black participants. The DASH diet with low sodium cut awake systolic pressure by 9.0 mmHg in Black and 7.5 in non-Black participants. Racial differences in achieved levels of asleep pressure persisted.",
+      "source": {
+        "authors": "Hussain T, Juraschek SP, Miller ER 3rd, Sacks FM et al",
+        "year": 2026,
+        "journal": "American Journal of Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429484/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Food was supplied in a feeding trial, so it shows what the diet can do, not what people do at home.",
+      "id": "hussain-2026"
+    },
+    {
+      "population": "459 adults with untreated blood pressure below 160/80-95 in the original DASH feeding trial, subgroups analysed",
+      "design": "Randomised feeding trial, 8 weeks, subgroup analysis by race, sex, age, BMI and others",
+      "n": 459,
+      "finding": "The DASH combination diet, with weight and salt held constant, significantly lowered systolic blood pressure in all subgroups, and the authors say it was particularly effective in African Americans and in people with hypertension.",
+      "source": {
+        "authors": "Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ et al",
+        "year": 1999,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9989541/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Proportion of Black participants is not in the abstract; this is a subgroup analysis.",
+      "id": "svetkey-1999"
+    },
+    {
+      "population": "Historical argument about the slave trade and blood pressure in Black Americans",
+      "design": "Hypothesis paper",
+      "n": "not applicable",
+      "finding": "The authors argue that salt-depleting diseases such as diarrhoea during the slave trade and slavery favoured people who could conserve salt, so that Black Americans carry more salt-conserving genes than African Black people. It is a prediction, not a measurement.",
+      "source": {
+        "authors": "Wilson TW, Grim CE",
+        "year": 1991,
+        "journal": "Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1986989/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "D",
+      "note": "A hypothesis. No gene was identified in the abstract.",
+      "id": "wilson-grim-1991"
+    },
+    {
+      "population": "Historical evidence on salt, the slave trade and conditions of slavery",
+      "design": "Historical review of the slavery hypothesis",
+      "n": "not applicable",
+      "finding": "The review finds there was no salt deficiency in the parts of Africa that supplied slaves, present-day West Africans do not have a high incidence of hypertension, deaths aboard slave ships were not shown to have been mainly salt-depleting, and the West Indies evidence was not relevant to the US.",
+      "source": {
+        "authors": "Curtin PD",
+        "year": 1992,
+        "journal": "American Journal of Public Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1456349/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "D",
+      "note": "The strongest historical rebuttal found; it does not address physiology.",
+      "id": "curtin-1992"
+    }
+  ],
+  "tier": "A",
+  "strength": "moderate",
+  "tier_driver": "That reducing sodium and the DASH diet lower blood pressure in Black adults: a randomised feeding trial (n=335 with ambulatory data, 58% Black).",
+  "tier_note": "One feeding trial, mostly Black participants, race-stratified; food supplied rather than chosen. A tier B original trial supports it. The inherited salt-gene claim is untested here.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the trials for reducing salt or the DASH diet. Anyone on blood pressure or kidney medicines should check with a doctor or pharmacist before large diet changes.",
+  "founder_flag": false,
+  "evidence_summary": "In a randomised feeding trial of 335 people, 58% of them Black, lower sodium and the DASH diet each lowered 24-hour blood pressure in Black and non-Black participants alike; the DASH diet with low sodium reduced awake systolic pressure by about 9 mmHg in Black participants. The 1999 DASH trial found its combination diet worked in every subgroup and was especially effective in African Americans. The \"slavery hypothesis\" of an inherited salt-retention gene was argued in 1991 and challenged by historical evidence in 1992.",
+  "measured_variables": [
+    "Ambulatory blood pressure over 24 hours, awake and asleep",
+    "Dietary sodium (low, intermediate, high) and diet pattern",
+    "Self-reported race in the trials; no salt-sensitivity genotype was measured"
+  ],
+  "gaps": "Not opened: the AHA statement on salt sensitivity (Elijovich 2016); Kaufman and Hall 2003 (title only); the later UK salt data for Black Caribbean and African groups (my searches found nothing usable); whether lower salt lowers heart attacks or strokes in Black adults (trials measured blood pressure, not events).",
+  "related": [
+    "high-blood-pressure-in-black-adults",
+    "hibiscus-sorrel-blood-pressure",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Hussain T, Juraschek SP, Miller ER 3rd, Sacks FM et al",
+      "year": 2026,
+      "journal": "American Journal of Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42429484/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ et al",
+      "year": 1999,
+      "journal": "Archives of Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9989541/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wilson TW, Grim CE",
+      "year": 1991,
+      "journal": "Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1986989/",
+      "tag": "[commentary]"
+    },
+    {
+      "authors": "Curtin PD",
+      "year": 1992,
+      "journal": "American Journal of Public Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1456349/",
+      "tag": "[commentary]"
+    },
+    {
+      "name": "NHS, \"8 tips for healthy eating\"",
+      "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"High blood pressure (hypertension)\"",
+      "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

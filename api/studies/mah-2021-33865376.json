@@ -1,0 +1,30 @@
+{
+  "pmid": "33865376",
+  "slug": "mah-2021-33865376",
+  "citation": {
+    "authors": "Mah J, Pitre T",
+    "year": 2021,
+    "journal": "BMC Complementary Medicine and Therapies"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33865376/",
+  "page": "https://vilivity.com/studies/mah-2021-33865376/",
+  "cited_by": [
+    {
+      "entry": "magnesium-supplements-for-sleep-and-cramps",
+      "title": "Magnesium supplements for sleep and cramps",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/magnesium-supplements-for-sleep-and-cramps/",
+      "record": {
+        "id": "mah-2021",
+        "population": "Older adults with insomnia in three randomised trials, in three countries",
+        "n": 151,
+        "design": "Systematic review and meta-analysis of oral magnesium against placebo for sleep",
+        "finding": "Sleep onset latency was 17 minutes shorter with magnesium (95% CI 7 to 27 minutes). Total sleep time improved by 16 minutes, which was not significant. All trials were at moderate to high risk of bias and the evidence was rated low to very low quality.",
+        "line_tier": "B",
+        "note": "Older adults only, three small trials. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

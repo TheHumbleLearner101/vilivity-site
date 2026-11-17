@@ -1,0 +1,30 @@
+{
+  "pmid": "40656290",
+  "slug": "patel-2025-40656290",
+  "citation": {
+    "authors": "Patel et al",
+    "year": 2025,
+    "journal": "Cureus"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40656290/",
+  "page": "https://vilivity.com/studies/patel-2025-40656290/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "patel-rosmagain-2025",
+        "population": "90 healthy adults (18 to 55) in India",
+        "n": 90,
+        "design": "Double-blind randomised three-arm trial over 90 days: rosemary-lavender oil, rosemary-castor oil, coconut oil comparator",
+        "finding": "The rosemary blends improved phototrichogram hair growth rate, thickness, density and length against coconut oil (p<0.0001); growth rate rose from 0.22 to 0.34 mm a day in the rosemary-lavender arm.",
+        "line_tier": "B",
+        "note": "A branded product; the comparator is coconut oil, not an untreated group; funding not checked. Healthy adults, not selected for afro hair. PubMed lists an erratum (Cureus 2026;18(6):c452, PMID 42318379, opened 12 Nov 2026); it corrects only the clinical trial registry number (a typo; the corrected number is CTRI/2024/07/070860) and changes no result. One author is affiliated with Soulflower Pvt Ltd (R&D); the correction states no competing interests.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

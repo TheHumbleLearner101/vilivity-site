@@ -1,0 +1,214 @@
+{
+  "slug": "acne-on-dark-skin",
+  "title": "Acne on dark skin",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "How do I treat acne and stop it leaving dark marks on dark skin?",
+    "Does benzoyl peroxide bleach dark skin?",
+    "Do hair oils and butters cause spots?",
+    "Why does acne leave dark marks on Black skin?"
+  ],
+  "tradition_says": "Acne is blamed on dirt, diet or greasy hair products, and families often treat it with oils, butters and home remedies; dark marks left behind are seen as the real problem.",
+  "layer1": {
+    "plain_answer": "Acne in dark skin often leaves dark marks that last longer than the spots, so treating acne early matters most. Retinoid creams and benzoyl peroxide are the usual first treatments, and benzoyl peroxide does not bleach skin. Hair oil, cocoa butter and shea butter on spot-prone skin can clog pores.",
+    "do": [
+      {
+        "text": "Treat acne early: the earlier it is treated, the less likely dark spots and scarring.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Mild acne: try a retinoid, salicylic acid or benzoyl peroxide.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wash twice a day with a gentle cleanser and remove make-up at the end of the day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne\"",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose skincare and make-up labelled non-comedogenic (will not clog pores).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne\"",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask a pharmacist about treatments, then a doctor if you have tried and it is not better.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne\"",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Picking or squeezing spots: it can cause scars.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne\"",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Scrubbing skin: it irritates and can make acne worse.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne\"",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Hair oil, cocoa butter or shea butter on acne-prone skin: they can clog pores and cause spots.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Skipping benzoyl peroxide for fear it bleaches: the BAD calls that a debunked myth.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Spots are deep, painful, many, or leaving scars or dark marks (doctor, then dermatologist).",
+      "Skin is hot, swollen and sore, which may be infection: redness can be harder to see on brown and black skin (doctor).",
+      "Acne is affecting your mood or confidence (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Black subjects with moderate acne, pooled from three randomised trials (3,855 people in total)",
+      "design": "Post hoc subgroup analysis of three 12-week double-blind placebo-controlled trials of adapalene-benzoyl peroxide gel",
+      "n": "subgroup size not in abstract",
+      "finding": "More Black participants had treatment success with adapalene-benzoyl peroxide than with vehicle at week 12, with lower lesion counts from week 1. It was well tolerated and no treatment-related dark marks were seen.",
+      "source": {
+        "authors": "Alexis AF, Johnson LA, Kerrouche N, Callender VD",
+        "year": 2014,
+        "journal": "Journal of Drugs in Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24509968/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Subgroup of industry-type trials; funding not stated in the abstract.",
+      "id": "alexis-2014"
+    },
+    {
+      "population": "Ten US dermatologists (consensus), plus a literature review, for acne with dark marks",
+      "design": "Modified Delphi consensus",
+      "n": "10",
+      "finding": "Most people with acne and acne-related dark marks should get early, effective acne treatment with a topical retinoid and benzoyl peroxide. Hydroquinone, azelaic acid, chemical peels or antioxidants may be added. The authors say large randomised trials are lacking, so evidence-based recommendations cannot be made.",
+      "source": {
+        "authors": "Taylor S, Elbuluk N, Grimes P et al",
+        "year": 2023,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36924935/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Expert opinion, not trial evidence.",
+      "id": "taylor-delphi-2023"
+    },
+    {
+      "population": "Patients with skin of colour (mixed groups)",
+      "design": "Clinical review of topical retinoids for acne and dark marks",
+      "n": "not stated",
+      "finding": "Topical retinoids treat acne and have been shown to reduce dark marks in skin of colour, so should be started early unless contraindicated; moisturisers and novel formulations may cut irritation; acne spots improve weeks before the marks do.",
+      "source": {
+        "authors": "Callender VD, Baldwin H, Cook-Bolden FE et al",
+        "year": 2022,
+        "journal": "American Journal of Clinical Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34751927/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Authors declare industry ties (conflict statement lists several manufacturers).",
+      "id": "callender-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_driver": "Treating acne early and retinoids/benzoyl peroxide as first line: one pooled subgroup of three trials in Black participants plus a ten-dermatologist consensus; the authors of the consensus say large trials are lacking.",
+  "tier_note": "A subgroup analysis of trials supports one gel in Black participants; the rest is consensus and review. Marked B, not A, because the A-type evidence is one product and a post hoc subgroup.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for the first-line treatments. The BAD page and the UK's NHS warn against picking and scrubbing, which cause scars.",
+  "founder_flag": false,
+  "evidence_summary": "In the pooled trials (3,855 people in all) the adapalene-benzoyl peroxide gel worked in the Black subgroup as in everyone else, with no treatment-related dark marks. Ten dermatologists agreed on a retinoid plus benzoyl peroxide as first-line for acne with dark marks, and the authors said trials are lacking. The BAD says dark patches appear when a spot clears in darker skin, and lists hair oil, cocoa butter and shea butter as pore-cloggers; I did not find a trial testing that for hair oils.",
+  "measured_variables": [
+    "Skin pigmentation (post-inflammatory dark marks)",
+    "Acne severity and time to treatment",
+    "Comedogenic products used (hair oils, butters)"
+  ],
+  "gaps": "Untested: which acne treatment is best specifically in Black skin beyond one gel subgroup; whether hair oils and butters cause acne (BAD guidance only, no trial found); whether early treatment lowers the number of dark marks (the BAD says so; no trial found); acne scars in Black skin beyond keloids. Dark marks are covered in the dark marks entry.",
+  "related": [
+    "dark-marks-after-acne",
+    "keloids-and-piercings",
+    "shea-butter",
+    "skin-lightening-creams"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Alexis AF et al",
+      "year": 2014,
+      "journal": "Journal of Drugs in Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24509968/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Taylor S et al",
+      "year": 2023,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36924935/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Callender VD et al",
+      "year": 2022,
+      "journal": "American Journal of Clinical Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34751927/",
+      "tag": "[review]"
+    },
+    {
+      "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+      "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Acne\"",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

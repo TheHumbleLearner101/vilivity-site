@@ -1,0 +1,30 @@
+{
+  "pmid": "30289919",
+  "slug": "wafa-2018-30289919",
+  "citation": {
+    "authors": "Wafa HA, Wolfe CDA, Rudd A, Wang Y",
+    "year": 2018,
+    "journal": "PLoS Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30289919/",
+  "page": "https://vilivity.com/studies/wafa-2018-30289919/",
+  "cited_by": [
+    {
+      "entry": "stroke-signs-and-risk",
+      "title": "Stroke: signs to act on and what raises the risk",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/stroke-signs-and-risk/",
+      "record": {
+        "id": "wafa-2018",
+        "population": "3,088 first ischaemic stroke patients in the South London Stroke Register, 2000 to 2015",
+        "n": 3088,
+        "design": "Prospective population-based study, trends in incidence",
+        "finding": "Age-adjusted ischaemic stroke incidence fell 43% (137.3 to 78.4 per 100,000 per year) across the period, in both White and Black groups, though the fall in the Black group was not significant (144.6 to 116.2; P=0.31). Statin use before stroke rose four-fold while preventive blood pressure and antiplatelet use fell, despite more hypertension.",
+        "line_tier": "B",
+        "note": "Smaller Black subgroups limited the power to detect trends; the abstract states this.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

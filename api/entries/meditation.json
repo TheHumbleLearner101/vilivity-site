@@ -1,0 +1,242 @@
+{
+  "slug": "meditation",
+  "title": "Meditation",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "Does meditation lower blood pressure?",
+    "Does meditation work for stress and anxiety?",
+    "Is there research on meditation in Black communities?",
+    "Which kind of meditation has evidence?"
+  ],
+  "tradition_says": "Meditation and prayerful stillness are old practices across many cultures and are widely believed to calm the mind and protect the body from stress.",
+  "layer1": {
+    "plain_answer": "Meditation is among the better-tested practices here. A trial in Black adults with heart disease found fewer deaths, heart attacks and strokes with Transcendental Meditation. A large review found benefit for anxiety, depression and pain, but no better than other treatments. It adds to medical care and does not replace it.",
+    "do": [
+      {
+        "text": "Pick a regular time, then notice your breath, body or sounds; bring your attention back when it wanders.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mindfulness\"",
+          "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Give it several weeks: the trials ran from weeks to years.",
+        "basis": "tested",
+        "source": "goyal-2014"
+      },
+      {
+        "text": "Try mindfulness in daily tasks too, such as a walk.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mindfulness\"",
+          "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep it as an addition to guideline treatment, which is how the heart-health statement frames it.",
+        "basis": "tested",
+        "source": "levine-2017"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Stopping treatment because you meditate.",
+        "basis": "tested",
+        "source": "levine-2017"
+      },
+      {
+        "text": "Assuming all types have the same evidence: the heart trial was Transcendental Meditation.",
+        "basis": "tested",
+        "source": "schneider-2012"
+      },
+      {
+        "text": "Pushing on if it makes you feel worse: the UK's NHS says some people find it does.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mindfulness\"",
+          "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You have chest pain, breathlessness or fainting (urgent care).",
+      "Low mood, anxiety or trauma makes meditation distressing or hard to sit with (doctor or therapist).",
+      "Your blood pressure stays high despite practice (doctor).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "201 Black men and women with coronary heart disease, US",
+      "design": "Randomised controlled trial of the Transcendental Meditation (TM) programme against health education, 5.4 years average follow-up",
+      "n": 201,
+      "finding": "The primary outcome (death, heart attack or stroke) was 48% lower in the TM group (hazard ratio 0.52, 95% CI 0.29-0.92, P=0.025). The wider secondary composite fell 24% (HR 0.76, 0.51-1.13, not significant). Systolic blood pressure was 4.9 mmHg lower, and anger scores improved. Adherence was linked to survival.",
+      "source": {
+        "authors": "Schneider RH, Grim CE, Rainforth MV, Kotchen T et al",
+        "year": 2012,
+        "journal": "Circulation: Cardiovascular Quality and Outcomes",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23149426/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "One trial of one technique (TM), small number of events, no independent replication found in my search. Who funded and ran it was not checked; the research group's link to TM was not checked (UNVERIFIED).",
+      "id": "schneider-2012"
+    },
+    {
+      "population": "47 trials, 3,515 participants in diverse adult clinical populations",
+      "design": "Systematic review and meta-analysis of meditation programmes against active controls",
+      "n": 3515,
+      "finding": "Mindfulness meditation programmes had moderate evidence of improved anxiety (effect size 0.38 at 8 weeks), depression (0.30) and pain (0.33), and low evidence of improved stress and mental-health quality of life. Low or insufficient evidence for positive mood, attention, substance use, eating habits, sleep and weight. No evidence that meditation programmes were better than any active treatment (drugs, exercise, other behavioural therapies).",
+      "source": {
+        "authors": "Goyal M, Singh S, Sibinga EM, Gould NF et al",
+        "year": 2014,
+        "journal": "JAMA Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24395196/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "tier_variant trial-other-population. Abstract read in full.",
+      "id": "goyal-2014"
+    },
+    {
+      "population": "15 hypertensive African American men with chronic kidney disease",
+      "design": "Randomised crossover: 14 minutes mindfulness meditation against blood-pressure education",
+      "n": 15,
+      "finding": "Mindfulness meditation acutely lowered systolic and diastolic pressure, heart rate and muscle sympathetic nerve activity compared with the control.",
+      "source": {
+        "authors": "Park J, Lyles RH, Bauer-Wu S",
+        "year": 2014,
+        "journal": "American Journal of Physiology: Regulatory, Integrative and Comparative Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24829497/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Acute effect over 14 minutes, not long-term.",
+      "id": "park-2014"
+    },
+    {
+      "population": "20 low-income African American older adults in a residence (pilot)",
+      "design": "Randomised mindfulness-based intervention against social support control, 8 weeks",
+      "n": 20,
+      "finding": "Feasible and acceptable with high attendance. Average systolic pressure fell in both groups; the intervention group had a 21.92 mmHg lower systolic pressure than the social support group afterwards (p=0.020) and a 16.70 mmHg lower diastolic (p=0.003). The authors call the results preliminary and call for larger trials.",
+      "source": {
+        "authors": "Palta P, Page G, Piferi RL, Gill JM et al",
+        "year": 2012,
+        "journal": "Journal of Urban Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22302233/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Pilot, 20 people; the primary aim was feasibility. The very large differences are likely to be unreliable at this size; the authors call them preliminary.",
+      "id": "palta-2012"
+    },
+    {
+      "population": "Black women with hypertension (6 studies)",
+      "design": "Scoping review of stress-reduction trials",
+      "n": "6 studies",
+      "finding": "The authors report stronger evidence from one randomised trial of transcendental meditation, with reductions in systolic and diastolic blood pressure up to 7 mmHg, and describe non-randomised pilots with reductions up to 9 mmHg systolic.",
+      "source": {
+        "authors": "Collins SV, Hines AL",
+        "year": 2022,
+        "journal": "Journal of Racial and Ethnic Health Disparities",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34606073/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "collins-2022"
+    },
+    {
+      "population": "Scientific statement",
+      "design": "American Heart Association systematic review of meditation and cardiovascular risk",
+      "n": "not applicable",
+      "finding": "Studies suggest a possible benefit on cardiovascular risk, although the overall quality and in some cases quantity of data are modest. Given low cost and low risk, meditation may be considered as an adjunct to guideline-directed risk reduction.",
+      "source": {
+        "authors": "Levine GN, Lange RA, Bairey-Merz CN, Davidson RJ et al",
+        "year": 2017,
+        "journal": "Journal of the American Heart Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28963100/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "id": "levine-2017"
+    }
+  ],
+  "tier": "A",
+  "strength": "moderate",
+  "tier_driver": "Whether meditation helps heart outcomes and blood pressure in Black adults: one 201-person randomised trial of Transcendental Meditation, plus pilots.",
+  "tier_note": "A randomised trial in 201 Black patients (Schneider 2012) and small randomised pilots in African American adults exist; moves to B if the TM trial's mortality result is not replicated.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in what I read. The AHA statement describes the intervention as low risk. Adverse experiences in some people were not looked for in my search.",
+  "founder_flag": true,
+  "founder_note": "founder's own practice",
+  "evidence_summary": "Meditation is one of the better-tested practices here: a trial in 201 Black people with heart disease found fewer deaths, heart attacks and strokes with Transcendental Meditation, and a review of 47 trials found moderate evidence for anxiety, depression and pain and no evidence it beats other active treatments. That trial is a single one, of one technique, and has not been replicated in my search. It is a useful addition to medical care, not a replacement for it.",
+  "measured_variables": [
+    "Blood pressure",
+    "Death, heart attack and stroke (composite)",
+    "Self-reported anxiety, depression and pain"
+  ],
+  "gaps": "Untested or unreplicated: the TM mortality result outside the original team; other techniques (mindfulness, prayer, faith-based practice) on heart outcomes in Black adults; long-term adherence; younger adults; effect of cultural fit.",
+  "related": [
+    "breathwork",
+    "ice-baths-and-cold-exposure",
+    "stress-burnout-and-blood-pressure",
+    "sleep-and-sleep-apnoea"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Schneider RH et al",
+      "year": 2012,
+      "journal": "Circ Cardiovasc Qual Outcomes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23149426/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Goyal M et al",
+      "year": 2014,
+      "journal": "JAMA Intern Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24395196/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Park J et al",
+      "year": 2014,
+      "journal": "Am J Physiol Regul Integr Comp Physiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24829497/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Palta P et al",
+      "year": 2012,
+      "journal": "J Urban Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22302233/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Collins SV, Hines AL",
+      "year": 2022,
+      "journal": "J Racial Ethn Health Disparities",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34606073/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Levine GN et al",
+      "year": 2017,
+      "journal": "J Am Heart Assoc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28963100/",
+      "tag": "[consensus]"
+    },
+    {
+      "name": "NHS, \"Mindfulness\"",
+      "url": "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

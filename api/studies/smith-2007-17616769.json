@@ -1,0 +1,30 @@
+{
+  "pmid": "17616769",
+  "slug": "smith-2007-17616769",
+  "citation": {
+    "authors": "Smith RN, Mann NJ, Braue A, Makelainen H et al",
+    "year": 2007,
+    "journal": "American Journal of Clinical Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17616769/",
+  "page": "https://vilivity.com/studies/smith-2007-17616769/",
+  "cited_by": [
+    {
+      "entry": "diet-and-acne-on-dark-skin",
+      "title": "Does diet cause acne? Sugar, dairy and foods linked to spots",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/diet-and-acne-on-dark-skin/",
+      "record": {
+        "id": "smith-2007",
+        "population": "43 male acne patients aged 15 to 25 in Australia",
+        "n": "43",
+        "design": "Randomised controlled trial, 12 weeks: low-glycaemic-load diet against a carbohydrate-dense control diet",
+        "finding": "Total lesion counts fell more with the low-glycaemic-load diet (-23.5 vs -12.0, P=0.03). Weight and insulin sensitivity also improved more, so the authors say weight loss and diet effects cannot be separated.",
+        "line_tier": "B",
+        "note": "Young men only; not a trial in Black participants; 43 people.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

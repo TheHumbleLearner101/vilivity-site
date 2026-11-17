@@ -1,0 +1,30 @@
+{
+  "pmid": "22442191",
+  "slug": "harmon-2012-22442191",
+  "citation": {
+    "authors": "Harmon KG, Drezner JA, Klossner D, Asif IM",
+    "year": 2012,
+    "journal": "British Journal of Sports Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22442191/",
+  "page": "https://vilivity.com/studies/harmon-2012-22442191/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-trait-and-hard-exercise",
+      "title": "Sickle cell trait and hard exercise",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-trait-and-hard-exercise/",
+      "record": {
+        "id": "harmon-2012",
+        "population": "273 NCAA athlete deaths over 1,969,663 athlete-years, 2004-2008",
+        "n": 273,
+        "design": "Review of sudden deaths and screening cost-effectiveness",
+        "finding": "Five deaths (2%) were associated with sickle cell trait, all in Black Division I football players. The risk of exertional death in Division I football players with the trait was 1 in 827, which was 37 times higher than in players without it.",
+        "line_tier": "B",
+        "note": "Counter-signal to the Army cohort. Small numbers of deaths; a narrow, extreme setting (elite American football training).",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

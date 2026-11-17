@@ -1,0 +1,165 @@
+{
+  "slug": "melasma",
+  "title": "Melasma",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "What is melasma and how is it treated on Black skin?",
+    "Is melasma permanent?",
+    "Does sunscreen help melasma?"
+  ],
+  "tradition_says": "Melasma, the \"mask of pregnancy\", is put down to hormones and treated with lightening creams, often bought without advice.",
+  "layer1": {
+    "plain_answer": "Melasma is brown or greyish patches on the face, linked to sun, pregnancy and hormonal medicines. There is no cure, but sun protection plus a prescribed cream usually helps, and it can return. The best-studied cream is hydroquinone, in trials that were not specifically in Black people, so see a dermatologist before lightening products.",
+    "do": [
+      {
+        "text": "Wear a wide-brimmed hat and broad-spectrum sun cream, SPF 30 or above with a high UVA rating.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose sun cream with iron oxides for added protection against visible light.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Avoid sunbeds.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask your prescriber about triggers such as the contraceptive pill and hormone therapy before changing anything.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about skin camouflage if you want to cover patches while treating.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Expecting a cure: there is none, and it may come back in another pregnancy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Hydroquinone for more than a few weeks at a time without advice: it can irritate, over-lighten or occasionally darken skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+          "url": "https://www.bad.org.uk/pils/melasma/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Dark patches appear on your face and you are not sure what they are (doctor or dermatologist, to rule out other causes).",
+      "A treatment irritates, darkens or lightens skin (stop and see a dermatologist).",
+      "Patches appeared with a new pill or hormone treatment (prescriber)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Participants in 113 controlled studies of melasma (6,897 people); groups not broken down in the abstract",
+      "design": "Systematic review of randomised and controlled clinical trials",
+      "n": "6897",
+      "finding": "Triple combination cream (hydroquinone, tretinoin, steroid) and hydroquinone alone were the most effective and best studied. Peels and lasers were equal or inferior to topical creams with more adverse effects. Oral tranexamic acid is promising. The authors cite small samples, mixed designs and lack of long-term follow-up.",
+      "source": {
+        "authors": "McKesey J, Tovar-Garza A, Pandya AG",
+        "year": 2020,
+        "journal": "American Journal of Clinical Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31802394/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Not specific to Black skin.",
+      "id": "mckesey-2020"
+    },
+    {
+      "population": "44 people with moderate-to-severe melasma, mostly Hispanic women, single centre",
+      "design": "Randomised, placebo-controlled trial of oral tranexamic acid for 3 months, with sunscreen",
+      "n": 44,
+      "finding": "Melasma severity score fell 49% on tranexamic acid and 18% on placebo at 3 months; 3 months after stopping the gap had narrowed (26% against 19% from baseline). No serious adverse events.",
+      "source": {
+        "authors": "Del Rosario E, Florez-Pollack S, Zapata L et al",
+        "year": 2018,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28987494/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Predominantly Hispanic women, per its own limitations line. Tranexamic acid is a prescription medicine.",
+      "id": "delrosario-2018"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That hydroquinone-based treatment is best studied for melasma: a systematic review of 113 studies (rated by its authors as limited by small samples and short follow-up), none of it reported as specific to Black participants.",
+  "tier_note": "Tested in other populations; I could not find a melasma trial reported specifically in Black participants. The review pools many groups.",
+  "harm_flag": true,
+  "harm_note": "Hydroquinone can irritate, over-lighten or occasionally darken skin (BAD); unregulated lightening products carry bigger risks (see the skin lightening entry).",
+  "founder_flag": false,
+  "evidence_summary": "Melasma is brown or greyish facial patches, more common in women, triggered or worsened by sun, hormonal medicines and pregnancy, and the BAD says high energy visible light may also contribute. A review of 113 studies found hydroquinone and triple cream most effective, with oral tranexamic acid promising in one 44-person trial of mostly Hispanic women. Sun and visible-light protection are the base of every plan.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick type in the studies, mostly III-V)",
+    "Hormonal exposure (pregnancy, contraceptive pill, HRT)",
+    "Sun and visible light exposure"
+  ],
+  "gaps": "Untested: a trial of any melasma treatment reported specifically in Black participants (my search found a review and a Hispanic-women trial); whether iron-oxide tinted sunscreen treats melasma in a trial (BAD guidance only); long-term safety of tranexamic acid. The evidence on hydroquinone ochronosis is in the skin lightening entry.",
+  "related": [
+    "skin-lightening-creams",
+    "sunscreen-on-dark-skin",
+    "dark-marks-after-acne"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "McKesey J et al",
+      "year": 2020,
+      "journal": "American Journal of Clinical Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31802394/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Del Rosario E et al",
+      "year": 2018,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28987494/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient information leaflet \"Melasma\"",
+      "url": "https://www.bad.org.uk/pils/melasma/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

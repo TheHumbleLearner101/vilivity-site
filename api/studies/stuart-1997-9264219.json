@@ -1,0 +1,30 @@
+{
+  "pmid": "9264219",
+  "slug": "stuart-1997-9264219",
+  "citation": {
+    "authors": "Stuart CA, Gilkison CR, Keenan BS, Nagamani M",
+    "year": 1997,
+    "journal": "Journal of the National Medical Association"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/9264219/",
+  "page": "https://vilivity.com/studies/stuart-1997-9264219/",
+  "cited_by": [
+    {
+      "entry": "acanthosis-nigricans",
+      "title": "Dark velvety patches on the neck and folds (acanthosis nigricans)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/acanthosis-nigricans/",
+      "record": {
+        "id": "stuart-1997",
+        "population": "89 African American people with acanthosis nigricans and 25 without",
+        "n": 114,
+        "design": "Cross-sectional study with oral glucose tolerance testing and insulin response",
+        "finding": "Diabetes was present in 19 of those with acanthosis nigricans, reaching 50% among those in their 40s. Fasting insulin rose in direct proportion to the severity of neck involvement. The authors read the skin sign as a marker of hyperinsulinaemia and insulin resistance.",
+        "line_tier": "B",
+        "note": "1997, small, one centre.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

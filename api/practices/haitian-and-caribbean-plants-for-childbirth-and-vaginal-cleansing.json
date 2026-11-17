@@ -1,0 +1,50 @@
+{
+  "slug": "haitian-and-caribbean-plants-for-childbirth-and-vaginal-cleansing",
+  "name": "Plants for childbirth recovery and vaginal \"cleansing\" (Haitian and Caribbean women)",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Women use food plants as teas, baths and vaginal preparations after childbirth and for gynaecological infections or \"cleansing\"; the practice continues after migration.",
+  "why_they_say_it_works": "Plants are believed to clean the womb, heal after birth and prevent infection.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Vardeman ET, Kennelly EJ, Vandebroek I 2024, J Ethnobiol Ethnomed, PMID 38217006",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38217006/",
+      "quote_or_summary": "Haitian women in New York: 97% used medicinal plants in Haiti and 83% after moving to the USA; childbirth and puerperium, gynaecological infections and vaginal cleansing were priority concerns; most plants were global food plants."
+    },
+    {
+      "source": "Caribbean Women's Health and Transnational Ethnobotany 2022, Econ Bot, PMID 34522053",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34522053/",
+      "quote_or_summary": "Dominican surveys (DR and NYC): gynaecological infections were the top women's health condition treated with plants; authors note plants for infections could disturb the vaginal microbiota and may increase rather than prevent disease."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Plants used for vaginal infections",
+      "population": "Laboratory work proposed, not done",
+      "finding": "Several species are known antibacterials but remain untested for effect on vaginal flora; authors flag a public health need to test them.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "Caribbean Women's Health and Transnational Ethnobotany 2022, Econ Bot, PMID 34522053",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34522053/"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Authors raise the possibility of vaginal dysbiosis (hypothesised, not demonstrated in these sources).",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "No clinical study; which specific plants were used internally vs vaginally not extracted."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/haitian-and-caribbean-plants-for-childbirth-and-vaginal-cleansing/"
+}

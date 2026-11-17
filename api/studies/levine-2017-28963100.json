@@ -1,0 +1,47 @@
+{
+  "pmid": "28963100",
+  "slug": "levine-2017-28963100",
+  "citation": {
+    "authors": "Levine GN, Lange RA, Bairey-Merz CN, Davidson RJ et al",
+    "year": 2017,
+    "journal": "Journal of the American Heart Association"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28963100/",
+  "page": "https://vilivity.com/studies/levine-2017-28963100/",
+  "cited_by": [
+    {
+      "entry": "meditation",
+      "title": "Meditation",
+      "module": "mind",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/mind/meditation/",
+      "record": {
+        "id": "levine-2017",
+        "population": "Scientific statement",
+        "n": "not applicable",
+        "design": "American Heart Association systematic review of meditation and cardiovascular risk",
+        "finding": "Studies suggest a possible benefit on cardiovascular risk, although the overall quality and in some cases quantity of data are modest. Given low cost and low risk, meditation may be considered as an adjunct to guideline-directed risk reduction.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[consensus]"
+      }
+    },
+    {
+      "entry": "stress-burnout-and-blood-pressure",
+      "title": "Stress, burnout and blood pressure",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/stress-burnout-and-blood-pressure/",
+      "record": {
+        "id": "levine-2017",
+        "population": "Scientific statement",
+        "n": "not applicable",
+        "design": "American Heart Association systematic review of meditation and cardiovascular risk",
+        "finding": "Studies suggest a possible benefit on cardiovascular risk, although the overall quality and in some cases quantity of data are modest. Given low cost and low risk, meditation may be considered as an adjunct to guideline-directed risk reduction.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

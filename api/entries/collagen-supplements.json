@@ -1,0 +1,132 @@
+{
+  "slug": "collagen-supplements",
+  "title": "Collagen supplements for skin and joints",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Do collagen supplements work for skin?",
+    "Does collagen help hair, nails or joints?",
+    "Are collagen powders safe?",
+    "Has collagen been tested on Black people or dark skin?"
+  ],
+  "tradition_says": "Collagen is the protein in skin, bone and joints. Collagen powders, drinks and gummies are sold to smooth skin, thicken hair and nails and ease joints.",
+  "layer1": {
+    "plain_answer": "Collagen supplements may add a little skin moisture in trials, but the best-quality trials and the ones not paid for by the industry found no clear skin effect. Our search found no trial in Black participants or on dark skin. Check labels for fish if you are allergic, and treat promised skin changes as unproven.",
+    "do": [
+      {
+        "text": "Check the source on the label before you take it: marine collagen may not suit you if you have a fish allergy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Collagen Peptides: Benefits and Side Effects\"",
+          "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Judge it by the best-quality trials: those not paid for by the industry found no skin effect.",
+        "basis": "tested",
+        "source": "myung-2025"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Paying for it to change wrinkles, hydration or elasticity: the careful meta-analysis found no clinical evidence for that.",
+        "basis": "tested",
+        "source": "myung-2025"
+      },
+      {
+        "text": "Assuming a supplement is checked: Cleveland Clinic notes supplements are not well regulated, and stomach upset can happen.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Collagen Peptides: Benefits and Side Effects\"",
+          "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Itching, swelling or breathing trouble after taking it (urgent care).",
+      "Dark patches, new marks or skin changes you are trying to treat (dermatologist; see skin ageing and dark marks).",
+      "Stomach upset that continues (pharmacist or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults in 26 randomised trials of hydrolysed collagen for skin",
+      "design": "Systematic review and meta-analysis of skin hydration and elasticity",
+      "n": 1721,
+      "finding": "Collagen supplements improved skin hydration and elasticity compared with placebo. Effects on hydration varied by collagen source and length of use. The authors note several biases in the included trials and call for larger trials.",
+      "source": {
+        "authors": "Pu SY, Huang YL, Pu CM, Kang YN et al",
+        "year": 2023,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37432180/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Skin type and ethnicity not reported in the abstract.",
+      "id": "pu-2023"
+    },
+    {
+      "population": "Adults in 23 randomised trials of collagen supplements for skin ageing",
+      "design": "Systematic review and meta-analysis split by funding source and study quality",
+      "n": 1474,
+      "finding": "Across all trials, collagen improved hydration, elasticity and wrinkles. Trials not funded by pharmaceutical companies found no effect, as did high-quality trials, while industry-funded and low-quality trials found benefit. The authors conclude there is currently no clinical evidence to support collagen supplements to prevent or treat skin ageing.",
+      "source": {
+        "authors": "Myung SK, Park Y",
+        "year": 2025,
+        "journal": "American Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40324552/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "The most careful reading of the evidence found. Skin type not reported in the abstract.",
+      "id": "myung-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That collagen supplements improve skin: pooled trials (26 trials, 1,721 people) say yes, but a funding-split review (23 trials, 1,474 people) found no effect in high-quality or non-industry-funded trials; none reported skin type.",
+  "tier_note": "Two meta-analyses that disagree once funding and quality are separated, so the lower reading: thin. It stays B, short of A, because no trial in dark skin or people of African descent was found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal beyond fish allergy cautions and stomach upset from Cleveland Clinic. I did not open a source on contaminants or interactions.",
+  "founder_flag": false,
+  "evidence_summary": "A 2023 meta-analysis of 26 trials (1,721 people) found better skin hydration and elasticity, and noted biases. A 2025 meta-analysis of 23 trials (1,474 people) found benefit only in industry-funded and low-quality trials, and concluded there is no clinical evidence for skin ageing benefit. I read no joint or hair evidence in full: a knee osteoarthritis meta-analysis exists (2025) and was not opened.",
+  "measured_variables": [
+    "Skin hydration, elasticity, wrinkles (measured)",
+    "Funding source of each trial (the key moderator)",
+    "No skin type, Fitzpatrick or ancestry variable in the abstracts read"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 20 records for collagen supplements or peptides, none a collagen supplement trial (the hits were periodontal, cardiac, cancer and vitamin D papers where collagen was a marker or outcome). The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 20 records matched (titles read only; none a skin supplement trial). Untested: collagen for skin or hair in Black participants or on dark skin; joint benefit in Black participants; contamination of products. Joint, hair and nail evidence was not opened.",
+  "related": [
+    "skin-ageing-in-dark-skin",
+    "hair-growth-oils-and-supplements",
+    "vitamins-and-supplements-basics",
+    "skincare-routine-basics"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Pu SY, Huang YL, Pu CM, Kang YN et al",
+      "year": 2023,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37432180/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Myung SK, Park Y",
+      "year": 2025,
+      "journal": "American Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40324552/",
+      "tag": "[review]"
+    },
+    {
+      "name": "Cleveland Clinic, \"Collagen Peptides: Benefits and Side Effects\"",
+      "url": "https://health.clevelandclinic.org/what-do-collagen-peptides-do",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "mental-health-act-psychosis-and-misdiagnosis",
+  "title": "Psychosis, sectioning and misdiagnosis in the UK",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "Why are autism, ADHD and bipolar often missed or misdiagnosed in Black people?",
+    "Why are Black people more likely to be sectioned in the UK?",
+    "What rights do I have if I am sectioned?",
+    "Is psychosis more common in Black people?"
+  ],
+  "tradition_says": "Many Black families fear the mental health system, with reason, and may hide a relative's illness or avoid services until it becomes a crisis.",
+  "layer1": {
+    "plain_answer": "In England, Black people are detained under the Mental Health Act more often than any other group, and a large review found Black Caribbean and Black African patients were far more likely to be compulsorily admitted. Why is not settled. If you are detained, you can appeal, ask for an advocate and complain.",
+    "do": [
+      {
+        "text": "If detained, ask which section you are held under, and ask to see an independent mental health advocate.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mental Health Act\"",
+          "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/mental-health-and-the-law/mental-health-act/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Appeal to the Mental Health Tribunal or the hospital managers; you may be eligible for legal aid for a solicitor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mental Health Act\"",
+          "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/mental-health-and-the-law/mental-health-act/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Complain to the CQC if you are unhappy with how the Act was used.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mental Health Act\"",
+          "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/mental-health-and-the-law/mental-health-act/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Get help earlier: call NHS 111 (UK) and choose the mental health option, or see a doctor, before a crisis; the review lists mistrust of doctors as one possible contributor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Where to get urgent help for mental health\"",
+          "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "A nearest relative can ask the local approved mental health professional service for an assessment if you are not getting help.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mental Health Act\"",
+          "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/mental-health-and-the-law/mental-health-act/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming detention cannot be challenged: appeal and advocacy rights exist.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Mental Health Act\"",
+          "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/mental-health-and-the-law/mental-health-act/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treating the rate gap as proof of a single cause: the review says explanations need testing group by group.",
+        "basis": "tested",
+        "source": "barnett-2019"
+      }
+    ],
+    "see_someone_when": [
+      "You or someone close hears voices, believes things others do not, or cannot look after themselves (doctor, or NHS 111 in the UK mental health option urgently).",
+      "You have been detained and want to challenge it (independent mental health advocate, solicitor, Mental Health Tribunal).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "83 citations, people aged 16 to 64 with first-onset psychosis, England 1950 to 2009",
+      "design": "Systematic review and meta-analysis of incidence",
+      "n": "83 studies",
+      "finding": "Rates of psychosis were higher in several ethnic minority groups than in white British people. For schizophrenia the pooled rate ratio was 5.6 for Black Caribbean people (95% CI 3.4 to 9.2) and 4.7 for Black African people (3.3 to 6.8). The studies were mostly cross-sectional, which limits conclusions about cause.",
+      "source": {
+        "authors": "Kirkbride JB, Errazuriz A, Croudace TJ et al",
+        "year": 2012,
+        "journal": "PLoS One",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22457710/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read. Incidence studies were mostly cross-sectional, with high heterogeneity; the review cannot say why rates differ.",
+      "id": "kirkbride-2012"
+    },
+    {
+      "population": "71 studies, about 1.95 million participants, UK and international",
+      "design": "Systematic review and meta-analysis of compulsory detention by ethnicity",
+      "n": "71 studies",
+      "finding": "Black Caribbean patients were more likely to be compulsorily admitted than white patients (odds ratio 2.53, 95% CI 2.03 to 3.16), as were Black African patients (2.27, 1.62 to 3.19). Black Caribbean patients were also more likely to be readmitted (2.30). Explanations offered included higher prevalence of psychosis, perceived risk of violence, police contact, mistrust of GPs and ethnic disadvantage; the authors say these need culturally specific study.",
+      "source": {
+        "authors": "Barnett P, Mackay E, Matthews H et al",
+        "year": 2019,
+        "journal": "Lancet Psychiatry",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30846354/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read. The review says it cannot settle which explanation is right.",
+      "id": "barnett-2019"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_driver": "Whether Black people are detained under the Mental Health Act more often: a meta-analysis of 71 studies and the official English figures both show it.",
+  "tier_note": "Tier B observational and official statistics. The disparity is well documented; why is not. Misdiagnosis of ADHD, autism and bipolar in Black people returned no source I could open, so that part of the question is not covered.",
+  "harm_flag": false,
+  "harm_note": "No harm from the advice. The harm is the disparity and fear of services. Do not stop prescribed medicine without speaking to the prescriber; this entry gives no medicine advice.",
+  "founder_flag": false,
+  "evidence_summary": "GOV.UK Ethnicity facts and figures (page opened 12 Nov 2026) shows England detention rates per 100,000 in 2022 to 2023 of 228 for Black people, 64 for white people, about 158 for mixed groups and 75 for Asian people; the Black rate was 342 in 2021 to 2022, and the page does not say why it fell, so treat year-to-year changes as unexplained. Barnett and colleagues (2019) found Black Caribbean (OR 2.53) and Black African (2.27) patients were more likely to be compulsorily admitted. Kirkbride and colleagues (2012) found higher incidence of schizophrenia in Black Caribbean (RR 5.6) and Black African (RR 4.7) groups in England. The NHS page sets out detention routes, appeal, advocacy, legal aid, second-opinion doctors and CQC complaints, and notes that changes to the Mental Health Act were agreed in 2025 and will be introduced in stages, so rights may change.",
+  "measured_variables": [
+    "Detentions per 100,000 population",
+    "Odds of compulsory admission",
+    "Incidence of psychosis"
+  ],
+  "gaps": "Untested or not found: misdiagnosis of ADHD, autism and bipolar in Black people (a 2003 paper on late-onset schizophrenia-like psychosis was seen by title only); the effect of the 2025 Act changes; why the detention rate fell; whether advocacy changes outcomes.",
+  "related": [
+    "stigma-and-starting-therapy",
+    "racism-and-mental-health",
+    "finding-a-black-therapist"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Kirkbride JB et al",
+      "year": 2012,
+      "journal": "PLoS One",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22457710/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Barnett P et al",
+      "year": 2019,
+      "journal": "Lancet Psychiatry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30846354/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Mental Health Act\"",
+      "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/mental-health-and-the-law/mental-health-act/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Where to get urgent help for mental health\"",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "GOV.UK Ethnicity facts and figures, Detentions under the Mental Health Act",
+      "url": "https://www.ethnicity-facts-figures.service.gov.uk/health/mental-health/detentions-under-the-mental-health-act/latest/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

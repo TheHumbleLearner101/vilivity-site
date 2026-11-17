@@ -1,0 +1,30 @@
+{
+  "pmid": "23152199",
+  "slug": "brennan-2012-23152199",
+  "citation": {
+    "authors": "Brennan M, Young G, Devane D",
+    "year": 2012,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23152199/",
+  "page": "https://vilivity.com/studies/brennan-2012-23152199/",
+  "cited_by": [
+    {
+      "entry": "stretch-marks-and-scar-fading",
+      "title": "Stretch marks and fading scars",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/stretch-marks-and-scar-fading/",
+      "record": {
+        "id": "brennan-2012",
+        "population": "800 pregnant women in six trials",
+        "n": "800",
+        "design": "Cochrane review of topical preparations to prevent stretch marks in pregnancy",
+        "finding": "No statistically significant difference in developing stretch marks with topical preparations against placebo or no treatment (risk ratio 0.74, 95% CI 0.53 to 1.03).",
+        "line_tier": "B",
+        "note": "2012; ethnicity of participants not stated in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

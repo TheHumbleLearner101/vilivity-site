@@ -1,0 +1,30 @@
+{
+  "pmid": "36383197",
+  "slug": "bowerman-2023-36383197",
+  "citation": {
+    "authors": "Bowerman C, Bhakta NR, Brazzale D, Cooper BR et al",
+    "year": 2023,
+    "journal": "American Journal of Respiratory and Critical Care Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36383197/",
+  "page": "https://vilivity.com/studies/bowerman-2023-36383197/",
+  "cited_by": [
+    {
+      "entry": "lung-function-tests-and-race-correction-in-spirometry",
+      "title": "Lung function tests and race correction in spirometry",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lung-function-tests-and-race-correction-in-spirometry/",
+      "record": {
+        "id": "bowerman-2023",
+        "population": "NHANES III data (6,984 people) and the original GLI data (74,185 people)",
+        "n": 74185,
+        "design": "Reanalysis to build a race-neutral spirometry equation",
+        "finding": "Adding sitting height and the Cormic index slightly improved precision but did not explain observed spirometry differences between NHANES III race and ethnic groups. The GLI-Global (2022) equations, which do not require choosing a race, fitted about as well as the GLI 2012 'other' equations but with wider limits of normal. The authors say the equations need careful use with symptoms and medical history when used for clinical, employment and insurance decisions.",
+        "line_tier": "B",
+        "note": "Modelling study on population surveys; abstract read in full.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

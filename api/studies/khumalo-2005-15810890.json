@@ -1,0 +1,47 @@
+{
+  "pmid": "15810890",
+  "slug": "khumalo-2005-15810890",
+  "citation": {
+    "authors": "Khumalo NP, Dawber RP, Ferguson DJ",
+    "year": 2005,
+    "journal": "Experimental Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15810890/",
+  "page": "https://vilivity.com/studies/khumalo-2005-15810890/",
+  "cited_by": [
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "khumalo-2005",
+        "population": "African hair samples, electron microscopy",
+        "n": "not stated",
+        "design": "Structural study of fragile afro hair",
+        "finding": "Cystine-rich proteins were distributed as in other hair types, so fragility was not explained by a protein defect; the authors read the damage as grooming trauma rather than inherent weakness.",
+        "line_tier": "C",
+        "note": "Small electron-microscopy study.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "wash-day-routine-for-4c-hair",
+      "title": "Wash day and routine for 4c hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/wash-day-routine-for-4c-hair/",
+      "record": {
+        "id": "khumalo-2005",
+        "population": "African hair samples, electron microscopy",
+        "n": "not stated",
+        "design": "Structural study of fragile afro hair",
+        "finding": "Cystine-rich proteins were distributed as in other hair types, so fragility was not explained by a protein defect; the authors read the damage as grooming trauma rather than inherent weakness.",
+        "line_tier": "C",
+        "note": "Small electron-microscopy study.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

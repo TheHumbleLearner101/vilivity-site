@@ -1,0 +1,292 @@
+{
+  "slug": "hair-growth-oils-and-supplements",
+  "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Do hair oils (castor, rosemary, black seed) actually grow hair?",
+    "Do hair vitamins and biotin help growth?"
+  ],
+  "tradition_says": "Castor oil (including Jamaican black castor oil), black seed oil and rosemary oil are passed down and promoted as growth treatments, and biotin and hair vitamins as growing hair stronger and longer.",
+  "layer1": {
+    "plain_answer": "Castor oil alone and black seed oil have not been tested for hair growth in people in my search. Rosemary oil matched 2% minoxidil in one trial of 100 people with pattern baldness, none chosen for afro hair. Biotin helps only if you are deficient, and it can distort blood tests. Growth supplements are mostly brand-run trials in other groups.",
+    "do": [
+      {
+        "text": "If you try rosemary oil, know the one trial was in pattern baldness and had no untreated group.",
+        "basis": "tested",
+        "source": "panahi-2015"
+      },
+      {
+        "text": "Tell your doctor and the lab if you take biotin before a blood test.",
+        "basis": "tested",
+        "source": "bhimireddy-2026"
+      },
+      {
+        "text": "If you are shedding, ask a doctor about iron, thyroid and other causes before buying a supplement.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Hair loss\"",
+          "url": "https://www.nhs.uk/conditions/hair-loss/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Look after a balanced diet with iron and protein; supplements may help if your diet is restricted.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Taking biotin for hair if you are healthy: no evidence it works.",
+        "basis": "tested",
+        "source": "patel-biotin-2017"
+      },
+      {
+        "text": "Oiling a sore, scaly or burning scalp instead of having it looked at.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Believing a quick-fix hair product without checking the evidence.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Thinning or shedding that is sudden, patchy or does not improve (doctor).",
+      "A shiny scalp with no visible hair openings, or burning and tenderness (dermatologist).",
+      "Any blood test result that looks odd while taking biotin (doctor: biotin can distort results)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "100 Iranian patients with androgenetic alopecia (pattern hair loss)",
+      "design": "Randomised comparative trial: rosemary oil against minoxidil 2%, 6 months",
+      "n": 100,
+      "finding": "No significant change at 3 months in either group. At 6 months both groups had a significant rise in hair count, with no significant difference between them. Scalp itching was higher in both groups than at baseline and more frequent with minoxidil.",
+      "source": {
+        "authors": "Panahi Y, Taghizadeh M et al",
+        "year": 2015,
+        "journal": "Skinmed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25842469/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "No placebo or untreated group. Participants were selected for pattern hair loss, not for afro-textured hair.",
+      "id": "panahi-2015"
+    },
+    {
+      "population": "90 healthy adults (18 to 55) in India",
+      "design": "Double-blind randomised three-arm trial over 90 days: rosemary-lavender oil, rosemary-castor oil, coconut oil comparator",
+      "n": 90,
+      "finding": "The rosemary blends improved phototrichogram hair growth rate, thickness, density and length against coconut oil (p<0.0001); growth rate rose from 0.22 to 0.34 mm a day in the rosemary-lavender arm.",
+      "source": {
+        "authors": "Patel et al",
+        "year": 2025,
+        "journal": "Cureus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40656290/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A branded product; the comparator is coconut oil, not an untreated group; funding not checked. Healthy adults, not selected for afro hair. PubMed lists an erratum (Cureus 2026;18(6):c452, PMID 42318379, opened 12 Nov 2026); it corrects only the clinical trial registry number (a typo; the corrected number is CTRI/2024/07/070860) and changes no result. One author is affiliated with Soulflower Pvt Ltd (R&D); the correction states no competing interests.",
+      "id": "patel-rosmagain-2025"
+    },
+    {
+      "population": "15 mice",
+      "design": "Preclinical pilot: rosemary oil, castor oil, combination, minoxidil",
+      "n": 15,
+      "finding": "A combination of rosemary and castor oils was tested for hair growth in mice (three animals per group).",
+      "source": {
+        "authors": "Mathenge et al",
+        "year": 2026,
+        "journal": "BioMed Research International",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42112722/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Animal pilot.",
+      "id": "mathenge-2026"
+    },
+    {
+      "population": "Review of herbal remedies for hair loss",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Studies suggest potential benefits for some herbs in androgenetic alopecia, telogen effluvium and alopecia areata, but many studies have small samples, short treatment periods and no long-term follow-up; larger randomised trials are needed.",
+      "source": {
+        "authors": "Ahmed et al",
+        "year": 2025,
+        "journal": "Skin Appendage Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40771449/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "ahmed-2025"
+    },
+    {
+      "population": "Published case reports and randomised trials of biotin for hair and nails",
+      "design": "Systematic literature review",
+      "n": "not stated",
+      "finding": "Eighteen reported cases of biotin use for hair and nail changes; in all of them the patient had an underlying cause of poor hair or nail growth and improved. The authors found limited research showing biotin works in healthy people and propose there is insufficient evidence for supplementation in healthy individuals.",
+      "source": {
+        "authors": "Patel DP, Swink SM et al",
+        "year": 2017,
+        "journal": "Skin Appendage Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28879195/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "patel-biotin-2017"
+    },
+    {
+      "population": "967 adults with alopecia or hair thinning, 14 studies",
+      "design": "Systematic review and meta-analysis of commercial oral supplements",
+      "n": 967,
+      "finding": "Branded supplements (such as Nutrafol and Viviscal) improved anagen hair density against placebo, but total hair count showed no significant difference (p=0.06). The authors say more rigorous, independent research is needed.",
+      "source": {
+        "authors": "Alanazi et al",
+        "year": 2026,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41954038/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Branded products; participants not selected for afro hair; independence of trials not checked.",
+      "id": "alanazi-2026"
+    },
+    {
+      "population": "Review of biotin supplementation",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Over-the-counter biotin doses of 5 to 20 mg a day can interfere with thyroid function tests and other lab immunoassays, causing falsely abnormal results and potential misdiagnoses.",
+      "source": {
+        "authors": "Bhimireddy et al",
+        "year": 2026,
+        "journal": "Multiple Sclerosis and Related Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933321/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read; the review is about lab interference, not about hair.",
+      "id": "bhimireddy-2026"
+    },
+    {
+      "population": "Castor oil and black seed oil",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"castor oil\" OR \"Ricinus communis\" OR \"Nigella sativa\" OR \"black seed oil\") AND hair AND (growth OR alopecia) AND humans[MeSH Terms] (result count 3).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 3 results: two reviews and an eyelash cosmetics paper: Phong 2022 (PMID 35816075), whose abstract says there is no strong evidence for castor oil for hair growth, a 2023 narrative review of hair oils in the Black community (PMID 37017321, abstract opened) and a paper on prostaglandin analogues in eyelash products (PMID 42269767); no human trial of castor or black seed oil. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no human trial of castor oil or black seed oil on hair growth; the one castor-containing result is a branded rosemary-castor blend (Patel 2025) and a mouse pilot (Mathenge 2026). The control searches for rosemary and biotin returned trial abstracts.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22castor+oil%22+OR+%22Ricinus+communis%22+OR+%22Nigella+sativa%22+OR+%22black+seed+oil%22%29+AND+hair+AND+%28growth+OR+alopecia%29+AND+humans%5BMeSH+Terms%5D"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "castor-black-seed"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That castor oil or black seed oil grows hair: no human trial found; rosemary has one trial in another population; supplements work only in deficiency or in brand-run trials.",
+  "tier_note": "D because the claim people make about castor and black seed oil has no human study; the rosemary and supplement lines are B in other populations. A trial in afro-textured hair would move it.",
+  "harm_flag": true,
+  "harm_note": "Biotin at 5 to 20 mg a day can falsely alter thyroid and other lab tests, risking misdiagnosis (Bhimireddy 2026). Rosemary and minoxidil both raised scalp itching in Panahi 2015.",
+  "founder_flag": false,
+  "evidence_summary": "Rosemary oil against minoxidil 2%: 100 people with androgenetic alopecia in Iran, six months, no significant difference in hair count (Panahi 2015; sex not stated in the abstract; no untreated group; not afro hair). A branded rosemary-lavender or rosemary-castor blend beat coconut oil on phototrichogram measures in 90 healthy adults in India (Patel 2025; funding not checked). A mouse pilot tested rosemary and castor oils (Mathenge 2026). A 2025 review of herbal remedies calls the trials small, short and in need of confirmation (Ahmed). Biotin: 18 reported cases all had an underlying cause of poor growth; the review proposes no evidence in healthy people (Patel 2017). A 2026 meta-analysis of 14 trials of branded oral supplements found more anagen hair density but no significant change in total hair count, and calls for independent research (Alanazi). My search found no trial of castor or black seed oil on human hair growth.",
+  "measured_variables": [
+    "Hair density and anagen proportion (phototrichogram)",
+    "Hair type (pattern baldness, healthy adults; none selected for afro hair)"
+  ],
+  "gaps": "Patel 2025 (Cureus) carries an erratum (Cureus 2026;18(6):c452, PMID 42318379) which I opened: it corrects only a registry-number typo (CTRI/2024/07/070860) and changes no result; its rosemary-castor blend result (growth 0.23 to 0.33 mm/day against coconut oil, p<0.0001) is a branded blend and not evidence for castor oil alone. Untested: castor oil, Jamaican black castor oil and black seed oil on any hair outcome in people; rosemary in afro hair or in traction or scarring hair loss; whether any hair vitamin helps coiled hair; lasting effect after stopping.",
+  "related": [
+    "scalp-oiling-and-greasing",
+    "hair-breakage-and-length-retention",
+    "hair-shedding-and-thinning-after-pregnancy-or-stress"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Panahi Y et al",
+      "year": 2015,
+      "journal": "Skinmed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25842469/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Patel et al",
+      "year": 2025,
+      "journal": "Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40656290/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Mathenge et al",
+      "year": 2026,
+      "journal": "BioMed Research International",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42112722/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ahmed et al",
+      "year": 2025,
+      "journal": "Skin Appendage Disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40771449/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Patel DP et al",
+      "year": 2017,
+      "journal": "Skin Appendage Disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28879195/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Alanazi et al",
+      "year": 2026,
+      "journal": "Journal of Cosmetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41954038/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Bhimireddy et al",
+      "year": 2026,
+      "journal": "Multiple Sclerosis and Related Disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933321/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Hair loss\"",
+      "url": "https://www.nhs.uk/conditions/hair-loss/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

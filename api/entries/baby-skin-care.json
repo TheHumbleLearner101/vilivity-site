@@ -1,0 +1,161 @@
+{
+  "slug": "baby-skin-care",
+  "title": "Baby skin care (newborns and infants)",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "How do I look after Black baby skin?",
+    "Should Black babies have lotion after a bath?",
+    "How do I tell jaundice on a Black baby?"
+  ],
+  "tradition_says": "Babies are rubbed with oil, butter or lotion after every bath, and Black babies are often thought to need extra moisturising.",
+  "layer1": {
+    "plain_answer": "Newborn skin needs very little: plain water baths for the first month, no cleansers or lotions, and leave vernix on. Jaundice and rashes can be harder to see on brown and black skin, so check the whites of the eyes. A large review, mostly in babies at high risk of eczema, found routine moisturiser probably made no difference to eczema.",
+    "do": [
+      {
+        "text": "Bathe in plain water only for at least the first month; no cleansers, lotions or medicated wipes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Derbyshire Family Health Service (NHS), \"Skin care\" (your baby's first year)",
+          "url": "https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/skin-care",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leave vernix, the white coating at birth, on the skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Getting to know your newborn\"",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/after-the-birth/getting-to-know-your-newborn/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check the whites of the eyes for jaundice: yellowing may be less obvious on brown or black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Getting to know your newborn\"",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/after-the-birth/getting-to-know-your-newborn/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If your baby has jaundice in the first 24 hours, get them checked by a health professional straight away.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Getting to know your newborn\"",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/after-the-birth/getting-to-know-your-newborn/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Sunscreen only on babies 6 months or older; protect younger babies with shade and clothing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Cleansers, lotions and medicated wipes in the first month.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Getting to know your newborn\"",
+          "url": "https://www.nhs.uk/pregnancy/labour-and-birth/after-the-birth/getting-to-know-your-newborn/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Routine moisturiser to prevent eczema: probably makes no difference, and the trials were mostly in babies at high risk.",
+        "basis": "tested",
+        "source": "kelleher-2022-baby"
+      },
+      {
+        "text": "Treating dry, cracked skin in an overdue baby with products: it is usually the vernix absorbed before birth.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Derbyshire Family Health Service (NHS), \"Skin care\" (your baby's first year)",
+          "url": "https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/skin-care",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Jaundice in the first 24 hours, or yellowing that is spreading, or a baby who is sleepy or feeding poorly (doctor, midwife or NHS 111 in the UK).",
+      "Skin is blistered, crusty, leaking or hot (urgent doctor or NHS 111 in the UK).",
+      "Eczema or a rash that is not settling (doctor or health visitor in the UK)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Infants, mostly newborns, 8 of the 11 meta-analysed trials in babies at high risk of eczema or food allergy (33 trials, 25,827 babies identified; the eczema result rests on 7 trials, 3,075 infants); ethnicity not given in the abstract",
+      "design": "Cochrane systematic review of skin care interventions to prevent eczema and food allergy",
+      "n": "3075",
+      "finding": "Skin care interventions during infancy probably do not change the risk of eczema by 1 to 3 years (RR 1.03, 95% CI 0.81 to 1.31; moderate-certainty; 7 trials, 3,075 infants). They may increase IgE-mediated food allergy (RR 2.53, 0.99 to 6.49; low-certainty; 1 trial, 976 infants) and probably increase skin infection (RR 1.33, 1.01 to 1.75). Only 17 of 33 trials reported prespecified outcomes.",
+      "source": {
+        "authors": "Kelleher MM, Phillips R, Brown SJ et al",
+        "year": 2022,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36373988/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Most meta-analysed trials were in high-risk babies, so this says little about babies at average risk; does not address babies already with eczema.",
+      "id": "kelleher-2022-baby"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That routine emollients probably do not change eczema risk, mostly in babies at high risk: a Cochrane review (7 trials, 3,075 infants for the eczema result, moderate certainty; other outcomes low), not specific to Black babies. The bathing and jaundice advice is NHS guidance.",
+  "tier_note": "Fact-check 12 Nov narrowed the population and wording (not 'healthy babies'; moderate certainty for eczema, low for food allergy); tier B and moderate unchanged because the headline claim (probably no effect on eczema) is the moderate-certainty one. Trials in other and unstated populations. Nothing was found specific to Black baby skin beyond jaundice looking different.",
+  "harm_flag": false,
+  "harm_note": "The harm is a missed jaundice; the review also found a signal for more skin infection and food allergy with routine emollients.",
+  "founder_flag": false,
+  "evidence_summary": "NHS (UK) and NHS-service guidance: plain water baths for at least the first month, no cleansers or lotions, leave vernix on, and jaundice may be less obvious on brown or black skin so check the whites of the eyes. The Cochrane review (33 trials identified; eczema result from 7 trials and 3,075 infants, mostly babies at high risk) found routine skin care probably does not change eczema risk, may raise food allergy (one trial) and probably raises skin infection. The AAD says moisturising may reduce risk in babies at high risk of eczema, which the review does not contradict because it is a different group.",
+  "measured_variables": [
+    "Age (newborn, infant)",
+    "Jaundice visibility on brown and black skin",
+    "Eczema risk"
+  ],
+  "gaps": "Untested or not found: baby care specific to Black skin (oils, butters, cradle cap); oiling and massage of Black babies (no source opened); sun protection under 6 months beyond the AAD note. The Derbyshire page is a local NHS (UK) service page; it matches the national NHS newborn page on the bath and lotion advice.",
+  "related": [
+    "eczema-on-dark-skin",
+    "sunscreen-on-dark-skin",
+    "shea-butter"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Kelleher MM et al",
+      "year": 2022,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36373988/",
+      "tag": "[review]"
+    },
+    {
+      "name": "Derbyshire Family Health Service (NHS), \"Skin care\" (your baby's first year)",
+      "url": "https://derbyshirefamilyhealthservice.nhs.uk/our-services/0-5-years/your-babys-first-year/skin-care",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Getting to know your newborn\"",
+      "url": "https://www.nhs.uk/pregnancy/labour-and-birth/after-the-birth/getting-to-know-your-newborn/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

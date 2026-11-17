@@ -1,0 +1,30 @@
+{
+  "pmid": "8479462",
+  "slug": "bulengo-ransby-1993-8479462",
+  "citation": {
+    "authors": "Bulengo-Ransby SM, Griffiths CE, Kimbrough-Green CK, Finkel LJ et al",
+    "year": 1993,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/8479462/",
+  "page": "https://vilivity.com/studies/bulengo-ransby-1993-8479462/",
+  "cited_by": [
+    {
+      "entry": "dark-marks-after-acne",
+      "title": "Dark marks after acne (post-inflammatory hyperpigmentation)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/dark-marks-after-acne/",
+      "record": {
+        "id": "bulengoransby-1993",
+        "population": "54 Black adults with post-inflammatory hyperpigmentation who completed the study",
+        "n": 54,
+        "design": "Randomised, double-blind, vehicle-controlled, 40 weeks; tretinoin 0.1% cream (a prescription medicine) on face or arms against vehicle cream",
+        "finding": "Facial lesions in the tretinoin group were significantly lighter than vehicle (P<0.001). Colorimetry showed 40% lightening of lesions against 18% with vehicle (P=0.05). Improvement began after about 4 weeks. Retinoid dermatitis developed in 12 of 24 tretinoin-treated people (50%) but eased with time. Tretinoin lightened normal skin slightly.",
+        "line_tier": "A",
+        "note": "1993; relatively small; prescription in the UK. Mentioned as evidence that a class of treatment (prescription retinoids) has been tested in Black people, not as a dose.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

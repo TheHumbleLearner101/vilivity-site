@@ -1,0 +1,153 @@
+{
+  "slug": "mens-mental-health-and-depression",
+  "title": "Black men, depression and getting support",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do Black men get mental-health support?",
+    "How do I cope with depression, particularly as a Black man?",
+    "Why do Black men avoid asking for help?",
+    "Is there a helpline for men?"
+  ],
+  "tradition_says": "Many Black men are taught to be strong, carry on and not show weakness, and that talking is for others.",
+  "layer1": {
+    "plain_answer": "A survey of African American men found that everyday racism and masculine norms both went with more barriers to seeking help, partly through feeling less in control and more depressed. Depression is a health condition and treatable. You can refer yourself to NHS talking therapies, and the CALM helpline is there for men.",
+    "do": [
+      {
+        "text": "See a doctor if you think you may be depressed; the UK's NHS says not to delay.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Depression in adults: overview\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Refer yourself to NHS (UK) talking therapies if you are 18 or over and registered with a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Call CALM on 0800 58 58 58, open 5pm to midnight every day, or Samaritans (UK) on 116 123.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Help for suicidal thoughts\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Text SHOUT to 85258 if you do not want to talk by phone (24 hours).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Help for suicidal thoughts\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell one person you trust what is going on.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Help for suicidal thoughts\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting for it to pass if it has lasted weeks or months; the UK's NHS describes depression as lasting weeks or months, unlike a short low patch.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Depression in adults: overview\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Carrying racism's strain alone: in the survey it fed lower control and more depressive symptoms.",
+        "basis": "tested",
+        "source": "powell-2016"
+      }
+    ],
+    "see_someone_when": [
+      "Persistent sadness, loss of interest, poor sleep or appetite for weeks (doctor or NHS in the UK talking therapies self-referral).",
+      "Drinking or using drugs to cope (doctor).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "458 African American men, recruited mainly from US barbershops",
+      "design": "Cross-sectional survey and path analysis of barriers to help-seeking",
+      "n": "458",
+      "finding": "More frequent everyday racism and higher masculinity norm salience went with higher barriers to health help-seeking. Everyday racism's link to barriers was partly explained by a lower sense of control and more depressive symptoms. The authors say interventions should address masculinity norms and also threats to sense of control and the effects of everyday racism.",
+      "source": {
+        "authors": "Powell W, Adams LB, Cole-Lewis Y et al",
+        "year": 2016,
+        "journal": "Behavioral Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27337619/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "One cross-sectional survey in US barbershops; cannot show cause. Abstract read.",
+      "id": "powell-2016"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_driver": "Why Black men delay help: one US survey of 458 African American men, cross-sectional.",
+  "tier_note": "Tier B observational, strength thin: one survey, no UK data, no test of what gets Black men into care. A Therapy for Black Men directory was not available when I checked on 12 Nov (site returned HTTP 402).",
+  "harm_flag": false,
+  "harm_note": "No harm signal found.",
+  "founder_flag": false,
+  "evidence_summary": "Powell and colleagues (2016) surveyed 458 African American men: everyday racism and masculinity norm salience were linked to higher help-seeking barriers, partly via lower sense of control and depressive symptoms. NHS pages list the routes into care and the helplines named here, including CALM, Samaritans and the SHOUT text line. Black-specific therapist directories are in the finding-a-Black-therapist entry.",
+  "measured_variables": [
+    "Barriers to help-seeking",
+    "Everyday racism",
+    "Masculinity norm salience",
+    "Depressive symptoms"
+  ],
+  "gaps": "Untested or not found: UK Black men's help-seeking data; whether male-focused programmes or peer groups work; barbershop or faith-based interventions; suicide rates by ethnicity in the UK.",
+  "related": [
+    "stigma-and-starting-therapy",
+    "finding-a-black-therapist",
+    "racism-and-mental-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Powell W et al",
+      "year": 2016,
+      "journal": "Behavioral Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27337619/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Depression in adults: overview\"",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Talking therapies\"",
+      "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Help for suicidal thoughts\"",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

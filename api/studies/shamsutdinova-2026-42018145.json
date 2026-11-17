@@ -1,0 +1,30 @@
+{
+  "pmid": "42018145",
+  "slug": "shamsutdinova-2026-42018145",
+  "citation": {
+    "authors": "Shamsutdinova D, Stahl D, Das-Munshi J",
+    "year": 2026,
+    "journal": "Diabetologia"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42018145/",
+  "page": "https://vilivity.com/studies/shamsutdinova-2026-42018145/",
+  "cited_by": [
+    {
+      "entry": "type-2-diabetes-risk",
+      "title": "Type 2 diabetes risk and blood sugar",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/type-2-diabetes-risk/",
+      "record": {
+        "id": "shamsutdinova-2026",
+        "population": "About 340,000 adults without diabetes in South London primary care, followed 2012-2019",
+        "n": 340000,
+        "design": "Cohort study with Cox models, adjusted stepwise for age, sex, migration, mental health, BMI, blood pressure and deprivation",
+        "finding": "South Asian, Black African and Black Caribbean groups had 2 to 3 times the type 2 diabetes risk of White British people, which was only partly explained by socioeconomic and clinical factors. Being born outside the UK raised risk by 29% across all groups. Depression, anxiety and severe mental illness were also linked to higher risk.",
+        "line_tier": "B",
+        "note": "One region of London; ethnic group is the recorded category in GP records. Funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "28152409",
+  "slug": "rubio-2017-28152409",
+  "citation": {
+    "authors": "Rubio C, Napoleone G, Luis-Gonzalez G et al",
+    "year": 2017,
+    "journal": "Chemosphere"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28152409/",
+  "page": "https://vilivity.com/studies/rubio-2017-28152409/",
+  "cited_by": [
+    {
+      "entry": "sea-moss-irish-moss",
+      "title": "Sea moss (Irish moss): health claims, iodine and heavy metals",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/sea-moss-irish-moss/",
+      "record": {
+        "id": "rubio-2017",
+        "population": "Edible seaweed samples (Chondrus, Eisenia, Gelidium, Himanthalia, Laminaria, Palmaria, Porphyra, Undaria) from Asia and the EU",
+        "n": "not stated in the abstract",
+        "design": "Laboratory analysis of 20 metals by ICP-OES",
+        "finding": "Red seaweed showed higher concentrations of trace and toxic elements. At 4 g a day of seaweed the intake of aluminium, cadmium and lead was low and the authors saw no serious concern, but they say other toxic metals should be monitored.",
+        "line_tier": "C",
+        "note": "Lab analysis of dried seaweed products, not of sea moss gel or drinks, and not of people. The authors' 4 g a day is a small dried amount.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "jamaican-black-castor-oil-on-scalp-and-edges",
+  "name": "Jamaican black castor oil on the scalp and edges",
+  "regions": [
+    "Caribbean",
+    "African American",
+    "Black British"
+  ],
+  "module": "hair",
+  "what_people_do": "Massage black castor oil into the scalp and hairline for growth, thickness and edges.",
+  "why_they_say_it_works": "The roasted-ash oil is thick and \"strong\"; it is said to grow hair and thicken edges.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Girdler K et al 2026, PMID 41822610 (castor oil in hair care, narrative review)",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41822610/",
+      "quote_or_summary": "Narrative review says castor oil is widely used in hair care. Practice documentation now rests on the Reddit threads listed here (pulled 12 Nov 2026)."
+    },
+    {
+      "source": "Reddit, r/BlackHair (raw pull: _reddit/r1_blackhair_castor.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/BlackHair/comments/1ghfcsz/wanna_grow_out_my_hair_should_i_use_jamaican/",
+      "quote_or_summary": "6 users describe using Jamaican or black castor oil on hair, edges or scalp. (1) After braiding damage at the front, used it daily then once or twice a week, in a sew-in and on natural hair. (2) A self-described Jamaican says to use it, check it is truly dark, add rosemary and massage the scalp thoroughly. Same site, other threads: https://www.reddit.com/r/BlackHair/comments/kqc402/have_any_of_you_tried_jamaican_black_castor_oil/ (3) uses it to keep hair moisturised for days after washing; (4) uses it and adds sandalwood oil for the smell. https://www.reddit.com/r/BlackHair/comments/hthkqi/2weeks_update_on_my_journey_to_restoring_my_edges/ (5) two weeks into a regimen to restore edges, using a mango and lime brand. https://www.reddit.com/r/BlackHair/comments/1ng54lm/jamaican_black_castor_oil_water_did_this_to_my/ (6) uses it before twisting and to refresh twists. Region mostly unstated (US-style forum); only user 2 states Jamaican. Documents use, not benefit."
+    },
+    {
+      "source": "Reddit, r/jamaica (raw pull: _reddit/r1_blackhair_castor.json and r3_jamaica.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/jamaica/comments/1dhlp5k/sunny_isle_extra_dark_jamaican_black_castor_oil/",
+      "quote_or_summary": "1 further user, posting in the Jamaican forum, uses a Sunny Isle JBCO with chebe daily for a year, on eyelashes (not counted towards the 6 hair/scalp users). The thread https://www.reddit.com/r/jamaica/comments/1l2dmph/ asks whether people still use castor oil; the one reply opened advises it for sealing in moisture, not growth."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Castor oil and rosemary for hair growth",
+      "population": "Mice",
+      "finding": "Murine pilot only.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Mathenge 2026, BioMed Res Int, PMID 42112722 (mouse pilot, rosemary and castor oil)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42112722/"
+      }
+    },
+    {
+      "tested": "Castor oil in hair care",
+      "population": "Narrative review",
+      "finding": "Possible benefit for luster and androgenic alopecia via PGD2 pathway; needs clinical investigation; rare contact dermatitis and hair felting reported.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Girdler K et al 2026, PMID 41822610 (castor oil in hair care, narrative review)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41822610/"
+      }
+    }
+  ],
+  "headline_tier": "C",
+  "headline_strength": "thin",
+  "harm_flag": "low",
+  "harm_note": "Hair felting and contact dermatitis reported; thick oil on a damaged scalp can trap product.",
+  "links_to_entries": [
+    "scalp-oiling-and-greasing",
+    "hair-growth-oils-and-supplements"
+  ],
+  "gaps": [
+    "No Jamaican-process-specific study.",
+    "Forum documentation only (Reddit, 6 hair users); no survey of how many people use it. Region mostly unstated."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/jamaican-black-castor-oil-on-scalp-and-edges/"
+}

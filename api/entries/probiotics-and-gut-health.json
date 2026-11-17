@@ -1,0 +1,185 @@
+{
+  "slug": "probiotics-and-gut-health",
+  "title": "Probiotics and gut health",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Do probiotics work?",
+    "Are probiotics good for gut health and bloating?",
+    "Are probiotics safe to take every day?",
+    "Have probiotics been tested on Black people?"
+  ],
+  "tradition_says": "Fermented foods such as yoghurts, kefir and many traditional ferments have long been part of eating in many parts of the world. Capsules and drinks now promote \"good bacteria\" for gut, immune and skin health.",
+  "layer1": {
+    "plain_answer": "Probiotics reduced diarrhoea caused by antibiotics in trials, and the UK's NHS says they may ease some IBS symptoms, but evidence for most other claims is thin. Our search found one small safety pilot in Black women, for vaginal health, and no gut trial in Black participants. Avoid them if your immune system is weak unless your doctor agrees.",
+    "do": [
+      {
+        "text": "If you are on antibiotics and want to try one, ask your pharmacist or doctor: trials found less antibiotic-related diarrhoea.",
+        "basis": "tested",
+        "source": "liao-2021"
+      },
+      {
+        "text": "Treat the label with caution: the UK's NHS says we cannot always be sure a product contains the bacteria stated, enough of them, or that they survive to your gut.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Probiotics\"",
+          "url": "https://www.nhs.uk/conditions/probiotics/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Food counts too: the UK's NHS describes probiotics as live bacteria and yeasts found in yoghurts and supplements.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Probiotics\"",
+          "url": "https://www.nhs.uk/conditions/probiotics/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Probiotics if you have a weakened immune system or are very unwell, unless your doctor agrees: NCCIH, in its review of use with antibiotics, excludes people who are very weak or have poorly functioning immune systems from the safe group.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Probiotics: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Giving them to premature babies unless the hospital team prescribes them: severe and fatal infections have been reported.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Probiotics: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Using them to treat eczema: the UK's NHS says there is no evidence they help.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Probiotics\"",
+          "url": "https://www.nhs.uk/conditions/probiotics/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Fever, chills or feeling very unwell after starting one (urgent care).",
+      "Diarrhoea that lasts more than a few days, or blood in your stool (doctor).",
+      "You have a weakened immune system, are pregnant, or are caring for a premature baby and want to use one (your clinical team)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults taking antibiotics in 36 randomised, placebo-controlled trials",
+      "design": "Meta-analysis of probiotics for preventing antibiotic-associated diarrhoea",
+      "n": 9312,
+      "finding": "Probiotics reduced antibiotic-associated diarrhoea by 38 per cent (relative risk 0.62, 95% CI 0.51 to 0.74), more when started early. Adverse events were no more common than with placebo (relative risk 1.00).",
+      "source": {
+        "authors": "Liao W, Chen C, Wen T, Zhao Q",
+        "year": 2021,
+        "journal": "Journal of Clinical Gastroenterology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33234881/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Ethnicity not reported in the abstract. One use (antibiotic diarrhoea), which is not the same as everyday gut health.",
+      "id": "liao-2021"
+    },
+    {
+      "population": "African, Caribbean and Black women aged 18 to 49 in the Greater Toronto Area (50 enrolled, 41 finished)",
+      "design": "Randomised, open-label phase 1 pilot of vaginal estrogen, a vaginal probiotic, or both, for 30 days (vaginal health, not gut)",
+      "n": 50,
+      "finding": "The trial was feasible (80 per cent enrolment, 82 per cent retention, 93 per cent adherence) and safe. There were 88 adverse events in 29 participants, 75 per cent mild, no serious events, and no clinically significant blood changes. It was not designed to show whether vaginal health improved.",
+      "source": {
+        "authors": "Gill B, Wessels JM, Hayes CL, Ratcliffe J et al",
+        "year": 2025,
+        "journal": "PLoS One",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39836666/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "The one trial in Black participants I found. It tests safety and feasibility of a vaginal product, so it says nothing about gut health or yoghurt-type probiotics.",
+      "id": "gill-2025"
+    },
+    {
+      "population": "General population (review of probiotic safety)",
+      "design": "Narrative review of the risk and safety of probiotics",
+      "n": "not applicable",
+      "finding": "Probiotics have been used safely for years, but safety outcomes are inconsistently reported. Theoretical risks include systemic infections, harmful metabolic activity and excess immune stimulation in susceptible people. The authors say more research is needed on how often and how severe adverse events are.",
+      "source": {
+        "authors": "Doron S, Snydman DR",
+        "year": 2015,
+        "journal": "Clinical Infectious Diseases",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25922398/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A review, not a trial.",
+      "id": "doron-2015"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That probiotics help gut health: a meta-analysis of 36 trials (9,312 adults) found fewer antibiotic-associated diarrhoea cases, with no gut outcome tested in Black participants; a 50-person pilot in Black women tested vaginal safety only.",
+  "tier_note": "A large meta-analysis of randomised trials for one use (antibiotic diarrhoea), but no certainty rating read and no gut-health trial in Black participants, so moderate and B. The Black pilot (A line) covers a different product and outcome, so it does not lift the headline.",
+  "harm_flag": true,
+  "harm_note": "NCCIH reports severe or fatal infections in premature infants given probiotics and says they appear safe except in people who are very weak or have poorly functioning immune systems. Doron and Snydman 2015 list rare systemic infections and say adverse event data are inconsistent. For most healthy people the UK's NHS says they appear safe.",
+  "founder_flag": false,
+  "evidence_summary": "In 36 trials with 9,312 adults, probiotics cut antibiotic-associated diarrhoea by 38 per cent with no extra adverse events. The NHS says some may ease IBS symptoms, little evidence supports many other claims, and no evidence shows they treat eczema. A 50-person pilot in African, Caribbean and Black women in Toronto found a vaginal probiotic (with or without estrogen) feasible and safe over 30 days.",
+  "measured_variables": [
+    "Incidence of antibiotic-associated diarrhoea",
+    "Adverse events and safety blood panel",
+    "Strain and dose (rarely labelled or checked)",
+    "Ethnicity: the one Black-participant trial used self-described African, Caribbean and Black identity"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 13 records for probiotics, one a trial in Black participants (vaginal pilot, 2025) and the rest microbiome observational studies or unrelated. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 22 records matched (titles read only). Untested: any gut-health benefit in Black participants; which strains, if any, matter; long-term effects of daily capsules.",
+  "related": [
+    "eczema-on-dark-skin",
+    "lactose-intolerance-and-dairy",
+    "caribbean-and-west-african-diet-and-health",
+    "vitamins-and-supplements-basics"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Liao W, Chen C, Wen T, Zhao Q",
+      "year": 2021,
+      "journal": "Journal of Clinical Gastroenterology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33234881/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Gill B, Wessels JM, Hayes CL, Ratcliffe J et al",
+      "year": 2025,
+      "journal": "PLoS One",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39836666/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Doron S, Snydman DR",
+      "year": 2015,
+      "journal": "Clinical Infectious Diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25922398/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Probiotics\"",
+      "url": "https://www.nhs.uk/conditions/probiotics/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NCCIH, \"Probiotics: Usefulness and Safety\"",
+      "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "39461505",
+  "slug": "david-2025-39461505",
+  "citation": {
+    "authors": "David E, Shokrian N, Del Duca E, Meariman M et al",
+    "year": 2025,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39461505/",
+  "page": "https://vilivity.com/studies/david-2025-39461505/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "david-2025",
+        "population": "Adults with lichen planopilaris, frontal fibrosing alopecia or central centrifugal cicatricial alopecia (how many had CCCA is not stated in the abstract)",
+        "n": "not stated in the abstract",
+        "design": "Randomised, placebo-controlled phase 2a trial, 3:1 to brepocitinib 45 mg daily or placebo for 24 weeks, then all on drug to 48 weeks",
+        "finding": "Brepocitinib significantly lowered lesional CCL5 expression at week 24 (P=.004), was well tolerated and improved clinical severity scores. Coprimary endpoints were biomarkers and safety, not hair regrowth. The authors list a single dose and a small placebo group as limitations.",
+        "line_tier": "B",
+        "note": "Mixed scarring alopecias, an experimental drug, biomarker endpoints; not evidence about what to do for CCCA today. Added after the 12 Nov fact-check search.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

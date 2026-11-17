@@ -1,0 +1,30 @@
+{
+  "pmid": "42066531",
+  "slug": "annor-2026-42066531",
+  "citation": {
+    "authors": "Annor E, Pollak M, Ramasamy D",
+    "year": 2026,
+    "journal": "Acta Psychologica"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42066531/",
+  "page": "https://vilivity.com/studies/annor-2026-42066531/",
+  "cited_by": [
+    {
+      "entry": "childhood-trauma-and-where-to-start",
+      "title": "Childhood trauma and where to start",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/childhood-trauma-and-where-to-start/",
+      "record": {
+        "id": "annor-2026",
+        "population": "56 studies (40 in the meta-analysis) of cumulative adverse childhood experiences and mental disorders",
+        "n": 56,
+        "design": "Systematic review and meta-analysis (PRISMA 2020)",
+        "finding": "Cumulative ACEs were strongly associated with mental disorders (pooled odds ratio 3.18, 95% CI 2.84 to 3.56) with a dose-response gradient from 1 to 4 or more ACEs. Findings were robust in sensitivity tests with minimal publication bias; the authors call for trauma-informed care and global equity in ACE research.",
+        "line_tier": "B",
+        "note": "Mixed populations; the abstract does not say how many studies were in Black populations. Association, not proof of cause.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

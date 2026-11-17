@@ -1,0 +1,61 @@
+{
+  "slug": "ethiopian-orthodox-fasting",
+  "name": "Orthodox Christian fasting",
+  "regions": [
+    "East and Southern Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Observe the Orthodox fasts (no animal products on many days, including Wednesdays, Fridays and long seasons such as the Assumption fast).",
+  "why_they_say_it_works": "It is a religious duty and a spiritual discipline; many also see it as healthy.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Gichamo FG et al 2026, BMC Endocr Disord, PMID 41618296",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41618296/",
+      "quote_or_summary": "Addis Ababa, 68 adults with type 2 diabetes fasting for the Assumption fast, August 2024."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Fasting in diabetes",
+      "population": "Prospective observational, 68 patients, 2 weeks",
+      "finding": "Mean fasting glucose fell 19.56 mg/dL and systolic pressure 9.19 mmHg; no control group.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Gichamo FG et al 2026, BMC Endocr Disord, PMID 41618296",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41618296/"
+      }
+    },
+    {
+      "tested": "Religious fasting and cardiovascular risk",
+      "population": "Meta-analysis, 14 studies (10 pooled), 755 fasters vs 661 non-fasters",
+      "finding": "Lower BMI (-0.40); Orthodox fasting lowered total cholesterol by 0.52 mmol/L; Ramadan fasting lowered systolic pressure by 3.83 mmHg; other outcomes unchanged.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Religious or faith-based fasting and CVD risk factors, systematic review and meta-analysis, 2024, Nutr Metab Cardiovasc Dis, PMID 38508992",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38508992/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "possible",
+  "harm_note": "People on diabetes medicines who change their eating risk going low; the abstract does not discuss hypoglycaemia.",
+  "links_to_entries": [
+    "type-2-diabetes-risk",
+    "high-blood-pressure-in-black-adults",
+    "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell"
+  ],
+  "gaps": [
+    "Pooled studies are mixed populations, not only Ethiopian.",
+    "No randomised trial."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/ethiopian-orthodox-fasting/"
+}

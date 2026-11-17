@@ -1,0 +1,30 @@
+{
+  "pmid": "20647424",
+  "slug": "genovese-2010-20647424",
+  "citation": {
+    "authors": "Genovese G, Friedman DJ, Ross MD, Lecordier L et al",
+    "year": 2010,
+    "journal": "Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20647424/",
+  "page": "https://vilivity.com/studies/genovese-2010-20647424/",
+  "cited_by": [
+    {
+      "entry": "kidney-disease-apol1-and-egfr",
+      "title": "Kidney disease, the APOL1 gene and the eGFR race adjustment",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/kidney-disease-apol1-and-egfr/",
+      "record": {
+        "id": "genovese-2010",
+        "population": "African Americans with focal segmental glomerulosclerosis (FSGS) and hypertension-attributed end-stage kidney disease (H-ESKD), and controls",
+        "n": "not stated in the abstract",
+        "design": "Genetic association study with lab assays of the APOL1 protein",
+        "finding": "Two independent APOL1 sequence variants were associated with FSGS (odds ratio 10.5, 95% CI 6.0-18.4) and H-ESKD (odds ratio 7.3, 95% CI 5.6-9.5). The variants are common in African chromosomes but absent from European chromosomes, and sit within haplotypes showing positive selection. Only the kidney-disease variants lysed Trypanosoma brucei rhodesiense in vitro; the authors speculate a survival factor against sleeping sickness may have contributed to high kidney disease rates.",
+        "line_tier": "B",
+        "note": "Odds ratios refer to carrying two risk variants against none in African Americans; the abstract does not give how common two-variant carriers are.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "planning-exercise-around-hair",
+  "name": "Planning exercise around your hair",
+  "regions": [
+    "African American"
+  ],
+  "module": "hair",
+  "what_people_do": "Change hairstyle for exercise or skip workouts to protect a style that took hours and money.",
+  "why_they_say_it_works": "Sweat and water ruin straightened or braided styles; washing and restyling takes too long.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Hall RR et al 2013, JAMA Dermatol, PMID 23682367",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23682367/",
+      "quote_or_summary": "Winston-Salem, 103 African American women: 50% modified their style to accommodate exercise and 37.9% sometimes avoided exercise because of hair."
+    },
+    {
+      "source": "Gathers RC, Mahan MG 2014, J Clin Aesthet Dermatol, PMID 25276273",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25276273/",
+      "quote_or_summary": "Detroit church survey, 200 women: 45% avoided exercise because of hair concerns; 22% felt hair impeded healthy weight."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Hair and exercise",
+      "population": "103 women survey",
+      "finding": "Those who exercised less because of hair were 2.9 times less likely to exceed 150 min a week (CI 0.9 to 9.4, P=0.08), not significant.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Hall RR et al 2013, JAMA Dermatol, PMID 23682367",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23682367/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "low",
+  "harm_note": "The practice protects the style at a cost to exercise; low-manipulation styles and swim caps are the usual compromise.",
+  "links_to_entries": [
+    "starting-training-rest-days-and-recovery",
+    "wash-day-routine-for-4c-hair"
+  ],
+  "gaps": [
+    "Church-based convenience samples; association not causation."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/planning-exercise-around-hair/"
+}

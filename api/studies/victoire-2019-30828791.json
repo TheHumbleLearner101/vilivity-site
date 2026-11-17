@@ -1,0 +1,30 @@
+{
+  "pmid": "30828791",
+  "slug": "victoire-2019-30828791",
+  "citation": {
+    "authors": "Victoire A, Magin P et al",
+    "year": 2019,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30828791/",
+  "page": "https://vilivity.com/studies/victoire-2019-30828791/",
+  "cited_by": [
+    {
+      "entry": "children-and-babies-hair",
+      "title": "Babies' and children's hair",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/children-and-babies-hair/",
+      "record": {
+        "id": "victoire-2019",
+        "population": "310 children aged 0 to 24 months, six trials",
+        "n": 310,
+        "design": "Cochrane review of treatments for infantile seborrhoeic dermatitis (cradle cap)",
+        "finding": "Six trials compared oral biotin against placebo, proprietary products against placebo or control shampoo, and topical steroids against other products; the trials were short (10 to 42 days) and the results were based on very low-quality evidence.",
+        "line_tier": "B",
+        "note": "Trials not in Black children specifically.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

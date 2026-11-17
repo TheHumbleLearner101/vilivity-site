@@ -1,0 +1,64 @@
+{
+  "slug": "soursop-leaf-tea",
+  "name": "Soursop leaf tea",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "food",
+  "what_people_do": "Steep soursop (graviola) leaves, or eat or juice the fruit, for sleep, nerves, \"sugar\", and increasingly as a cancer remedy.",
+  "why_they_say_it_works": "Said to calm the nerves and, in recent social media, to kill cancer cells.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Mahabir D, Gulliford MC 1997, Rev Panam Salud Publica, PMID 9128111",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9128111/",
+      "quote_or_summary": "Among 622 Trinidad diabetes patients, soursop was one of the plants preferentially used for non-diabetes indications."
+    },
+    {
+      "source": "Lannuzel A et al 2008, Mov Disord, PMID 18816693",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18816693/",
+      "quote_or_summary": "Guadeloupe: atypical parkinsonism makes up about two thirds of parkinsonism on the island; the fruit toxin annonacin is proposed as a cause (practice of eating soursop is the exposure being studied)."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Soursop for cancer",
+      "population": "Laboratory and animal; no human trials found",
+      "finding": "MSK: human studies are lacking; no proof of benefit for cancer patients; alkaloids caused movement disorders in vitro.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Memorial Sloan Kettering, Graviola",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/graviola"
+      }
+    },
+    {
+      "tested": "Soursop and parkinsonism",
+      "population": "Guadeloupe patients",
+      "finding": "Associational: heavy consumption linked with atypical parkinsonism; causation not proven.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Lannuzel A et al 2008, Mov Disord, PMID 18816693",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18816693/"
+      }
+    }
+  ],
+  "headline_tier": "C",
+  "headline_strength": "thin",
+  "harm_flag": "yes",
+  "harm_note": "Neurotoxicity signal from the Guadeloupe work (associational) and no human evidence of cancer benefit. Soursop as a cancer treatment is a harm practice in the bank rules.",
+  "links_to_entries": [
+    "soursop-graviola",
+    "bush-teas-cerasee-bitter-leaf-and-medicines"
+  ],
+  "gaps": [
+    "Dose-response for regular leaf tea not established.",
+    "Mahabir figure for soursop use is a rank, not a prevalence."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/soursop-leaf-tea/"
+}

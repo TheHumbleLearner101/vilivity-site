@@ -1,0 +1,30 @@
+{
+  "pmid": "27044069",
+  "slug": "hoffman-2016-27044069",
+  "citation": {
+    "authors": "Hoffman KM, Trawalter S, Axt JR, Oliver MN",
+    "year": 2016,
+    "journal": "PNAS"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27044069/",
+  "page": "https://vilivity.com/studies/hoffman-2016-27044069/",
+  "cited_by": [
+    {
+      "entry": "being-believed-by-doctors-and-pain",
+      "title": "Being believed by doctors, and pain",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/being-believed-by-doctors-and-pain/",
+      "record": {
+        "id": "hoffman-2016",
+        "population": "White laypeople and white medical students and residents, US",
+        "n": "not stated in the abstract (two studies)",
+        "design": "Two survey-experiments on beliefs and pain ratings of a Black versus a white patient",
+        "finding": "Half of a sample of white medical students and residents endorsed false beliefs about biological differences between Black and white people. Those who did rated the Black patient's pain lower and made less accurate treatment recommendations; those who did not rated the Black patient's pain higher and showed no bias in treatment recommendations.",
+        "line_tier": "B",
+        "note": "Vignette experiment, US trainees; shows beliefs predict ratings, not what happens in a real clinic. Abstract read in full.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

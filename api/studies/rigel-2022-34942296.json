@@ -1,0 +1,30 @@
+{
+  "pmid": "34942296",
+  "slug": "rigel-2022-34942296",
+  "citation": {
+    "authors": "Rigel DS, Taylor SC, Lim HW, Alexis AF et al",
+    "year": 2022,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34942296/",
+  "page": "https://vilivity.com/studies/rigel-2022-34942296/",
+  "cited_by": [
+    {
+      "entry": "sunscreen-on-dark-skin",
+      "title": "Sunscreen on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/sunscreen-on-dark-skin/",
+      "record": {
+        "id": "rigel-2022",
+        "population": "Dermatologists and photobiologists (expert panel)",
+        "n": "panel",
+        "design": "Modified Delphi consensus on photoprotection for all skin colours",
+        "finding": "The panel states that visible light can induce hyperpigmentation in people with dark skin types (Fitzpatrick IV-VI) and exacerbate melasma. The specific product recommendations are in the full text, which I did not open.",
+        "line_tier": "B",
+        "note": "Expert opinion, not a trial.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

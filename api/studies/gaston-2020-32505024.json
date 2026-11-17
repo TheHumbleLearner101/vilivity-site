@@ -1,0 +1,30 @@
+{
+  "pmid": "32505024",
+  "slug": "gaston-2020-32505024",
+  "citation": {
+    "authors": "Gaston SA, Feinstein L, Slopen N et al",
+    "year": 2020,
+    "journal": "Sleep Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32505024/",
+  "page": "https://vilivity.com/studies/gaston-2020-32505024/",
+  "cited_by": [
+    {
+      "entry": "sleep-and-sleep-apnoea",
+      "title": "Sleep, short sleep and sleep apnoea",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/sleep-and-sleep-apnoea/",
+      "record": {
+        "id": "gaston-2020",
+        "population": "40,038 US women in the Sister Study (8% non-Hispanic Black)",
+        "n": "40,038",
+        "design": "Cross-sectional survey of reported discrimination and sleep",
+        "finding": "Non-Hispanic Black participants most often reported everyday (76%) and major (52%) racial discrimination. Reporting both types was linked to short sleep (prevalence ratio 1.17, 95% CI 1.09 to 1.25) and insomnia symptoms (1.10, 1.01 to 1.20).",
+        "line_tier": "B",
+        "note": "Women only, cross-sectional, self-report; the excerpt I read cut off before the Black-only subgroup results.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "slug": "skin-lightening-creams",
+  "title": "Skin lightening and bleaching creams",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Are skin lightening creams safe?",
+    "Is hydroquinone safe for dark skin?",
+    "What is in skin bleaching creams?",
+    "How do I fade dark patches without bleaching?",
+    "Is skin lightening or bleaching cream safe?",
+    "Does hydroquinone work, and is it safe?"
+  ],
+  "tradition_says": "Lighter skin is widely marketed and sought as more attractive, more employable or healthier, and creams that lighten are sold in shops and online across Africa, the Caribbean and the diaspora. Some are passed on by word of mouth as safe because they are sold openly.",
+  "layer1": {
+    "plain_answer": "Many skin lightening creams contain mercury, strong steroids or high-strength hydroquinone, and reported cases show serious skin and kidney harm. Lightening the whole body is not supported as safe. If dark patches or marks are the worry, there are treatments that target them and are tested in dark skin.",
+    "do": [
+      {
+        "text": "Read the label for mercury, mercurous chloride, calomel, mercuric or mercurio.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US FDA consumer update, \"Mercury poisoning linked to skin products\"",
+          "url": "https://www.fda.gov/consumers/consumer-updates/mercury-poisoning-linked-skin-products",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you find mercury on a label, stop using it, wash your hands and skin, and call a doctor or poison centre.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US FDA consumer update, \"Mercury poisoning linked to skin products\"",
+          "url": "https://www.fda.gov/consumers/consumer-updates/mercury-poisoning-linked-skin-products",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor or dermatologist for dark patches, if home care is not working.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wear sunscreen daily on any skin you are treating.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Creams with no label, no ingredient list, or only a foreign-language one.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US FDA consumer update, \"Mercury poisoning linked to skin products\"",
+          "url": "https://www.fda.gov/consumers/consumer-updates/mercury-poisoning-linked-skin-products",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Imported products that may hold undisclosed steroids or mercury.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Liquid bleach on the skin, ever.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Letting a cream touch children: mercury exposure can reach family members.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "US FDA consumer update, \"Mercury poisoning linked to skin products\"",
+          "url": "https://www.fda.gov/consumers/consumer-updates/mercury-poisoning-linked-skin-products",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Skin has become thin, streaky, bruises easily, or has new stretch-like marks (dermatologist or doctor).",
+      "Blue-black or grey marks appear on the face, especially over cheeks and temples (dermatologist).",
+      "You feel unwell after using a cream that may contain mercury, for example swelling, a metallic taste, sore gums or nausea, or you notice changes in your urine (doctor, the same day if severe).",
+      "You want to stop and the skin darkens or flares when you do (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "68 studies, 67,665 people worldwide",
+      "design": "Meta-analysis and meta-regression of the prevalence of skin bleaching",
+      "n": 67665,
+      "finding": "Pooled lifetime prevalence of skin bleaching was 27.7%, and 27.1% in Africa, with very high heterogeneity, so the figure is a rough average of unlike samples. The highest prevalence in a subgroup analysis was 51.8%, associated with topical corticosteroid use (the abstract does not say whether this is the share of users who applied steroids); the pooled sample is global, not Black-specific.",
+      "source": {
+        "authors": "Sagoe D et al",
+        "year": 2019,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29888464/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Prevalence and corticosteroid figures from the 12 Nov research file (agent4), which opened the paper; I confirmed the paper exists and its title. Not re-read by me.",
+      "id": "sagoe-2019"
+    },
+    {
+      "population": "425 women who used bleaching products, plus 368 women screened, in Dakar, Senegal",
+      "design": "Cross-sectional clinic study with examination and analysis of product samples",
+      "n": 425,
+      "finding": "52.7% of 368 women questioned were current users. Users reported hydroquinone (89%), glucocorticoids (70%), mercury iodide (10%) and caustic agents (17%). Hydroquinone in analysed samples was 4% to 8.7%. The main skin problems in users included dermatophyte infections (105 women) and scabies (69).",
+      "source": {
+        "authors": "Mahe A, Ly F, Aymard G, Dangou JM",
+        "year": 2003,
+        "journal": "British Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12653741/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "mahe-2003"
+    },
+    {
+      "population": "549 skin-lightening products from 32 countries bought in the US, Taiwan, Japan, China, Thailand and Sri Lanka",
+      "design": "Spectrometric screening for mercury",
+      "n": 549,
+      "finding": "33 products (6.0%) contained mercury above 1,000 ppm, and 45% of the mercury-containing samples contained more than 10,000 ppm. Of products bought in the US, 3.3% had mercury over 1,000 ppm. The US legal limit is 1 ppm.",
+      "source": {
+        "authors": "Hamann CR, Boonchai W, Wen L, Sakanashi EN et al",
+        "year": 2014,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24321702/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Product testing, not a study of people. One sample per product.",
+      "id": "hamann-2014"
+    },
+    {
+      "population": "41 papers from 22 countries; 787 product samples and 1,042 human biomarker measurements",
+      "design": "Systematic review of mercury exposure from lightening products",
+      "n": 863,
+      "finding": "Mercury is widely present as an active ingredient. The Minamata Convention bans manufacture, import or export of lightening products above 1 ppm mercury.",
+      "source": {
+        "authors": "Bastiansz A, Ewald J, Rodriguez Saldana V, Santa-Rios A et al",
+        "year": 2022,
+        "journal": "Environmental Health Perspectives",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36367779/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "bastiansz-2022"
+    },
+    {
+      "population": "31 relevant reports of mercury poisoning from lightening cosmetics (to March 2011)",
+      "design": "Toxicology review of case reports and product analyses",
+      "n": 31,
+      "finding": "Mercury and its salts are prohibited as skin-lightening agents because of high toxicity. The kidneys are the major site of deposition; renal damage includes reversible proteinuria, acute tubular necrosis and nephrotic syndrome. Gastrointestinal effects include a metallic taste, gingivostomatitis, nausea and hypersalivation. A single case report (Tang 2006, PMID 16912361) documented a woman with nephrotic syndrome whose proteinuria remitted 9 months after stopping the cream.",
+      "source": {
+        "authors": "Chan TY",
+        "year": 2011,
+        "journal": "Clinical Toxicology (Philadelphia)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22070559/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read in full for kidney and gut effects; neurological part of the abstract was cut off in my read.",
+      "id": "chan-2011"
+    },
+    {
+      "population": "126 patients with hydroquinone-associated ochronosis in 56 case reports",
+      "design": "Systematic review of case reports",
+      "n": 126,
+      "finding": "Of cases, 55.5% were reported as Black and 52.4% were Fitzpatrick V-VI. Median use was 5 years; four cases came after 3 months or less and eight after a year or less. Concentrations above 4% were most often implicated. All had blue-black or grey-blue lace-like marks on the face; treatment is often unsatisfactory.",
+      "source": {
+        "authors": "Ishack S, Lipner SR",
+        "year": 2022,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34486734/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Case reports cannot give a risk rate; they show the harm exists and who it is reported in.",
+      "id": "ishack-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That lightening products cause harm: product testing, case series and systematic reviews, no trials (none would be ethical).",
+  "tier_note": "The harm evidence is observational and from clinics in Black populations, with product-testing data; there is no trial because nobody randomises people to a likely-harmful product.",
+  "harm_flag": true,
+  "harm_note": "Mercury above legal limits in 6% of 549 products tested (Hamann 2014); superpotent steroids and hydroquinone at 4 to 8.7% in products used in Dakar, with fungal infections and scabies in users (Mahe 2003); hydroquinone ochronosis, often irreversible, reported mostly in people with skin type V-VI (Ishack 2022).",
+  "founder_flag": false,
+  "evidence_summary": "Many skin lightening creams contain mercury, strong steroids or high-strength hydroquinone, and these have caused serious skin and kidney harm in reported cases. Lightening your whole skin is not something the evidence supports as safe. If your concern is dark patches or marks, there are treatments that target those and are tested in dark skin.",
+  "measured_variables": [
+    "Product mercury content in ppm",
+    "Fitzpatrick skin type V-VI in ochronosis reports (a reporting stand-in, not shown to cause the harm)"
+  ],
+  "gaps": "Untested: whether commonly sold 'natural' lightening products work or harm; long-term kidney effects at population level; the sample behind the often-quoted Nigeria prevalence (the 12 Nov research file says the '77%' figure has no traceable source, so it is not used here). Not covered: the social causes.",
+  "related": [
+    "dark-marks-after-acne",
+    "sunscreen-on-dark-skin",
+    "black-soap-and-african-black-soap"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Sagoe D et al",
+      "year": 2019,
+      "journal": "Int J Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29888464/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Mahe A et al",
+      "year": 2003,
+      "journal": "Br J Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12653741/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Hamann CR et al",
+      "year": 2014,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24321702/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bastiansz A et al",
+      "year": 2022,
+      "journal": "Environ Health Perspect",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36367779/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Ishack S, Lipner SR",
+      "year": 2022,
+      "journal": "Int J Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34486734/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Chan TY",
+      "year": 2011,
+      "journal": "Clin Toxicol (Phila)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22070559/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Tang HL et al",
+      "year": 2006,
+      "journal": "Hong Kong Med J",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16912361/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "US FDA consumer update, \"Mercury poisoning linked to skin products\"",
+      "url": "https://www.fda.gov/consumers/consumer-updates/mercury-poisoning-linked-skin-products",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

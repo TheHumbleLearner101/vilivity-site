@@ -1,0 +1,194 @@
+{
+  "slug": "colourism-and-mental-health",
+  "title": "Colourism, skin tone and mental health",
+  "category": "mind",
+  "kind": "condition",
+  "question_forms": [
+    "How do I build self-esteem and cope with colourism?",
+    "Does colourism affect mental health?",
+    "Does being darker skinned make racism harder on mental health?",
+    "Where can I get support for colourism?"
+  ],
+  "tradition_says": "Colourism, treating lighter skin as better inside Black communities as well as outside them, is often talked about as something you endure or toughen up against, and mostly kept to yourself.",
+  "layer1": {
+    "plain_answer": "In US surveys of Black adults, experiencing colourism within the community went with higher odds of a psychiatric disorder, and among older adults the link between discrimination and distress was stronger in darker-skinned people. These are associations, not proof of cause. No trial has tested a way to cope with it, so use ordinary mental health support.",
+    "do": [
+      {
+        "text": "Talk to someone you trust, and if it is weighing on you, self-refer to NHS (UK) talking therapies for low mood, worry or anxiety.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"NHS talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you want a therapist who understands racism and identity, see the finding a Black therapist entry; matching made almost no difference to outcomes on average, so fit comes first.",
+        "basis": "tested",
+        "source": "cabral-2011"
+      },
+      {
+        "text": "Notice that this is a recognised social stress: the surveys treat colourism as a source of distress, so it is reasonable to raise it with a doctor or therapist as part of why you feel low or anxious.",
+        "basis": "tested",
+        "source": "oh-2021"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming it is only in your head: the surveys link perceived colourism to measurable psychiatric outcomes, though they cannot show it causes them.",
+        "basis": "tested",
+        "source": "oh-2021"
+      }
+    ],
+    "see_someone_when": [
+      "Low mood, anxiety or worry that is stopping you working, studying or looking after yourself (doctor or NHS in the UK talking therapies self-referral).",
+      "Drinking, drug use or eating that is getting out of your control (doctor; NHS in the UK says these need a doctor referral for talking therapy).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option, or Samaritans free on 116 123."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Black American adults, National Survey of American Life 2001-2003 (probability sample)",
+      "design": "Cross-sectional survey, multivariable logistic regression",
+      "n": "not stated in the abstract",
+      "finding": "In-group colourism (from other Black people) was associated with greater odds of any lifetime psychiatric disorder (aOR 1.20, 95% CI 1.08 to 1.32); out-group colourism was not (aOR 1.08, 0.99 to 1.18). In-group colourism was linked to alcohol use, substance use, anxiety and eating disorders, but not PTSD or mood disorder. The authors say more research is needed to understand why.",
+      "source": {
+        "authors": "Oh H, Lincoln K, Waldman K",
+        "year": 2021,
+        "journal": "Social Psychiatry and Psychiatric Epidemiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33961079/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "oh-2021",
+      "note": "Association from one survey, perceived colourism self-reported; not a trial and not proof of cause."
+    },
+    {
+      "population": "837 African Americans aged 55 or over, National Survey of American Life",
+      "design": "Cross-sectional survey with regression; skin tone self-reported",
+      "n": "837",
+      "finding": "Discrimination was linked to worse self-rated mental health and serious psychological distress, and the link with distress was stronger in darker-skinned respondents than lighter ones. For self-rated mental health the skin tone effect held for men but not women.",
+      "source": {
+        "authors": "Hamler TC, Nguyen AW, Keith V, Qin W et al",
+        "year": 2022,
+        "journal": "Journals of Gerontology Series B",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35976084/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "hamler-2022",
+      "note": "Older adults only; association; mechanisms not tested."
+    },
+    {
+      "population": "627 working-age Black adults in Nashville, 2011-2014",
+      "design": "Community survey plus biomarkers (telomere length)",
+      "n": "627",
+      "finding": "Black adults who perceived themselves as dark-skinned had a lower sense of mattering and shorter telomeres than those who perceived their skin lighter, regardless of interviewer-rated skin tone.",
+      "source": {
+        "authors": "Dennis AC, DeAngelis R, Hargrove TW, Pearson JA",
+        "year": 2026,
+        "journal": "Journal of Health and Social Behavior",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40981000/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "dennis-2026",
+      "note": "One city; telomeres are a research biomarker, not a diagnosis."
+    },
+    {
+      "population": "Colourism coping",
+      "design": "PubMed searches 12 Nov 2026: (colorism OR colourism) AND (mental health OR depression OR self-esteem) AND (Black OR African American) restricted to reviews, 2 hits, neither about coping; (colorism OR skin tone discrimination) AND (depress* OR psychological distress) AND (Black OR African American), 9 hits, all observational, none an intervention trial. Positive control: (autism) AND (Black OR African American) AND systematic review, 8 hits.",
+      "n": 0,
+      "finding": "My search found nothing: no trial or evaluated programme for coping with colourism or building self-esteem in response to it.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28colorism+OR+skin+tone+discrimination%29+AND+%28depress*+OR+psychological+distress%29+AND+%28Black+OR+African+American%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "no-coping-trial"
+    },
+    {
+      "population": "Clients and therapists across 52 to 81 studies per question; countries not stated in the abstract",
+      "design": "Meta-analysis of racial/ethnic matching",
+      "n": "52 preference, 81 perception, 53 outcome studies",
+      "finding": "Matching made almost no difference to treatment outcomes on average (d 0.09), despite a moderately strong preference for a matched therapist (d 0.63). Studies with African American participants had the highest effect sizes.",
+      "source": {
+        "authors": "Cabral RR, Smith TB",
+        "year": 2011,
+        "journal": "Journal of Counseling Psychology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21875181/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "cabral-2011"
+    }
+  ],
+  "tier": "B",
+  "tier_variant": "observational-black-population",
+  "strength": "moderate",
+  "tier_driver": "That colourism and skin tone are linked to worse mental health in Black adults: three US survey and community studies pointing the same way. What helps is untested.",
+  "tier_note": "B observational in Black populations: probability-sample and community surveys that agree on direction but cannot show cause; all US. Moderate because the studies point the same way (a lower step than a review or trial). The coping advice is D: my search found nothing, and the do lines are general mental health routes, not colourism treatment.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for seeking support. Skin-lightening products, sometimes used in response to colourism, carry real harms (see the skin lightening entry).",
+  "founder_flag": false,
+  "evidence_summary": "A national US survey of Black adults (Oh 2021) linked in-group colourism to higher odds of any lifetime psychiatric disorder (aOR 1.20), especially anxiety, alcohol, substance and eating disorders, and not to mood disorder or PTSD. Among 837 older African Americans, the discrimination and distress link was stronger in darker-skinned people (Hamler 2022). In 627 Nashville adults, those who saw themselves as dark-skinned reported a lower sense of mattering and had shorter telomeres (Dennis 2026). All are US studies and associations. My search found no trial of a way to cope with colourism, and no UK study.",
+  "measured_variables": [
+    "Skin tone (self-rated and interviewer-rated)",
+    "Perceived in-group and out-group colourism"
+  ],
+  "gaps": "Untested: any intervention for colourism or the self-esteem it affects; whether findings hold in the UK or Africa; mood disorder results differ between studies. The Dennis 2026 model is theory plus one-city data. Social anxiety and self-esteem measures were not searched separately. Support groups and community programmes by Black-led organisations: none opened.",
+  "related": [
+    "racism-and-mental-health",
+    "finding-a-black-therapist",
+    "stigma-and-starting-therapy",
+    "skin-lightening-creams"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Oh H et al",
+      "year": 2021,
+      "journal": "Social Psychiatry and Psychiatric Epidemiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33961079/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Hamler TC et al",
+      "year": 2022,
+      "journal": "Journals of Gerontology Series B",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35976084/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Dennis AC et al",
+      "year": 2026,
+      "journal": "Journal of Health and Social Behavior",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40981000/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "This bank, 12 Nov 2026",
+      "year": 2026,
+      "journal": "PubMed search",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28colorism+OR+skin+tone+discrimination%29+AND+%28depress*+OR+psychological+distress%29+AND+%28Black+OR+African+American%29",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"NHS talking therapies\"",
+      "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "authors": "Cabral RR et al",
+      "year": 2011,
+      "journal": "J Couns Psychol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21875181/",
+      "tag": "[review]"
+    }
+  ]
+}

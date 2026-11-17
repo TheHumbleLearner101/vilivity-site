@@ -1,0 +1,66 @@
+{
+  "slug": "newborn-oil-massage-and-petroleum-jelly",
+  "name": "Oiling and massaging newborns",
+  "regions": [
+    "West Africa",
+    "East and Southern Africa"
+  ],
+  "module": "skin",
+  "what_people_do": "Rub cooking oil, other natural oils or petroleum jelly into a newborn after bathing; massage the belly with a kola paste in some Nigerian communities.",
+  "why_they_say_it_works": "To keep the baby's skin supple, strengthen the limbs and, in the kola-paste custom, prevent thrush and skin infection.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Postnatal care and emollient therapy, Harare, 2024, BMC Pediatr, PMID 38493088",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38493088/",
+      "quote_or_summary": "Harare, 61 mothers interviewed: postnatal skincare is central, petroleum jelly application is nearly universal, and cooking oil and other natural oils are traditional."
+    },
+    {
+      "source": "Iweze FA 1983, J Nurse Midwifery, PMID 6552278 (Bendel State, Nigeria)",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6552278/",
+      "quote_or_summary": "Bendel State, Nigeria (1983 ethnographic outline): mothers make a paste of kola nuts and rub it on the abdomen to prevent thrush and skin infection in the newborn; midwives do abdominal massage."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Emollient therapy in preterm or low-birth-weight babies",
+      "population": "WHO recommendation cited in the abstract; trials not opened",
+      "finding": "The abstract says WHO recommends emollient therapy for preterm and low-birth-weight infants and calls for more research in Africa.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Postnatal care and emollient therapy, Harare, 2024, BMC Pediatr, PMID 38493088",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38493088/"
+      }
+    },
+    {
+      "tested": "Kola paste on the abdomen",
+      "population": "n/a",
+      "finding": "No study found.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "low",
+  "harm_note": "Oils can irritate and some cooking oils may harm fragile skin (not sourced here); for preterm babies clinics now offer emollient therapy.",
+  "links_to_entries": [
+    "baby-skin-care",
+    "shea-butter"
+  ],
+  "gaps": [
+    "Trial-level evidence for emollients not opened.",
+    "Which oils are best for dark-skinned newborns not found."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/newborn-oil-massage-and-petroleum-jelly/"
+}

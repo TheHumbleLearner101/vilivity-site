@@ -1,0 +1,30 @@
+{
+  "pmid": "15983536",
+  "slug": "hill-2005-15983536",
+  "citation": {
+    "authors": "Hill LL, Woodruff LH, Foote JC, Barreto-Alcoba M",
+    "year": 2005,
+    "journal": "Journal of the American Dietetic Association"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15983536/",
+  "page": "https://vilivity.com/studies/hill-2005-15983536/",
+  "cited_by": [
+    {
+      "entry": "apple-cider-vinegar",
+      "title": "Apple cider vinegar: weight, blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/apple-cider-vinegar/",
+      "record": {
+        "id": "hill-2005",
+        "population": "One adult who reported an adverse event, and eight apple cider vinegar tablet products tested",
+        "n": 8,
+        "design": "Case report with laboratory testing of products (pH, acid content, microbial growth)",
+        "finding": "Apple cider vinegar tablets injured the oesophagus in one reported case. The eight products varied widely in tablet size, acidity, acid content and label claims, and the authors doubted whether apple cider vinegar was actually an ingredient in some of them.",
+        "line_tier": "C",
+        "note": "One case and a product check, 2005. A harm signal for the tablet form, not the liquid.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

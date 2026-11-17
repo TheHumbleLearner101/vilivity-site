@@ -1,0 +1,178 @@
+{
+  "slug": "sleep-and-sleep-apnoea",
+  "title": "Sleep, short sleep and sleep apnoea",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How can I sleep better?",
+    "Do Black people get less sleep?",
+    "Is sleep apnoea more common in Black adults?",
+    "Does stress or racism affect my sleep?"
+  ],
+  "tradition_says": "Many people say sleep is a luxury when you are working hard or caring for others, and that waking tired is normal.",
+  "layer1": {
+    "plain_answer": "In a US study Black adults were more likely to sleep under six hours and to have sleep apnoea than white adults, and most people with apnoea had never been told. Discrimination is also linked to shorter sleep. If you snore loudly, gasp or are always tired, see a GP. Regular habits help insomnia.",
+    "do": [
+      {
+        "text": "Wake at the same time every day and go to bed only when sleepy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Insomnia\"",
+          "url": "https://www.nhs.uk/conditions/insomnia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep the bedroom dark and quiet, and relax for at least an hour before bed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Insomnia\"",
+          "url": "https://www.nhs.uk/conditions/insomnia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Stop tea, coffee, alcohol and smoking at least 6 hours before bed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Insomnia\"",
+          "url": "https://www.nhs.uk/conditions/insomnia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor if you snore loudly, gasp or choke in your sleep or are always very tired in the day; ask a partner to watch for pauses in breathing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sleep apnoea\"",
+          "url": "https://www.nhs.uk/conditions/sleep-apnoea/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Mention it if you have never been tested: most people with sleep apnoea in one US study had no prior diagnosis.",
+        "basis": "tested",
+        "source": "chen-2015"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Sleeping in or napping to make up after a bad night.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Insomnia\"",
+          "url": "https://www.nhs.uk/conditions/insomnia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Using phones or screens right before bed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Insomnia\"",
+          "url": "https://www.nhs.uk/conditions/insomnia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming constant tiredness is normal for you: apnoea needs treating.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sleep apnoea\"",
+          "url": "https://www.nhs.uk/conditions/sleep-apnoea/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Loud snoring with gasping or choking, morning headaches, or you are always very tired (doctor; they can refer you for a sleep test).",
+      "Poor sleep for 3 months or more, or sleep problems alongside low mood or anxiety (doctor).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "2,230 US adults aged 54 to 93 (MESA Sleep cohort), including Black participants",
+      "design": "Cross-sectional study with overnight sleep tests and wrist monitors",
+      "n": "2,230",
+      "finding": "Compared with white adults, Black adults had higher odds of sleep apnoea syndrome (OR 1.78, 95% CI 1.20 to 2.63), short sleep under 6 hours (OR 4.95, 3.56 to 6.90), poor sleep quality (OR 1.57) and daytime sleepiness (OR 1.89). Only 7.4% to 16.2% of people with moderate or worse sleep-disordered breathing reported a prior diagnosis.",
+      "source": {
+        "authors": "Chen X, Wang R, Zee P et al",
+        "year": 2015,
+        "journal": "Sleep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25409106/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional, ages 54 to 93, US; adjusted for age, sex and site only.",
+      "id": "chen-2015"
+    },
+    {
+      "population": "40,038 US women in the Sister Study (8% non-Hispanic Black)",
+      "design": "Cross-sectional survey of reported discrimination and sleep",
+      "n": "40,038",
+      "finding": "Non-Hispanic Black participants most often reported everyday (76%) and major (52%) racial discrimination. Reporting both types was linked to short sleep (prevalence ratio 1.17, 95% CI 1.09 to 1.25) and insomnia symptoms (1.10, 1.01 to 1.20).",
+      "source": {
+        "authors": "Gaston SA, Feinstein L, Slopen N et al",
+        "year": 2020,
+        "journal": "Sleep Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32505024/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Women only, cross-sectional, self-report; the excerpt I read cut off before the Black-only subgroup results.",
+      "id": "gaston-2020"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_driver": "Whether sleep apnoea and short sleep are more common in Black adults: large US cohorts and surveys show it, with discrimination linked to shorter sleep.",
+  "tier_note": "Tier B observational in Black populations, mostly older US adults and a women-only cohort; nothing here tests a sleep treatment in Black adults. The CDC 2024 figures ChatGPT quotes (40.2% under 7 hours) were not opened by me.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. Untreated sleep apnoea is the risk, which is why the entry says see a doctor.",
+  "founder_flag": false,
+  "evidence_summary": "Chen and colleagues (2015) used overnight sleep tests in 2,230 adults: Black participants had higher odds of sleep apnoea syndrome, short sleep, poor sleep quality and daytime sleepiness than white participants, and few with apnoea had a diagnosis. Gaston and colleagues (2020) linked reported racial discrimination with short sleep and insomnia symptoms in 40,038 women. The UK's NHS pages give the self-help habits for insomnia and the symptoms of sleep apnoea.",
+  "measured_variables": [
+    "Sleep apnoea (apnoea-hypopnoea index plus sleepiness)",
+    "Sleep duration",
+    "Sleep quality",
+    "Reported discrimination"
+  ],
+  "gaps": "Untested or not found: UK data on sleep apnoea by ethnicity; whether CPAP or sleep-habit advice works differently in Black adults; younger adults; shift work; the CDC Data Brief 559 and the 2026 systematic review ChatGPT cites were not opened.",
+  "related": [
+    "stress-burnout-and-blood-pressure",
+    "breathwork",
+    "meditation"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Chen X et al",
+      "year": 2015,
+      "journal": "Sleep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25409106/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Gaston SA et al",
+      "year": 2020,
+      "journal": "Sleep Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32505024/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Insomnia\"",
+      "url": "https://www.nhs.uk/conditions/insomnia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Sleep apnoea\"",
+      "url": "https://www.nhs.uk/conditions/sleep-apnoea/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

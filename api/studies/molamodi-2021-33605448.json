@@ -1,0 +1,47 @@
+{
+  "pmid": "33605448",
+  "slug": "molamodi-2021-33605448",
+  "citation": {
+    "authors": "Molamodi et al",
+    "year": 2021,
+    "journal": "International Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33605448/",
+  "page": "https://vilivity.com/studies/molamodi-2021-33605448/",
+  "cited_by": [
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "molamodi-2021",
+        "population": "30 women (15 frequent braiders against 15 comparison women); hair fibres studied in the laboratory",
+        "n": 30,
+        "design": "Fibre damage after standardised combing strokes and comparison of braiders and non-braiders",
+        "finding": "Cuticle damage rose in a linear trend with the number of combing strokes; 480 strokes did more cuticle damage than frequent braiding. Frequent braiders had weaker, thinner fibres.",
+        "line_tier": "C",
+        "note": "Small. Funder not stated in the abstract. Hair-fibre measurements, not hair length kept.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "wash-day-routine-for-4c-hair",
+      "title": "Wash day and routine for 4c hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/wash-day-routine-for-4c-hair/",
+      "record": {
+        "id": "molamodi-2021",
+        "population": "30 women (15 frequent braiders against 15 comparison women); hair fibres studied in the laboratory",
+        "n": 30,
+        "design": "Fibre damage after standardised combing strokes and comparison of braiders and non-braiders",
+        "finding": "Cuticle damage rose in a linear trend with the number of combing strokes; 480 strokes did more cuticle damage than frequent braiding. Frequent braiders had weaker, thinner fibres.",
+        "line_tier": "C",
+        "note": "Small. Funder not stated in the abstract. Hair-fibre measurements, not hair length kept.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

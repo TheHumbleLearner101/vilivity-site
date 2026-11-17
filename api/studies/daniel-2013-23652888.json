@@ -1,0 +1,30 @@
+{
+  "pmid": "23652888",
+  "slug": "daniel-2013-23652888",
+  "citation": {
+    "authors": "Daniel A, Gustafson CJ, Zupkosky PJ, Candido A et al",
+    "year": 2013,
+    "journal": "Journal of Drugs in Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23652888/",
+  "page": "https://vilivity.com/studies/daniel-2013-23652888/",
+  "cited_by": [
+    {
+      "entry": "shaving-and-razor-bumps",
+      "title": "Shaving and razor bumps (pseudofolliculitis barbae)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/shaving-and-razor-bumps/",
+      "record": {
+        "id": "daniel-2013",
+        "population": "90 African American men with pseudofolliculitis barbae (PFB)",
+        "n": 90,
+        "design": "Randomised to three groups for 12 weeks: shaving 2-3 times a week with standard products, daily with standard products, or daily with advanced products",
+        "finding": "Papule and pustule counts did not differ between groups at 12 weeks, and investigator-graded severity did not differ (P=.43). Ingrown hairs were significantly fewer in the 2-3 times a week group than in either daily group (P=.005 against daily standard, P=.04 against daily advanced). Participants in the daily advanced products group reported more perceived improvement (P=.007) and less itching (P=.002) than the 2-3 times a week group.",
+        "line_tier": "A",
+        "note": "V2 check against the abstract (efetch, 12 Nov 2026): papule and pustule counts did not differ between groups (P=.32, P=.46); ingrown hairs were fewer in the 2-3 times a week group than in either daily group (P=.005, P=.04); investigator severity did not differ (P=.43). The daily \"advanced products\" group reported better perceived response (P=.007) and itching (P=.002) than the 2-3 times a week group. The abstract names no product or razor type, so it cannot support single-blade or razor-guard advice. Funding not stated.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

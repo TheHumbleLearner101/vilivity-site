@@ -1,0 +1,30 @@
+{
+  "pmid": "27726123",
+  "slug": "gillies-2016-27726123",
+  "citation": {
+    "authors": "Gillies D, Maiocchi L, Bhandari AP, Taylor F et al",
+    "year": 2016,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27726123/",
+  "page": "https://vilivity.com/studies/gillies-2016-27726123/",
+  "cited_by": [
+    {
+      "entry": "childhood-trauma-and-where-to-start",
+      "title": "Childhood trauma and where to start",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/childhood-trauma-and-where-to-start/",
+      "record": {
+        "id": "gillies-2016",
+        "population": "51 randomised trials with 6,201 children and adolescents who had been exposed to trauma (sexual abuse in 12 trials, war or community violence in 10, other traumas in the rest)",
+        "n": 6201,
+        "design": "Cochrane systematic review of psychological therapies versus control",
+        "finding": "Psychological therapy cut the chance of a PTSD diagnosis, compared with no treatment, usual care or waiting list, for up to a month after therapy (odds ratio 0.51, 95% CI 0.34 to 0.77). Seventeen trials used cognitive-behavioural therapy and two EMDR.",
+        "line_tier": "B",
+        "note": "The abstract text I opened gave the short-term result; the medium- and long-term results and the certainty rating were cut off. Trial populations were mixed and the abstract does not give the share who were Black.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

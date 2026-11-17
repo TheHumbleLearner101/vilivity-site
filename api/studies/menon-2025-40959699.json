@@ -1,0 +1,30 @@
+{
+  "pmid": "40959699",
+  "slug": "menon-2025-40959699",
+  "citation": {
+    "authors": "Menon A, Jalal A, Arshad Z, Nawaz FA et al",
+    "year": 2025,
+    "journal": "Frontiers in Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40959699/",
+  "page": "https://vilivity.com/studies/menon-2025-40959699/",
+  "cited_by": [
+    {
+      "entry": "lions-mane-and-reishi-mushroom-supplements",
+      "title": "Lion's mane and reishi mushroom supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/lions-mane-and-reishi-mushroom-supplements/",
+      "record": {
+        "id": "menon-2025",
+        "population": "Humans and laboratory models: five randomised trials, three pilot trials, one cohort study and a case report on lion's mane, plus 15 laboratory studies",
+        "n": "5 randomised trials and 3 pilot trials",
+        "design": "Systematic review of lion's mane as a supplement (benefits and side effects)",
+        "finding": "The authors report cognitive benefits in the trials, including a combined Mini-Mental State Examination gain of about 1 point. Side effects are commonly unreported; those that were reported include stomach discomfort, headache and allergic reactions.",
+        "line_tier": "B",
+        "note": "A very small evidence base, mostly in people with cognitive problems. Ethnicity not described in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

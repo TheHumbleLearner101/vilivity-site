@@ -1,0 +1,30 @@
+{
+  "pmid": "39828620",
+  "slug": "hernandez-2025-39828620",
+  "citation": {
+    "authors": "Hernandez AM, Smith SJ, Vahora MS, Campbell D et al",
+    "year": 2025,
+    "journal": "Journal of Applied Toxicology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39828620/",
+  "page": "https://vilivity.com/studies/hernandez-2025-39828620/",
+  "cited_by": [
+    {
+      "entry": "chemical-relaxers",
+      "title": "Chemical relaxers and hair straighteners",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/chemical-relaxers/",
+      "record": {
+        "id": "hernandez-2025",
+        "population": "Seven cohort studies and one case-control study in US Black women",
+        "n": "8 studies",
+        "design": "Systematic review of hair relaxer use and reproductive and breast outcomes",
+        "finding": "The authors conclude that the weight of the evidence does not support relaxers being a risk factor for gynaecological and breast cancers in US Black women. They note one study found a statistically significant link with fibroids and that none of the studies characterised the chemical constituents.",
+        "line_tier": "B",
+        "note": "Counter-evidence. Funding and conflicts not checked; relaxers are the subject of litigation (per the 12 Nov research file), so independence is UNVERIFIED.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

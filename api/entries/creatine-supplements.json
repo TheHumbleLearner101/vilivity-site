@@ -1,0 +1,161 @@
+{
+  "slug": "creatine-supplements",
+  "title": "Creatine supplements: strength, kidneys and your kidney test",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "Does creatine work for building muscle?",
+    "Is creatine bad for your kidneys?",
+    "Can creatine change my kidney blood test (creatinine, eGFR)?",
+    "Has creatine been tested on Black people?"
+  ],
+  "tradition_says": "Creatine is made in the body and found in meat and fish. As a powder it is a gym staple for strength and power, and it is now promoted for brain health and ageing.",
+  "layer1": {
+    "plain_answer": "Creatine helps strength gains when you train with weights, in trials of mostly young men, and reviews found no kidney harm in healthy adults. Our search found no creatine trial in Black participants. It raises the creatinine kidney marker, so tell anyone reading your kidney tests, and check with a doctor first if you have kidney problems.",
+    "do": [
+      {
+        "text": "Tell any clinician who reads your kidney blood tests that you take creatine: it can raise serum creatinine without harming your kidneys.",
+        "basis": "tested",
+        "source": "naeini-2025"
+      },
+      {
+        "text": "Pair it with resistance training if strength is your aim: that is where the trial gains were seen.",
+        "basis": "tested",
+        "source": "wang-2024"
+      },
+      {
+        "text": "Check with your health care provider before using it if you are at risk of kidney problems, and expect to be monitored.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Bodybuilding and Performance Enhancement Supplements: What You Need To Know\"",
+          "url": "https://www.nccih.nih.gov/health/bodybuilding-and-performance-enhancement-supplements",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Creatine for teenagers: NCCIH says no safety data exist in children, and the American Academy of Pediatrics and American College of Sports Medicine warn against it for teens.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Bodybuilding and Performance Enhancement Supplements: What You Need To Know\"",
+          "url": "https://www.nccih.nih.gov/health/bodybuilding-and-performance-enhancement-supplements",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Assuming a \"low\" kidney reading is real if you take creatine and a creatinine-based test is the only evidence: ask whether another test is needed.",
+        "basis": "tested",
+        "source": "gray-2026"
+      }
+    ],
+    "see_someone_when": [
+      "Your creatinine or eGFR result looks abnormal while you take creatine (doctor; ask about repeating it off creatine or a cystatin C test).",
+      "You have kidney disease or a family history of it (doctor or kidney team, before starting).",
+      "Severe muscle pain, swelling or very dark urine after hard exercise (urgent care)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults under 50 in 23 trials of creatine with resistance training (460 men and 49 women across the included studies)",
+      "design": "Systematic review and meta-analysis of randomised trials",
+      "n": 509,
+      "finding": "Creatine with resistance training raised upper-body strength by 4.4 kg and lower-body strength by 11.4 kg more than placebo. Males gained strength; females showed no significant gains, though only three studies included women. Ethnicity was not reported.",
+      "source": {
+        "authors": "Wang Z, Qiu B, Li R, Han Y et al",
+        "year": 2024,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39519498/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Mostly young men. Strength outcomes, not health outcomes.",
+      "id": "wang-2024"
+    },
+    {
+      "population": "Adults in 21 studies (12 in the creatinine meta-analysis: 177 on creatine, 263 controls)",
+      "design": "Systematic review and meta-analysis of creatine and kidney function",
+      "n": 440,
+      "finding": "Creatine produced a small, statistically significant rise in serum creatinine, with no significant change in glomerular filtration rate (GFR). The authors call the creatinine rise modest and probably due to metabolic turnover with no sign of kidney impairment.",
+      "source": {
+        "authors": "Naeini EK, Eskandari M, Mortazavi M, Gholaminejad A et al",
+        "year": 2025,
+        "journal": "BMC Nephrology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41199218/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Mostly healthy adults. Ethnicity not reported in the abstract.",
+      "id": "naeini-2025"
+    },
+    {
+      "population": "People in population cohorts in Uganda (5,760) and South Africa (827), checked in African American participants of the Million Veteran Program",
+      "design": "Genetic association study (whole-genome sequencing, measured GFR by iohexol) of creatine-synthesis gene variants and creatinine-based kidney estimates",
+      "n": 6587,
+      "finding": "Variants in the GATM gene, common in African populations (allele frequency about 50 per cent) and rare in Europeans, raise creatine production and so serum creatinine. Each copy lowers the creatinine-based kidney estimate (eGFR) by about 2 mL/min/1.73 m2 with no link to measured GFR or cystatin C, so the estimate can read low without kidney disease.",
+      "source": {
+        "authors": "Gray OA, Yerges-Armstrong L, Castel SE, Brandenburg JT et al",
+        "year": 2026,
+        "journal": "Kidney International",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498056/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "This studies the body's own creatine production and tests no supplement. It is included because a supplement also raises creatinine, so a creatinine-based kidney test needs context. Variants are the measured variable; ancestry is only a proxy.",
+      "id": "gray-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That creatine improves strength with training: a meta-analysis of 23 trials (about 510 adults, mostly men) found gains, with no creatine trial in Black participants.",
+  "tier_note": "A systematic review of many trials with a hard-to-measure outcome (strength) and kidney reviews of healthy adults. I did not read certainty ratings, so I took the lower reading: moderate. It stays B, short of A, because no trial in people of African descent was found; the African-ancestry paper is about creatinine tests and not about supplements.",
+  "harm_flag": true,
+  "harm_note": "Reviews found no kidney harm in healthy adults. NCCIH reports claims of liver and kidney effects and a link with compartment syndrome, advises monitoring in people at risk of kidney problems, and says teens should not use it. The practical hazard for Black people is a misread creatinine test: African-enriched GATM variants already push creatinine-based eGFR down, and creatine raises creatinine further.",
+  "founder_flag": false,
+  "evidence_summary": "Pooled trials show creatine plus resistance training gives larger strength gains than training alone, mostly in young men. Reviews of kidney outcomes found a small rise in serum creatinine with no significant change in measured kidney filtration, and the authors read that as turnover with no sign of damage. NCCIH advises people at risk of kidney problems to check first and be monitored, and warns against use in teenagers. A 2026 genetic study in Ugandan and South African cohorts shows variants common in African ancestry that raise the body's own creatine and creatinine and so lower creatinine-based eGFR without changing measured GFR.",
+  "measured_variables": [
+    "Strength (kg lifted) and power",
+    "Serum creatinine and eGFR (a creatinine-based estimate), measured GFR, cystatin C",
+    "GATM variants (genetic measure)",
+    "No ancestry variable in the supplement trials"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 6 records for creatine supplementation, all unrelated case reports or laboratory papers on creatine kinase and creatinine; none a creatine supplement trial in Black participants. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 4 records (titles read only: a muscle disease training study, an intermittent fasting N-of-1 study, a device study, a rhodiola study). The NIH Office of Dietary Supplements page was blocked and the Mayo Clinic page was not opened. Untested: creatine in Black participants; long-term use in people with kidney disease; how often creatine users are misclassified by creatinine-based tests.",
+  "related": [
+    "kidney-disease-apol1-and-egfr",
+    "starting-training-rest-days-and-recovery",
+    "sickle-cell-trait-and-hard-exercise",
+    "vitamins-and-supplements-basics"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Wang Z, Qiu B, Li R, Han Y et al",
+      "year": 2024,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519498/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Naeini EK, Eskandari M, Mortazavi M, Gholaminejad A et al",
+      "year": 2025,
+      "journal": "BMC Nephrology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41199218/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Gray OA, Yerges-Armstrong L, Castel SE, Brandenburg JT et al",
+      "year": 2026,
+      "journal": "Kidney International",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498056/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NCCIH, \"Bodybuilding and Performance Enhancement Supplements: What You Need To Know\"",
+      "url": "https://www.nccih.nih.gov/health/bodybuilding-and-performance-enhancement-supplements",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

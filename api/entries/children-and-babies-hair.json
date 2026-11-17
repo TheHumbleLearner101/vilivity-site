@@ -1,0 +1,219 @@
+{
+  "slug": "children-and-babies-hair",
+  "title": "Babies' and children's hair",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I look after a Black baby's or toddler's hair?",
+    "Are braids and tight styles safe for children's hair?"
+  ],
+  "tradition_says": "Babies' hair is oiled and greased early, braided and sealed, and tight styles are used to keep it neat for school. Some believe a baby's early hair must be cut or oiled to grow thick.",
+  "layer1": {
+    "plain_answer": "Children's hair is best handled the way adults' is: gently, with hair wet and conditioned for detangling. Tight braids and updos are linked to traction alopecia in Black girls; larger braids, fewer extensions and looser styles are advised. Cradle cap is harmless. My search found nothing aimed at adoptive parents, but the same guidance applies.",
+    "do": [
+      {
+        "text": "Detangle only when hair is wet and conditioned.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+          "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose larger braids or locs, fewer extensions, and loosen tight styles.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+          "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Remove extensions at least monthly and allow 4 to 6 weeks of recovery between long styles.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+          "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For cradle cap, massage in emollient or coconut oil, brush gently, then wash with baby shampoo.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Cradle cap\"",
+          "url": "https://www.nhs.uk/conditions/cradle-cap/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a satin pillowcase.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+          "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Tight braids and cornrows: in one caregiver survey cornrows were associated with traction alopecia among girls from non-dermatology clinics only, not the dermatology clinic group.",
+        "basis": "tested",
+        "source": "rucker-2011"
+      },
+      {
+        "text": "Olive oil, peanut oil, soap, adult shampoos or fragranced products on cradle cap.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Cradle cap\"",
+          "url": "https://www.nhs.uk/conditions/cradle-cap/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Picking cradle cap crusts: it can raise the risk of infection.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Cradle cap\"",
+          "url": "https://www.nhs.uk/conditions/cradle-cap/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Thinning, bald patches or a sore scalp from a hairstyle (doctor or paediatrician).",
+      "Cradle cap that does not improve after a few weeks, or covers the whole body (doctor).",
+      "Crusts that bleed or leak fluid, or swollen areas (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; logistic regression",
+      "n": 1178,
+      "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional: association, not cause.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US clinics",
+      "design": "Questionnaire, multivariate analysis",
+      "n": 201,
+      "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Caregiver report, small, wide confidence intervals; associations only.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "310 children aged 0 to 24 months, six trials",
+      "design": "Cochrane review of treatments for infantile seborrhoeic dermatitis (cradle cap)",
+      "n": 310,
+      "finding": "Six trials compared oral biotin against placebo, proprietary products against placebo or control shampoo, and topical steroids against other products; the trials were short (10 to 42 days) and the results were based on very low-quality evidence.",
+      "source": {
+        "authors": "Victoire A, Magin P et al",
+        "year": 2019,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30828791/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Trials not in Black children specifically.",
+      "id": "victoire-2019"
+    },
+    {
+      "population": "Adoptive parents and hair care",
+      "design": "PubMed search 12 Nov 2026: (hair care) AND (adoptive OR adopted OR transracial) AND (Black OR African American) AND (children OR child); 0 hits. Positive control: (traction alopecia) AND (children) returned 55 hits.",
+      "n": 0,
+      "finding": "My search found nothing: nothing from a clinical source; the guidance here comes from paediatric dermatology and the NHS for any parent.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hair+care%29+AND+%28adoptive+OR+adopted+OR+transracial%29+AND+%28Black+OR+African+American%29+AND+%28children+OR+child%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "adopt"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That tight styles are associated with traction alopecia in African and African American girls: cross-sectional and caregiver studies.",
+  "tier_note": "Observational; the paediatric dermatology advice comes from a conference talk reported in trade press, not a trial. Cradle cap treatments are very low-quality evidence.",
+  "harm_flag": true,
+  "harm_note": "Traction alopecia in 17% of schoolgirls in one South African sample (Khumalo 2008); caregiver report links cornrows to it (Rucker Wright 2011).",
+  "founder_flag": false,
+  "evidence_summary": "In 574 South African schoolgirls, 17.1% had traction alopecia (Khumalo 2008). Caregivers of African American girls reported cornrows associated with it (odds ratio 5.79) and 99% used oils or grease, 80% hot combs and 42% relaxers (Rucker Wright 2011). A paediatric dermatologist (reported by Dermatology Times, 2026) advises larger braids, fewer extensions, monthly extension removal and 4 to 6 weeks of rest. The Cochrane review of cradle cap treatments found six short trials with very low-quality evidence (Victoire 2019). The NHS says cradle cap is harmless and clears in a few months. The BAD leaflet notes traction alopecia is often seen in women and children of African descent.",
+  "measured_variables": [
+    "Hairstyle tension (caregiver report)"
+  ],
+  "gaps": "Rucker Wright 2011: the cornrow link held in non-dermatology clinic respondents only (aOR 5.79, 1.35 to 24.8); the plain answer rests on Khumalo 2008 for tight styles in general. Untested: any baby or toddler hair routine in a trial; safe age for first braiding; whether baby hair texture changes (no source). Nothing found aimed at adoptive parents.",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "braids-twists-and-extensions",
+    "baby-skin-care"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Victoire A et al",
+      "year": 2019,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30828791/",
+      "tag": "[review]"
+    },
+    {
+      "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+      "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+      "tag": "[commentary]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Cradle cap\"",
+      "url": "https://www.nhs.uk/conditions/cradle-cap/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

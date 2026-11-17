@@ -1,0 +1,30 @@
+{
+  "pmid": "40134218",
+  "slug": "janivara-2025-40134218",
+  "citation": {
+    "authors": "Janivara R, Hazra et al",
+    "year": 2025,
+    "journal": "HGG Advances"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40134218/",
+  "page": "https://vilivity.com/studies/janivara-2025-40134218/",
+  "cited_by": [
+    {
+      "entry": "mens-hair-loss-and-hair-transplants",
+      "title": "Receding hairline and hair transplants in Black men",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-hair-loss-and-hair-transplants/",
+      "record": {
+        "id": "janivara-2025",
+        "population": "2,136 men from Ghana, Nigeria, Senegal and South Africa",
+        "n": 2136,
+        "design": "Genotyping and genome-wide association for self-reported baldness at age 45",
+        "finding": "Polygenic scores from European studies predicted baldness poorly in these men (AUC 0.513 to 0.546); 51 independent associations were found.",
+        "line_tier": "B",
+        "note": "Genetic prediction, not a treatment study.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

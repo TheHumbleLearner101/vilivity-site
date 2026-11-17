@@ -1,0 +1,47 @@
+{
+  "pmid": "33571401",
+  "slug": "ogunbiyi-2021-33571401",
+  "citation": {
+    "authors": "Ogunbiyi A, Enechukwu NA",
+    "year": 2021,
+    "journal": "Dermatologic Therapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33571401/",
+  "page": "https://vilivity.com/studies/ogunbiyi-2021-33571401/",
+  "cited_by": [
+    {
+      "entry": "black-soap-and-african-black-soap",
+      "title": "African black soap",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/black-soap-and-african-black-soap/",
+      "record": {
+        "id": "ogunbiyi-2021",
+        "population": "Review of physical, chemical and plant-chemical properties (West Africa focus)",
+        "n": "not stated",
+        "design": "Narrative review of African black soap",
+        "finding": "Traditional black soap is made from ash-derived alkali and plant oils. It is described as gentle, super-fatted and hypoallergenic and advertised as antimicrobial, anti-acne, exfoliating, toning and scar-fading, but the authors say some claims remain anecdotal. Studies have shown it has antimicrobial properties against Staphylococcal and some Streptococcal organisms (in the laboratory, per the authors' wording 'studies have shown').",
+        "line_tier": "C",
+        "note": "A review; the antimicrobial studies it cites were not opened by me. The 12 Nov research file (agent4) identified no human trial.",
+        "tag": "[commentary]"
+      }
+    },
+    {
+      "entry": "black-soap-and-african-black-soap",
+      "title": "African black soap",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/black-soap-and-african-black-soap/",
+      "record": {
+        "id": "ogunbiyi-2021b",
+        "population": "Survey of skin-lightening practices (context)",
+        "n": "not applicable",
+        "design": "See skin lightening entry",
+        "finding": "Black soap is sometimes sold or marketed as lightening or scar-fading. Nothing in the sources opened shows it lightens skin; it is a claim to treat with caution given the harms in the skin lightening entry.",
+        "line_tier": "D",
+        "note": "Product-level claim: commercial products sold as 'black soap' vary; the review describes the traditional recipe only.",
+        "tag": "[commentary]"
+      }
+    }
+  ]
+}

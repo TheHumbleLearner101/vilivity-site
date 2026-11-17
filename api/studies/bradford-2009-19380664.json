@@ -1,0 +1,30 @@
+{
+  "pmid": "19380664",
+  "slug": "bradford-2009-19380664",
+  "citation": {
+    "authors": "Bradford PT, Goldstein AM, McMaster ML, Tucker MA",
+    "year": 2009,
+    "journal": "Archives of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19380664/",
+  "page": "https://vilivity.com/studies/bradford-2009-19380664/",
+  "cited_by": [
+    {
+      "entry": "skin-cancer-and-moles-on-dark-skin",
+      "title": "Skin cancer and moles on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-cancer-and-moles-on-dark-skin/",
+      "record": {
+        "id": "bradford-2009",
+        "population": "1,413 acral lentiginous melanoma cases, SEER 1986-2005",
+        "n": 1413,
+        "design": "Registry cohort",
+        "finding": "Acral lentiginous melanoma was 36% of melanoma in Black patients, the largest share of any group.",
+        "line_tier": "B",
+        "note": "From the research file (opened 12 Nov 2026).",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

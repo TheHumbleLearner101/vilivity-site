@@ -1,0 +1,38 @@
+{
+  "pmid": "36049896",
+  "slug": "gammal-2023-36049896",
+  "citation": {
+    "authors": "Gammal RS, Pirmohamed M, Somogyi AA, Morris SA et al",
+    "year": 2023,
+    "journal": "Clinical Pharmacology and Therapeutics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36049896/",
+  "page": "https://vilivity.com/studies/gammal-2023-36049896/",
+  "cited_by": [
+    {
+      "entry": "g6pd-deficiency-what-to-avoid-and-who-carries-it",
+      "title": "G6PD deficiency: who carries it and what to avoid",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/g6pd-deficiency-what-to-avoid-and-who-carries-it/",
+      "record": {
+        "id": "cpic-2023",
+        "population": "Medicines previously implicated as unsafe in G6PD deficiency",
+        "n": "not stated in the abstract",
+        "design": "Guideline based on a systematic review of gene-drug evidence and regulatory warnings",
+        "finding": "Medications are classed high, medium or low-to-no risk. High-risk drugs should be avoided, medium-risk drugs used with caution, and low-to-no-risk drugs given with standard precautions. The guideline replaces the earlier rasburicase guideline.",
+        "line_tier": "B",
+        "note": "Abstract read; the drug table itself was not opened, so no drug is placed in a risk class on this card.",
+        "tag": "[consensus]"
+      }
+    },
+    {
+      "entry": "haemoglobin-and-white-cell-reference-ranges",
+      "title": "Haemoglobin and white cell ranges on your blood test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/haemoglobin-and-white-cell-reference-ranges/",
+      "record": null
+    }
+  ]
+}

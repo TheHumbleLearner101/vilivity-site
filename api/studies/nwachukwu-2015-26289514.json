@@ -1,0 +1,30 @@
+{
+  "pmid": "26289514",
+  "slug": "nwachukwu-2015-26289514",
+  "citation": {
+    "authors": "Nwachukwu DC, Aneke E, Nwachukwu NZ, Obika LF et al",
+    "year": 2015,
+    "journal": "Nigerian Journal of Clinical Practice"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26289514/",
+  "page": "https://vilivity.com/studies/nwachukwu-2015-26289514/",
+  "cited_by": [
+    {
+      "entry": "hibiscus-sorrel-blood-pressure",
+      "title": "Hibiscus (sorrel, zobo, bissap) and blood pressure",
+      "module": "food",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/food/hibiscus-sorrel-blood-pressure/",
+      "record": {
+        "id": "nwachukwu-2015",
+        "population": "80 newly diagnosed, untreated Nigerian adults with mild to moderate hypertension, Enugu",
+        "n": 80,
+        "design": "Randomised, three groups for 4 weeks: placebo, hydrochlorothiazide, or hibiscus",
+        "finding": "Both hibiscus and the drug lowered blood pressure compared with placebo. The authors reported hibiscus as more effective than the drug and without electrolyte imbalance, and the fall persisted after withdrawal. No side effects were reported.",
+        "line_tier": "A",
+        "note": "Single small trial. Placebo, dose and blinding details were not in the abstract. The 'more effective than the drug' conclusion is the authors' own.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

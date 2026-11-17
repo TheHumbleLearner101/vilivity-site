@@ -1,0 +1,64 @@
+{
+  "pmid": "31237371",
+  "slug": "bloch-2019-31237371",
+  "citation": {
+    "authors": "Bloch et al",
+    "year": 2019,
+    "journal": "Journal of the European Academy of Dermatology and Venereology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31237371/",
+  "page": "https://vilivity.com/studies/bloch-2019-31237371/",
+  "cited_by": [
+    {
+      "entry": "colouring-and-bleaching-textured-hair",
+      "title": "Colouring and bleaching afro-textured hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/colouring-and-bleaching-textured-hair/",
+      "record": {
+        "id": "bloch-2019",
+        "population": "Caucasian (straight, wavy, curly) and Afro-ethnic hair tresses",
+        "n": "not stated",
+        "design": "Laboratory comparison of bleaching or dyeing, thioglycolate straightening, brushing with a flat iron, and UVA/visible light",
+        "finding": "Bleaching, dyeing and UV light increased the combing work of afro-ethnic tresses, indicating cuticle damage confirmed by electron microscopy. Bleaching and dyeing caused wear on cuticles with high protein loss whatever the curliness. Thioglycolate straightening faded brown and black tresses.",
+        "line_tier": "C",
+        "note": "Hair samples, not people. The abstract does not report a result for flat-iron heat alone.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "heat-styling-silk-press-and-smoothing-treatments",
+      "title": "Heat, silk press, keratin treatments and colour",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/heat-styling-silk-press-and-smoothing-treatments/",
+      "record": {
+        "id": "bloch-2019",
+        "population": "Caucasian (straight, wavy, curly) and Afro-ethnic hair tresses",
+        "n": "not stated",
+        "design": "Laboratory comparison of bleaching or dyeing, thioglycolate straightening, brushing with a flat iron, and UVA/visible light",
+        "finding": "Bleaching, dyeing and UV light increased the combing work of afro-ethnic tresses, indicating cuticle damage confirmed by electron microscopy. Bleaching and dyeing caused wear on cuticles with high protein loss whatever the curliness. Thioglycolate straightening faded brown and black tresses.",
+        "line_tier": "C",
+        "note": "Hair samples, not people. The abstract does not report a result for flat-iron heat alone.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "relaxer-texturiser-perm-and-keratin-differences",
+      "title": "Relaxer, texturiser, perm and keratin: what is the difference",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/relaxer-texturiser-perm-and-keratin-differences/",
+      "record": {
+        "id": "bloch-2019",
+        "population": "Caucasian (straight, wavy, curly) and Afro-ethnic hair tresses",
+        "n": "not stated",
+        "design": "Laboratory comparison of bleaching or dyeing, thioglycolate straightening, brushing with a flat iron, and UVA/visible light",
+        "finding": "Bleaching, dyeing and UV light increased the combing work of afro-ethnic tresses, indicating cuticle damage confirmed by electron microscopy. Bleaching and dyeing caused wear on cuticles with high protein loss whatever the curliness. Thioglycolate straightening faded brown and black tresses.",
+        "line_tier": "C",
+        "note": "Hair samples, not people. The abstract does not report a result for flat-iron heat alone.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

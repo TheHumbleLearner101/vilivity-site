@@ -1,0 +1,86 @@
+{
+  "slug": "chemical-relaxers-from-childhood",
+  "name": "Chemical relaxers, often started in childhood",
+  "regions": [
+    "African American",
+    "East and Southern Africa",
+    "West Africa",
+    "Black British"
+  ],
+  "module": "hair",
+  "what_people_do": "Use a lye or no-lye relaxer to straighten the hair every few weeks to months, often starting as a girl.",
+  "why_they_say_it_works": "Straight hair is easier to manage and long seen as \"professional\"; family tradition.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Hair product use and breast cancer risk among African American and White women, 2017, Carcinogenesis, PMID 28605409",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28605409/",
+      "quote_or_summary": "Breast cancer case-control study controls: relaxer use 88% of African American vs 5% of White women."
+    },
+    {
+      "source": "Hairdressing and scalp disease in African adults (Cape Town, n=874), 2007, Br J Dermatol, PMID 17725667",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17725667/",
+      "quote_or_summary": "Cape Town adults: 49.2% of women had relaxed hair and 9.6% permed."
+    },
+    {
+      "source": "Hairdressing and scalp disease in African schoolchildren (n=1042), 2007, Br J Dermatol, PMID 17553035",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17553035/",
+      "quote_or_summary": "Cape Town schoolchildren (1,042): 78.4% of girls had chemically relaxed hair."
+    },
+    {
+      "source": "Hair dye and relaxer use among women in Embu and Nakuru, Kenya, 2024, PMID 39063423",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39063423/",
+      "quote_or_summary": "Embu and Nakuru, Kenya, 746 women: nearly 60% had ever used chemical relaxers."
+    },
+    {
+      "source": "Hair grooming practices of women of African descent in London, 2016, J Eur Acad Dermatol Venereol, PMID 27038251",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27038251/",
+      "quote_or_summary": "London, 242 women of African descent: relaxers applied about every 88.6 days on average."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Relaxers and traction",
+      "population": "574 schoolgirls and 604 women",
+      "finding": "Traction on relaxed hair carried 3.47 times the odds of traction alopecia vs natural hair.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Determinants of marginal traction alopecia in African girls and women, 2008, J Am Acad Dermatol, PMID 18694677",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      }
+    },
+    {
+      "tested": "Relaxers and breast cancer",
+      "population": "2,280 cases, 2,005 controls",
+      "finding": "Some hair products associated with breast cancer; relaxer links varied by group; authors call for further examination.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Hair product use and breast cancer risk among African American and White women, 2017, Carcinogenesis, PMID 28605409",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28605409/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "Associated with traction alopecia when combined with tight styling; a cancer association is reported but unsettled.",
+  "links_to_entries": [
+    "chemical-relaxers",
+    "traction-alopecia-and-protective-styles"
+  ],
+  "gaps": [
+    "Fibroid and early-puberty links (PMID 22234483) seen as titles only."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/chemical-relaxers-from-childhood/"
+}

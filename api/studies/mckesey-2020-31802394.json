@@ -1,0 +1,30 @@
+{
+  "pmid": "31802394",
+  "slug": "mckesey-2020-31802394",
+  "citation": {
+    "authors": "McKesey J, Tovar-Garza A, Pandya AG",
+    "year": 2020,
+    "journal": "American Journal of Clinical Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31802394/",
+  "page": "https://vilivity.com/studies/mckesey-2020-31802394/",
+  "cited_by": [
+    {
+      "entry": "melasma",
+      "title": "Melasma",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/melasma/",
+      "record": {
+        "id": "mckesey-2020",
+        "population": "Participants in 113 controlled studies of melasma (6,897 people); groups not broken down in the abstract",
+        "n": "6897",
+        "design": "Systematic review of randomised and controlled clinical trials",
+        "finding": "Triple combination cream (hydroquinone, tretinoin, steroid) and hydroquinone alone were the most effective and best studied. Peels and lasers were equal or inferior to topical creams with more adverse effects. Oral tranexamic acid is promising. The authors cite small samples, mixed designs and lack of long-term follow-up.",
+        "line_tier": "B",
+        "note": "Not specific to Black skin.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

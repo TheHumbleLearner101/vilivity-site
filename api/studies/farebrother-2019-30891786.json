@@ -1,0 +1,30 @@
+{
+  "pmid": "30891786",
+  "slug": "farebrother-2019-30891786",
+  "citation": {
+    "authors": "Farebrother J, Zimmermann MB, Andersson M",
+    "year": 2019,
+    "journal": "Annals of the New York Academy of Sciences"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30891786/",
+  "page": "https://vilivity.com/studies/farebrother-2019-30891786/",
+  "cited_by": [
+    {
+      "entry": "sea-moss-irish-moss",
+      "title": "Sea moss (Irish moss): health claims, iodine and heavy metals",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/sea-moss-irish-moss/",
+      "record": {
+        "id": "farebrother-2019",
+        "population": "General population (review of excess iodine intake)",
+        "n": "not applicable",
+        "design": "Narrative review of sources and effects of excess iodine",
+        "finding": "High iodine intakes are well tolerated by most healthy people, but in some people excess iodine may trigger hyperthyroidism, hypothyroidism, goitre or thyroid autoimmunity. People with existing thyroid disease or past iodine deficiency may be more susceptible, in some cases at intakes only slightly above need. Certain seaweeds are named as sources of excess iodine.",
+        "line_tier": "B",
+        "note": "A review of iodine in general, not a study of sea moss; it explains why an unlabelled iodine source matters.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

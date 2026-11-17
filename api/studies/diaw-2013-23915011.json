@@ -1,0 +1,30 @@
+{
+  "pmid": "23915011",
+  "slug": "diaw-2013-23915011",
+  "citation": {
+    "authors": "Diaw M, Connes P, Samb A, Sow AK et al",
+    "year": 2013,
+    "journal": "Chronobiology International"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23915011/",
+  "page": "https://vilivity.com/studies/diaw-2013-23915011/",
+  "cited_by": [
+    {
+      "entry": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+      "title": "Fasting in Ramadan with diabetes or sickle cell",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/ramadan-and-religious-fasting-with-diabetes-or-sickle-cell/",
+      "record": {
+        "id": "diaw-2013",
+        "population": "20 African male students in Senegal: 10 with sickle cell trait and 10 with normal haemoglobin",
+        "n": "20",
+        "design": "Measurements on day 14 of Ramadan and 6 weeks after",
+        "finding": "Blood viscosity rose markedly in the evening in the people with sickle cell trait during Ramadan, and not in the normal-haemoglobin group, which the authors say indicates higher risk of impaired blood flow in small vessels. Plasma glucose was lower in both groups during Ramadan. They call for specific medical recommendations for trait carriers who fast.",
+        "line_tier": "A",
+        "note": "Ten people with trait; a measurement of blood thickness, not of illness.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

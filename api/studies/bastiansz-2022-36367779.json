@@ -1,0 +1,30 @@
+{
+  "pmid": "36367779",
+  "slug": "bastiansz-2022-36367779",
+  "citation": {
+    "authors": "Bastiansz A, Ewald J, Rodriguez Saldana V, Santa-Rios A et al",
+    "year": 2022,
+    "journal": "Environmental Health Perspectives"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36367779/",
+  "page": "https://vilivity.com/studies/bastiansz-2022-36367779/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": {
+        "id": "bastiansz-2022",
+        "population": "41 papers from 22 countries; 787 product samples and 1,042 human biomarker measurements",
+        "n": 863,
+        "design": "Systematic review of mercury exposure from lightening products",
+        "finding": "Mercury is widely present as an active ingredient. The Minamata Convention bans manufacture, import or export of lightening products above 1 ppm mercury.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

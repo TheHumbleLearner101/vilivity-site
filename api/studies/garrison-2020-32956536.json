@@ -1,0 +1,30 @@
+{
+  "pmid": "32956536",
+  "slug": "garrison-2020-32956536",
+  "citation": {
+    "authors": "Garrison SR, Korownyk CS, Kolber MR, Allan GM et al",
+    "year": 2020,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32956536/",
+  "page": "https://vilivity.com/studies/garrison-2020-32956536/",
+  "cited_by": [
+    {
+      "entry": "magnesium-supplements-for-sleep-and-cramps",
+      "title": "Magnesium supplements for sleep and cramps",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/magnesium-supplements-for-sleep-and-cramps/",
+      "record": {
+        "id": "garrison-2020",
+        "population": "People with skeletal muscle cramps in 11 randomised trials (five in pregnancy, five idiopathic, one cirrhosis)",
+        "n": 735,
+        "design": "Cochrane systematic review of magnesium supplements for cramp prevention",
+        "finding": "For idiopathic cramps, largely in older adults (mean age about 62 to 69), cramp frequency differences between magnesium and placebo were small and statistically non-significant (moderate-certainty evidence). The pregnancy and cirrhosis trials were at high risk of bias.",
+        "line_tier": "B",
+        "note": "Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

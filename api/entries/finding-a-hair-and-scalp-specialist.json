@@ -1,0 +1,177 @@
+{
+  "slug": "finding-a-hair-and-scalp-specialist",
+  "title": "Finding a stylist, trichologist or dermatologist who knows afro hair",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Who should I see about hair loss or a scalp problem: a GP, dermatologist or trichologist?",
+    "Is a trichologist a doctor?"
+  ],
+  "tradition_says": "Word of mouth is the way: ask someone with hair like yours. For hair loss, a trusted stylist is often seen first, and doctors are thought not to know afro hair.",
+  "layer1": {
+    "plain_answer": "A stylist or loctician is the right person for styling and a trichologist or dermatologist for hair loss. In the UK a GP can refer you to a dermatologist; trichologists are not medically qualified, so check that they are registered and have experience with afro-textured hair. Ask directly what share of their patients have hair like yours.",
+    "do": [
+      {
+        "text": "Ask a doctor for a referral to a dermatologist if hair loss or scalp symptoms persist.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Hair loss\"",
+          "url": "https://www.nhs.uk/conditions/hair-loss/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a board-certified dermatologist if you notice texture change or even slight thinning.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use the Institute of Trichologists register and ask about experience with afro-textured hair; its page does not mention afro hair or say members are medically qualified.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Institute of Trichologists (professional association; its register is accredited by the Professional Standards Authority; the page does not say members are medically qualified and does not mention afro hair)",
+          "url": "http://instituteoftrichologists.co.uk/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Have braids, relaxers and locs done by a trained professional.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask a loctician or braider to loosen anything that hurts: pain equals damage.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting on thinning at the crown or hairline because a stylist says it is just breakage.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming a clinician will recognise your hair condition: CCCA is underrecognised and often misdiagnosed.",
+        "basis": "tested",
+        "source": "persson-2026"
+      }
+    ],
+    "see_someone_when": [
+      "Hair is thinning at the crown, hairline or part (dermatologist).",
+      "A shiny, smooth scalp with no hair openings (dermatologist soon).",
+      "Sudden or widespread shedding (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Review of 15 primary studies, 2015 to 2025",
+      "design": "Narrative literature review",
+      "n": 15,
+      "finding": "CCCA mostly presents as progressive thinning of the central scalp, may resemble androgenetic alopecia or alopecia areata, and is underrecognised and often misdiagnosed. Dermoscopy and biopsy remain important.",
+      "source": {
+        "authors": "Persson et al",
+        "year": 2026,
+        "journal": "Cureus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42910370/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "persson-2026"
+    },
+    {
+      "population": "Clinicians trained in afro hair",
+      "design": "PubMed search run 12 Nov 2026, exact string: (afro-textured hair OR \"ethnic hair\" OR \"hair disorders\") AND (dermatology residency OR \"dermatology training\" OR curriculum OR \"residency programs\") (result count 36).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 36 results: I read the first 12 titles (of 36, newest first): none is a UK audit or directory. US papers on training exist, for example resident comfort treating hair conditions in patients with skin of colour (PMID 38873622) and a call for ethnic hair education (PMID 39822984); I read titles only. This question is partly not a PubMed question: the British Association of Dermatologists directory was not opened. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no directory or training audit of UK clinicians for afro hair found; I did not open the British Association of Dermatologists directory in this pass.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28afro-textured+hair+OR+%22ethnic+hair%22+OR+%22hair+disorders%22%29+AND+%28dermatology+residency+OR+%22dermatology+training%22+OR+curriculum+OR+%22residency+programs%22%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "training"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a particular type of practitioner (a trichologist, a Black clinician, a loctician) gives better outcomes: no study found.",
+  "tier_note": "D because the claim (a specialist who knows afro hair gets better results) has no outcome study; CCCA under-recognition is a B line. A study of outcomes by practitioner type would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. A trichologist is not medically qualified (the Institute's page does not say members are), so a scarring condition needs a dermatologist.",
+  "founder_flag": false,
+  "evidence_summary": "A 2026 review says CCCA is underrecognised and often misdiagnosed because it overlaps with other hair loss (Persson). The Institute of Trichologists runs an accredited register (PSA scheme) and a Level 5 course; its page does not mention afro hair or say members are medically qualified. The AAD says see a dermatologist for texture change or slight thinning. There are no published outcome data by practitioner type, and I did not find a UK directory of clinicians with afro hair expertise.",
+  "measured_variables": [
+    "Practitioner experience with afro-textured hair (not measured)"
+  ],
+  "gaps": "Untested: outcomes by practitioner; a reliable UK directory of dermatologists with afro hair training; how to judge a loctician or braider for scalp safety. 12 Nov: choosing a stylist, braider or loctician (styling, not medical) now has its own entry, choosing-a-stylist-braider-or-loctician.",
+  "related": [
+    "finding-a-dermatologist-for-dark-skin",
+    "central-centrifugal-cicatricial-alopecia",
+    "braids-twists-and-extensions",
+    "choosing-a-stylist-braider-or-loctician"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Persson et al",
+      "year": 2026,
+      "journal": "Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910370/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Hair loss\"",
+      "url": "https://www.nhs.uk/conditions/hair-loss/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Institute of Trichologists (professional association; its register is accredited by the Professional Standards Authority; the page does not say members are medically qualified and does not mention afro hair)",
+      "url": "http://instituteoftrichologists.co.uk/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

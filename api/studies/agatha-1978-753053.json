@@ -1,0 +1,30 @@
+{
+  "pmid": "753053",
+  "slug": "agatha-1978-753053",
+  "citation": {
+    "authors": "Agatha M, Breckenridge C, Soyemi EA",
+    "year": 1978,
+    "journal": "Nigerian Medical Journal"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/753053/",
+  "page": "https://vilivity.com/studies/agatha-1978-753053/",
+  "cited_by": [
+    {
+      "entry": "kola-nut",
+      "title": "Kola nut: caffeine, the heart and health claims",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/kola-nut/",
+      "record": {
+        "id": "agatha-1978",
+        "population": "Anaesthetised cats",
+        "n": "not stated",
+        "design": "Laboratory observation of aqueous kola nut extract on blood pressure and heart",
+        "finding": "Low doses raised blood pressure by 8 to 9% and high doses lowered it by 18 to 71%. With larger doses a slow heart rate developed and cardiac arrhythmias occurred as a terminal event. The authors say the effects are probably due to caffeine and that the role of habitual chewing in heart disease needs discussion.",
+        "line_tier": "C",
+        "note": "A preliminary animal study from 1978; the doses are not comparable with chewing a nut.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

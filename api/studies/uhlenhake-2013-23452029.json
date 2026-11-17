@@ -1,0 +1,47 @@
+{
+  "pmid": "23452029",
+  "slug": "uhlenhake-2013-23452029",
+  "citation": {
+    "authors": "Uhlenhake E, Mehregan DR",
+    "year": 2013,
+    "journal": "International Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23452029/",
+  "page": "https://vilivity.com/studies/uhlenhake-2013-23452029/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "uhlenhake-2013",
+        "population": "8 African American women with no clinical hair loss who used chemical or heat straighteners",
+        "n": 8,
+        "design": "Prospective scalp biopsy (4 mm punch)",
+        "finding": "Every biopsy showed inflammation around the follicle opening and a ring of fibrosis, with no follicle loss. The authors say these are findings characteristic of CCCA and suggest a histological prelude, and that CCCA may be a common pathway of inflammation and scarring that traumatic hairstyling can set off in genetically predisposed people.",
+        "line_tier": "B",
+        "note": "Eight women, no comparison group: cannot show that styling caused the changes.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "heat-styling-silk-press-and-smoothing-treatments",
+      "title": "Heat, silk press, keratin treatments and colour",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/heat-styling-silk-press-and-smoothing-treatments/",
+      "record": {
+        "id": "uhlenhake-2013",
+        "population": "8 African American women with no clinical hair loss who used chemical or heat straighteners",
+        "n": 8,
+        "design": "Prospective scalp biopsy (4 mm punch)",
+        "finding": "Every biopsy showed inflammation around the follicle opening and a ring of fibrosis, with no follicle loss. The authors say these are findings characteristic of CCCA and suggest a histological prelude, and that CCCA may be a common pathway of inflammation and scarring that traumatic hairstyling can set off in genetically predisposed people.",
+        "line_tier": "B",
+        "note": "Eight women, no comparison group: cannot show that styling caused the changes.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

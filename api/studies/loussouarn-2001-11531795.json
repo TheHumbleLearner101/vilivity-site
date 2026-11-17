@@ -1,0 +1,30 @@
+{
+  "pmid": "11531795",
+  "slug": "loussouarn-2001-11531795",
+  "citation": {
+    "authors": "Loussouarn G",
+    "year": 2001,
+    "journal": "British Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/11531795/",
+  "page": "https://vilivity.com/studies/loussouarn-2001-11531795/",
+  "cited_by": [
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "loussouarn-2001",
+        "population": "38 adults from Central and West Africa",
+        "n": 38,
+        "design": "Phototrichogram, three scalp regions",
+        "finding": "Mean growth 256 micrometres a day against 396 in Caucasian volunteers (comparison from earlier work); density 190 against 227 hairs per cm squared. By my arithmetic that is about 0.8 cm a month against 1.2.",
+        "line_tier": "B",
+        "note": "Author affiliation L'Oreal. Small sample; comparison with older data. Growth rate is not length kept.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

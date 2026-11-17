@@ -1,0 +1,30 @@
+{
+  "pmid": "22385032",
+  "slug": "swaile-2012-22385032",
+  "citation": {
+    "authors": "Swaile DF, Elstun LT, Benzing KW",
+    "year": 2012,
+    "journal": "British Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22385032/",
+  "page": "https://vilivity.com/studies/swaile-2012-22385032/",
+  "cited_by": [
+    {
+      "entry": "body-odour-and-sweat",
+      "title": "Sweat, body odour and deodorant",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/body-odour-and-sweat/",
+      "record": {
+        "id": "swaile-2012",
+        "population": "Male panellists in hot-room sweat tests; ethnicity not stated in the abstract",
+        "n": "not stated",
+        "design": "Gravimetric (sweat weight) tests of an over-the-counter antiperspirant against placebo and against a prescription aluminium chloride product",
+        "finding": "The over-the-counter \"clinical strength\" antiperspirant reduced sweat rate on average 34% more than the prescription product and caused significantly less skin irritation; the authors say it can be an alternative for heavy sweating.",
+        "line_tier": "B",
+        "note": "Men only; affiliations and funding not checked; placebo group also showed large sweat falls.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

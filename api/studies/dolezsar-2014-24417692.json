@@ -1,0 +1,30 @@
+{
+  "pmid": "24417692",
+  "slug": "dolezsar-2014-24417692",
+  "citation": {
+    "authors": "Dolezsar CM, McGrath JJ, Herzig AJM et al",
+    "year": 2014,
+    "journal": "Health Psychology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24417692/",
+  "page": "https://vilivity.com/studies/dolezsar-2014-24417692/",
+  "cited_by": [
+    {
+      "entry": "stress-burnout-and-blood-pressure",
+      "title": "Stress, burnout and blood pressure",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/stress-burnout-and-blood-pressure/",
+      "record": {
+        "id": "dolezsar-2014",
+        "population": "44 articles, 32,651 people, mainly US",
+        "n": "44 articles, 32,651",
+        "design": "Systematic review and meta-analysis of perceived racial discrimination and blood pressure",
+        "finding": "Perceived racial discrimination was associated with hypertension (small effect, Z 0.048, 95% CI 0.013 to 0.087) but not with resting blood pressure. The link was stronger among men, Black participants and older people, and strongest for night-time ambulatory blood pressure in Black participants.",
+        "line_tier": "B",
+        "note": "Small associations; the authors note methodological limitations. Abstract read.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

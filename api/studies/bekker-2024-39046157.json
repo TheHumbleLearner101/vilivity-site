@@ -1,0 +1,30 @@
+{
+  "pmid": "39046157",
+  "slug": "bekker-2024-39046157",
+  "citation": {
+    "authors": "Bekker LG, Das M, Abdool Karim Q, Ahmed K et al",
+    "year": 2024,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39046157/",
+  "page": "https://vilivity.com/studies/bekker-2024-39046157/",
+  "cited_by": [
+    {
+      "entry": "hiv-prevention-testing-and-prep",
+      "title": "HIV prevention, testing and PrEP",
+      "module": "body",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/body/hiv-prevention-testing-and-prep/",
+      "record": {
+        "id": "bekker-2024",
+        "population": "5,338 HIV-negative adolescent girls and young women in South Africa and Uganda",
+        "n": 5338,
+        "design": "Phase 3 randomised, double-blind, controlled trial (PURPOSE 1) of twice-yearly lenacapavir, daily F/TAF or daily F/TDF",
+        "finding": "55 HIV infections occurred: none among 2,134 on lenacapavir (0 per 100 person-years; 95% CI 0.00 to 0.19), 39 among 2,136 on F/TAF (2.02) and 16 among 1,068 on F/TDF (1.69). Background incidence in the screened population was 2.41 per 100 person-years. Lenacapavir was significantly lower than background and than F/TDF; F/TAF did not differ significantly from background. The authors note gaps in uptake, adherence and persistence of PrEP among cisgender women.",
+        "line_tier": "A",
+        "note": "African adolescent girls and young women; the abstract was cut off before safety and adherence details.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

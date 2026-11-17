@@ -1,0 +1,30 @@
+{
+  "pmid": "35659800",
+  "slug": "geisler-2022-35659800",
+  "citation": {
+    "authors": "Geisler AN et al",
+    "year": 2022,
+    "journal": "Cutis"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35659800/",
+  "page": "https://vilivity.com/studies/geisler-2022-35659800/",
+  "cited_by": [
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "geisler-2022",
+        "population": "Women of African descent, hairstyling and hair damage",
+        "n": "not stated",
+        "design": "Narrative review (abstract read)",
+        "finding": "Highly textured hair is more susceptible to breakage because of an increased proportion of spirals and fewer elastic fibres anchoring follicles to the dermis; the review gives an overview of hairstyles so physicians can spot high-risk ones and suggest safer alternatives.",
+        "line_tier": "B",
+        "note": "Abstract only; women only.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

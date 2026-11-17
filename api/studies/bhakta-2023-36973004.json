@@ -1,0 +1,30 @@
+{
+  "pmid": "36973004",
+  "slug": "bhakta-2023-36973004",
+  "citation": {
+    "authors": "Bhakta NR, Bime C, Kaminsky DA, McCormack MC et al",
+    "year": 2023,
+    "journal": "American Journal of Respiratory and Critical Care Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36973004/",
+  "page": "https://vilivity.com/studies/bhakta-2023-36973004/",
+  "cited_by": [
+    {
+      "entry": "lung-function-tests-and-race-correction-in-spirometry",
+      "title": "Lung function tests and race correction in spirometry",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lung-function-tests-and-race-correction-in-spirometry/",
+      "record": {
+        "id": "bhakta-2023",
+        "population": "Official American Thoracic Society workshop (2021) and review of newer evidence",
+        "n": "not applicable",
+        "design": "Official society statement",
+        "finding": "Current ATS standards promoted race- and ethnicity-specific reference equations; concern grew that this gives a false view of fixed differences and may mask differential exposures and norm health disparities. The statement recommends replacing them with race-neutral average reference equations, alongside a broader re-evaluation of how lung function tests are used for clinical, employment and insurance decisions, a call to include missing stakeholders, and a caution about uncertain effects and potential harms.",
+        "line_tier": "B",
+        "note": "US society statement; abstract read in full. It is a recommendation, not a trial of outcomes.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

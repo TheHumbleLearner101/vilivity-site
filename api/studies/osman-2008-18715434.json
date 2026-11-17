@@ -1,0 +1,30 @@
+{
+  "pmid": "18715434",
+  "slug": "osman-2008-18715434",
+  "citation": {
+    "authors": "Osman H, Usta IM, Rubeiz N et al",
+    "year": 2008,
+    "journal": "BJOG"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18715434/",
+  "page": "https://vilivity.com/studies/osman-2008-18715434/",
+  "cited_by": [
+    {
+      "entry": "stretch-marks-and-scar-fading",
+      "title": "Stretch marks and fading scars",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/stretch-marks-and-scar-fading/",
+      "record": {
+        "id": "osman-2008",
+        "population": "210 first-time pregnant women in Lebanon, 175 completed",
+        "n": 210,
+        "design": "Multicentre, double-blind, randomised placebo-controlled trial of cocoa butter lotion until delivery",
+        "finding": "Stretch marks developed in 45.1% with cocoa butter and 48.8% with placebo (P=0.730), with no difference in severity.",
+        "line_tier": "B",
+        "note": "Not in women of African descent as far as the abstract shows.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

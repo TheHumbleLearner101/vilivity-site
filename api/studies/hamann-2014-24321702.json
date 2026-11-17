@@ -1,0 +1,30 @@
+{
+  "pmid": "24321702",
+  "slug": "hamann-2014-24321702",
+  "citation": {
+    "authors": "Hamann CR, Boonchai W, Wen L, Sakanashi EN et al",
+    "year": 2014,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24321702/",
+  "page": "https://vilivity.com/studies/hamann-2014-24321702/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": {
+        "id": "hamann-2014",
+        "population": "549 skin-lightening products from 32 countries bought in the US, Taiwan, Japan, China, Thailand and Sri Lanka",
+        "n": 549,
+        "design": "Spectrometric screening for mercury",
+        "finding": "33 products (6.0%) contained mercury above 1,000 ppm, and 45% of the mercury-containing samples contained more than 10,000 ppm. Of products bought in the US, 3.3% had mercury over 1,000 ppm. The US legal limit is 1 ppm.",
+        "line_tier": "C",
+        "note": "Product testing, not a study of people. One sample per product.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

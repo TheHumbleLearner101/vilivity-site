@@ -1,0 +1,310 @@
+{
+  "slug": "childhood-trauma-and-where-to-start",
+  "title": "Childhood trauma and where to start",
+  "category": "mind",
+  "kind": "condition",
+  "question_forms": [
+    "How does childhood trauma affect adults?",
+    "How do I start healing from a hard childhood?",
+    "Is my childhood the reason I feel like this?",
+    "Where do I get help for childhood trauma?"
+  ],
+  "tradition_says": "Many families pass down that you get on with it, that what happened at home stays at home, and that talking about the past is ungrateful or pointless. My search found no study of that belief.",
+  "layer1": {
+    "plain_answer": "Hard things in childhood, such as abuse, neglect or violence at home, raise the chance of anxiety, depression and PTSD later. What happened was not your fault. Trauma-focused therapies help, and you can start with a GP or, in England, a self-referral to NHS talking therapies. You do not have to tell the whole story at once.",
+    "do": [
+      {
+        "text": "Tell a GP or someone you trust. In England, if you are 18 or over (16 in some areas), you can refer yourself to NHS talking therapies without a GP referral; they can help with PTSD.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Post-traumatic stress disorder (PTSD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Ask for trauma-focused therapy, such as trauma-focused CBT or EMDR (eye movement desensitisation and reprocessing); the UK's NHS lists both among treatments, sometimes with an antidepressant.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Post-traumatic stress disorder (PTSD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "For a child or teenager, ask for a trauma-focused therapy for young people: across 51 trials, therapy cut the chance of a PTSD diagnosis in the month after treatment (odds ratio 0.51).",
+        "basis": "tested",
+        "source": "gillies-2016"
+      },
+      {
+        "text": "Look for a therapist who understands your background. In the UK, BAATN lists Black, African, Asian and Caribbean heritage therapists; elsewhere ask local directories.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+          "url": "https://www.baatn.org.uk/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Use a helpline in your own country for abuse or trauma; Find a Helpline lists lines by country and by topic, including trauma and abuse.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Find a Helpline, helplines by country and topic",
+          "url": "https://findahelpline.com/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming this is just who you are: in 56 studies, the more adverse childhood experiences, the higher the risk of a mental disorder (pooled odds ratio 3.18), in steps.",
+        "basis": "tested",
+        "source": "annor-2026"
+      },
+      {
+        "text": "Waiting until you are in crisis: the UK's NHS says see a doctor if you think you have symptoms of PTSD.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Post-traumatic stress disorder (PTSD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Thinking only abuse counts: the UK's NHS lists neglect, domestic violence and witnessing violence or abuse as causes of complex PTSD.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Post-traumatic stress disorder (PTSD)\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Flashbacks, nightmares, feeling numb or cut off, intense shame or guilt, or difficulty controlling emotions that last more than a few weeks (doctor, or a self-referral to talking therapies where that exists).",
+      "A child who has been hurt or frightened and is not themselves: sleep, school, anger or fear changes (doctor, school or child mental health service).",
+      "Someone is hurting you or a child now: your local emergency number and local child protection or domestic violence service.",
+      "In a crisis or thinking about suicide: call your local emergency number or a crisis line. Numbers differ by country. UK: NHS 111 (mental health option, England) or Samaritans free on 116 123 (24 hours; also Ireland). US: call or text 988. Canada: call or text 988. Australia: Lifeline 13 11 14. South Africa: SADAG 0800 567 567. Jamaica: 888-639-5433. Nigeria: SURPIN 0800 078 7746. Other countries: findahelpline.com."
+    ]
+  },
+  "tested": [
+    {
+      "population": "214,157 adults in 23 US states in the 2011 to 2014 Behavioral Risk Factor Surveillance System",
+      "design": "Cross-sectional nationally representative telephone survey of adverse childhood experiences (ACEs)",
+      "n": 214157,
+      "finding": "61.55% had at least 1 ACE and 24.64% reported 3 or more. Higher ACE scores were reported by people who identified as Black (mean 1.69, 95% CI 1.62 to 1.76), Hispanic (1.80) or multiracial (2.52), and by those with lower income, education and employment, and by gay, lesbian or bisexual people.",
+      "source": {
+        "authors": "Merrick MT, Ford DC, Ports KA, Guinn AS",
+        "year": 2018,
+        "journal": "JAMA Pediatrics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30242348/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US adults; self-reported memories of childhood, which can under- or over-report. Abstract text cut after the list of groups.",
+      "id": "merrick-2018"
+    },
+    {
+      "population": "56 studies (40 in the meta-analysis) of cumulative adverse childhood experiences and mental disorders",
+      "design": "Systematic review and meta-analysis (PRISMA 2020)",
+      "n": 56,
+      "finding": "Cumulative ACEs were strongly associated with mental disorders (pooled odds ratio 3.18, 95% CI 2.84 to 3.56) with a dose-response gradient from 1 to 4 or more ACEs. Findings were robust in sensitivity tests with minimal publication bias; the authors call for trauma-informed care and global equity in ACE research.",
+      "source": {
+        "authors": "Annor E, Pollak M, Ramasamy D",
+        "year": 2026,
+        "journal": "Acta Psychologica",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42066531/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Mixed populations; the abstract does not say how many studies were in Black populations. Association, not proof of cause.",
+      "id": "annor-2026"
+    },
+    {
+      "population": "51 randomised trials with 6,201 children and adolescents who had been exposed to trauma (sexual abuse in 12 trials, war or community violence in 10, other traumas in the rest)",
+      "design": "Cochrane systematic review of psychological therapies versus control",
+      "n": 6201,
+      "finding": "Psychological therapy cut the chance of a PTSD diagnosis, compared with no treatment, usual care or waiting list, for up to a month after therapy (odds ratio 0.51, 95% CI 0.34 to 0.77). Seventeen trials used cognitive-behavioural therapy and two EMDR.",
+      "source": {
+        "authors": "Gillies D, Maiocchi L, Bhandari AP, Taylor F et al",
+        "year": 2016,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27726123/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "The abstract text I opened gave the short-term result; the medium- and long-term results and the certainty rating were cut off. Trial populations were mixed and the abstract does not give the share who were Black.",
+      "id": "gillies-2016"
+    },
+    {
+      "population": "537 African-origin emerging adults aged 18 to 29 in the United States (first- and second-generation)",
+      "design": "Cross-sectional online panel with multivariable regression",
+      "n": 537,
+      "finding": "Higher ACE scores were associated with more anxiety and depressive symptoms and higher odds of lifetime suicidal ideation and suicide attempt. Associations were stronger for suicidal ideation and attempt in first-generation participants. The authors support culturally responsive, trauma-informed assessment and intervention.",
+      "source": {
+        "authors": "Byansi W, Williamson E, Peoples JE, Motley RO et al",
+        "year": 2026,
+        "journal": "Journal of Community Psychology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42841399/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Non-probability online panel; association only.",
+      "id": "byansi-2026"
+    },
+    {
+      "population": "734 adults aged 60 and over in Niger State, North-Central Nigeria",
+      "design": "Cross-sectional study using the ACE International Questionnaire",
+      "n": 734,
+      "finding": "68.4% reported 4 or more ACEs, and 38.4% had three or more chronic conditions. After adjustment, cumulative ACEs remained an independent predictor of multimorbidity (odds ratio 15.58, 95% CI 1.33 to 182.21).",
+      "source": {
+        "authors": "Ahmed A, Khan HTA, Asiamah N",
+        "year": 2026,
+        "journal": "PLoS One",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42789523/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "The confidence interval is very wide, so the size of the effect is uncertain; older adults recalling childhood.",
+      "id": "ahmed-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That childhood adversity raises later mental illness and that trauma-focused therapy helps: a 56-study meta-analysis and a 51-trial Cochrane review, in mixed populations, with consistent association in US Black and African adults and in Nigerian older adults.",
+  "tier_note": "The therapy trials were in mixed populations; I found no trial limited to Black children or adults that I could open. ACE evidence in Black and African populations is observational and cross-sectional.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The risk is silence and delay, and the first duty is safety: if someone is being hurt now, emergency and child protection services come first.",
+  "founder_flag": false,
+  "evidence_summary": "In 214,157 US adults, Black respondents reported more adverse childhood experiences than the average (mean 1.69), and a 56-study meta-analysis found risk of mental disorder rose in steps with the number of experiences (pooled odds ratio 3.18). Smaller studies in African-origin young adults in the US (537) and older adults in Nigeria (734) point the same way. A Cochrane review of 51 trials (6,201 children and adolescents) found psychological therapy reduced PTSD diagnosis soon after treatment. The NHS lists trauma-focused CBT and EMDR as treatments. What happened was not your fault, and help is a health matter. Services differ by country; the crisis lines list is below.",
+  "measured_variables": [
+    "Number of adverse childhood experiences (ACE score)",
+    "Anxiety, depression, PTSD and suicidal behaviour",
+    "Multimorbidity in older adults (Nigeria study)",
+    "Self-identified race in US surveys, a stand-in for exposures that are not measured"
+  ],
+  "gaps": "Not found or not opened: a trial of trauma therapy in Black children or adults (my search found none I could open); prevalence of ACEs in the Caribbean and Brazil; services and numbers outside England, the US, Canada, Australia, South Africa, Jamaica and Nigeria; medium- and long-term results in the Cochrane review; NICE guidance on PTSD; the US 988 line is taken from existing Vilivity entries and is unverified here (988lifeline.org blocked my fetch and the Find a Helpline US page did not show it in my text extraction); Canada's 988 page did open.",
+  "related": [
+    "racism-and-mental-health",
+    "finding-a-black-therapist",
+    "stigma-and-starting-therapy",
+    "childrens-mental-health-support",
+    "anxiety-depression-and-what-helps"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Merrick MT, Ford DC, Ports KA, Guinn AS",
+      "year": 2018,
+      "journal": "JAMA Pediatrics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30242348/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Annor E, Pollak M, Ramasamy D",
+      "year": 2026,
+      "journal": "Acta Psychologica",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42066531/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Gillies D, Maiocchi L, Bhandari AP, Taylor F et al",
+      "year": 2016,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27726123/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Byansi W, Williamson E, Peoples JE, Motley RO et al",
+      "year": 2026,
+      "journal": "Journal of Community Psychology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841399/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ahmed A, Khan HTA, Asiamah N",
+      "year": 2026,
+      "journal": "PLoS One",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42789523/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Post-traumatic stress disorder (PTSD)\"",
+      "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+      "url": "https://www.baatn.org.uk/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "Find a Helpline, helplines by country and topic",
+      "url": "https://findahelpline.com/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "Samaritans, contact a Samaritan",
+      "url": "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, help for suicidal thoughts",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "988 Suicide Crisis Helpline Canada",
+      "url": "https://988.ca/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "Lifeline Australia, get help",
+      "url": "https://www.lifeline.org.au/get-help/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "SADAG (South Africa), helpline numbers",
+      "url": "https://www.sadag.org/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "Find a Helpline, Jamaica",
+      "url": "https://findahelpline.com/countries/jm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "Find a Helpline, Nigeria",
+      "url": "https://findahelpline.com/countries/ng",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "Find a Helpline, United States",
+      "url": "https://findahelpline.com/countries/us",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

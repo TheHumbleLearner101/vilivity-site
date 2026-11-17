@@ -1,0 +1,30 @@
+{
+  "pmid": "12789163",
+  "slug": "franbourg-2003-12789163",
+  "citation": {
+    "authors": "Franbourg A, Hallegot P, Baltenneck F, Toutain C et al",
+    "year": 2003,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/12789163/",
+  "page": "https://vilivity.com/studies/franbourg-2003-12789163/",
+  "cited_by": [
+    {
+      "entry": "hair-porosity-and-moisture",
+      "title": "Hair porosity and moisture",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-porosity-and-moisture/",
+      "record": {
+        "id": "franbourg-2003",
+        "population": "Hair from Caucasian, Asian and African subjects (laboratory)",
+        "n": "not stated",
+        "design": "Structure, geometry, water swelling and tensile testing of hair fibres",
+        "finding": "No differences in the intimate structure of the fibres were observed among the three hair types, whereas geometry, mechanical properties and water swelling differed by ethnic origin.",
+        "line_tier": "C",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

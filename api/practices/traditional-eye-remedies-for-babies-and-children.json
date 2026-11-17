@@ -1,0 +1,54 @@
+{
+  "slug": "traditional-eye-remedies-for-babies-and-children",
+  "name": "Putting mascara, kohl, aloe, honey or breast milk in babies' eyes",
+  "regions": [
+    "West Africa",
+    "East and Southern Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Apply mascara-type eye cosmetics to a newborn's eyes, or instil aloe, honey, plant sap or breast milk for red or sore eyes.",
+  "why_they_say_it_works": "To \"clear\" or strengthen the eyes and treat redness.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Udigwe GO, Emelumadu OF, Udigwe IB 2013, West Afr J Med, PMID 24488282",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24488282/",
+      "quote_or_summary": "Nnewi, 330 Igbo mothers: 28.5% regularly applied mascara to their babies' eyes to \"clear\" the eyes."
+    },
+    {
+      "source": "Traditional Eye Medicine in Rural Somalia, 2026, Clin Ophthalmol, PMID 41907805 (commentary)",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41907805/",
+      "quote_or_summary": "Rural Somalia (commentary): traditional eye medicine includes aloe, expressed breast milk, honey and tree sap for redness, light sensitivity and pain; case reports and observational studies link it with worse corneal disease."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Traditional eye remedies and corneal disease",
+      "population": "Case reports and observational studies cited in a commentary",
+      "finding": "Associated with microbial keratitis, corneal scarring and plant-sap toxic keratoconjunctivitis; primary studies not read.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Traditional Eye Medicine in Rural Somalia, 2026, Clin Ophthalmol, PMID 41907805 (commentary)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41907805/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "The ocular surface is easily infected or scarred; \"natural does not mean sterile\". Seek an eye clinic for any red or painful eye.",
+  "links_to_entries": [
+    "baby-skin-care"
+  ],
+  "gaps": [
+    "Primary Somali case series not read.",
+    "No lead-in-kohl data opened."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/traditional-eye-remedies-for-babies-and-children/"
+}

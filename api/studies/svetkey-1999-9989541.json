@@ -1,0 +1,47 @@
+{
+  "pmid": "9989541",
+  "slug": "svetkey-1999-9989541",
+  "citation": {
+    "authors": "Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ et al",
+    "year": 1999,
+    "journal": "Archives of Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/9989541/",
+  "page": "https://vilivity.com/studies/svetkey-1999-9989541/",
+  "cited_by": [
+    {
+      "entry": "caribbean-and-west-african-diet-and-health",
+      "title": "Caribbean and West African diets and health",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/caribbean-and-west-african-diet-and-health/",
+      "record": {
+        "id": "svetkey-1999-d",
+        "population": "459 adults in the original DASH trial",
+        "n": 459,
+        "design": "Randomised feeding trial with subgroup analysis",
+        "finding": "The combination diet lowered systolic blood pressure in all subgroups and was particularly effective in African Americans and people with hypertension.",
+        "line_tier": "B",
+        "note": "Proportion of Black participants not in the abstract.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "salt-and-blood-pressure",
+      "title": "Salt and blood pressure",
+      "module": "food",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/food/salt-and-blood-pressure/",
+      "record": {
+        "id": "svetkey-1999",
+        "population": "459 adults with untreated blood pressure below 160/80-95 in the original DASH feeding trial, subgroups analysed",
+        "n": 459,
+        "design": "Randomised feeding trial, 8 weeks, subgroup analysis by race, sex, age, BMI and others",
+        "finding": "The DASH combination diet, with weight and salt held constant, significantly lowered systolic blood pressure in all subgroups, and the authors say it was particularly effective in African Americans and in people with hypertension.",
+        "line_tier": "B",
+        "note": "Proportion of Black participants is not in the abstract; this is a subgroup analysis.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

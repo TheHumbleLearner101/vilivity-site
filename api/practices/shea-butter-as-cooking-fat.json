@@ -1,0 +1,47 @@
+{
+  "slug": "shea-butter-as-cooking-fat",
+  "name": "Cooking with shea butter",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Use shea butter as a cooking fat in northern Ghana and the savanna belt of West Africa.",
+  "why_they_say_it_works": "It is the traditional local fat, regarded as healthy and \"medicinal\".",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Cooking with shea butter and blood pressure, Ghana DHS 2014, 2020, Int J Vitam Nutr Res, PMID 30967105",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30967105/",
+      "quote_or_summary": "Ghana Demographic and Health Survey 2014: 9,396 women and 4,388 men; shea butter consumption recorded."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Cooking with shea butter vs vegetable oils and blood pressure",
+      "population": "13,784 Ghanaian adults, cross-sectional",
+      "finding": "Shea butter use associated with 2.43 mmHg lower systolic and 1.78 mmHg lower diastolic pressure; odds of hypertension 0.75 (CI 0.55 to 1.04, not significant). Authors call for rigorous study designs.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Cooking with shea butter and blood pressure, Ghana DHS 2014, 2020, Int J Vitam Nutr Res, PMID 30967105",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30967105/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "none",
+  "harm_note": "No harm identified; it is a saturated-fat food and this is a cross-sectional association.",
+  "links_to_entries": [
+    "shea-butter",
+    "salt-and-blood-pressure"
+  ],
+  "gaps": [
+    "Confounding by region and wealth, though adjusted; no trial."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/shea-butter-as-cooking-fat/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "20654676",
+  "slug": "cliff-2011-20654676",
+  "citation": {
+    "authors": "Cliff J, Muquingue H, Nhassico D, Nzwalo H et al",
+    "year": 2011,
+    "journal": "Food and Chemical Toxicology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20654676/",
+  "page": "https://vilivity.com/studies/cliff-2011-20654676/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "cliff-2011",
+        "population": "Communities in Mozambique with epidemics of konzo, a paralysis linked to cassava",
+        "n": "over 1,800 cases across epidemics",
+        "design": "Review of epidemics and cyanide measurements",
+        "finding": "Konzo epidemics came at times of drought, war or crisis when people depended on insufficiently processed bitter cassava; mostly women of child-bearing age and children were affected, with high thiocyanate in blood or urine. Prevention focused on less toxic cassava varieties and processing methods such as grating and flour wetting.",
+        "line_tier": "B",
+        "note": "About bitter cassava in food-insecure settings; it is not about sweet cassava cooked normally.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

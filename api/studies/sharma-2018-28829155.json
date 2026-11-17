@@ -1,0 +1,30 @@
+{
+  "pmid": "28829155",
+  "slug": "sharma-2018-28829155",
+  "citation": {
+    "authors": "Sharma AK, Basu I, Singh S",
+    "year": 2018,
+    "journal": "Journal of Alternative and Complementary Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28829155/",
+  "page": "https://vilivity.com/studies/sharma-2018-28829155/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha",
+      "title": "Ashwagandha: stress, sleep, thyroid and liver cautions",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha/",
+      "record": {
+        "id": "sharma-2018",
+        "population": "Adults aged 18 to 50 with subclinical hypothyroidism (raised TSH), one hospital in Varanasi, India",
+        "n": 50,
+        "design": "Randomised, double-blind, placebo-controlled pilot of ashwagandha root extract 600 mg a day for 8 weeks",
+        "finding": "TSH, T3 and T4 improved compared with placebo over 8 weeks. Four people withdrew (two from each group).",
+        "line_tier": "B",
+        "note": "A small pilot at one site. NCCIH still advises people with thyroid disorders not to use ashwagandha, so this does not settle it; the two sources disagree in tone.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

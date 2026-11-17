@@ -1,0 +1,30 @@
+{
+  "pmid": "37596324",
+  "slug": "tadesse-2023-37596324",
+  "citation": {
+    "authors": "Tadesse GA et al",
+    "year": 2023,
+    "journal": "npj Digital Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37596324/",
+  "page": "https://vilivity.com/studies/tadesse-2023-37596324/",
+  "cited_by": [
+    {
+      "entry": "conditions-look-different-on-dark-skin",
+      "title": "How skin conditions look on dark skin (redness, rashes, rosacea, sunburn)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/conditions-look-different-on-dark-skin/",
+      "record": {
+        "id": "tadesse-2023",
+        "population": "Dermatology textbooks (machine-learning audit)",
+        "n": "not stated",
+        "design": "Image audit",
+        "finding": "Fitzpatrick V-VI images made up only 10.5% of all skin images.",
+        "line_tier": "B",
+        "note": "From the research file.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

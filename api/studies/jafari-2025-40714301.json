@@ -1,0 +1,30 @@
+{
+  "pmid": "40714301",
+  "slug": "jafari-2025-40714301",
+  "citation": {
+    "authors": "Jafari A, Mardani H, Faghfouri AH, Fashtali ZM et al",
+    "year": 2025,
+    "journal": "Pharmacological Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40714301/",
+  "page": "https://vilivity.com/studies/jafari-2025-40714301/",
+  "cited_by": [
+    {
+      "entry": "black-seed-oil-nigella-sativa",
+      "title": "Black seed oil (Nigella sativa)",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/black-seed-oil-nigella-sativa/",
+      "record": {
+        "id": "jafari-2025",
+        "population": "82 studies (79 quantitative and 3 qualitative; the title calls them randomised controlled trials), 5,026 participants, 1 to 48 weeks (doses 200 to 4,600 mg a day)",
+        "n": 5026,
+        "design": "Systematic review and dose-response meta-analysis, GRADE-assessed",
+        "finding": "Nigella sativa supplementation significantly improved body fat percentage, systolic blood pressure, mean arterial pressure, fasting blood sugar, HbA1c, post-meal glucose, insulin sensitivity, C-reactive protein, cholesterol fractions and triglycerides. The authors conclude it could be a promising adjunct therapy for improving cardiovascular risk factors.",
+        "line_tier": "B",
+        "note": "The abstract does not give the certainty grade or participants' ancestry; no safety summary read. Authors report no competing interests.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

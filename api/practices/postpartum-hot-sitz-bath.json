@@ -1,0 +1,57 @@
+{
+  "slug": "postpartum-hot-sitz-bath",
+  "name": "Hot salt-water sitz bath after birth",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Sit in a bowl or bath of hot water (sometimes with salt) in the first days and weeks after delivery.",
+  "why_they_say_it_works": "To speed healing of tears and stitches, help the womb drain and \"tighten\" the vagina.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Ekanem AD et al 2004, Trop Doct, PMID 15117138",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15117138/",
+      "quote_or_summary": "Calabar, 300 women: 70.7% sat in hot water (sitz bath) to aid perineal wound healing and improve vaginal tone."
+    },
+    {
+      "source": "Okeke T et al 2013, Ann Med Health Sci Res, PMID 23634329",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23634329/",
+      "quote_or_summary": "Enugu, 420 mothers: 75% sat in hot salt water solution to aid lochia drainage and perineal healing."
+    },
+    {
+      "source": "Udigwe GO, Emelumadu OF, Udigwe IB 2013, West Afr J Med, PMID 24488282",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24488282/",
+      "quote_or_summary": "Nnewi: 69.7% regularly did hot-water sitz baths."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Sitz bath for perineal healing",
+      "population": "n/a",
+      "finding": "A 2024 Cureus trial combines far infrared and sitz bath after episiotomy (PMID 39310654); I saw the title only, abstract not read, UNVERIFIED. No trial of hot salt sitz bath alone was read.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "low",
+  "harm_note": "Warm (not scalding) sitz baths are standard postnatal advice in many places; I did not open guidance, so this is UNVERIFIED as clinical guidance.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Guidance (NHS, WHO) on sitz baths not opened.",
+    "The 2024 trial abstract not read."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/postpartum-hot-sitz-bath/"
+}

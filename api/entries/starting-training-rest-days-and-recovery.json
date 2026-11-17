@@ -1,0 +1,137 @@
+{
+  "slug": "starting-training-rest-days-and-recovery",
+  "title": "Starting training, rest days and recovery",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "How do I start training and what programme suits me?",
+    "How many rest days do I need and how do I recover?"
+  ],
+  "tradition_says": "Gym culture says train hard most days and sleep it off. Black men in particular are often told to go heavy, and rest is seen as weakness.",
+  "layer1": {
+    "plain_answer": "Nothing I found says Black adults need a different programme or rest days, so the NHS targets apply: strength work on two days, plus moderate or vigorous activity most days. One US survey found creatine kinase, a muscle blood marker, runs higher in Black adults, so a high result may be normal.",
+    "do": [
+      {
+        "text": "Aim for at least 150 minutes of moderate activity a week or 75 minutes of vigorous, spread over 4 to 5 days or every day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do strengthening work for all the major muscle groups on at least 2 days a week.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Speak to your doctor first if you have not exercised for some time or have a medical condition, and match intensity to your fitness.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a beginner plan such as the UK's NHS Couch to 5K, a 9-week running programme.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If a blood test shows a high creatine kinase, ask whether it is high for a Black adult, not only for the standard range.",
+        "basis": "tested",
+        "source": "george-2016"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Jumping straight to hard training after a long break: the UK's NHS says to make intensity appropriate to your fitness.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Long unbroken spells of sitting or lying down: break them up with some activity.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Severe muscle pain, weakness or dark urine after hard exercise (urgent care today).",
+      "Chest pain, pressure or being very short of breath during exercise (999 in the UK, or your local emergency number if it does not settle).",
+      "You know you carry sickle cell trait and plan very hard training, heat or altitude (see the trait entry; doctor or sports doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "10,096 non-pregnant US adults aged 20 and over, NHANES 2011-2014",
+      "design": "Cross-sectional survey; creatine kinase compared by sex and race-ethnicity, excluding recent strenuous exercise",
+      "n": "10096",
+      "finding": "Black race was strongly associated with creatine kinase: the odds of an abnormal result were 5.08 times higher (95% CI 3.65-7.08) for Black women and 8.39 times higher (6.11-11.52) for Black men. Body size and composition mattered but did not explain the racial difference. The 97.5th percentile was 382 in white men and 1001 in black men; 295 in white women and 487 in black women.",
+      "source": {
+        "authors": "George MD, McGill NK, Baker JF",
+        "year": 2016,
+        "journal": "Medicine (Baltimore)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27537560/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Healthy-population reference ranges, not an exercise recovery study. Self-reported race-ethnicity.",
+      "id": "george-2016"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That Black adults need a different programme or rest days: my search found nothing; the advice is NHS guidance, with one survey of a muscle marker.",
+  "tier_note": "D because the claim people ask about (what suits me, how many rest days) was not tested in Black adults in what I opened; the creatine kinase survey is a B line about a blood result, not about recovery. My search found nothing on recovery by ancestry.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for these NHS (UK) targets. See the sickle cell trait entry for the one measured trait with an exertion risk.",
+  "founder_flag": false,
+  "evidence_summary": "No study I opened tests training programmes or rest-day needs by ancestry. The NHS guidelines for adults 19 to 64 apply: at least 150 minutes of moderate or 75 of vigorous activity a week, strength work on two days, spread over 4 to 5 days. A US national survey found creatine kinase, which rises with muscle damage and is used to investigate muscle problems, runs substantially higher in healthy Black adults, so a result flagged high against standard ranges may be normal.",
+  "measured_variables": [
+    "Creatine kinase (blood), by sex and recorded race-ethnicity",
+    "Self-reported race-ethnicity, a stand-in: body composition did not explain the difference",
+    "Sickle cell trait (genotype), the one trait with an exertion risk (separate entry)"
+  ],
+  "gaps": "Untested or not opened: recovery time between sessions by ancestry or skin tone (my search found nothing; a search for resistance-training recovery returned reviews on other questions that I did not open); whether the higher creatine kinase changes how rhabdomyolysis is diagnosed; heat and cold effects on training; NHS (UK) advice on \"rest days\" as such (it says spread over 4 to 5 days or every day). The \"see someone\" triggers other than the trait are general and unsourced.",
+  "related": [
+    "sickle-cell-trait-and-hard-exercise",
+    "ice-baths-and-cold-exposure",
+    "heat-and-hydration",
+    "weight-bmi-and-ethnicity"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "George MD, McGill NK, Baker JF",
+      "year": 2016,
+      "journal": "Medicine (Baltimore)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27537560/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+      "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

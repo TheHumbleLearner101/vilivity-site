@@ -1,0 +1,30 @@
+{
+  "pmid": "27337619",
+  "slug": "powell-2016-27337619",
+  "citation": {
+    "authors": "Powell W, Adams LB, Cole-Lewis Y et al",
+    "year": 2016,
+    "journal": "Behavioral Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27337619/",
+  "page": "https://vilivity.com/studies/powell-2016-27337619/",
+  "cited_by": [
+    {
+      "entry": "mens-mental-health-and-depression",
+      "title": "Black men, depression and getting support",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/mens-mental-health-and-depression/",
+      "record": {
+        "id": "powell-2016",
+        "population": "458 African American men, recruited mainly from US barbershops",
+        "n": "458",
+        "design": "Cross-sectional survey and path analysis of barriers to help-seeking",
+        "finding": "More frequent everyday racism and higher masculinity norm salience went with higher barriers to health help-seeking. Everyday racism's link to barriers was partly explained by a lower sense of control and more depressive symptoms. The authors say interventions should address masculinity norms and also threats to sense of control and the effects of everyday racism.",
+        "line_tier": "B",
+        "note": "One cross-sectional survey in US barbershops; cannot show cause. Abstract read.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

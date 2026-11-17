@@ -1,0 +1,30 @@
+{
+  "pmid": "16043683",
+  "slug": "kostis-2005-16043683",
+  "citation": {
+    "authors": "Kostis JB, Kim HJ, Rusnak J, Casale T et al",
+    "year": 2005,
+    "journal": "Archives of Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/16043683/",
+  "page": "https://vilivity.com/studies/kostis-2005-16043683/",
+  "cited_by": [
+    {
+      "entry": "how-some-medicines-work-differently-by-gene",
+      "title": "How some medicines work differently by gene",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/how-some-medicines-work-differently-by-gene/",
+      "record": {
+        "id": "kostis-2005",
+        "population": "12,557 people with hypertension in a randomised, double-blind trial of enalapril 5 to 40 mg daily",
+        "n": 12557,
+        "design": "Prospective ascertainment and expert adjudication of angioedema within a randomised controlled trial",
+        "finding": "Angioedema occurred in 86 people (0.68%). Black race (odds ratio 2.88, 95% CI 1.72 to 4.82), history of drug rash (3.78), age over 65 (1.60) and seasonal allergies (1.79) were independent risk factors. Incidence was 3.6 per 1,000 patients per month soon after starting and fell to 0.4. Fatal angioedema or angioedema needing airway protection did not occur.",
+        "line_tier": "B",
+        "note": "A trial population of mixed ancestry, with race as a stand-in for unmeasured genes; abstract read in full.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

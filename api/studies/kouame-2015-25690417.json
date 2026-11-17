@@ -1,0 +1,30 @@
+{
+  "pmid": "25690417",
+  "slug": "kouame-2015-25690417",
+  "citation": {
+    "authors": "Kouame AC, Kouassi KN, N'dri YD, Amani NG",
+    "year": 2015,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25690417/",
+  "page": "https://vilivity.com/studies/kouame-2015-25690417/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "kouame-2015",
+        "population": "Healthy adults in Abidjan, Cote d'Ivoire (numbers not in the abstract)",
+        "n": "not stated in the abstract",
+        "design": "Glycaemic index tests to the ISO protocol: 50 g carbohydrate servings against glucose",
+        "finding": "Most of the five staples tested had a high glycaemic index above 70; attieke was lower at 63. Attieke had a high glycaemic load (29), placali and maize stiff porridge a medium one (17 and 16), and pounded cassava-plantain and pounded yam 26 and 22.",
+        "line_tier": "A",
+        "note": "Measured in healthy people, not people with diabetes; numbers of volunteers not in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

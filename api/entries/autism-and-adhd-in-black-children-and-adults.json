@@ -1,0 +1,178 @@
+{
+  "slug": "autism-and-adhd-in-black-children-and-adults",
+  "title": "Autism and ADHD: being missed, delayed or misdiagnosed",
+  "category": "mind",
+  "kind": "condition",
+  "question_forms": [
+    "Why are autism, ADHD and bipolar often missed or misdiagnosed in Black people?",
+    "Is autism under-diagnosed in Black children?",
+    "How do I get an autism or ADHD assessment?",
+    "Can ADHD or autism be missed in Black girls and women?"
+  ],
+  "tradition_says": "Black families often say that difficulties in a child or adult were put down to behaviour, attitude or discipline rather than assessed, and that getting a diagnosis took years of pushing.",
+  "layer1": {
+    "plain_answer": "A US review of 20 studies found delayed diagnosis and misdiagnosis of autism were the main errors, driven by limited knowledge, insurance, provider bias and assessment tools that may not suit Black and Hispanic families. Recent US prevalence in Black children is no lower than in White children. My search found no equivalent review for ADHD.",
+    "do": [
+      {
+        "text": "Ask your GP for an autism assessment referral if you think you or your child may be autistic; if refused, ask to see another GP, and in England you may be able to use Right to Choose.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Autism: getting diagnosed\"",
+          "url": "https://www.nhs.uk/conditions/autism/getting-diagnosed/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For a child, speak to the school or a health visitor (UK) too, as they may need to make the referral.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Autism: getting diagnosed\"",
+          "url": "https://www.nhs.uk/conditions/autism/getting-diagnosed/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For ADHD in a child, speak to the teacher or SENCO and a doctor about requesting an assessment; symptoms usually start before 12.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"ADHD: diagnosis\"",
+          "url": "https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/diagnosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Write down specific examples (what happens, when, how often) to take to the appointment; the assessment asks about development and early life.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Autism: getting diagnosed\"",
+          "url": "https://www.nhs.uk/conditions/autism/getting-diagnosed/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Accepting that it is only behaviour or discipline without an assessment: the review found provider bias in history-taking caused delays and misdiagnoses.",
+        "basis": "tested",
+        "source": "srivarathan-2026"
+      },
+      {
+        "text": "Assuming a diagnosis is unlikely because of ethnicity: US prevalence in Black children matched or exceeded White children for the 2010 and 2012 birth cohorts.",
+        "basis": "tested",
+        "source": "gallin-2025"
+      }
+    ],
+    "see_someone_when": [
+      "Your child has delayed speech, difficulty with interaction, or very repetitive behaviours (doctor, health visitor in the UK or school).",
+      "Inattention, restlessness or impulsiveness is affecting school, work or relationships (doctor; for a child, school SENCO then doctor).",
+      "You were told it is only behaviour and you still have concerns (ask for a second opinion from another doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "20 US studies of inequities in diagnosing mental disorders; 17 were about autism",
+      "design": "Systematic review with narrative synthesis, studies 2015-2024, quality appraisal with the Mixed-Methods Appraisal Tool; studies of varying quality",
+      "n": "20 studies",
+      "finding": "Most diagnostic errors were delayed diagnosis. Eleven factors contributed: limited health literacy was the leading cause in recognising symptoms, insurance coverage delayed engagement, provider bias during history-taking was a key cause of delays and misdiagnoses, and culturally inequivalent assessment measures might cause misdiagnosis and delayed diagnosis for Black/African American and Hispanic/Latino people.",
+      "source": {
+        "authors": "Srivarathan A, Bradford A, Shearkhani S, Heimlich L et al",
+        "year": 2026,
+        "journal": "BMJ Quality & Safety",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40854799/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "srivarathan-2026",
+      "note": "US only; studies of varying methodological quality; mostly autism, so it says little about ADHD or bipolar."
+    },
+    {
+      "population": "17 US population-based birth-cohort studies of autism prevalence by race, at least 1,000 cases each",
+      "design": "Systematic review",
+      "n": "17 studies",
+      "finding": "Before 2010, prevalence was highest in White children in nearly all birth cohorts. In the 2010 birth cohort, prevalence per 1,000 was 22.3 for Black, 22.5 for Hispanic, 22.2 for Asian/Pacific Islander and 21.2 for White children, and the gap grew in 2012. Possible drivers include changes in screening and diagnosis, insurance policy and education.",
+      "source": {
+        "authors": "Gallin Z, Kolevzon AM, Reichenberg A, Hankerson SH et al",
+        "year": 2025,
+        "journal": "Journal of Autism and Developmental Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38941049/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "gallin-2025",
+      "note": "US only. A prevalence rise in Black children is consistent with earlier under-recognition and later better recognition, but the review does not test that."
+    },
+    {
+      "population": "ADHD, bipolar disorder in Black people",
+      "design": "PubMed searches 12 Nov 2026: (attention deficit) AND (Black OR African American) AND (underdiagnosis OR delayed diagnosis OR disparit*) restricted to systematic reviews and meta-analyses, 0 hits; (ADHD) AND (Black children) AND (diagnosis OR underdiagnos*), 338 hits sorted by relevance, first seven titles read, none a review of diagnostic disparity. Bipolar was not searched separately. Positive control: autism with the same review filter, 8 hits.",
+      "n": 0,
+      "finding": "My search found nothing: no systematic review of under-diagnosis or misdiagnosis of ADHD or bipolar disorder in Black people. This is a limit of my search, not proof that none exists.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28ADHD%29+AND+%28Black+OR+African+American%29+AND+%28underdiagnosis+OR+%22under-diagnosis%22+OR+disparit*%29+AND+%28systematic+review%5BPublication+Type%5D+OR+meta-analysis%5BPublication+Type%5D%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "adhd-bipolar-search"
+    }
+  ],
+  "tier": "B",
+  "tier_variant": "observational-black-population",
+  "strength": "moderate",
+  "tier_driver": "That autism diagnosis is delayed and sometimes mistaken for Black and Hispanic people in the US: a systematic review of 20 studies of varying quality, mostly autism. ADHD and bipolar: my search found no review.",
+  "tier_note": "Systematic reviews of US observational studies, quality varying; strength moderate rather than strong because the studies are of varying quality and the authors do not give a certainty rating in the abstract. Autism only: ADHD and bipolar claims are not supported by anything opened. The NHS pages are general (the ADHD page does not mention ethnicity; the autism page does not describe differences in presentation).",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for seeking an assessment. The harm is delay or a wrong label.",
+  "founder_flag": false,
+  "evidence_summary": "A 2026 systematic review of 20 US studies on inequities in diagnosing mental disorders (17 were about autism) found most errors were delays, with limited health literacy, insurance, provider bias and culturally inequivalent assessment tools among 11 contributing factors (Srivarathan 2026). A systematic review of 17 US birth-cohort studies found autism prevalence was highest in White children before 2010, but by the 2010 birth cohort Black children (22.3 per 1,000) were slightly above White children (21.2) (Gallin 2025). The NHS says GPs can refer for an autism assessment, that a school or health visitor may need to refer a child, and that ADHD assessment starts with a teacher or SENCO and a GP; it says ADHD is recognised less often in girls and does not mention ethnicity. A UK burnout or ADHD disparity study was not found.",
+  "measured_variables": [
+    "Race and ethnicity as recorded in US studies (a social category, not a biological one)",
+    "Age at diagnosis"
+  ],
+  "gaps": "Untested or not found: any UK study of autism or ADHD diagnosis delay by ethnicity; ADHD and bipolar misdiagnosis in Black adults (my search found nothing at review level); girls and women; whether any change in assessment tools closes the gap. The Srivarathan abstract lists the factors but I did not read the full text for effect sizes. Mental Health Act and psychosis misdiagnosis are in their own entry.",
+  "related": [
+    "mental-health-act-psychosis-and-misdiagnosis",
+    "childrens-mental-health-support",
+    "being-believed-by-doctors-and-pain",
+    "racism-and-mental-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Srivarathan A et al",
+      "year": 2026,
+      "journal": "BMJ Quality & Safety",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40854799/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Gallin Z et al",
+      "year": 2025,
+      "journal": "Journal of Autism and Developmental Disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38941049/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "This bank, 12 Nov 2026",
+      "year": 2026,
+      "journal": "PubMed search",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28ADHD%29+AND+%28Black+OR+African+American%29+AND+%28underdiagnosis+OR+%22under-diagnosis%22+OR+disparit*%29+AND+%28systematic+review%5BPublication+Type%5D+OR+meta-analysis%5BPublication+Type%5D%29",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Autism: getting diagnosed\"",
+      "url": "https://www.nhs.uk/conditions/autism/getting-diagnosed/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"ADHD: diagnosis\"",
+      "url": "https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/diagnosis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

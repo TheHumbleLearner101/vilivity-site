@@ -1,0 +1,30 @@
+{
+  "pmid": "14705454",
+  "slug": "sarswathi-2003-14705454",
+  "citation": {
+    "authors": "Sarswathi TR, Kumar SN, Kavitha KM",
+    "year": 2003,
+    "journal": "Indian Journal of Dental Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/14705454/",
+  "page": "https://vilivity.com/studies/sarswathi-2003-14705454/",
+  "cited_by": [
+    {
+      "entry": "dark-or-swollen-lips",
+      "title": "Dark or swollen lips",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/dark-or-swollen-lips/",
+      "record": {
+        "id": "sarswathi-2003",
+        "population": "41 tobacco users and 8 controls in India",
+        "n": "49",
+        "design": "Clinical and tissue study of mouth and lip pigmentation",
+        "finding": "In smokers, 95.24% had pigmentation of the lip and cheek lining, the lip more (81%) than the cheek (33.3%), with more melanocytes on tissue examination. Pigmentation was absent at the site where smokeless tobacco was held.",
+        "line_tier": "B",
+        "note": "Small, with few controls; an association; not a Black population.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

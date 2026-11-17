@@ -1,0 +1,47 @@
+{
+  "pmid": "24256378",
+  "slug": "powe-2013-24256378",
+  "citation": {
+    "authors": "Powe CE, Evans MK, Wenger J, Zonderman AB et al",
+    "year": 2013,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24256378/",
+  "page": "https://vilivity.com/studies/powe-2013-24256378/",
+  "cited_by": [
+    {
+      "entry": "vitamin-d-and-dark-skin",
+      "title": "Vitamin D and dark skin",
+      "module": "body",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/body/vitamin-d-and-dark-skin/",
+      "record": {
+        "id": "powe-2013",
+        "population": "2,085 Black and White adults in Baltimore (Healthy Aging in Neighborhoods of Diversity across the Life Span)",
+        "n": 2085,
+        "design": "Cohort with genotyping of vitamin D-binding protein variants",
+        "finding": "Total 25-hydroxyvitamin D was 15.6 ng/ml in Black participants against 25.8 in White. Vitamin D-binding protein was also lower (168 against 337 ug/ml). In people homozygous for the same genotype, bioavailable 25(OH)D was similar (2.9 against 3.1 ng/ml). Bone mineral density was higher in Black participants (1.05 against 0.94 g/cm2).",
+        "line_tier": "B",
+        "note": "Observational. Whether 'bioavailable' levels are the right measure is contested; NEJM published correspondence (the 12 Nov research file cites PMID 24571762, not re-opened).",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "vitamins-and-supplements-basics",
+      "title": "Vitamins and supplements: what the NHS says",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/vitamins-and-supplements-basics/",
+      "record": {
+        "id": "powe-2013",
+        "population": "2,085 Black and white US adults",
+        "n": 2085,
+        "design": "Cohort study of total vitamin D, vitamin D-binding protein and bone density",
+        "finding": "Mean total 25(OH)D was 15.6 against 25.8 ng/mL in Black against white participants, and vitamin D-binding protein was 168 against 337 micrograms/mL; Black participants had higher bone mineral density. Genetic variants explained about 79% of variation in the binding protein.",
+        "line_tier": "B",
+        "note": "Reused from the vitamin D entry; this card gives NHS advice, not a verdict on the contested bone-health evidence.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

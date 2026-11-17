@@ -1,0 +1,47 @@
+{
+  "pmid": "36373988",
+  "slug": "kelleher-2022-36373988",
+  "citation": {
+    "authors": "Kelleher MM, Phillips R, Brown SJ et al",
+    "year": 2022,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36373988/",
+  "page": "https://vilivity.com/studies/kelleher-2022-36373988/",
+  "cited_by": [
+    {
+      "entry": "baby-skin-care",
+      "title": "Baby skin care (newborns and infants)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/baby-skin-care/",
+      "record": {
+        "id": "kelleher-2022-baby",
+        "population": "Infants, mostly newborns, 8 of the 11 meta-analysed trials in babies at high risk of eczema or food allergy (33 trials, 25,827 babies identified; the eczema result rests on 7 trials, 3,075 infants); ethnicity not given in the abstract",
+        "n": "3075",
+        "design": "Cochrane systematic review of skin care interventions to prevent eczema and food allergy",
+        "finding": "Skin care interventions during infancy probably do not change the risk of eczema by 1 to 3 years (RR 1.03, 95% CI 0.81 to 1.31; moderate-certainty; 7 trials, 3,075 infants). They may increase IgE-mediated food allergy (RR 2.53, 0.99 to 6.49; low-certainty; 1 trial, 976 infants) and probably increase skin infection (RR 1.33, 1.01 to 1.75). Only 17 of 33 trials reported prespecified outcomes.",
+        "line_tier": "B",
+        "note": "Most meta-analysed trials were in high-risk babies, so this says little about babies at average risk; does not address babies already with eczema.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "eczema-on-dark-skin",
+      "title": "Eczema on dark skin (atopic eczema, including babies)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/eczema-on-dark-skin/",
+      "record": {
+        "id": "kelleher-2022",
+        "population": "Healthy infants, mostly newborns (33 randomised trials, 25,827 babies); ethnicity not given in the abstract",
+        "n": "25827",
+        "design": "Cochrane systematic review of skin care for preventing eczema and food allergy",
+        "finding": "With low to moderate certainty, emollients in the first year of life in healthy infants are probably not effective for preventing eczema, may increase food allergy and probably increase skin infection.",
+        "line_tier": "B",
+        "note": "This is about prevention in healthy babies; it does not say emollients fail as treatment once eczema is present.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "hibiscus-sorrel-blood-pressure",
+  "title": "Hibiscus (sorrel, zobo, bissap) and blood pressure",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does sorrel drink lower blood pressure?",
+    "Is hibiscus tea good for hypertension?",
+    "Can I drink zobo instead of taking my tablets?"
+  ],
+  "tradition_says": "Hibiscus drinks (sorrel in the Caribbean, zobo in Nigeria, bissap in Senegal) are drunk across the African diaspora and widely believed to bring down high blood pressure.",
+  "layer1": {
+    "plain_answer": "Hibiscus tea lowered blood pressure a little in several trials, including one in Nigerian adults. A stricter review found too little reliable evidence, so the effect is contested. It is a reasonable drink, not a replacement for blood-pressure medicine.",
+    "do": [
+      {
+        "text": "Drink it if you like it, alongside the UK's NHS basics: less salt, regular exercise, alcohol within limits.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"High blood pressure: prevention\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/prevention/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist you drink it if you take blood-pressure tablets.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Taking bendroflumethiazide with other medicines and herbal remedies\" (the herbal-remedy wording applies generally)",
+          "url": "https://www.nhs.uk/medicines/bendroflumethiazide/taking-bendroflumethiazide-with-other-medicines-and-herbal-remedies",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Stopping or skipping prescribed medicine because you drink hibiscus.",
+        "basis": "tested",
+        "source": "pattanittum-2021"
+      },
+      {
+        "text": "Treating a high reading as something a drink will fix.",
+        "basis": "tested",
+        "source": "pattanittum-2021"
+      }
+    ],
+    "see_someone_when": [
+      "A home reading is repeatedly high (doctor).",
+      "A reading is very high with headache, chest pain, vision change or confusion (urgent care today).",
+      "You are pregnant or breastfeeding and want to take it regularly (midwife or doctor): I did not find safety data in what I read."
+    ]
+  },
+  "tested": [
+    {
+      "population": "80 newly diagnosed, untreated Nigerian adults with mild to moderate hypertension, Enugu",
+      "design": "Randomised, three groups for 4 weeks: placebo, hydrochlorothiazide, or hibiscus",
+      "n": 80,
+      "finding": "Both hibiscus and the drug lowered blood pressure compared with placebo. The authors reported hibiscus as more effective than the drug and without electrolyte imbalance, and the fall persisted after withdrawal. No side effects were reported.",
+      "source": {
+        "authors": "Nwachukwu DC, Aneke E, Nwachukwu NZ, Obika LF et al",
+        "year": 2015,
+        "journal": "Nigerian Journal of Clinical Practice",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26289514/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Single small trial. Placebo, dose and blinding details were not in the abstract. The 'more effective than the drug' conclusion is the authors' own.",
+      "id": "nwachukwu-2015"
+    },
+    {
+      "population": "65 pre- and mildly hypertensive US adults aged 30 to 70, not on blood-pressure drugs",
+      "design": "Randomised, double-blind, placebo-controlled, 3 servings of hibiscus tea a day for 6 weeks",
+      "n": 65,
+      "finding": "Systolic pressure fell 7.2 mmHg on hibiscus against 1.3 mmHg on placebo (P=0.030). Diastolic did not differ from placebo.",
+      "source": {
+        "authors": "McKay DL, Chen CY, Saltzman E, Blumberg JB",
+        "year": 2010,
+        "journal": "Journal of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20018807/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Ethnic make-up of participants not in the abstract.",
+      "id": "mckay-2010"
+    },
+    {
+      "population": "1,797 people across 26 randomised trials (Iran, Mexico, Egypt, Nigeria and others)",
+      "design": "Umbrella review of meta-analyses plus updated dose-response meta-analysis, graded with GRADE and credibility tools",
+      "n": 1797,
+      "finding": "Hibiscus lowered systolic and diastolic pressure compared with placebo and other teas, dose-dependently, with no significant difference from antihypertensive drugs. The authors rated the credibility of a fall of more than 10 mmHg as moderate. The authors note long-term and therapeutic-dose safety needs monitoring.",
+      "source": {
+        "authors": "Norouzzadeh M, Hasan Rashedi M, Azizi MH, Teymoori F et al",
+        "year": 2025,
+        "journal": "Complementary Therapies in Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39870328/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "norouzzadeh-2025"
+    },
+    {
+      "population": "Adults with high blood pressure; strict Cochrane criteria",
+      "design": "Cochrane review of randomised trials of roselle against placebo or no treatment, searched to August 2021",
+      "n": 52,
+      "finding": "Only one trial met the criteria (60 people with type 2 diabetes, 8 weeks, capsules). Effect on systolic pressure was 1.65 mmHg (95% CI -7.89 to 11.19), very low certainty. The review concludes evidence is insufficient to say whether roselle lowers blood pressure.",
+      "source": {
+        "authors": "Pattanittum P, Ngamjarus C, Buttramee F, Somboonporn C",
+        "year": 2021,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34837382/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Counter-evidence. Cochrane's inclusion rules were narrower than the 2025 umbrella review, which is why they disagree.",
+      "id": "pattanittum-2021"
+    }
+  ],
+  "tier": "A",
+  "strength": "thin",
+  "tier_driver": "Whether hibiscus lowers blood pressure: one randomised trial in 80 Nigerian adults, plus trials elsewhere.",
+  "tier_note": "Only one small randomised trial (n=80) in people of African descent, which points the same way as larger trials elsewhere; the Cochrane review says the whole body is low certainty. Would drop to B if that trial were set aside.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the abstracts I read (the umbrella review reports a small, clinically insignificant rise in one liver enzyme and no increase in adverse events). It can lower blood pressure, so it adds to blood-pressure drugs; that interaction was not studied in what I read.",
+  "founder_flag": false,
+  "evidence_summary": "Hibiscus tea lowers blood pressure a little in several trials, including one of 80 Nigerian adults. The overall evidence is contested: a 2025 review of 26 trials rates it moderate, while a stricter Cochrane review found too little reliable evidence. It is a reasonable drink, not a replacement for blood-pressure medicine.",
+  "measured_variables": [
+    "Blood pressure (measured); no trial selected people by genotype or ancestry"
+  ],
+  "gaps": "Untested: hibiscus in Caribbean or Black British populations; long-term safety; interaction with common blood-pressure tablets in people already treated; sweetened sorrel as drunk at home (trials use unsweetened tea or extract); effect on hypertension that is already treated. Whether Black adults respond differently from others is untested. V2: the NHS blood pressure pages opened do not mention herbal teas; the tell-your-pharmacist line cites the NHS bendroflumethiazide page and applies its general herbal-remedy wording.",
+  "related": [
+    "iron-and-fibroids"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Nwachukwu DC et al",
+      "year": 2015,
+      "journal": "Niger J Clin Pract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26289514/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "McKay DL et al",
+      "year": 2010,
+      "journal": "J Nutr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20018807/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Norouzzadeh M et al",
+      "year": 2025,
+      "journal": "Complement Ther Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39870328/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Pattanittum P et al",
+      "year": 2021,
+      "journal": "Cochrane Database Syst Rev",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34837382/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"High blood pressure: prevention\"",
+      "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/prevention/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Taking bendroflumethiazide with other medicines and herbal remedies\" (the herbal-remedy wording applies generally)",
+      "url": "https://www.nhs.uk/medicines/bendroflumethiazide/taking-bendroflumethiazide-with-other-medicines-and-herbal-remedies",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

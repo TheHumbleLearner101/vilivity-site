@@ -1,0 +1,30 @@
+{
+  "pmid": "36215222",
+  "slug": "brunvoll-2022-36215222",
+  "citation": {
+    "authors": "Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P et al",
+    "year": 2022,
+    "journal": "BMJ"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36215222/",
+  "page": "https://vilivity.com/studies/brunvoll-2022-36215222/",
+  "cited_by": [
+    {
+      "entry": "cod-liver-oil",
+      "title": "Cod liver oil: vitamin D, vitamin A and colds",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/cod-liver-oil/",
+      "record": {
+        "id": "brunvoll-2022",
+        "population": "34,601 adults aged 18 to 75 in Norway not taking daily vitamin D",
+        "n": "34,601",
+        "design": "Quadruple-blind randomised placebo-controlled trial: 5 mL a day of cod liver oil (10 micrograms vitamin D) or placebo for up to six months in winter",
+        "finding": "Cod liver oil did not reduce the risk of SARS-CoV-2 infection, serious covid-19, or other acute respiratory infections (for example any acute respiratory infection, relative risk 1.04, 95% CI 0.97 to 1.11). Only low-grade side effects were reported.",
+        "line_tier": "B",
+        "note": "Norwegian adults, mostly white; cod liver oil at a low vitamin D dose, so it does not test higher doses or people with dark skin.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

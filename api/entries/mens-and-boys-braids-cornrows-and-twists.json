@@ -1,0 +1,180 @@
+{
+  "slug": "mens-and-boys-braids-cornrows-and-twists",
+  "title": "Braids, cornrows and twists for men and boys",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Which braid styles suit men and boys, and how do I look after them?",
+    "Can cornrows and braids cause hair loss in men?"
+  ],
+  "tradition_says": "Braids and cornrows are a safe, low-maintenance protective style for men and boys because they keep the hair tucked away.",
+  "layer1": {
+    "plain_answer": "No study has tested braid styles in men or boys. A South African school survey found traction alopecia mostly in girls with relaxed hair, and neck bumps (acne keloidalis nuchae) in boys with frequent haircuts. Dermatologists' advice is the same for everyone: loose braids, hairline left free, rest between styles.",
+    "do": [
+      {
+        "text": "Keep braids and cornrows loose; scalp pain after installation means they are too tight.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take braids out within about 6 weeks and leave the delicate hairline out of the braids.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Braid in alternate directions rather than always pulling the same way.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Moisturise hair and scalp regularly between wash days, braided or not.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Hiding a thinning hairline with the same tight style that caused it: a dermatologist says this is common and delays help.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "BlackDoctor (a dermatologist is speaking; her name is not in the captions), YouTube, \"A Dermatologist Explains: How to Reverse Traction Alopecia\"",
+          "url": "https://youtu.be/0HEL_WF-HaQ",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Heavy extensions or beads, which add weight and tension.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming very close, frequent cuts at the nape are free of risk: in a school survey neck bumps went with frequent haircuts (association only).",
+        "basis": "tested",
+        "source": "khumalo-2007"
+      }
+    ],
+    "see_someone_when": [
+      "A hairline or crown that is thinning or receding (doctor, then dermatologist).",
+      "Firm bumps, pus or scarring at the back of the neck (doctor or dermatologist).",
+      "A child with scalp pain, bumps or patchy hair loss after braids (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,042 schoolchildren (45% boys), South Africa",
+      "design": "Cross-sectional questionnaire and scalp examination",
+      "n": "1042",
+      "finding": "Acne keloidalis nuchae (neck bumps) was found in 0.67% overall and 4.7% of final-year boys, all with frequent haircuts; most boys (72.8%) kept natural hair with haircuts within 4 weeks. Traction alopecia was 9.4% overall and 17.1% in girls, and was more common with relaxed than natural hair; 8.6% of boys had relaxed hair.",
+      "source": {
+        "authors": "Khumalo NP et al",
+        "year": 2007,
+        "journal": "British Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17553035/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "One country, one survey; association only; boys' braid-specific results are not reported in the abstract.",
+      "id": "khumalo-2007"
+    },
+    {
+      "population": "574 African schoolgirls and 604 women, South Africa",
+      "design": "Cross-sectional population studies",
+      "n": 1178,
+      "finding": "Traction added to relaxed hair carried the highest odds of traction alopecia (odds ratio 3.47, 95% CI 1.94-6.20) against natural hair.",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "Braids and cornrows in men and boys",
+      "design": "PubMed search run 12 Nov 2026, exact string: (boys OR \"young men\" OR men) AND (cornrows OR braids OR \"tight hairstyles\") AND (alopecia OR scalp OR hair loss) (result count 2).",
+      "n": 0,
+      "finding": "My search found nothing in men: the 2 results were the South African schoolchildren survey above (PMID 17553035) and a review of therapies for alopecias in Black women (Callender 2004, PMID 15113284). No study reports braid-related hair loss in adult men. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28boys+OR+%22young+men%22+OR+men%29+AND+%28cornrows+OR+braids+OR+%22tight+hairstyles%22%29+AND+%28alopecia+OR+scalp+OR+hair+loss%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "mens-braid-search"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That braids and cornrows are safe or harmful for men and boys: no study of men; the school survey is an association in children.",
+  "tier_note": "D because the claim (braids are safe or protective for men and boys) has no human study in males; Khumalo 2007 and 2008 are B lines about children and girls and do not lift the headline. A survey of men with and without braids recording hairline loss would move it.",
+  "harm_flag": false,
+  "harm_note": "Harm signal is the general traction signal (see traction alopecia entry); not shown specifically in men.",
+  "founder_flag": false,
+  "evidence_summary": "No men-specific study was found. The BAD leaflet's braid advice (loose, six weeks, hairline free, no heavy extensions) is for anyone. Khumalo 2007 (schoolchildren, 45% boys) linked neck bumps to frequent haircuts in boys and traction alopecia to relaxed hair in girls; Khumalo 2008 found the highest odds of traction alopecia with traction on relaxed hair in girls and women. A dermatologist in a video says braids, twists and locs are not inherently bad, the problem is tightness, and some people are more prone than others; that is practice advice, untested.",
+  "measured_variables": [
+    "Hairline density (not measured in men)"
+  ],
+  "gaps": "Untested: hair loss from braids in men; safe size and duration for boys' braids (see the children entry for the one paediatric talk report). Closes the 12 Nov partial on men's and boys' braids as \"general guidance; no male-specific study\".",
+  "related": [
+    "braids-twists-and-extensions",
+    "traction-alopecia-and-protective-styles",
+    "children-and-babies-hair",
+    "mens-hair-waves-fades-and-durags",
+    "shaving-and-razor-bumps"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2007,
+      "journal": "British Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17553035/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "BlackDoctor (a dermatologist is speaking; her name is not in the captions), YouTube, \"A Dermatologist Explains: How to Reverse Traction Alopecia\"",
+      "url": "https://youtu.be/0HEL_WF-HaQ",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

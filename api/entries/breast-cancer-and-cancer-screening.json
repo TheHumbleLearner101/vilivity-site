@@ -1,0 +1,218 @@
+{
+  "slug": "breast-cancer-and-cancer-screening",
+  "title": "Breast cancer, triple-negative disease and screening",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "When should I start screening for colon or breast cancer?",
+    "Is breast cancer more aggressive in Black women?",
+    "What is triple-negative breast cancer?"
+  ],
+  "tradition_says": "Breast cancer is often thought of as a disease of older White women, and screening letters are skipped or put off.",
+  "layer1": {
+    "plain_answer": "In England, Black women did not have a higher breast cancer rate than White women, but short-term survival was worse in national data, and one London hospital saw younger, more aggressive cases. Know your own breasts and see a GP about any change. NHS breast screening starts between 50 and 53, bowel screening at 50.",
+    "do": [
+      {
+        "text": "See a doctor about a lump, swelling, dimpling or a change in your breast or nipple; on black or brown skin a colour change may look darker than usual.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of breast cancer in women\"",
+          "url": "https://www.nhs.uk/conditions/breast-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take up your breast screening invitation, which arrives between 50 and 53 and then every 3 years until your 71st birthday.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Who breast screening is for\"",
+          "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/who-breast-screening-is-for/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If no letter has come by 53, contact your local breast screening service.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Who breast screening is for\"",
+          "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/who-breast-screening-is-for/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do the bowel screening home test (FIT kit) when it arrives from age 50, every 2 years to 74.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Bowel cancer screening\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting for a screening letter when you have noticed a change: see a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of breast cancer in women\"",
+          "url": "https://www.nhs.uk/conditions/breast-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming no pain means no problem: breast pain by itself is not usually a symptom, and you can have these symptoms without pain.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of breast cancer in women\"",
+          "url": "https://www.nhs.uk/conditions/breast-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A lump or swelling in your breast, chest or armpit (doctor).",
+      "A change in the skin, shape or size of a breast, or in the nipple, including discharge or a rash (doctor).",
+      "You are 50 to 53 and have not had a first screening invitation (breast screening service).",
+      "Blood in your poo or a change in your bowel habit for weeks (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Black and White women with invasive breast cancer, one East London hospital, 1994-2005",
+      "design": "Retrospective single-centre comparison of age and tumour features",
+      "n": "not stated in the abstract",
+      "finding": "Black patients presented younger (median 46 years against 67 for White patients). Black women had more grade 3 tumours, lymph node-positive disease, hormone receptor-negative and basal-like (triple-negative) tumours. For tumours of 2 cm or less Black patients had poorer survival (hazard ratio 2.90, 95% CI 0.98-8.60, P=0.05). The authors say the findings could have major implications for detection and treatment.",
+      "source": {
+        "authors": "Bowen RL, Duffy SW, Ryan DA, Hart IR et al",
+        "year": 2008,
+        "journal": "British Journal of Cancer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18182985/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "One hospital; the confidence interval touches 1.",
+      "id": "bowen-2008"
+    },
+    {
+      "population": "Breast cancer cases among White, Black Caribbean and Black African women in South East England, 1998-2003",
+      "design": "Registry analysis of age-specific incidence rates",
+      "n": "not stated in the abstract",
+      "finding": "Black women had lower age-standardised incidence than White women. Under age 50 rates were similar across groups, and over 50 White women had higher rates. The younger age of Black patients reflects the younger age of the Black population, not a higher risk at younger ages.",
+      "source": {
+        "authors": "Jack RH, Davies EA, Moller H",
+        "year": 2012,
+        "journal": "International Journal of Cancer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21445965/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A direct counter to the \"younger onset\" reading of Bowen 2008.",
+      "id": "jack-2012"
+    },
+    {
+      "population": "86,852 women with breast cancer diagnosed in England 2012-2013",
+      "design": "National cancer-registry cohort, Cox models for two-year death",
+      "n": "86852",
+      "finding": "Triple-negative cancers had an adjusted hazard ratio for death of 2.00 (95% CI 1.84-2.17). Black women had an age-adjusted hazard ratio of 1.77 (1.48-2.13) against White women. The authors say the excess mortality has contributions from socio-economic factors, stage distribution and tumour biology.",
+      "source": {
+        "authors": "Moller H, Henson K, Luchtenborg M, Broggio J et al",
+        "year": 2016,
+        "journal": "British Journal of Cancer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27780193/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Two-year deaths only; one author was formerly employed by BUPA and two received HCA International funding for unrelated work.",
+      "id": "moller-2016"
+    },
+    {
+      "population": "687 Black women diagnosed with early-stage invasive breast cancer at age 50 or younger, Florida and Tennessee, 2005-2016",
+      "design": "Observational cohort, genetic ancestry and disease-free survival, median follow-up 10 years",
+      "n": "687",
+      "finding": "Triple-negative disease and lymph node involvement were associated with shorter disease-free survival (hazard ratio 1.81 and 1.77). A higher percentage of West African genetic ancestry was associated with shorter survival in the hormone receptor-positive subgroup. Full-time employment was associated with better outcomes (hazard ratio 0.44).",
+      "source": {
+        "authors": "Reid S, Fan R, Venton L, Weidner A et al",
+        "year": 2024,
+        "journal": "JAMA Network Open",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39652347/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US cohort; the abstract sentence on ancestry was cut off in my copy, so only the part I could read is used.",
+      "id": "reid-2024"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That Black women in England have worse short-term survival after breast cancer: a national registry cohort of 86,852 women, while a registry analysis shows incidence is not higher.",
+  "tier_note": "A national cohort plus single-hospital and US cohorts, all observational, with conflicting readings on age at onset; no trial of earlier screening in Black women.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for the advice on this card. The risk is late diagnosis.",
+  "founder_flag": false,
+  "evidence_summary": "Contested on onset, clearer on outcome. A 2008 East London hospital series found Black women presented about 21 years younger with more triple-negative tumours, but a registry analysis in South East England found the younger age reflects a younger Black population, with similar rates under 50 and lower rates over 50. A national English cohort found Black women had worse short-term survival (hazard ratio 1.77 for two-year death), with stage, deprivation and tumour biology all contributing. NHS screening starts between 50 and 53 for breast and at 50 for bowel.",
+  "measured_variables": [
+    "Tumour receptor status (oestrogen, progesterone, HER2); triple-negative means all three negative",
+    "Stage at diagnosis, deprivation, and genetic ancestry in the US cohort",
+    "Recorded ethnic group in England, a stand-in for these factors"
+  ],
+  "gaps": "Untested or not opened: whether screening before 50 helps Black women (the NHS offers it from 50; no trial); bowel cancer incidence and screening uptake by ethnic group in England (see the bowel and colon cancer screening entry; still unopened); NHS bowel screening age (50) comes from the NHS page, and the lower age for some regions was not checked; the Reid abstract was cut off before the ancestry result. Family history and BRCA advice not covered.",
+  "related": [
+    "prostate-cancer-and-psa-testing",
+    "being-believed-by-doctors-and-pain",
+    "skin-cancer-and-moles-on-dark-skin",
+    "bowel-and-colon-cancer-screening"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Bowen RL, Duffy SW, Ryan DA, Hart IR et al",
+      "year": 2008,
+      "journal": "British Journal of Cancer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18182985/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Jack RH, Davies EA, Moller H",
+      "year": 2012,
+      "journal": "International Journal of Cancer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21445965/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Moller H, Henson K, Luchtenborg M, Broggio J et al",
+      "year": 2016,
+      "journal": "British Journal of Cancer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27780193/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Reid S, Fan R, Venton L, Weidner A et al",
+      "year": 2024,
+      "journal": "JAMA Network Open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39652347/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Symptoms of breast cancer in women\"",
+      "url": "https://www.nhs.uk/conditions/breast-cancer/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Who breast screening is for\"",
+      "url": "https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/who-breast-screening-is-for/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Bowel cancer screening\"",
+      "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

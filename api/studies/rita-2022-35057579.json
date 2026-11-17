@@ -1,0 +1,30 @@
+{
+  "pmid": "35057579",
+  "slug": "rita-2022-35057579",
+  "citation": {
+    "authors": "Rita K, Bernardo MA, Silva ML, Brito J et al",
+    "year": 2022,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35057579/",
+  "page": "https://vilivity.com/studies/rita-2022-35057579/",
+  "cited_by": [
+    {
+      "entry": "baobab-fruit",
+      "title": "Baobab fruit: blood sugar, iron and vitamin C",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/baobab-fruit/",
+      "record": {
+        "id": "rita-2022",
+        "population": "31 healthy adults in Portugal",
+        "n": "31",
+        "design": "Randomised controlled trial: oral glucose tolerance test with or without 250 mL baobab aqueous extract",
+        "finding": "The rise in blood glucose (incremental area under the curve) and the peak glucose were significantly lower in the baobab group than in the control group after a glucose load. The extract had high polyphenol content.",
+        "line_tier": "B",
+        "note": "One sitting, healthy adults, a lab-made extract; authors report no conflicts of interest.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

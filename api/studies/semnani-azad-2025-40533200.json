@@ -1,0 +1,30 @@
+{
+  "pmid": "40533200",
+  "slug": "semnani-azad-2025-40533200",
+  "citation": {
+    "authors": "Semnani-Azad Z, Khan TA, Chiavaroli L, Chen V et al",
+    "year": 2025,
+    "journal": "BMJ"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40533200/",
+  "page": "https://vilivity.com/studies/semnani-azad-2025-40533200/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-weight-and-health",
+      "title": "Intermittent fasting for weight and health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-weight-and-health/",
+      "record": {
+        "id": "semnani-azad-2025",
+        "population": "Adults in 99 randomised trials (720 healthy, 5,862 with health conditions)",
+        "n": 6582,
+        "design": "Systematic review and network meta-analysis of intermittent fasting (alternate-day, time-restricted, whole-day) against continuous calorie restriction or eating freely",
+        "finding": "All fasting and calorie-restriction diets reduced weight compared with eating freely. Compared with continuous calorie restriction, only alternate-day fasting gave extra weight loss (1.29 kg, moderate certainty). In trials of 24 weeks or longer, strategies only beat eating freely.",
+        "line_tier": "B",
+        "note": "Mostly short trials. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

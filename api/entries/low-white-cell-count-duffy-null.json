@@ -1,0 +1,210 @@
+{
+  "slug": "low-white-cell-count-duffy-null",
+  "title": "A low white cell count that may be Duffy-null (neutrophil count)",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Why is my white blood cell count low?",
+    "What is benign ethnic neutropenia?",
+    "Is a low neutrophil count normal for Black people?",
+    "Why was I turned away from a clinical trial for a low neutrophil count?"
+  ],
+  "tradition_says": "Nothing is passed down about this; it is a blood-test result, usually met in a clinic. Many Black people have been told a low count is 'normal for your race' or a worry, without the reason being explained.",
+  "layer1": {
+    "plain_answer": "Many people of African ancestry are Duffy-null, an inherited blood-cell variant that gives a lower neutrophil count (the white cells that fight infection). The main study calls it clinically insignificant. The risk is being misread: a normal count for you can be flagged as low.",
+    "what_it_is": [
+      {
+        "text": "An inherited variant: red cells do not carry the Duffy antigen. Common in people of African descent.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "Not a disease: it gives a lower neutrophil count without raising infection risk.",
+        "basis": "tested",
+        "source": "hibbs-2025"
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A blood test (Duffy testing), done with a full blood count in the main study.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "A haematology review urges clinicians to use Duffy-null reference ranges, so ask your doctor or a haematologist whether yours applies, especially if your count is low and you are well.",
+        "basis": "tested",
+        "source": "hibbs-2025"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Your neutrophil count runs lower than other people: median 2,820 against 5,005 per microlitre in one clinic.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "Many cancer trials exclude people whose count is in the Duffy-null range.",
+        "basis": "tested",
+        "source": "hibbs-2024"
+      },
+      {
+        "text": "Standard cut-offs can wrongly label you neutropenic, which can affect treatment and dosing decisions.",
+        "basis": "tested",
+        "source": "hibbs-2025"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "It does not raise your risk of infection.",
+        "basis": "tested",
+        "source": "hibbs-2025"
+      },
+      {
+        "text": "It is not a disease and needs no treatment on its own.",
+        "basis": "tested",
+        "source": "merz-2023"
+      }
+    ],
+    "see_someone_when": [
+      "You have a low neutrophil count and fevers, repeated infections, mouth ulcers or you feel unwell (doctor, urgently if fever).",
+      "You are about to start chemotherapy or a clinical trial and were told your count is too low (haematologist or oncologist: ask about Duffy-null).",
+      "The count is very low or keeps falling (doctor, then haematologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "120 healthy self-identified Black and African American adults at one US primary care centre",
+      "design": "Cross-sectional comparison of neutrophil counts by Duffy phenotype, with Duffy testing",
+      "n": 120,
+      "finding": "66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 cells per microlitre in Duffy-null people against 5,005 in Duffy non-null (P<.001). 23.8% (19 of 80) of Duffy-null people had a count below 2,000, against none of the non-null. The authors state the Duffy-null phenotype is clinically insignificant and advocate Duffy-null-specific reference ranges.",
+      "source": {
+        "authors": "Merz LE, Story CM, Osei MA, Jolley K et al",
+        "year": 2023,
+        "journal": "Blood Advances",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35994632/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single centre, n=120; whether the 'clinically insignificant' conclusion holds for all settings is the authors' claim.",
+      "id": "merz-2023"
+    },
+    {
+      "population": "6,005 African Americans from three cohort studies",
+      "design": "Genetic association analysis",
+      "n": 6005,
+      "finding": "The Duffy Null variant (rs2814778) predicted white cell and neutrophil count in African Americans beyond the previously described admixture association, establishing a new phenotype for the variant.",
+      "source": {
+        "authors": "Reich D, Nalls MA, Kao WH, Akylbekova EL et al",
+        "year": 2009,
+        "journal": "PLoS Genetics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19180233/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "reich-2009"
+    },
+    {
+      "population": "Phase 3 cancer trials for prostate, breast, melanoma, colorectal and lung cancers, 2021-2023",
+      "design": "Cross-sectional analysis of trial exclusion criteria and chemotherapy dose-modification rules",
+      "n": 382,
+      "finding": "Of 289 eligible trials, 221 (76.5%, 95% CI 71.1-81.2) excluded patients whose neutrophil counts were within the Duffy-null reference range. Colorectal trials had the highest exclusion proportion (86.4%), prostate the lowest (47.8%).",
+      "source": {
+        "authors": "Hibbs SP, Aiken L, Vora K, Mowete C et al",
+        "year": 2024,
+        "journal": "JAMA Network Open",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39259539/"
+      },
+      "tag": "[bibliometric]",
+      "line_tier": "B",
+      "id": "hibbs-2024"
+    },
+    {
+      "population": "Narrative review",
+      "design": "Review of Duffy antigen testing, epidemiology, neutrophil counts and clinical consequences",
+      "n": "not stated",
+      "finding": "The Duffy null variant is a non-pathological mutation that is partly protective against Plasmodium vivax and gives a lower neutrophil count without increasing infection risk. In many regions neutropenia has been defined by the counts of Duffy-positive people, which may be unsuitable for decisions in Duffy-null people.",
+      "source": {
+        "authors": "Hibbs SP, Jones J, Hantel A, Merz LE",
+        "year": 2025,
+        "journal": "British Journal of Haematology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40685916/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "hibbs-2025"
+    },
+    {
+      "population": "Duffy-null Black people and dose decisions",
+      "design": "Search for trial evidence that Duffy-specific reference ranges are safe",
+      "n": 0,
+      "finding": "I found papers on febrile neutropenia in Duffy-null patients with myeloma (Abdallah 2024, abstract not retrievable) and on CDK4/6 inhibitors in breast cancer (Ferri 2025, not opened). I could not confirm trial evidence for safe use of Duffy-specific thresholds. UNVERIFIED.",
+      "source": {
+        "authors": "Abdallah M, Arters F, Patel J, Edwards C et al",
+        "year": 2024,
+        "journal": "Blood Advances",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39348709/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Title only seen in search; the abstract returned empty from PubMed.",
+      "id": "abdallah-2024"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That Duffy-null lowers the neutrophil count without disease: a clinic study of 120, genetic data on 6,005, and a review.",
+  "tier_note": "Observational and genetic data in Black populations (n=120 and n=6,005) plus a bibliometric count of trial exclusions; it would move to A if a trial tested outcomes using Duffy-specific cut-offs.",
+  "harm_flag": true,
+  "harm_note": "The harm is from misreading, not from the variant: 76.5% of 289 recent phase 3 cancer trials excluded neutrophil counts within the Duffy-null range (Hibbs 2024), and a count under 2,000 was found in 24% of Duffy-null healthy adults (Merz 2023), so people can be wrongly treated as unwell or turned away.",
+  "founder_flag": false,
+  "evidence_summary": "Many people of African ancestry are Duffy-null: in one US clinic two-thirds of 120 healthy Black adults were. Duffy-null people have lower neutrophil counts than other people, and the authors of that study call the difference clinically insignificant. Ask your doctor whether Duffy-null explains a low count before anyone treats it or excludes you from a trial.",
+  "measured_variables": [
+    "Duffy phenotype or genotype (rs2814778), a blood test",
+    "Absolute neutrophil count",
+    "Self-identified race is a stand-in; Duffy-null also occurs in people of Middle Eastern ancestry (Hibbs 2024 abstract)"
+  ],
+  "gaps": "Untested in trials: outcomes (infection, treatment tolerance) when Duffy-null-specific thresholds are used; how often NHS or other labs report Duffy-adjusted ranges. Not verified: the claim of 65% US and 80% UK prevalence (12 Nov research file, via Tsiamita 2025, not opened by me). Duffy testing availability for patients is unverified.",
+  "related": [
+    "iron-and-fibroids",
+    "sickle-cell-trait-and-hard-exercise"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Merz LE et al",
+      "year": 2023,
+      "journal": "Blood Adv",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35994632/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Reich D et al",
+      "year": 2009,
+      "journal": "PLoS Genet",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19180233/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Hibbs SP et al",
+      "year": 2024,
+      "journal": "JAMA Netw Open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39259539/",
+      "tag": "[bibliometric]"
+    },
+    {
+      "authors": "Hibbs SP et al",
+      "year": 2025,
+      "journal": "Br J Haematol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40685916/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Abdallah M et al",
+      "year": 2024,
+      "journal": "Blood Adv",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39348709/",
+      "tag": "[primary]"
+    }
+  ]
+}

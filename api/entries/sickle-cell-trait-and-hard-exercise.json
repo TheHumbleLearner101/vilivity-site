@@ -1,0 +1,243 @@
+{
+  "slug": "sickle-cell-trait-and-hard-exercise",
+  "title": "Sickle cell trait and hard exercise",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Is it dangerous to train hard with sickle cell trait?",
+    "Can sickle cell trait cause collapse in athletes?",
+    "Should I get tested for sickle cell trait before intense exercise?",
+    "Does sickle cell trait affect my health?"
+  ],
+  "tradition_says": "Sickle cell trait is often described as harmless, 'just carrying the gene'. Some athletes and coaches have heard it can be dangerous in heat or at altitude, and others have heard it is nothing to worry about.",
+  "layer1": {
+    "plain_answer": "Sickle cell trait is one copy of the sickle gene, not sickle cell disease. It raises the risk of serious muscle breakdown in very hard exercise. A soldiers' study found no clear difference in deaths (a wide margin of error); a US college football study found far more exertional deaths. Know your status and train with care.",
+    "what_it_is": [
+      {
+        "text": "You carry one copy of the sickle gene: you do not have sickle cell disease and cannot develop it, but you can pass the gene on.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\" (carrier section)",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Largely a benign carrier state, and a risk factor for a few outcomes.",
+        "basis": "tested",
+        "source": "naik-2018"
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A blood test shows it: ask your doctor. Pregnant people are usually offered screening by a midwife.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\" (carrier section)",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Some sports bodies test at the pre-participation exam.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCAA, \"Sickle cell trait\" (athlete precautions)",
+          "url": "http://www.ncaa.org/what-we-do/health-safety-and-performance/sickle-cell-trait",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Raises the risk of exertional rhabdomyolysis, muscle breakdown in very hard exercise, by about half in the largest cohort.",
+        "basis": "tested",
+        "source": "nelson-2016"
+      },
+      {
+        "text": "Build training up slowly, set your own pace, and rest between hard efforts.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCAA, \"Sickle cell trait\" (athlete precautions)",
+          "url": "http://www.ncaa.org/what-we-do/health-safety-and-performance/sickle-cell-trait",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Drink plenty, especially in heat and humidity; take extra care when changing altitude.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCAA, \"Sickle cell trait\" (athlete precautions)",
+          "url": "http://www.ncaa.org/what-we-do/health-safety-and-performance/sickle-cell-trait",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Stop at once with muscle pain, unusual weakness, exhaustion or breathlessness, and tell your coach.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCAA, \"Sickle cell trait\" (athlete precautions)",
+          "url": "http://www.ncaa.org/what-we-do/health-safety-and-performance/sickle-cell-trait",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "NCAA data, 2004-2008: exertional death in Division I football players with the trait was 1 in 827, 37 times higher than in players without it.",
+        "basis": "tested",
+        "source": "harmon-2012"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "It is not sickle cell disease.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\" (carrier section)",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Among soldiers training under precautions, no clear difference in death risk (HR 0.99, 95% CI 0.46 to 2.13, a wide interval that cannot rule out a higher or lower risk).",
+        "basis": "tested",
+        "source": "nelson-2016"
+      }
+    ],
+    "see_someone_when": [
+      "You collapse, have severe muscle pain or weakness, or dark urine after exercise (urgent care today).",
+      "You have the trait and heavy exertion, heat or high altitude is planned (haematologist or sports doctor beforehand).",
+      "You are unsure of your status (doctor: a blood test answers it).",
+      "Persistent protein in urine or kidney concerns (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "47,944 Black US Army soldiers tested for sickle cell trait (HbAS), 2011-2014",
+      "design": "Cohort study with Cox models, adjusted for known risk factors, among soldiers under exertional-injury precautions",
+      "n": 47944,
+      "finding": "No significant difference in death risk between soldiers with and without the trait (hazard ratio 0.99, 95% CI 0.46-2.13). Exertional rhabdomyolysis risk was higher with the trait (adjusted HR 1.54, 95% CI 1.12-2.12), similar in size to the effect of tobacco use (HR 1.54) and of a BMI of 30 or more (HR 1.39).",
+      "source": {
+        "authors": "Nelson DA, Deuster PA, Carter R, Hill OT et al",
+        "year": 2016,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27518662/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Soldiers were already under exertional-injury precautions, so this tells you about risk when precautions are in place, not without them.",
+      "id": "nelson-2016"
+    },
+    {
+      "population": "273 NCAA athlete deaths over 1,969,663 athlete-years, 2004-2008",
+      "design": "Review of sudden deaths and screening cost-effectiveness",
+      "n": 273,
+      "finding": "Five deaths (2%) were associated with sickle cell trait, all in Black Division I football players. The risk of exertional death in Division I football players with the trait was 1 in 827, which was 37 times higher than in players without it.",
+      "source": {
+        "authors": "Harmon KG, Drezner JA, Klossner D, Asif IM",
+        "year": 2012,
+        "journal": "British Journal of Sports Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22442191/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Counter-signal to the Army cohort. Small numbers of deaths; a narrow, extreme setting (elite American football training).",
+      "id": "harmon-2012"
+    },
+    {
+      "population": "8,309,050 NCAA athlete-years, 2000-2019",
+      "design": "Observational comparison of sudden death associated with sickle cell trait before and after mandatory NCAA screening and education in 2010",
+      "n": 8309050,
+      "finding": "In Division I football the incidence of death associated with the trait fell from 1 in 28,145 athlete-years before legislation (9 deaths) to 1 in 250,468 after (1 death), a relative risk of 0.112 (95% CI 0.003-0.811). Cases outside football were rare. The authors' stated hypothesis was that legislation would reduce incidence.",
+      "source": {
+        "authors": "Buchanan BK, Siebert DM, Zigman Suchsland ML, Drezner JA et al",
+        "year": 2020,
+        "journal": "Sports Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32271134/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Before-and-after, not randomised; the policy bundled screening and education, so it cannot separate them.",
+      "id": "buchanan-2020"
+    },
+    {
+      "population": "41 observational studies in children and adults",
+      "design": "Systematic review of clinical outcomes associated with sickle cell trait",
+      "n": "41 studies",
+      "finding": "High-strength evidence for a positive association between trait and pulmonary embolism, proteinuria and chronic kidney disease. Moderate-strength evidence for exertional rhabdomyolysis, and for no association with deep vein thrombosis, heart failure or stroke. Absolute risks of thromboembolism and rhabdomyolysis were small. The authors state that sickle cell trait is largely a benign carrier state that is a risk factor for a few outcomes.",
+      "source": {
+        "authors": "Naik RP, Smith-Whitley K, Hassell KL, Umeh NI et al",
+        "year": 2018,
+        "journal": "Annals of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30383109/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "naik-2018"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That the trait raises exertional rhabdomyolysis risk: a 47,944-person Army cohort and a review of 41 studies; deaths evidence conflicts.",
+  "tier_note": "Fact-check 12 Nov: the plain answer now states both sides on death, the army result as no clear difference with a wide interval and the NCAA finding of 37 times higher exertional death in Division I football players. Tier B and moderate stand because the headline claim is the rhabdomyolysis rise, which the army cohort and a 41-study review support. Large observational cohorts in Black populations with conflicting results on death; no trial of any precaution, and the screening result is before-and-after.",
+  "harm_flag": true,
+  "harm_note": "Exertional rhabdomyolysis risk is raised about 1.5-fold (Nelson 2016; moderate-strength evidence, Naik 2018) and in elite US college football the death rate with the trait was 37 times higher (Harmon 2012). The Army cohort found no significant difference in deaths (HR 0.99, 0.46 to 2.13, wide interval) under precautions; its interval cannot rule out a higher risk. Absolute risks are small.",
+  "founder_flag": false,
+  "evidence_summary": "Sickle cell trait raises your risk of exertional rhabdomyolysis, which is muscle breakdown during hard exercise, about 1.5 times in the largest cohort of Black soldiers. Deaths associated with the trait were 37 times more likely in one elite US football dataset, but the Army cohort found no significant difference in deaths (HR 0.99, 95% CI 0.46 to 2.13, a wide interval) with precautions in place. Absolute risks are small, and the practical answer is to know whether you have the trait and train with precautions.",
+  "measured_variables": [
+    "Sickle cell trait (HbAS) genotype, by blood test",
+    "Exertional rhabdomyolysis (a clinical diagnosis)",
+    "Self-identified race is a stand-in for the people in whom the trait occurs; the variable is the genotype"
+  ],
+  "gaps": "Symptom wording in do and see_a_specialist_when (severe muscle pain, dark urine) is general medical advice, not drawn from the abstracts read; it needs an NHS or haematology source before this goes live. Untested: which precautions work, in a trial; whether the 37-fold football finding applies outside elite American football; heat and altitude effects in the general population; women's data in the abstracts I read. The NATA 2007 consensus statement: my search found nothing, so the specific athletic-trainer precautions are not cited here. The trait is not specific to Black people; other ancestries carry it too (not sourced in the abstracts I read). V2: precautions in the card now cite the NCAA athlete page (opened 12 Nov 2026), which is a US college-sport source, not UK guidance; the NHS page opened is about the disease and its \"avoid high intensity exercise\" line was deliberately not applied to carriers.",
+  "related": [
+    "low-white-cell-count-duffy-null",
+    "ice-baths-and-cold-exposure",
+    "iron-and-fibroids"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Nelson DA et al",
+      "year": 2016,
+      "journal": "N Engl J Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27518662/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Harmon KG et al",
+      "year": 2012,
+      "journal": "Br J Sports Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22442191/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Buchanan BK et al",
+      "year": 2020,
+      "journal": "Sports Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32271134/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Naik RP et al",
+      "year": 2018,
+      "journal": "Ann Intern Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30383109/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Sickle cell disease\" (carrier section)",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NCAA, \"Sickle cell trait\" (athlete precautions)",
+      "url": "http://www.ncaa.org/what-we-do/health-safety-and-performance/sickle-cell-trait",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "29670386",
+  "slug": "billero-2018-29670386",
+  "citation": {
+    "authors": "Billero V, Miteva M",
+    "year": 2018,
+    "journal": "Clinical, Cosmetic and Investigational Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29670386/",
+  "page": "https://vilivity.com/studies/billero-2018-29670386/",
+  "cited_by": [
+    {
+      "entry": "traction-alopecia-and-protective-styles",
+      "title": "Traction alopecia and 'protective' styles",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/traction-alopecia-and-protective-styles/",
+      "record": {
+        "id": "billero-2018",
+        "population": "Women of African descent (clinical review)",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Traction alopecia is described as affecting one in three women of African descent who wear traumatic styles for long periods. Risk rises with the extent of pulling, the duration, and chemical relaxation. Tight buns and ponytails, attached weaves or extensions and tight braids are believed to be highest risk. In late stages it can become permanent scarring. The authors state there is currently no cure.",
+        "line_tier": "B",
+        "note": "The one-in-three figure is the authors' summary; the primary basis is Khumalo's 31.7% in adult women in one South African sample.",
+        "tag": "[commentary]"
+      }
+    },
+    {
+      "entry": "traction-alopecia-and-protective-styles",
+      "title": "Traction alopecia and 'protective' styles",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/traction-alopecia-and-protective-styles/",
+      "record": {
+        "id": "billero-2018b",
+        "population": "Treatment trials",
+        "n": 0,
+        "design": "PubMed search 'traction alopecia treatment randomized'",
+        "finding": "My search found no randomised trial of a treatment for traction alopecia. A 2018 review says there is no cure.",
+        "line_tier": "D",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

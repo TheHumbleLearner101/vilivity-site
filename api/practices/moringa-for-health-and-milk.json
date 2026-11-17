@@ -1,0 +1,48 @@
+{
+  "slug": "moringa-for-health-and-milk",
+  "name": "Moringa",
+  "regions": [
+    "West Africa",
+    "Caribbean"
+  ],
+  "module": "food",
+  "what_people_do": "Drink moringa leaf tea or powder for energy, blood pressure and breast milk.",
+  "why_they_say_it_works": "Called a \"miracle tree\".",
+  "documentation_status": "unverified",
+  "documented_by": [
+    {
+      "source": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+      "type": "study",
+      "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md",
+      "quote_or_summary": "No opened account of how families use it. UNVERIFIED."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Moringa and blood pressure",
+      "population": "8 RCTs",
+      "finding": "Systolic fell 6.00 mmHg, diastolic 7.32 mmHg vs control; not diaspora-specific.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Samarin M et al 2026, Food Sci Nutr, PMID 42254443",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42254443/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "low",
+  "harm_note": "Large doses untested.",
+  "links_to_entries": [
+    "hibiscus-sorrel-blood-pressure",
+    "moringa-leaf-and-blood-sugar"
+  ],
+  "gaps": [
+    "Galactagogue systematic review (PMID 40724308) not read."
+  ],
+  "counted": false,
+  "page": "https://vilivity.com/practices/moringa-for-health-and-milk/"
+}

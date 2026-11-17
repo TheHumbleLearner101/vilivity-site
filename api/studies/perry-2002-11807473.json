@@ -1,0 +1,30 @@
+{
+  "pmid": "11807473",
+  "slug": "perry-2002-11807473",
+  "citation": {
+    "authors": "Perry PK, Cook-Bolden FE, Rahman Z, Jones E et al",
+    "year": 2002,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/11807473/",
+  "page": "https://vilivity.com/studies/perry-2002-11807473/",
+  "cited_by": [
+    {
+      "entry": "shaving-and-razor-bumps",
+      "title": "Shaving and razor bumps (pseudofolliculitis barbae)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/shaving-and-razor-bumps/",
+      "record": {
+        "id": "perry-2002",
+        "population": "Literature",
+        "n": "not stated",
+        "design": "Review of PFB and its pathogenesis",
+        "finding": "PFB is most often seen in men and women of African American and Hispanic origin who have tightly curled hair and who shave or tweeze frequently. The authors state follicle shape, hair cuticle and direction of hair growth each play a role, and that prevention and early intervention are the mainstays; no treatment is completely curative.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

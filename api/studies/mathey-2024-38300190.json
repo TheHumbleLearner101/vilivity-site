@@ -1,0 +1,30 @@
+{
+  "pmid": "38300190",
+  "slug": "mathey-2024-38300190",
+  "citation": {
+    "authors": "Mathey CM, Maj C, Eriksson N, Krebs K et al",
+    "year": 2024,
+    "journal": "Journal of Allergy and Clinical Immunology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38300190/",
+  "page": "https://vilivity.com/studies/mathey-2024-38300190/",
+  "cited_by": [
+    {
+      "entry": "how-some-medicines-work-differently-by-gene",
+      "title": "How some medicines work differently by gene",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/how-some-medicines-work-differently-by-gene/",
+      "record": {
+        "id": "mathey-2024",
+        "population": "More than 1,000 European patients with ACE inhibitor angioedema from 8 cohorts, plus an African-American cohort",
+        "n": "more than 1000",
+        "design": "Genome-wide association meta-analysis",
+        "finding": "Three genome-wide significant risk loci were found, one new (20q11.22). Highlighted genes included BDKRB2 and F5. Lead variants showed similar effect sizes and direction in an African-American cohort.",
+        "line_tier": "B",
+        "note": "Discovery cohorts were European; the African-American analysis was exploratory and its size is not stated in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

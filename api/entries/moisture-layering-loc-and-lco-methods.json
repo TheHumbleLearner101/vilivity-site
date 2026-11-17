@@ -1,0 +1,164 @@
+{
+  "slug": "moisture-layering-loc-and-lco-methods",
+  "title": "LOC and LCO: layering liquid, oil and cream",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I moisturise 4c hair and keep the moisture in?",
+    "What is the LOC or LCO method and does it work?",
+    "Should I put oil or cream on first?"
+  ],
+  "tradition_says": "Moisture is layered in order: a water-based liquid or leave-in (L), an oil (O) and a cream (C), or cream before oil (LCO). The oil is said to seal the water in so hair stays soft for days.",
+  "layer1": {
+    "plain_answer": "Nobody has tested layering liquid, oil and cream on people, so there is no proof that LOC or LCO beats one product or that either order is better. Dermatologists say to moisturise regularly between washes. Lab work shows African hair holds lipids differently, but that does not test a routine.",
+    "do": [
+      {
+        "text": "Moisturise regularly between wash days with a lotion, cream or oil, because tightly coiled hair is prone to dryness.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you layer, start with water or a water-based leave-in and put oil on top: a trichologist says oils seal and do not hydrate (advice given for locs).",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Naka Trichology, YouTube, \"7 Loc Care Rules Every Trichologist Knows (That Nobody Talks About)\" (a trichologist who wears locs)",
+          "url": "https://youtu.be/0cNKyqmUY9s",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use fewer products: hair that feels dry whatever you apply may be coated with build-up (advice given for locs).",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Naka Trichology, YouTube, \"7 Loc Care Rules Every Trichologist Knows (That Nobody Talks About)\" (a trichologist who wears locs)",
+          "url": "https://youtu.be/0cNKyqmUY9s",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating LOC or LCO as proven: my PubMed search found no study of either.",
+        "basis": "tested",
+        "source": "loc-search"
+      },
+      {
+        "text": "Adding more oil to hair that already feels coated or stiff (advice given for locs).",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Naka Trichology, YouTube, \"7 Loc Care Rules Every Trichologist Knows (That Nobody Talks About)\" (a trichologist who wears locs)",
+          "url": "https://youtu.be/0cNKyqmUY9s",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hair that breaks in patches or thins even though you moisturise regularly (doctor or dermatologist).",
+      "An itchy, flaking or sore scalp that does not settle (doctor).",
+      "A hairline that is moving back (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Layering liquid, oil and cream on hair",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"LOC method\" OR \"liquid oil cream\" OR \"layering\" OR \"sealing\") AND hair AND (moisture OR hydration OR breakage) (result count 3).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the 3 results were a method for measuring combing force and breakage in textured-hair products (PMID 42971786, a testing method, not a layering trial), a microneedle paper and a keratin-hydrolysate paper; none tests LOC or LCO in people. A wider string, (hair moisturizer OR \"leave-in\" OR oil sealing) AND (afro-textured OR African hair) AND (water content OR moisture), returned 14 results; the first 14 titles were read and none is a layering trial. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22LOC+method%22+OR+%22liquid+oil+cream%22+OR+%22layering%22+OR+%22sealing%22%29+AND+hair+AND+%28moisture+OR+hydration+OR+breakage%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "loc-search"
+    },
+    {
+      "population": "Virgin hair fibres of African, Asian and Caucasian origin",
+      "design": "Laboratory: infrared spectroscopy of lipids and water-vapour sorption",
+      "n": "not stated",
+      "finding": "African virgin hair had more lipids, mainly in the medulla, which the authors link to hydrophobicity, and its cuticle lipids were highly disordered, which they link to high water-vapour diffusion. They say the lipid differences may account for how African hair moisturises and swells.",
+      "source": {
+        "authors": "Barba C et al",
+        "year": 2022,
+        "journal": "Skin Research and Technology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34549464/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Hair fibres in a lab, not people; says nothing about layering products.",
+      "id": "barba-2022"
+    },
+    {
+      "population": "Review of 59 articles on lipid content of human hair",
+      "design": "Systematic review (PRISMA)",
+      "n": "59 articles",
+      "finding": "Hair lipid composition varies by ethnic hair type and by hair layer; lipids affect water permeability, hydration, strength and texture.",
+      "source": {
+        "authors": "Csuka EA et al",
+        "year": 2023,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35218566/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "Lab and composition studies; no routine was tested.",
+      "id": "csuka-2023"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That layering water, oil and cream (in either order) keeps hair moister or stronger: no human study found.",
+  "tier_note": "D because the claim people make (layering seals moisture in) has no human study; the lipid and fibre work is C and does not lift the headline. A trial comparing layered routines with one product, measuring breakage, would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. One creator (Cyn Doll, YouTube) says sealing the cuticle causes hair shaft disorders and scalp infections; I read the captions, found no study behind it and did not check the speaker's qualifications, so it is an untested claim, not a finding.",
+  "founder_flag": false,
+  "evidence_summary": "No human study of LOC or LCO was found. The BAD leaflet says only to moisturise regularly between washes with lotions, creams and/or oils. A trichologist who wears locs says oils seal and do not hydrate, so water-based products go first, and that build-up can feel like dryness; this is practice advice for locs, untested. Lab work (Barba 2022, Csuka 2023) shows African hair differs in lipid content and water-vapour behaviour; fibres, not routines.",
+  "measured_variables": [
+    "Hair breakage (not measured for any layering order)",
+    "Hair lipid content (lab)"
+  ],
+  "gaps": "Untested: any layering order; whether oil seals water into living hair; whether layered products cause build-up or scalp disease (one creator claims so; no study). Product-by-product claims are not covered. Closes the 12 Nov partial on moisture layering as \"untested\".",
+  "related": [
+    "wash-day-routine-for-4c-hair",
+    "hair-porosity-and-moisture",
+    "scalp-oiling-and-greasing",
+    "locs-starting-washing-and-maintenance"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Barba C et al",
+      "year": 2022,
+      "journal": "Skin Research and Technology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34549464/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Csuka EA et al",
+      "year": 2023,
+      "journal": "International Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35218566/",
+      "tag": "[review]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Naka Trichology, YouTube, \"7 Loc Care Rules Every Trichologist Knows (That Nobody Talks About)\" (a trichologist who wears locs)",
+      "url": "https://youtu.be/0cNKyqmUY9s",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

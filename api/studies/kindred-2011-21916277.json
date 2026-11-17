@@ -1,0 +1,30 @@
+{
+  "pmid": "21916277",
+  "slug": "kindred-2011-21916277",
+  "citation": {
+    "authors": "Kindred C, Oresajo CO, Yatskayer M, Halder RM",
+    "year": 2011,
+    "journal": "Cutis"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21916277/",
+  "page": "https://vilivity.com/studies/kindred-2011-21916277/",
+  "cited_by": [
+    {
+      "entry": "shaving-and-razor-bumps",
+      "title": "Shaving and razor bumps (pseudofolliculitis barbae)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/shaving-and-razor-bumps/",
+      "record": {
+        "id": "kindred-2011",
+        "population": "Black men (single centre, 1 week)",
+        "n": "not stated",
+        "design": "Randomised, split-face trial comparing three depilatory compositions with a manual razor",
+        "finding": "The depilatory creams produced fewer papules and more irritation than the razor; the irritation was transient. One composition was withdrawn because of a high rate of adverse events. Skin looked and felt smoother with the creams. The authors recommend depilatories for people who develop PFB or are unsatisfied with razors.",
+        "line_tier": "A",
+        "note": "One week only, preliminary (the abstract's own wording). Funding and author affiliations not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "34554658",
+  "slug": "inker-2021-34554658",
+  "citation": {
+    "authors": "Inker LA, Eneanya ND, Coresh J, Tighiouart H et al",
+    "year": 2021,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34554658/",
+  "page": "https://vilivity.com/studies/inker-2021-34554658/",
+  "cited_by": [
+    {
+      "entry": "kidney-disease-apol1-and-egfr",
+      "title": "Kidney disease, the APOL1 gene and the eGFR race adjustment",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/kidney-disease-apol1-and-egfr/",
+      "record": {
+        "id": "inker-2021",
+        "population": "8,254 participants (31.5% Black) for the creatinine equation and 5,352 (39.7% Black) for creatinine plus cystatin C; validated in 4,050 (14.3% Black)",
+        "n": "4050 in validation",
+        "design": "Development and validation of eGFR equations against measured GFR",
+        "finding": "The current equation with a race term overestimated measured GFR in Black participants by a median of 3.7 mL/min/1.73 m2 and slightly in others (0.5). Omitting the race term underestimated it in Black participants by 7.1. A new race-free creatinine equation underestimated in Black participants by 3.6 and overestimated in non-Black by 3.9. Creatinine plus cystatin C equations were more accurate with smaller differences between groups.",
+        "line_tier": "B",
+        "note": "US data; funded by the National Institute of Diabetes and Digestive and Kidney Diseases.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

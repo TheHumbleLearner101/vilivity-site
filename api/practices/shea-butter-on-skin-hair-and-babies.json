@@ -1,0 +1,50 @@
+{
+  "slug": "shea-butter-on-skin-hair-and-babies",
+  "name": "Shea butter on skin, hair and babies",
+  "regions": [
+    "West Africa",
+    "Caribbean",
+    "African American",
+    "Black British"
+  ],
+  "module": "skin",
+  "what_people_do": "Rub raw or whipped shea butter on skin, scalp, hair and babies as a daily moisturiser.",
+  "why_they_say_it_works": "Traditional West African emollient, called gentle and healing.",
+  "documentation_status": "unverified",
+  "documented_by": [
+    {
+      "source": "Micali G et al 2018, G Ital Dermatol Venereol, PMID 29368843",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29368843/",
+      "quote_or_summary": "No opened survey of use. Evidence summarised from agent4. UNVERIFIED as documentation."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Shea-containing combination device for atopic dermatitis",
+      "population": "Meta-analysis of 4 RCTs",
+      "finding": "Efficacy of a branded combination; shea cannot be isolated as the active.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Micali G et al 2018, G Ital Dermatol Venereol, PMID 29368843",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29368843/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "low",
+  "harm_note": "Latex allergy with raw shea (Cleveland Clinic, in the bank entry).",
+  "links_to_entries": [
+    "shea-butter",
+    "baby-skin-care"
+  ],
+  "gaps": [
+    "No trial of plain shea butter."
+  ],
+  "counted": false,
+  "page": "https://vilivity.com/practices/shea-butter-on-skin-hair-and-babies/"
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "dark-or-swollen-lips",
+  "title": "Dark or swollen lips",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "Why are my lips dark?",
+    "Why are my lips swollen?",
+    "Are dark lips unhealthy?",
+    "How do I lighten dark lips?"
+  ],
+  "tradition_says": "Dark lips are often put down to smoking, dryness or being unhealthy, and families use home remedies to lighten them; swollen lips are blamed on allergy or something eaten.",
+  "layer1": {
+    "plain_answer": "Dark lips are often a harmless variation in pigment. Smoking and an allergy to a lip product can also darken lips, and a single new dark spot needs a clinician to look at it. Sudden lip swelling can be an allergic reaction, so call emergency services (999 in the UK) if your throat tightens or breathing is hard.",
+    "do": [
+      {
+        "text": "Tell your doctor if you smoke or use tobacco: it was linked to pigmentation of the lips in a small Indian study.",
+        "basis": "tested",
+        "source": "sarswathi-2003"
+      },
+      {
+        "text": "Stop a lip product you think is causing itching, scaling or darkening, and ask a doctor or dermatologist: allergy to lip product ingredients can darken lips.",
+        "basis": "tested",
+        "source": "figueiredo-2024"
+      },
+      {
+        "text": "See a dermatologist before any laser or peel on the lips: a Thai study found benefit in 20 people, with no untreated group.",
+        "basis": "tested",
+        "source": "ng-2022"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Ignoring a single new or changing dark patch on a lip: a benign type exists, but it can look like melanoma and needs a clinician.",
+        "basis": "tested",
+        "source": "ho-1993"
+      },
+      {
+        "text": "Waiting at home if your lips, mouth or throat suddenly swell: call 999.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Angioedema\"",
+          "url": "https://www.nhs.uk/conditions/angioedema/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "One new, growing or changing dark spot on a lip (doctor, then dermatologist, within weeks).",
+      "Dark, itchy or scaly lips after starting a lip product, toothpaste or medicine (doctor or dermatologist).",
+      "Your lips, mouth, throat or tongue swell suddenly, or breathing or swallowing is hard (999 in the UK, or your local emergency number).",
+      "Lips that swell again and again with no clear cause (doctor, who may refer for allergy testing)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "20 healthy Thai adults with physiologic lip hyperpigmentation",
+      "design": "Single-arm treatment study: 5 fortnightly sessions of a 755-nm picosecond laser, followed for 6 months",
+      "n": "20",
+      "finding": "Average melanin index fell significantly after the fourth treatment and at 1 month, and 70% of patients reported moderate to marked improvement at 6 months. One patient had a transient lip swelling. The authors describe physiologic lip hyperpigmentation as a common aesthetic concern, especially in Southeast Asia.",
+      "source": {
+        "authors": "Ng JNC, Manuskiatti W, Apinuntham C, Yan C",
+        "year": 2022,
+        "journal": "Dermatologic Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36037096/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "No untreated comparison group and not a Black population; shows that a normal variation exists and can be treated, not that treatment is needed.",
+      "id": "ng-2022"
+    },
+    {
+      "population": "41 tobacco users and 8 controls in India",
+      "design": "Clinical and tissue study of mouth and lip pigmentation",
+      "n": "49",
+      "finding": "In smokers, 95.24% had pigmentation of the lip and cheek lining, the lip more (81%) than the cheek (33.3%), with more melanocytes on tissue examination. Pigmentation was absent at the site where smokeless tobacco was held.",
+      "source": {
+        "authors": "Sarswathi TR, Kumar SN, Kavitha KM",
+        "year": 2003,
+        "journal": "Indian Journal of Dental Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14705454/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, with few controls; an association; not a Black population.",
+      "id": "sarswathi-2003"
+    },
+    {
+      "population": "7 reported cases of pigmented contact cheilitis (6 women, mean age 32)",
+      "design": "Systematic review of case reports",
+      "n": "7 cases",
+      "finding": "Ricinoleic acid and gum ester were the most frequent allergens, each in two cases. All cases had multiple pigmented lesions, with itching, scaling, swelling, redness, vesicles or papules, and a mean duration of 13.5 months. The authors say it often alarms patients because of the unexpected darkening.",
+      "source": {
+        "authors": "Figueiredo AS, Braz GL, Garcia FF, Moreno LB et al",
+        "year": 2024,
+        "journal": "Medicina Oral, Patologia Oral y Cirugia Bucal",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39396149/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Seven case reports; shows that an allergy to a lip product can darken lips; not a measure of how common it is.",
+      "id": "figueiredo-2024"
+    },
+    {
+      "population": "29 patients with 36 labial melanotic macules",
+      "design": "Clinical, tissue and electron-microscopy study",
+      "n": "29",
+      "finding": "The labial melanotic macule is a distinctive benign pigment spot, usually a single lesion on the lower lip, starting around age 30, mostly in women. It can simulate malignant melanoma, and the tissue testing supported its benign nature.",
+      "source": {
+        "authors": "Ho KK, Dervan P, O'Loughlin S, Powell FC",
+        "year": 1993,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8425968/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A pathology series: it is why a single new dark lip spot needs a clinician's look, not a measure of risk.",
+      "id": "ho-1993"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That dark lips are usually a normal variation, can be caused by smoking or lip-product allergy, and need a look if one spot is new or changing: small studies and case series, none in Black participants; laser lightening has one 20-person study in Thailand.",
+  "tier_note": "Thin because the evidence is a 20-person single-arm laser study, small tobacco and case-report series and a pathology series, all in other populations. B in the another-population sense only; it would move up with any study of lip pigmentation in people with dark skin.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for the advice given. Sudden swelling is an emergency per NHS (UK) if the throat or breathing is affected. I found no source on the safety of lip-lightening products and the entry gives none.",
+  "founder_flag": false,
+  "evidence_summary": "My searches found no study of dark lips in Black participants. A 20-person Thai study treated physiologic lip pigmentation with a laser and saw improvement without an untreated group. A small Indian study linked tobacco use to lip pigmentation, a seven-case review links lip product allergy to pigmented lips, and a pathology series describes a benign lip spot that can mimic melanoma. NHS guidance says sudden swelling of the lips can be angioedema, often allergic, and that throat swelling or breathing problems need 999.",
+  "measured_variables": [
+    "Lip melanin (melanin index)",
+    "Tobacco exposure",
+    "Contact allergy to lip products",
+    "Skin pigmentation as the reason pigment shows more"
+  ],
+  "gaps": "Untested or not opened: lip pigmentation in Black participants; B12 and other deficiencies (my search found nothing opened); medicine-related lip darkening; home lightening remedies; the 2017 review of diseases of the lips (PMID 29289276) has no detail in its abstract. Swollen-lip causes other than angioedema were not covered beyond the UK's NHS page. Laugier-Hunziker syndrome (PMID 29121134) abstract was empty and was not used.",
+  "related": [
+    "skin-lightening-creams",
+    "dark-marks-after-acne",
+    "conditions-look-different-on-dark-skin",
+    "finding-a-dermatologist-for-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Ng JNC, Manuskiatti W, Apinuntham C, Yan C",
+      "year": 2022,
+      "journal": "Dermatologic Surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36037096/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Sarswathi TR, Kumar SN, Kavitha KM",
+      "year": 2003,
+      "journal": "Indian Journal of Dental Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14705454/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Figueiredo AS, Braz GL, Garcia FF, Moreno LB et al",
+      "year": 2024,
+      "journal": "Medicina Oral, Patologia Oral y Cirugia Bucal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39396149/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Ho KK, Dervan P, O'Loughlin S, Powell FC",
+      "year": 1993,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8425968/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Angioedema\"",
+      "url": "https://www.nhs.uk/conditions/angioedema/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

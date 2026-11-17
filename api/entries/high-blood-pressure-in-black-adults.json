@@ -1,0 +1,169 @@
+{
+  "slug": "high-blood-pressure-in-black-adults",
+  "title": "High blood pressure in Black adults",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "Why is my blood pressure high, and what is normal for Black adults?",
+    "Why do I have high blood pressure when I am young and fit?",
+    "Which blood pressure medicine works best for Black patients?"
+  ],
+  "tradition_says": "High blood pressure is often said to run in Black families, to be about salt, and to be a problem of older age. Many young, fit people are told it cannot be them.",
+  "layer1": {
+    "plain_answer": "The line for high blood pressure is the same for every adult. In England, blood pressure in people of African-Caribbean origin overtakes White people's at around 30 to 40 (about 28 for men's systolic pressure), so being young and fit does not rule it out. Get it checked. If you need tablets, NICE names a different first choice for you.",
+    "do": [
+      {
+        "text": "Get your blood pressure checked at a pharmacy or doctor's surgery even if you feel well: it usually causes no symptoms.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do not wait until 40 to be checked: in one English survey, African-Caribbean blood pressure pulled ahead of White from about 30.",
+        "basis": "tested",
+        "source": "agyemang-2012"
+      },
+      {
+        "text": "Ask for home or 24-hour monitoring to confirm a high clinic reading before any diagnosis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendations)",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If tablets are needed, know that NICE suggests a calcium-channel blocker first for Black African or African-Caribbean adults without type 2 diabetes. Your prescriber decides.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendations)",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Cut down on salt and keep active, as for every adult with high blood pressure.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Taking one clinic reading as the diagnosis: NICE (UK) confirms it with home or 24-hour readings.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendations)",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Waiting for symptoms: the UK's NHS says high blood pressure does not usually cause any.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"High blood pressure (hypertension)\"",
+          "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A clinic reading of 140/90 or above, or a home average of 135/85 or above (doctor).",
+      "A high reading with a severe headache, blurred vision or chest pain (NHS 111 in the UK urgently; 999, or your local emergency number for chest pain that does not go away).",
+      "You are pregnant or recently gave birth and have a severe headache, vision changes or sudden swelling (call your maternity unit or 111 in the UK straight away)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "14 UK studies, mostly London, of adults of African descent against White adults",
+      "design": "Systematic review of cross-sectional blood pressure data",
+      "n": "14 studies",
+      "finding": "Most studies found higher mean blood pressure and higher rates of hypertension in men and women of African descent. Ethnic group differences in blood pressure were not present in the younger age groups. The authors say differences in age, definitions and the mix of Afro-Caribbean and West African groups explain much of the inconsistency between studies.",
+      "source": {
+        "authors": "Agyemang C, Bhopal R",
+        "year": 2003,
+        "journal": "Journal of Human Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12874609/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "agyemang-2003"
+    },
+    {
+      "population": "22,723 adults in the Health Surveys for England (1,379 African-Caribbean, 21,344 White)",
+      "design": "Secondary analysis of repeated cross-sectional surveys, age-specific blood pressure curves",
+      "n": 22723,
+      "finding": "African-Caribbean blood pressure crossed above White at about 30-40 years. At 20-29 African-Caribbean men were advantaged, but not after that. African-Caribbean women had higher BMI than White women; men did not differ much. The authors advise extra vigilance in screening African-Caribbean patients from age 30 and call the mechanism \"still mysterious\".",
+      "source": {
+        "authors": "Agyemang C, Humphry RW, Bhopal R",
+        "year": 2012,
+        "journal": "American Journal of Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21881618/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional, so it compares different people at different ages, not the same people over time.",
+      "id": "agyemang-2012"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That blood pressure in African-Caribbean adults in England rises ahead of White adults from about 30: a national survey of 22,723 adults and a review of 14 studies.",
+  "tier_note": "Large cross-sectional surveys and a review, all observational and mostly African-Caribbean in England; no trial tests screening earlier; would move up with a longitudinal cohort.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The risk that matters is untreated high blood pressure, which the UK's NHS links to heart attack and stroke.",
+  "founder_flag": false,
+  "evidence_summary": "Blood pressure and hypertension are more common in adults of African descent in the UK, and the English survey data show the gap opening from about 30. Younger adults were not worse off. The NICE guideline uses one set of thresholds for all adults and a different first-choice medicine class for Black African or African-Caribbean adults without type 2 diabetes, with an angiotensin receptor blocker preferred over an ACE inhibitor if that class is chosen.",
+  "measured_variables": [
+    "Blood pressure: clinic, home or 24-hour ambulatory (measured)",
+    "Self-reported African-Caribbean ethnic group in the English surveys, a stand-in for BMI, diet, exposure and inherited factors that were not separated",
+    "West African and Caribbean groups can differ (the review says the mix explains inconsistent results)"
+  ],
+  "gaps": "Untested or not opened: any study of fitness or athletes and high blood pressure, so \"young and fit\" is covered only by the age finding; the reason for the divergence (Agyemang calls it mysterious); the evidence behind the NICE first-choice medicine (I read the recommendations, not the trial evidence); UK prevalence figures for Black Africans separately; the line \"do not wait until 40\" is my wording of the authors' call to screen from 30, not an NHS rule (the NHS offers free pharmacy checks from 40). The review data are from 1966-2002 and from London.",
+  "related": [
+    "hibiscus-sorrel-blood-pressure",
+    "salt-and-blood-pressure",
+    "stress-burnout-and-blood-pressure",
+    "kidney-disease-apol1-and-egfr",
+    "type-2-diabetes-risk"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Agyemang C, Bhopal R",
+      "year": 2003,
+      "journal": "Journal of Human Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12874609/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Agyemang C, Humphry RW, Bhopal R",
+      "year": 2012,
+      "journal": "American Journal of Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21881618/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"High blood pressure (hypertension)\"",
+      "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendations)",
+      "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

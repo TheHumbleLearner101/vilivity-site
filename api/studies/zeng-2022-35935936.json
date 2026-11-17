@@ -1,0 +1,30 @@
+{
+  "pmid": "35935936",
+  "slug": "zeng-2022-35935936",
+  "citation": {
+    "authors": "Zeng L, Yang T, Yang K, Yu G et al",
+    "year": 2022,
+    "journal": "Frontiers in Immunology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35935936/",
+  "page": "https://vilivity.com/studies/zeng-2022-35935936/",
+  "cited_by": [
+    {
+      "entry": "turmeric-and-curcumin-supplements",
+      "title": "Turmeric and curcumin supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/turmeric-and-curcumin-supplements/",
+      "record": {
+        "id": "zeng-2022",
+        "population": "People with arthritis (osteoarthritis, rheumatoid, ankylosing spondylitis, juvenile arthritis, gout) in 29 randomised trials",
+        "n": 2396,
+        "design": "Systematic review and meta-analysis of curcumin and turmeric extract, 120 to 1,500 mg for 4 to 36 weeks",
+        "finding": "Curcumin and turmeric extract improved pain and inflammation markers in arthritis in the pooled trials and appeared safe. The authors warn the trials are low quality and few, and that the conclusions need careful interpretation.",
+        "line_tier": "B",
+        "note": "Low quality trials. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

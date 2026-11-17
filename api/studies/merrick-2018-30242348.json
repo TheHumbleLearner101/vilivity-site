@@ -1,0 +1,30 @@
+{
+  "pmid": "30242348",
+  "slug": "merrick-2018-30242348",
+  "citation": {
+    "authors": "Merrick MT, Ford DC, Ports KA, Guinn AS",
+    "year": 2018,
+    "journal": "JAMA Pediatrics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30242348/",
+  "page": "https://vilivity.com/studies/merrick-2018-30242348/",
+  "cited_by": [
+    {
+      "entry": "childhood-trauma-and-where-to-start",
+      "title": "Childhood trauma and where to start",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/childhood-trauma-and-where-to-start/",
+      "record": {
+        "id": "merrick-2018",
+        "population": "214,157 adults in 23 US states in the 2011 to 2014 Behavioral Risk Factor Surveillance System",
+        "n": 214157,
+        "design": "Cross-sectional nationally representative telephone survey of adverse childhood experiences (ACEs)",
+        "finding": "61.55% had at least 1 ACE and 24.64% reported 3 or more. Higher ACE scores were reported by people who identified as Black (mean 1.69, 95% CI 1.62 to 1.76), Hispanic (1.80) or multiracial (2.52), and by those with lower income, education and employment, and by gay, lesbian or bisexual people.",
+        "line_tier": "B",
+        "note": "US adults; self-reported memories of childhood, which can under- or over-report. Abstract text cut after the list of groups.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

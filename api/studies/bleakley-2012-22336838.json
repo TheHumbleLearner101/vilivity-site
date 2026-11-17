@@ -1,0 +1,30 @@
+{
+  "pmid": "22336838",
+  "slug": "bleakley-2012-22336838",
+  "citation": {
+    "authors": "Bleakley C, McDonough S, Gardner E, Baxter GD et al",
+    "year": 2012,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22336838/",
+  "page": "https://vilivity.com/studies/bleakley-2012-22336838/",
+  "cited_by": [
+    {
+      "entry": "ice-baths-and-cold-exposure",
+      "title": "Ice baths and cold exposure",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/ice-baths-and-cold-exposure/",
+      "record": {
+        "id": "bleakley-2012",
+        "population": "366 participants in 17 small trials, mainly athletes and active adults (not selected by ancestry)",
+        "n": 366,
+        "design": "Cochrane review of randomised and quasi-randomised trials of cold-water immersion after exercise; ethnicity not reported in the abstract",
+        "finding": "Compared with rest, cold-water immersion reduced muscle soreness at 24, 48, 72 and 96 hours (for example standardised mean difference -0.55 at 24 hours). The authors rate study quality as low; the trials varied in temperature, duration and exercise, and most did not report active surveillance of adverse events.",
+        "line_tier": "B",
+        "note": "tier_variant trial-other-population. Ethnicity of participants not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

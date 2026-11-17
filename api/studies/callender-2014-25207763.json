@@ -1,0 +1,30 @@
+{
+  "pmid": "25207763",
+  "slug": "callender-2014-25207763",
+  "citation": {
+    "authors": "Callender VD et al",
+    "year": 2014,
+    "journal": "Dermatologic Surgery"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25207763/",
+  "page": "https://vilivity.com/studies/callender-2014-25207763/",
+  "cited_by": [
+    {
+      "entry": "hair-transplants-in-afro-textured-hair",
+      "title": "Hair transplants in afro-textured hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-transplants-in-afro-textured-hair/",
+      "record": {
+        "id": "callender-2014",
+        "population": "2 African American women with end-stage CCCA",
+        "n": "2",
+        "design": "Case report, round (punch) grafting",
+        "finding": "Hair grew at the recipient sites from 4 to 5 months, with no scarring in recipient or donor areas; the authors call transplantation safe and well tolerated in end-stage CCCA with no inflammation on biopsy.",
+        "line_tier": "B",
+        "note": "Two women, not men; no long-term follow-up in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

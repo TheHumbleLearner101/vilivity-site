@@ -1,0 +1,30 @@
+{
+  "pmid": "22784037",
+  "slug": "baeten-2012-22784037",
+  "citation": {
+    "authors": "Baeten JM, Donnell D, Ndase P, Mugo NR et al",
+    "year": 2012,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22784037/",
+  "page": "https://vilivity.com/studies/baeten-2012-22784037/",
+  "cited_by": [
+    {
+      "entry": "hiv-prevention-testing-and-prep",
+      "title": "HIV prevention, testing and PrEP",
+      "module": "body",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/body/hiv-prevention-testing-and-prep/",
+      "record": {
+        "id": "baeten-2012",
+        "population": "4,758 heterosexual HIV-serodiscordant couples in Kenya and Uganda; the HIV-negative partner (62% male) took tenofovir, tenofovir-emtricitabine or placebo",
+        "n": 4758,
+        "design": "Randomised, double-blind, placebo-controlled trial (Partners PrEP), follow-up up to 36 months",
+        "finding": "Of 82 HIV infections in the HIV-negative partners, 17 were in the tenofovir group (0.65 per 100 person-years), 13 in the tenofovir-emtricitabine group (0.50) and 52 in the placebo group (1.99). That is a 67% reduction with tenofovir (95% CI 44 to 81) and 75% with the combination (95% CI 55 to 87).",
+        "line_tier": "A",
+        "note": "East African couples; the abstract was cut off before the adherence analysis, so the effect of taking every dose is not stated here.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

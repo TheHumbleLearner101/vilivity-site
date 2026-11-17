@@ -1,0 +1,156 @@
+{
+  "slug": "lactose-intolerance-and-dairy",
+  "title": "Lactose intolerance and dairy",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Are Black people lactose intolerant?",
+    "Why does milk give me stomach pain?",
+    "How do I find out if I am lactose intolerant?"
+  ],
+  "tradition_says": "It is widely said that all Black people are lactose intolerant. Many families use dairy sparingly or avoid it.",
+  "layer1": {
+    "plain_answer": "Not every Black person is lactose intolerant, and there is no race rule. Whether you keep making lactase, the enzyme that digests milk sugar, depends on your genes, and several separate gene variants that keep it switched on are known in East African groups. Symptoms after dairy are checked with a food trial or a breath test.",
+    "what_it_is": [
+      {
+        "text": "Symptoms such as tummy pain, bloating and diarrhoea after eating or drinking something with lactose, a sugar in animal milk.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Usually caused by the body not making enough lactase, the enzyme that digests lactose.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "In Africa, the ability to digest milk as an adult is linked to different gene variants from the European one.",
+        "basis": "tested",
+        "source": "tishkoff-2007"
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A doctor may suggest a lactose elimination diet or a hydrogen breath test; blood tests are sometimes used.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor if symptoms keep coming back, or you have bloating, loose stools or weight loss for 3 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Symptoms can be prevented by eating smaller portions of lactose foods or avoiding them; it is important not to cut foods out without advice from a doctor or dietitian.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "A lactase supplement taken before lactose may reduce or prevent symptoms for some people.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "It is not a food allergy, which can cause swelling and breathing difficulty and needs 999.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "It cannot be read from race: the African study found three separate variants in Tanzanians, Kenyans and Sudanese, so group averages do not apply to you.",
+        "basis": "tested",
+        "source": "tishkoff-2007"
+      }
+    ],
+    "see_someone_when": [
+      "Tummy pain, bloating or loose stools after dairy that keep happening (doctor).",
+      "Blood in your poo, or weight loss without trying (doctor).",
+      "Lips, mouth, throat or tongue swelling, fast breathing or a tight throat after eating (call 999 in the UK, or your local emergency number)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "470 Tanzanians, Kenyans and Sudanese",
+      "design": "Genotype-phenotype association study with in vitro tests of the gene promoter",
+      "n": "470",
+      "finding": "Three SNPs (G/C-14010, T/G-13915 and C/G-13907) were associated with lactase persistence and raised transcription from the LCT promoter in vitro. They arose on different haplotype backgrounds from the European C/T-13910 variant and from each other. Haplotype homozygosity extended more than 2 Mb on chromosomes carrying C-14010, consistent with a selective sweep over about 7,000 years. The authors describe convergent evolution driven by animal domestication and adult milk consumption.",
+      "source": {
+        "authors": "Tishkoff SA, Reed FA, Ranciaro A, Voight BF et al",
+        "year": 2007,
+        "journal": "Nature Genetics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17159977/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "East African pastoralist and related populations; Black British or Caribbean people descend from many African groups, so the figures do not transfer.",
+      "id": "tishkoff-2007"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That lactase persistence in Africa comes from several separate gene variants, so no single group figure holds: one genetic study of 470 East Africans.",
+  "tier_note": "One genetic association study in three East African populations; the prevalence of lactose malabsorption in Black British or Black American people was not found in what I opened.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. The UK's NHS warns not to cut out dairy without advice from a doctor or dietitian.",
+  "founder_flag": false,
+  "evidence_summary": "Whether an adult can digest lactose depends on lactase persistence, which comes from regulatory variants of the LCT gene. In 470 East Africans, three variants separate from the European one explained persistence, so persistence is common in some African pastoralist groups and not in others. The NHS says the usual cause of intolerance is not making enough lactase and describes diagnosis by an elimination diet or a breath test. I excluded a widely cited global prevalence review (Storhaug 2017) because it has been retracted.",
+  "measured_variables": [
+    "LCT regulatory genotype (lactase persistence), or lactose breath test",
+    "Symptoms after lactose in a food trial",
+    "Self-identified race is not the variable; the population sampled in the one African study was Tanzanian, Kenyan and Sudanese"
+  ],
+  "gaps": "Untested or not opened: the prevalence of lactose malabsorption in Black British and Black American adults (my search found nothing usable; Storhaug 2017, Lancet Gastroenterol Hepatol, PMID 28690131, is marked RETRACTED in PubMed and its figures are not used); calcium and vitamin D intake when dairy is avoided; whether tolerance differs between lactose-malabsorbing adults in double-blind tests by group (two 1980 teenage studies exist whose ethnic groups the abstracts do not name; not used). The \"see someone\" and 999 triggers come from the NHS page.",
+  "related": [
+    "vitamin-d-and-dark-skin",
+    "vitamins-and-supplements-basics",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Tishkoff SA, Reed FA, Ranciaro A, Voight BF et al",
+      "year": 2007,
+      "journal": "Nature Genetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17159977/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Lactose intolerance\"",
+      "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

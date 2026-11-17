@@ -1,0 +1,30 @@
+{
+  "pmid": "18047612",
+  "slug": "khumalo-2007-18047612",
+  "citation": {
+    "authors": "Khumalo NP, Ngwanya RM",
+    "year": 2007,
+    "journal": "Journal of Cosmetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18047612/",
+  "page": "https://vilivity.com/studies/khumalo-2007-18047612/",
+  "cited_by": [
+    {
+      "entry": "edges-and-hairline",
+      "title": "Protecting your edges and hairline",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/edges-and-hairline/",
+      "record": {
+        "id": "khumalo-mtas-2007",
+        "population": "Women with marginal traction alopecia",
+        "n": "not stated",
+        "design": "Development and reliability test of a severity score",
+        "finding": "The Marginal Traction Alopecia Severity score divides the scalp margins into regions so that hairline loss can be measured. The authors state that traction alopecia is common in African females.",
+        "line_tier": "B",
+        "note": "A measurement tool, not an outcome study.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

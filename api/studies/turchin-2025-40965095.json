@@ -1,0 +1,30 @@
+{
+  "pmid": "40965095",
+  "slug": "turchin-2025-40965095",
+  "citation": {
+    "authors": "Turchin I, Albrecht J et al",
+    "year": 2025,
+    "journal": "Journal of Cutaneous Medicine and Surgery"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40965095/",
+  "page": "https://vilivity.com/studies/turchin-2025-40965095/",
+  "cited_by": [
+    {
+      "entry": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+      "title": "Dry, itchy, flaky scalp and dandruff",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/scalp-itch-dandruff-and-seborrhoeic-dermatitis/",
+      "record": {
+        "id": "turchin-2025",
+        "population": "Review of seborrhoeic dermatitis in different populations",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "In people with more richly pigmented skin, post-inflammatory pigment change can be a feature of seborrhoeic dermatitis, so skin colour matters for diagnosis; it overlaps with atopic dermatitis, psoriasis and rosacea.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "37229639",
+  "slug": "afiaenyi-2025-37229639",
+  "citation": {
+    "authors": "Afiaenyi IC, Ngwu EK, Okafor AM, Ayogu RN",
+    "year": 2025,
+    "journal": "Nutrition and Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37229639/",
+  "page": "https://vilivity.com/studies/afiaenyi-2025-37229639/",
+  "cited_by": [
+    {
+      "entry": "moringa-leaf-and-blood-sugar",
+      "title": "Moringa: blood sugar, blood pressure and general health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/moringa-leaf-and-blood-sugar/",
+      "record": {
+        "id": "afiaenyi-2025",
+        "population": "40 adults with type 2 diabetes in a rural Nigerian community",
+        "n": "40",
+        "design": "Parallel-group randomised trial: 0, 20, 40 or 60 g of moringa leaves a day for 14 days",
+        "finding": "Fasting blood glucose did not differ between groups. The 40 g group had lower systolic pressure and higher triglycerides after the intervention, but after adjusting for baseline values there was no significant difference in any measure. The authors call the improvements marginal and not dose-dependent.",
+        "line_tier": "A",
+        "note": "Ten people a group, two weeks; in people of African descent but too small to rule a benefit in or out.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

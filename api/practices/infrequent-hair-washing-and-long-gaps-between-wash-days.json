@@ -1,0 +1,66 @@
+{
+  "slug": "infrequent-hair-washing-and-long-gaps-between-wash-days",
+  "name": "Washing hair every few weeks",
+  "regions": [
+    "Black British",
+    "African American"
+  ],
+  "module": "hair",
+  "what_people_do": "Keep a style in for weeks and wash only now and then, often once every two to four weeks, longer in braids or weaves.",
+  "why_they_say_it_works": "Frequent washing dries the hair and undoes styles; the scalp \"does not get dirty\".",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Hair grooming practices of women of African descent in London, 2016, J Eur Acad Dermatol Venereol, PMID 27038251",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27038251/",
+      "quote_or_summary": "London, 242 women of African descent: mean wash interval 17.9 days, 32.8 days in braids or weaves."
+    },
+    {
+      "source": "Hair care practices and hair parameters in African American and Caucasian women, 2015, J Cosmet Dermatol, PMID 26300276",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26300276/",
+      "quote_or_summary": "Case-control: African American and Caucasian women differed significantly in washing frequency and relaxer use."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Washing interval",
+      "population": "242 women, cross-sectional",
+      "finding": "Descriptive; the authors say some practices are adverse and should be borne in mind when treating scalp disorders.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Hair grooming practices of women of African descent in London, 2016, J Eur Acad Dermatol Venereol, PMID 27038251",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27038251/"
+      }
+    },
+    {
+      "tested": "Scalp disease from long wash gaps",
+      "population": "n/a",
+      "finding": "A 2026 consensus (Callender, PMID 41998807) says certain hair-care practices common in high-curl hair may contribute to seborrhoeic dermatitis; the practice named was not in the excerpt I read.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "low",
+  "harm_note": "Long gaps may let scalp disease build up; the exact interval has no tested threshold I found.",
+  "links_to_entries": [
+    "wash-day-routine-for-4c-hair",
+    "scalp-itch-dandruff-and-seborrhoeic-dermatitis"
+  ],
+  "gaps": [
+    "Callender excerpt cut off."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/infrequent-hair-washing-and-long-gaps-between-wash-days/"
+}

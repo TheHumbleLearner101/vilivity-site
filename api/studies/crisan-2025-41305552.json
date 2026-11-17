@@ -1,0 +1,30 @@
+{
+  "pmid": "41305552",
+  "slug": "crisan-2025-41305552",
+  "citation": {
+    "authors": "Crisan D, Gavrilas L, Paltinean R, Frumuzachi O et al",
+    "year": 2025,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41305552/",
+  "page": "https://vilivity.com/studies/crisan-2025-41305552/",
+  "cited_by": [
+    {
+      "entry": "moringa-leaf-and-blood-sugar",
+      "title": "Moringa: blood sugar, blood pressure and general health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/moringa-leaf-and-blood-sugar/",
+      "record": {
+        "id": "crisan-2025",
+        "population": "Adults in 9 randomised trials of Moringa oleifera (12 arms); countries not listed in the abstract",
+        "n": "9 trials (341 intervention, 308 control)",
+        "design": "Systematic review and meta-analysis of RCTs with GRADE",
+        "finding": "Moringa showed no significant effects on most outcomes (weight, lipids, glycaemic indices). A modest fall in diastolic blood pressure was not robust in sensitivity analyses. The authors rated the certainty of evidence very low for all outcomes and say current evidence does not support consistent cardiometabolic benefits.",
+        "line_tier": "B",
+        "note": "Participants' ancestry not stated; authors report no conflicts of interest.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "25081130",
+  "slug": "maley-2014-25081130",
+  "citation": {
+    "authors": "Maley MJ, Eglin CM, House JR, Tipton MJ",
+    "year": 2014,
+    "journal": "European Journal of Applied Physiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25081130/",
+  "page": "https://vilivity.com/studies/maley-2014-25081130/",
+  "cited_by": [
+    {
+      "entry": "ice-baths-and-cold-exposure",
+      "title": "Ice baths and cold exposure",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/ice-baths-and-cold-exposure/",
+      "record": {
+        "id": "maley-2014",
+        "population": "10 Caucasian, 10 Asian and 10 men of African descent (AFD), UK laboratory",
+        "n": 30,
+        "design": "Controlled laboratory cooling of arm, hand (8 degrees C for 30 minutes) and foot in 30 degrees C air; skin blood flow and temperature measured",
+        "finding": "Men of African descent had more intense and prolonged finger vasoconstriction during hand immersion than Caucasian men; skin blood flow during immersion was 24% (AFD) against 42% (Caucasian), and rewarming was slower (2.5 against 3.2 degrees C per minute). Cold sensation thresholds were similar. The authors note cold injuries are more prevalent in people of African descent and suggest this sensitivity may explain it.",
+        "line_tier": "A",
+        "note": "Only 10 men of African descent, hands and feet, short laboratory exposures. This is physiology of cold response, not evidence about recovery or mood. 'Ethnicity' is the grouping used; the variable behind it was not measured.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

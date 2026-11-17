@@ -1,0 +1,30 @@
+{
+  "pmid": "34977514",
+  "slug": "knight-2022-34977514",
+  "citation": {
+    "authors": "Knight M, Bunch K, Vousden N, Banerjee A et al",
+    "year": 2022,
+    "journal": "EClinicalMedicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34977514/",
+  "page": "https://vilivity.com/studies/knight-2022-34977514/",
+  "cited_by": [
+    {
+      "entry": "pregnancy-and-maternity-care",
+      "title": "Pregnancy risk and safe maternity care for Black women",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/pregnancy-and-maternity-care/",
+      "record": {
+        "id": "knight-2022",
+        "population": "1,894 women who died during or up to a year after pregnancy in the UK, 2009-18; care of 54 re-examined (18 Black, 19 Asian, 17 White)",
+        "n": "1,894 deaths; 54 re-examined",
+        "design": "National cohort and confidential enquiry into quality of care and bias",
+        "finding": "Causes of death did not differ greatly by ethnic group; cardiovascular disease was the leading cause in all. Multiple areas of bias were found in care, including lack of nuanced care (notable among Black women who died) and microaggressions (most prominent among Asian women). The authors conclude that multiple structural and other biases exist in UK maternity care.",
+        "line_tier": "B",
+        "note": "Qualitative review of 54 women; funded by the NIHR.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

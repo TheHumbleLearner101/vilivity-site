@@ -1,0 +1,30 @@
+{
+  "pmid": "39529944",
+  "slug": "hirani-2024-39529944",
+  "citation": {
+    "authors": "Hirani S, Benkli B, Odonkor C et al",
+    "year": 2024,
+    "journal": "Journal of Pain Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39529944/",
+  "page": "https://vilivity.com/studies/hirani-2024-39529944/",
+  "cited_by": [
+    {
+      "entry": "being-believed-by-doctors-and-pain",
+      "title": "Being believed by doctors, and pain",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/being-believed-by-doctors-and-pain/",
+      "record": {
+        "id": "hirani-2024",
+        "population": "12 studies in the meta-analysis, 43 in the review, US adult patients",
+        "n": "12 and 43 studies",
+        "design": "Systematic review and meta-analysis of opioid prescribing by race, 2011 to 2021",
+        "finding": "Compared with white patients, Black patients were less likely to receive opioid analgesia (odds ratio 0.83, 95% CI 0.73 to 0.94). The authors describe persistent disparities despite a decade since the previous review.",
+        "line_tier": "B",
+        "note": "US observational studies; Scopus only. Abstract read; the end of the sentence on policy changes was cut off in my copy.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

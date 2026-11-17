@@ -1,0 +1,53 @@
+{
+  "slug": "chebe-powder",
+  "name": "Chebe powder",
+  "regions": [
+    "West Africa",
+    "Central Africa"
+  ],
+  "module": "hair",
+  "what_people_do": "Mix roasted chebe seed powder with oil or fat and coat the lengths (not scalp) before plaiting, repeating every few days.",
+  "why_they_say_it_works": "Said to stop breakage so hair grows very long, as Basara Arab women of Chad are known for.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "'African hair threading', Wikipedia (opened 12 Nov 2026; cites Mensah 2020 and magazines)",
+      "type": "article",
+      "url": "https://en.wikipedia.org/wiki/African_hair_threading",
+      "quote_or_summary": "No opened primary account; search snippets describe Basara women in Chad using it as a community ritual. UNVERIFIED. Use in the diaspora is documented by the Reddit entry below."
+    },
+    {
+      "source": "Reddit, r/Naturalhair (raw pull: _reddit/r2_naturalhair.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/Naturalhair/comments/1uy0mwp/chebe_powder_worth_it_or_nah/",
+      "quote_or_summary": "5 users describe using chebe. (1) Her Nigerian mother applied it to her and her sister as children; she returned to it when her hair was breaking and says it helps length retention. https://www.reddit.com/r/Naturalhair/comments/kczzvw/chebe_whats_been_your_experience/ (2) the original poster mixed it with oils and shea butter under braids for a few days; (3) another user reports success with a finer grind, double washing and an animal-based oil; (4) another makes a chebe-infused oil for the hair strands only and got an itchy rash when it touched the scalp. https://www.reddit.com/r/Naturalhair/comments/1favpnd/did_chebe_during_wfh_ama/ (5) two sisters used it during the pandemic with castor oil and water. A sixth user said it made their head itch. Region: one Nigerian family; the rest unstated. Applied to the hair lengths, not the scalp. Chadian Basara origin not documented here."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Chebe for hair",
+      "population": "n/a",
+      "finding": "My searches found no chebe study (PubMed and Europe PMC).",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Powder-coated braids can be tight; traction concerns apply.",
+  "links_to_entries": [
+    "hair-breakage-and-length-retention",
+    "chebe-powder-and-hair-length"
+  ],
+  "gaps": [
+    "No primary ethnography opened.",
+    "Forum documentation only (Reddit, 5 users); one Nigerian family account. Chad origin not documented by an opened source."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/chebe-powder/"
+}

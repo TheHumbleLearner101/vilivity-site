@@ -1,0 +1,30 @@
+{
+  "pmid": "37967666",
+  "slug": "valero-2024-37967666",
+  "citation": {
+    "authors": "Valero MA et al",
+    "year": 2024,
+    "journal": "Acta Tropica"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37967666/",
+  "page": "https://vilivity.com/studies/valero-2024-37967666/",
+  "cited_by": [
+    {
+      "entry": "head-lice-in-afro-hair-and-locs",
+      "title": "Head lice in afro-textured hair and locs",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/head-lice-in-afro-hair-and-locs/",
+      "record": {
+        "id": "valero-2024",
+        "population": "310 schoolchildren aged 1 to 13, Paraná, Brazil",
+        "n": "310",
+        "design": "Cross-sectional school study; logistic regression",
+        "finding": "Prevalence of head lice was 49.35%. Longer and thicker hair raised the risk; hair colour, shape and scale type also changed the risk when added to the model.",
+        "line_tier": "B",
+        "note": "Brazil; not specific to afro hair.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

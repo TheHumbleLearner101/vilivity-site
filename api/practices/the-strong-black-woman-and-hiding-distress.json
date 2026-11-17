@@ -1,0 +1,48 @@
+{
+  "slug": "the-strong-black-woman-and-hiding-distress",
+  "name": "Being strong and hiding distress",
+  "regions": [
+    "Black British",
+    "African American"
+  ],
+  "module": "mind",
+  "what_people_do": "Carry on, keep distress private, and avoid asking for help; a cultural legacy of strength.",
+  "why_they_say_it_works": "Strength was needed to survive; showing weakness is seen as risky or shameful.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Sisley EJ et al 2011, Health Soc Care Community, PMID 21314849",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21314849/",
+      "quote_or_summary": "London, 7 African Caribbean women: gender roles and a cultural legacy of being strong and hiding distress shaped how they managed difficulties; younger generations more open to professional help."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Hiding distress",
+      "population": "7 women, interpretative phenomenological analysis",
+      "finding": "Qualitative; the strong-woman norm affects help-seeking; no outcome test.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Sisley EJ et al 2011, Health Soc Care Community, PMID 21314849",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21314849/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "possible",
+  "harm_note": "Delayed help-seeking is the harm identified.",
+  "links_to_entries": [
+    "racism-and-mental-health",
+    "stigma-and-starting-therapy"
+  ],
+  "gaps": [
+    "Seven people; not generalisable."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/the-strong-black-woman-and-hiding-distress/"
+}

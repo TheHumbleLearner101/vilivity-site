@@ -1,0 +1,30 @@
+{
+  "pmid": "26749364",
+  "slug": "okoro-2016-26749364",
+  "citation": {
+    "authors": "Okoro EO, Ogunbiyi AO, George AO, Subulade MO",
+    "year": 2016,
+    "journal": "International Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26749364/",
+  "page": "https://vilivity.com/studies/okoro-2016-26749364/",
+  "cited_by": [
+    {
+      "entry": "diet-and-acne-on-dark-skin",
+      "title": "Does diet cause acne? Sugar, dairy and foods linked to spots",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/diet-and-acne-on-dark-skin/",
+      "record": {
+        "id": "okoro-2016",
+        "population": "464 adolescents (mean age 13.6) in schools in Ibadan, southwest Nigeria; 64.4% had acne",
+        "n": "464",
+        "design": "Cross-sectional survey with examination for facial acne and food-frequency questions",
+        "finding": "Acne was more common in students who reported at least daily milk as a drink (72.6% vs 62.0%), corn (76.6% vs 62.3%), fried beef (75.0% vs 62.1%) and cake (77.8% vs 62.3%), and less common with daily bananas (55.3% vs 67.6%). The authors say an interventional dietary study is needed.",
+        "line_tier": "B",
+        "note": "A cross-sectional snapshot: it cannot show that food caused acne. Funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

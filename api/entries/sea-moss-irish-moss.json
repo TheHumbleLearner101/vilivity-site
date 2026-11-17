@@ -1,0 +1,205 @@
+{
+  "slug": "sea-moss-irish-moss",
+  "title": "Sea moss (Irish moss): health claims, iodine and heavy metals",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Is sea moss good for you?",
+    "Does sea moss gel boost immunity or fertility?",
+    "Is sea moss safe for your thyroid?",
+    "Can I take sea moss while pregnant or breastfeeding?"
+  ],
+  "tradition_says": "Sea moss (Irish moss) is made into a drink or gel in the Caribbean and widely promoted as a source of '92 minerals' for strength, immunity, fertility and general health.",
+  "layer1": {
+    "plain_answer": "My search found no human study showing sea moss improves health. It contains iodine, which in excess can upset the thyroid, and seaweed can carry heavy metals such as arsenic and cadmium. Avoid it while breastfeeding, and ask your doctor first if you have a thyroid condition.",
+    "do": [
+      {
+        "text": "Ask your doctor before taking sea moss if you have a thyroid condition: excess iodine can upset the thyroid.",
+        "basis": "tested",
+        "source": "farebrother-2019"
+      },
+      {
+        "text": "Check any supplement label for iodine: the UK's NHS says 0.5mg or less a day of iodine supplements is unlikely to cause harm.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iodine\" (vitamins and minerals)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/iodine/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any herbal product you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Sea moss while breastfeeding, unless its iodine and heavy metal levels are shown to be low: excess iodine from seaweed has suppressed infants' thyroids.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Drugs and Lactation Database (LactMed), \"Sea Moss\" (NICHD, updated 15 Feb 2026)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41730053/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, or have kidney or liver problems, without a pharmacist check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A swelling at the front of your neck, a racing heart, or unexplained weight change after regular use (doctor).",
+      "You have a thyroid condition or take thyroid tablets and use sea moss (doctor or pharmacist).",
+      "You are pregnant or breastfeeding and have been taking it (midwife or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Breastfeeding mothers and infants (database summary)",
+      "design": "LactMed database entry, National Institute of Child Health and Human Development (entry updated 15 Feb 2026; the database began in 2006)",
+      "n": "not applicable",
+      "finding": "Sea moss (Irish moss, Chondrus crispus) is used as food and medicine, although no medicinal value has been proven. It contains carrageenan and minerals including iodine, and some toxic heavy metals such as arsenic, lead, cadmium and mercury from the water. Excess iodine from seaweed in a mother's diet has caused thyroid suppression in breastfed infants, so it should be avoided while breastfeeding unless iodine and heavy metal levels are shown to be low enough.",
+      "source": {
+        "authors": "Drugs and Lactation Database (LactMed)",
+        "year": 2006,
+        "journal": "LactMed, National Institute of Child Health and Human Development",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730053/"
+      },
+      "tag": "[official]",
+      "line_tier": "D",
+      "note": "A database summary, not a trial. The statement that no medicinal value has been proven is the evidence for the headline tier.",
+      "id": "lactmed-2026"
+    },
+    {
+      "population": "Edible seaweed samples (Chondrus, Eisenia, Gelidium, Himanthalia, Laminaria, Palmaria, Porphyra, Undaria) from Asia and the EU",
+      "design": "Laboratory analysis of 20 metals by ICP-OES",
+      "n": "not stated in the abstract",
+      "finding": "Red seaweed showed higher concentrations of trace and toxic elements. At 4 g a day of seaweed the intake of aluminium, cadmium and lead was low and the authors saw no serious concern, but they say other toxic metals should be monitored.",
+      "source": {
+        "authors": "Rubio C, Napoleone G, Luis-Gonzalez G et al",
+        "year": 2017,
+        "journal": "Chemosphere",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28152409/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Lab analysis of dried seaweed products, not of sea moss gel or drinks, and not of people. The authors' 4 g a day is a small dried amount.",
+      "id": "rubio-2017"
+    },
+    {
+      "population": "General population (review of excess iodine intake)",
+      "design": "Narrative review of sources and effects of excess iodine",
+      "n": "not applicable",
+      "finding": "High iodine intakes are well tolerated by most healthy people, but in some people excess iodine may trigger hyperthyroidism, hypothyroidism, goitre or thyroid autoimmunity. People with existing thyroid disease or past iodine deficiency may be more susceptible, in some cases at intakes only slightly above need. Certain seaweeds are named as sources of excess iodine.",
+      "source": {
+        "authors": "Farebrother J, Zimmermann MB, Andersson M",
+        "year": 2019,
+        "journal": "Annals of the New York Academy of Sciences",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30891786/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A review of iodine in general, not a study of sea moss; it explains why an unlabelled iodine source matters.",
+      "id": "farebrother-2019"
+    },
+    {
+      "population": "Humans, experimental mammals and cells (scoping review of the additives carrageenan E407 and processed Eucheuma seaweed E407a)",
+      "design": "Scoping review of 262 publications",
+      "n": "262 publications (5 in humans for carrageenan)",
+      "finding": "The most studied adverse effects of carrageenan on the intestines were inflammation, the gut microbiome, intestinal permeability, and cancer, metabolic and immune effects. Only five publications on carrageenan were in humans. The authors call for randomised trials of realistic dietary exposures.",
+      "source": {
+        "authors": "Tahiri M, Johnsrud C, Steffensen IL",
+        "year": 2023,
+        "journal": "Critical Reviews in Toxicology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38032203/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "About the food additive, not sea moss gel; it maps what is unknown and shows that human data are scarce. Counted as lab-level because most publications were in animals and cells.",
+      "id": "tahiri-2023"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That sea moss improves immunity, fertility or general health: my search found no human trial of sea moss; LactMed says no medicinal value has been proven.",
+  "tier_note": "D because the claims people make have no human evidence in what I opened. The safety lines (iodine, heavy metals) are from a database summary, a metals analysis and an iodine review, and are flagged separately. It would move if a trial of sea moss gel measured any health outcome.",
+  "harm_flag": true,
+  "harm_note": "LactMed reports that excess iodine from seaweed in a mother's diet has caused thyroid suppression in breastfed infants, and that sea moss can contain arsenic, lead, cadmium and mercury. Farebrother 2019 says excess iodine can trigger thyroid problems, more easily in people with existing thyroid disease. These are signals about the ingredients; I found no case series of sea moss gel itself.",
+  "founder_flag": false,
+  "evidence_summary": "My search found no human trial of sea moss for any health outcome. LactMed says no medicinal value has been proven and warns about iodine and heavy metals, and a 2017 analysis found red seaweed carries higher levels of trace and toxic metals. An iodine review explains how excess iodine can upset the thyroid. The additive carrageenan has little human research. ClinicalTrials.gov lists one completed study of Chondrus crispus added to a meal (sensory perception and satiety, NCT07127393); I did not read its results.",
+  "measured_variables": [
+    "Iodine content of the product (rarely labelled)",
+    "Arsenic, lead, cadmium and mercury content of the seaweed",
+    "Thyroid function (the harm outcome)",
+    "No ancestry variable in any source"
+  ],
+  "gaps": "Untested: sea moss for immunity, fertility, skin, energy or any other claim; how much iodine or metal typical sea moss gel or drink contains (the metals paper tested dried seaweeds, not gel); whether regular use harms the thyroid (no case series or cohort opened); the results of NCT07127393 (not read). My PubMed search for 'Chondrus crispus seaweed human trial' returned 467 records, none a trial of sea moss for health; one ClinicalTrials.gov record for the species.",
+  "related": [
+    "black-seed-oil-nigella-sativa",
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "vitamins-and-supplements-basics",
+    "soursop-graviola"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Drugs and Lactation Database (LactMed)",
+      "year": 2006,
+      "journal": "LactMed, National Institute of Child Health and Human Development",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730053/",
+      "tag": "[official]"
+    },
+    {
+      "authors": "Rubio C, Napoleone G, Luis-Gonzalez G et al",
+      "year": 2017,
+      "journal": "Chemosphere",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28152409/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Farebrother J, Zimmermann MB, Andersson M",
+      "year": 2019,
+      "journal": "Annals of the New York Academy of Sciences",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30891786/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Tahiri M, Johnsrud C, Steffensen IL",
+      "year": 2023,
+      "journal": "Critical Reviews in Toxicology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38032203/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Iodine\" (vitamins and minerals)",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/iodine/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Drugs and Lactation Database (LactMed), \"Sea Moss\" (NICHD, updated 15 Feb 2026)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730053/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "vaginal-steaming-and-feminine-cleansing",
+  "name": "Vaginal steaming and herbal feminine cleansing",
+  "regions": [
+    "African American",
+    "West Africa",
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Sit over herbal steam or use herbal washes to \"clean\" the womb after periods or birth; promoted through wellness networks.",
+  "why_they_say_it_works": "To detox the womb, ease cramps, restore the vagina after birth or treat infection.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Black women's perceptions of vaginal steaming in the USA, 2026, Cult Health Sex, PMID 41618892",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41618892/",
+      "quote_or_summary": "US interview study, 8 Black women aged 23 to 70: only one had tried vaginal steaming; others were wary of safety, cost and medical credibility; information spread through interpersonal and digital networks."
+    },
+    {
+      "source": "Vardeman ET, Kennelly EJ, Vandebroek I 2024, J Ethnobiol Ethnomed, PMID 38217006",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38217006/",
+      "quote_or_summary": "Haitian women in NYC: vaginal cleansing was a priority concern treated with plants."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Vaginal steaming for any outcome",
+      "population": "n/a",
+      "finding": "No trial in the studies I read; my PubMed survey search for vaginal steaming returned nothing relevant before the 2026 interview paper.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Framed as medically risky in the paper; Caribbean ethnobotany authors hypothesise microbiome disruption. No injury data opened.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "No injury or infection figures; West African steaming not documented by an opened survey."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/vaginal-steaming-and-feminine-cleansing/"
+}

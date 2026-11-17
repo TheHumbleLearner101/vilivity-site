@@ -1,0 +1,182 @@
+{
+  "slug": "scalp-oiling-and-greasing",
+  "title": "Scalp oiling and greasing",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Should I grease my scalp?",
+    "Does oiling my scalp help hair grow?",
+    "Is coconut oil good for Black hair?",
+    "Does hair grease cause problems?"
+  ],
+  "tradition_says": "Oils, pomades and 'grease' (often petrolatum or oil-based) are applied to the scalp and hair to seal in moisture, soothe a dry or itchy scalp and promote growth. This is passed down in many Black families, often weekly.",
+  "layer1": {
+    "plain_answer": "Nobody has tested scalp oiling or greasing for hair growth or scalp health in a trial. In the lab, coconut oil protected hair strands from protein loss, which is about the strand, not the scalp. Whether the routine does what tradition says is untested.",
+    "do": [
+      {
+        "text": "Oil the strand if you like the feel: coconut oil has the lab evidence, not the scalp.",
+        "basis": "tested",
+        "source": "rele-2003"
+      },
+      {
+        "text": "A hot oil treatment about twice a month is dermatologist advice for added moisture.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wash once a week or every other week to limit product build-up.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using oil to treat flaking, scale or sores instead of getting them looked at.",
+        "basis": "tested",
+        "source": "rucker-2011"
+      },
+      {
+        "text": "Believing oils make hair grow: no trial found.",
+        "basis": "tested",
+        "source": "pubmed-2026"
+      },
+      {
+        "text": "Letting product build up: dermatologists say it can dry hair out.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "The scalp is itchy, flaking, sore or has scabs that persist (doctor or dermatologist).",
+      "Patches of hair loss with a smooth or shiny scalp (dermatologist).",
+      "Scaly patches or broken hairs, especially in a child (doctor: tinea capitis is a fungal scalp infection, one of the conditions the survey asked about)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US clinics",
+      "design": "Questionnaire and multivariate analysis",
+      "n": 201,
+      "finding": "99% reported using hair oils or grease. Infrequent hair oil use was associated with seborrheic dermatitis (adjusted odds ratio 3.69, 95% CI 1.07-12.7). No association was found between hair grease use and tinea capitis, or between washing frequency and either condition.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, caregiver-reported, cross-sectional, with a very wide confidence interval; it cannot show oil prevents the condition. Counted as a signal, not as evidence the practice works.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "Hair fibres of several types (an industry combing study)",
+      "design": "Laboratory and in-vivo combing damage tests of coconut, mineral and sunflower oils",
+      "n": "not stated",
+      "finding": "Coconut oil was the only one of the three oils found to reduce protein loss in undamaged and damaged hair when used before or after washing. Sunflower and mineral oils did not reduce protein loss.",
+      "source": {
+        "authors": "Rele AS, Mohile RB",
+        "year": 2003,
+        "journal": "Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12715094/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Described in the 12 Nov research file (agent4) as an industry study from an Indian hair oil company; the abstract does not say, funding not checked here. Tests the hair fibre, not the scalp, and not afro-textured hair specifically.",
+      "id": "rele-2003"
+    },
+    {
+      "population": "Hair fibres (laboratory)",
+      "design": "Nitrogen sorption and tensile testing of hair washed with and without coconut-based hair oil",
+      "n": "not stated",
+      "finding": "Coconut-based oil prevented the rise in hair porosity caused by surfactant washing and reversed the fall in break stress in lab testing.",
+      "source": {
+        "authors": "Kaushik V, Kumar A, Gosvami NN, Gode V et al",
+        "year": 2022,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35377477/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Lab test; funding not checked; hair type not stated in the abstract.",
+      "id": "kaushik-2022"
+    },
+    {
+      "population": "Scalp health, hair growth, scalp oiling of any kind",
+      "design": "PubMed searches 'hair oiling scalp randomized', 'pomade acne scalp oil Black'",
+      "n": 0,
+      "finding": "My search found no randomised trial of scalp oiling or greasing on scalp condition or hair growth in any population.",
+      "source": {
+        "authors": "PubMed search, 12 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hair+oiling+scalp+randomized"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "id": "pubmed-2026"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "Whether oiling or greasing the scalp helps hair growth or scalp health: no trial found.",
+  "tier_note": "D because the claim people care about (scalp oiling helps growth or scalp health) has no human trial in my search; coconut-oil work is on hair fibres in the lab (C), and the one survey (B line) finds an association, not an effect. Moves to A or B if a trial tests oiling on the scalp or breakage.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for oiling or greasing in what I read. The one survey found no link between grease and tinea capitis. Heavy product build-up on a scalp that is rarely washed was not tested. Hot combs and chemical relaxers, often used with greasing, are covered elsewhere.",
+  "founder_flag": false,
+  "evidence_summary": "Almost every Black family in one US survey used hair oils or grease, and no one has tested scalp oiling for hair growth or scalp health in a trial. In the lab, coconut oil reduced protein loss from hair fibres, which is about the hair strand, not your scalp. Whether the routine does what tradition says is untested.",
+  "measured_variables": [
+    "Hair protein loss and porosity in lab samples",
+    "Hair shaft shape is not controlled in these studies"
+  ],
+  "gaps": "Untested: effect of scalp oiling on growth, itch, flaking or breakage in people; whether petrolatum-based grease differs from plant oils; whether washing frequency matters (the one survey found no link to two conditions, but was small); whether lab effects on hair strands show up in real-world breakage.",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "hair-porosity-and-moisture",
+    "shea-butter",
+    "chemical-relaxers"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rele AS, Mohile RB",
+      "year": 2003,
+      "journal": "J Cosmet Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12715094/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kaushik V et al",
+      "year": 2022,
+      "journal": "Int J Cosmet Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35377477/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

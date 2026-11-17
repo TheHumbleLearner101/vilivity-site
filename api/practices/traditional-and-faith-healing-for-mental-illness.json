@@ -1,0 +1,54 @@
+{
+  "slug": "traditional-and-faith-healing-for-mental-illness",
+  "name": "Prayer camps, faith and traditional healers for mental illness",
+  "regions": [
+    "West Africa",
+    "East and Southern Africa"
+  ],
+  "module": "mind",
+  "what_people_do": "Families take people with psychosis or severe distress to a traditional healer, prayer camp or church; some centres use shackling, flogging and forced fasting.",
+  "why_they_say_it_works": "Illness is seen as spiritual, so prayer, ritual and herbs are the first treatment; healers are trusted and close by.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Lambert JE et al 2020, Glob Ment Health, PMID 33123375",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33123375/",
+      "quote_or_summary": "Ghana: 82 people treated in healing centres and 40 healers interviewed; most believed mental illness has a spiritual cause; about 30.5% of those treated were exposed to maltreatment, yet half would return; healers using shackling believed it necessary; most healers were willing to collaborate with the health system."
+    },
+    {
+      "source": "Ayinde OO et al 2023, Transcult Psychiatry, PMID 34913379",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34913379/",
+      "quote_or_summary": "Ibadan, Kumasi and Nairobi, 85 people who had used traditional and faith healers for psychosis: supernatural causes predominant; prayer and rituals central; concurrent or consecutive use of conventional care was common."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Outcomes of care in healing centres",
+      "population": "Interview study, 122 participants",
+      "finding": "Maltreatment in about 30%, trauma history linked to worse symptoms; no outcome trial.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Lambert JE et al 2020, Glob Ment Health, PMID 33123375",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33123375/"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "yes",
+  "harm_note": "Shackling, flogging and forced fasting are documented in these centres. Collaboration with clinics is possible and wanted by many healers.",
+  "links_to_entries": [
+    "mental-health-act-psychosis-and-misdiagnosis",
+    "stigma-and-starting-therapy"
+  ],
+  "gaps": [
+    "No trial of faith healing outcomes found.",
+    "Prevalence of use by country not extracted."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/traditional-and-faith-healing-for-mental-illness/"
+}

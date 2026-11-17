@@ -1,0 +1,205 @@
+{
+  "slug": "alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron",
+  "title": "Alpha-thalassaemia trait: small red cells that are not low iron",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Why is my haemoglobin low but my iron is normal?",
+    "What is alpha-thalassaemia trait?",
+    "Do I need iron tablets if my red cells are small?",
+    "Why does my blood count say anaemia when I feel fine?"
+  ],
+  "tradition_says": "Tired blood is often put down to low iron and treated with iron tablets or liver, iron-rich foods and tonics. My search found no study of what families pass down about small red cells.",
+  "layer1": {
+    "plain_answer": "Alpha-thalassaemia trait means you carry one or two missing copies of the genes that make part of haemoglobin. It is common in people of African descent and can show as small, pale red cells and mild anaemia that looks like low iron. Ask what is behind small red cells before you start iron tablets.",
+    "what_it_is": [
+      {
+        "text": "People have four copies of the alpha-globin genes. Losing two causes alpha-thalassaemia trait: unusually small, pale red cells and mild anaemia. Losing one makes a silent carrier, usually with no signs.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Alpha thalassemia\"",
+          "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Alpha-thalassaemia is fairly common worldwide, and occurs frequently in people from the Mediterranean, Africa, the Middle East, India and Central Asia.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Alpha thalassemia\"",
+          "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "More than 100 varieties have been identified; the authors of a review say alpha-thalassaemias deserve higher priority on global public health agendas.",
+        "basis": "tested",
+        "source": "piel-2014"
+      },
+      {
+        "text": "It is inherited, so it is not on you and not caused by your diet.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Alpha thalassemia\"",
+          "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A doctor does a full blood count; if the cause is not clear they may do other tests, and treatment follows once the reason for the anaemia is found.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "In one large US study, haemoglobin, red cell size (MCV), transferrin saturation and ferritin were measured alongside a DNA test for the common -3.7 kb alpha-thalassaemia deletion.",
+        "basis": "tested",
+        "source": "beutler-2005"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "The -3.7 kb alpha-thalassaemia deletion accounted for about one third of the haemoglobin gap between African Americans and white people.",
+        "basis": "tested",
+        "source": "beutler-2005"
+      },
+      {
+        "text": "Among women, 19.8% of African Americans would be classed as anaemic against 5.3% of white women. With iron-deficient and thalassaemic people removed, the figures were 6.1% and 2.77%. Among men the figures fell from 17.7% and 7.6% to 4.29% and 3.6%.",
+        "basis": "tested",
+        "source": "beutler-2005"
+      },
+      {
+        "text": "Iron tablets replace missing iron, and are advised once a blood test shows low red cells and the cause has been found; the gene change is a separate cause of small red cells.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "Sickle trait and raised creatinine had no effect on the haemoglobin difference in the same study.",
+        "basis": "tested",
+        "source": "beutler-2005"
+      },
+      {
+        "text": "Trait usually means mild anaemia only. The serious forms (HbH disease, Hb Bart syndrome) come from losing three or four copies.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Alpha thalassemia\"",
+          "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "If both parents are missing at least one alpha-globin copy, their children are at risk of Hb Bart syndrome, HbH disease or trait; the risk depends on how many copies are missing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Alpha thalassemia\"",
+          "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Tiredness, breathlessness or paleness that is new or getting worse (doctor, full blood count).",
+      "You have been told you are anaemic but iron tablets have not helped, or no cause was found (doctor; ask whether thalassaemia trait was considered).",
+      "Planning a pregnancy when you or your partner may carry thalassaemia or sickle genes (doctor, midwife or genetic counselling service; antenatal screening offers differ by country, so ask what is offered where you live).",
+      "Children in the family with severe anaemia from early childhood (doctor or paediatrician, soon)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,491 African American and 31,005 white people with routine blood results and stored samples, about half men and half women",
+      "design": "Retrospective analysis of laboratory data with DNA testing for the -3.7 kb alpha-thalassaemia deletion",
+      "n": 32496,
+      "finding": "Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans; ferritin was higher. The -3.7 kb alpha-thalassaemia deletion accounted for about one third of the haemoglobin difference; sickle trait and raised creatinine had no effect. Of women, 19.8% of African Americans and 5.3% of white women would be called anaemic; without iron-deficient or thalassaemic people the figures were 6.1% and 2.77% (men 17.7% and 7.6%, then 4.29% and 3.6%). The authors say the same reference standards do not apply to all ethnic groups.",
+      "source": {
+        "authors": "Beutler E, West C",
+        "year": 2005,
+        "journal": "Blood",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US laboratory population, not a random community sample. Abstract read in full. The authors favour separate standards; whether to adopt them is contested.",
+      "id": "beutler-2005"
+    },
+    {
+      "population": "Reviewed literature on the alpha-thalassaemias worldwide",
+      "design": "Review article (New England Journal of Medicine)",
+      "n": "not applicable",
+      "finding": "More than 100 varieties of alpha-thalassaemia have been identified. The authors say their geographic distribution, and the challenges of screening, diagnosis and management, suggest they should have a higher priority on global public health agendas. The abstract gives no more detail.",
+      "source": {
+        "authors": "Piel FB, Weatherall DJ",
+        "year": 2014,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25390741/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract is two sentences long; the full text was not opened.",
+      "id": "piel-2014"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That a common alpha-thalassaemia deletion explains about a third of the haemoglobin difference, and that anaemia rates fall sharply once iron-deficient and thalassaemic people are removed: one study of 32,496 people.",
+  "tier_note": "One large US laboratory study (observational). My search found no study of whether iron tablets help people with alpha-thalassaemia trait who are not iron deficient.",
+  "harm_flag": true,
+  "harm_note": "A haemoglobin cut-off built on one group can label healthy carriers anaemic (Beutler 2005), and iron tablets have side effects and are dangerous for young children in overdose (NHS in the UK, iron deficiency anaemia).",
+  "founder_flag": false,
+  "evidence_summary": "Alpha-thalassaemia trait is a gene change, found in many people of African descent and in other regions, that makes red cells small and pale and can lower haemoglobin a little. In a US study of 32,496 people, one deletion accounted for about a third of the haemoglobin gap between African Americans and white people, and the share classed as anaemic fell sharply once iron-deficient and thalassaemic people were removed. The measured variables are the gene change, ferritin and red cell size, not race. It is inherited and not on you. The practical point is to find the cause of small red cells before treating it as low iron.",
+  "measured_variables": [
+    "Alpha-globin gene copies (a DNA test)",
+    "Haemoglobin and MCV (full blood count)",
+    "Ferritin and transferrin saturation (iron stores)",
+    "Self-reported race in the study, a stand-in for gene frequencies and iron status"
+  ],
+  "gaps": "Not found or not opened: whether iron tablets help or harm in trait carriers who are not iron deficient (my search found nothing); how a clinic proves the gene change (the diagnostic steps were not described in the pages I opened); the UK's NHS thalassaemia page lists Mediterranean, south Asian, southeast Asian and Middle Eastern origin and does not name African ancestry, while MedlinePlus does; antenatal screening rules by country; carrier frequency by country.",
+  "related": [
+    "haemoglobin-and-white-cell-reference-ranges",
+    "iron-and-fibroids",
+    "sickle-cell-disease-trait-and-pregnancy",
+    "g6pd-deficiency-what-to-avoid-and-who-carries-it"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Beutler E, West C",
+      "year": 2005,
+      "journal": "Blood",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Piel FB, Weatherall DJ",
+      "year": 2014,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25390741/",
+      "tag": "[review]"
+    },
+    {
+      "name": "MedlinePlus Genetics, \"Alpha thalassemia\"",
+      "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Iron deficiency anaemia\"",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

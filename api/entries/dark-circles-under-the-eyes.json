@@ -1,0 +1,106 @@
+{
+  "slug": "dark-circles-under-the-eyes",
+  "title": "Dark circles under the eyes",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "How do I treat dark circles and eye bags on dark skin?",
+    "Why do I have dark circles under my eyes?",
+    "Do eye creams work for dark circles?"
+  ],
+  "tradition_says": "Dark circles are blamed on tiredness and treated with sleep, cold spoons, cucumber and eye creams.",
+  "layer1": {
+    "plain_answer": "Dark circles under the eyes can come from pigment, thin skin showing blood vessels, or lost volume, and the cause decides the treatment. A systematic review found many treatments help some people, from creams and peels to fillers, but the studies are weak and not specific to Black skin. Daily sunscreen is a sensible start.",
+    "do": [
+      {
+        "text": "Ask a dermatologist to work out which kind you have: pigment, structure, blood vessels or a mix.",
+        "basis": "tested",
+        "source": "michelle-2021"
+      },
+      {
+        "text": "Apply sunscreen daily, SPF 30 or higher, broad-spectrum.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For pigment-type circles, creams and peels are the treatments the review found useful.",
+        "basis": "tested",
+        "source": "michelle-2021"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Expecting one cream to fix every kind: fillers or fat grafting suit volume loss, surgery suits loose skin, creams suit pigment.",
+        "basis": "tested",
+        "source": "michelle-2021"
+      },
+      {
+        "text": "Taking any claim on trust: the review calls the evidence scarce and weak and says to read recommendations selectively.",
+        "basis": "tested",
+        "source": "michelle-2021"
+      }
+    ],
+    "see_someone_when": [
+      "Swelling, pain or vision changes around the eyes (doctor urgently).",
+      "Circles that appeared suddenly, are one-sided, or follow a new medicine (doctor).",
+      "You are considering fillers, lasers or surgery (dermatologist or an accredited specialist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Participants in 39 studies of periorbital hyperpigmentation; groups not stated in the abstract",
+      "design": "Systematic review of treatments",
+      "n": 39,
+      "finding": "Fillers and fat grafting work best for dark circles from volume loss; blepharoplasty for loose skin; creams and peels for pigment; lasers mildly to moderately for vascular and pigment types. The authors note the scarcity of high-quality evidence and ask for more randomised trials.",
+      "source": {
+        "authors": "Michelle L, Pouldar Foulad D, Ekelem C et al",
+        "year": 2021,
+        "journal": "Dermatologic Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32740208/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Not specific to Black skin.",
+      "id": "michelle-2021"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That the cause decides the treatment, from one systematic review that its authors call low in quality, with no data specific to Black skin.",
+  "tier_note": "Review of poor-quality studies in unspecified populations. Common home remedies (cold compresses, tea bags, cucumber, sleep) are untested in what I opened.",
+  "harm_flag": false,
+  "harm_note": "No harm signal in the abstract; invasive treatments carry their own risks that were not reviewed here.",
+  "founder_flag": false,
+  "evidence_summary": "The review of 39 studies lists pigmentary, structural, vascular and mixed causes. It says fillers and fat grafting help volume-loss circles, surgery helps loose skin, topical creams and peels help pigment-type, and lasers help mildly to moderately, but quality is low and it does not report skin type.",
+  "measured_variables": [
+    "Cause type (pigment, structure, vascular, mixed)",
+    "Skin pigmentation (not reported in the review)"
+  ],
+  "gaps": "Untested or not found: home remedies (sleep, cold compresses, tea bags); trials in Black skin; which creams (vitamin C, retinol, kojic acid) work. UK-specific guidance on dark circles was not found in my search.",
+  "related": [
+    "dark-marks-after-acne",
+    "skincare-routine-basics"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Michelle L et al",
+      "year": 2021,
+      "journal": "Dermatologic Surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32740208/",
+      "tag": "[review]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

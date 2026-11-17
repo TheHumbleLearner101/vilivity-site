@@ -1,0 +1,30 @@
+{
+  "pmid": "36260792",
+  "slug": "rosmarin-2022-36260792",
+  "citation": {
+    "authors": "Rosmarin D, Passeron T, Pandya AG et al",
+    "year": 2022,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36260792/",
+  "page": "https://vilivity.com/studies/rosmarin-2022-36260792/",
+  "cited_by": [
+    {
+      "entry": "vitiligo",
+      "title": "Vitiligo",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo/",
+      "record": {
+        "id": "rosmarin-2022",
+        "population": "674 people aged 12 or over with nonsegmental vitiligo in North America and Europe (two trials); how many were Black is not in the abstract",
+        "n": 674,
+        "design": "Two phase 3, randomised, double-blind, vehicle-controlled trials of 1.5% ruxolitinib cream twice daily for 24 weeks",
+        "finding": "At week 24, 29.8% (trial 1) and 30.9% (trial 2) on ruxolitinib cream reached a 75% improvement in facial vitiligo score, against 7.4% and 11.4% on vehicle.",
+        "line_tier": "B",
+        "note": "Industry-sponsored. A prescription medicine.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

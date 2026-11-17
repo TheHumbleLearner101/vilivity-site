@@ -1,0 +1,30 @@
+{
+  "pmid": "39836666",
+  "slug": "gill-2025-39836666",
+  "citation": {
+    "authors": "Gill B, Wessels JM, Hayes CL, Ratcliffe J et al",
+    "year": 2025,
+    "journal": "PLoS One"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39836666/",
+  "page": "https://vilivity.com/studies/gill-2025-39836666/",
+  "cited_by": [
+    {
+      "entry": "probiotics-and-gut-health",
+      "title": "Probiotics and gut health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/probiotics-and-gut-health/",
+      "record": {
+        "id": "gill-2025",
+        "population": "African, Caribbean and Black women aged 18 to 49 in the Greater Toronto Area (50 enrolled, 41 finished)",
+        "n": 50,
+        "design": "Randomised, open-label phase 1 pilot of vaginal estrogen, a vaginal probiotic, or both, for 30 days (vaginal health, not gut)",
+        "finding": "The trial was feasible (80 per cent enrolment, 82 per cent retention, 93 per cent adherence) and safe. There were 88 adverse events in 29 participants, 75 per cent mild, no serious events, and no clinically significant blood changes. It was not designed to show whether vaginal health improved.",
+        "line_tier": "A",
+        "note": "The one trial in Black participants I found. It tests safety and feasibility of a vaginal product, so it says nothing about gut health or yoghurt-type probiotics.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

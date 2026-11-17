@@ -1,0 +1,179 @@
+{
+  "slug": "lions-mane-and-reishi-mushroom-supplements",
+  "title": "Lion's mane and reishi mushroom supplements",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does lion's mane improve memory and focus?",
+    "Does reishi boost your immune system?",
+    "Are mushroom supplements safe?",
+    "Have mushroom supplements been tested on Black people?"
+  ],
+  "tradition_says": "Reishi (lingzhi) and lion's mane are used in traditional Chinese, Japanese and other Asian medicine. Powders, capsules and coffees now promote them for focus, memory, immunity and stress.",
+  "layer1": {
+    "plain_answer": "Lion's mane and reishi have only small trials behind them, mostly low quality, in older Japanese adults with memory loss, healthy adults, and cancer patients on treatment. Our search found no trial of these mushrooms in Black participants. Treat claims for memory or immunity as untested for you, and tell your doctor or pharmacist you take them.",
+    "do": [
+      {
+        "text": "Tell your doctor or pharmacist you take mushroom supplements, especially if you are on cancer treatment or any regular medicine.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Treat memory or immunity claims as unproven for you: the trials were small and in older Japanese adults with memory problems, or cancer patients.",
+        "basis": "tested",
+        "source": "mori-2009"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using reishi or lion's mane as a replacement for cancer treatment: the Cochrane review found only poor-quality trials of reishi alongside treatment.",
+        "basis": "tested",
+        "source": "jin-2016"
+      },
+      {
+        "text": "Mushroom supplements if you are pregnant or breastfeeding, or have kidney or liver problems, without a pharmacist check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Itching, rash, swelling or breathing trouble after taking one (urgent care).",
+      "Stomach pain or headache that continues while taking it (doctor or pharmacist).",
+      "You are having cancer treatment and want to add reishi (your oncology team)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Japanese men and women aged 50 to 80 with mild cognitive impairment",
+      "design": "Randomised, double-blind, placebo-controlled trial of lion's mane (Yamabushitake) tablets, 3 g a day for 16 weeks, with 4 weeks of follow-up",
+      "n": 30,
+      "finding": "Cognitive scores rose more in the lion's mane group at weeks 8, 12 and 16, then fell back four weeks after stopping. Laboratory tests showed no adverse effect.",
+      "source": {
+        "authors": "Mori K, Inatomi S, Ouchi K, Azumi Y et al",
+        "year": 2009,
+        "journal": "Phytotherapy Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18844328/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "15 people per group. Older Japanese adults with a diagnosed condition, so it says little about healthy people or Black adults.",
+      "id": "mori-2009"
+    },
+    {
+      "population": "Healthy adults aged 18 to 45 (country not stated in the abstract)",
+      "design": "Randomised, double-blind, placebo-controlled pilot of 1.8 g lion's mane, one dose and then 28 days",
+      "n": 41,
+      "finding": "One dose was followed by faster Stroop task performance at 60 minutes. A trend to lower self-rated stress after 28 days did not reach significance (p = 0.051). The authors say null and limited findings were also seen and call for larger studies.",
+      "source": {
+        "authors": "Docherty S, Doughty FL, Smith EF",
+        "year": 2023,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38004235/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A pilot. Ethnicity not reported in the abstract.",
+      "id": "docherty-2023"
+    },
+    {
+      "population": "Humans and laboratory models: five randomised trials, three pilot trials, one cohort study and a case report on lion's mane, plus 15 laboratory studies",
+      "design": "Systematic review of lion's mane as a supplement (benefits and side effects)",
+      "n": "5 randomised trials and 3 pilot trials",
+      "finding": "The authors report cognitive benefits in the trials, including a combined Mini-Mental State Examination gain of about 1 point. Side effects are commonly unreported; those that were reported include stomach discomfort, headache and allergic reactions.",
+      "source": {
+        "authors": "Menon A, Jalal A, Arshad Z, Nawaz FA et al",
+        "year": 2025,
+        "journal": "Frontiers in Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40959699/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A very small evidence base, mostly in people with cognitive problems. Ethnicity not described in the abstract.",
+      "id": "menon-2025"
+    },
+    {
+      "population": "Cancer patients in five randomised trials of reishi (Ganoderma lucidum), mostly as an add-on to chemotherapy or radiotherapy",
+      "design": "Cochrane systematic review (searches to February 2016)",
+      "n": 5,
+      "finding": "Methodological quality was generally unsatisfying and reporting poor. People given reishi alongside chemotherapy or radiotherapy were more likely to respond than with the treatment alone (relative risk 1.50, 95% CI 0.90 to 2.51), and reishi on its own did not match that. No trial reported long-term survival, and adverse events were reported in only one study.",
+      "source": {
+        "authors": "Jin X, Ruiz Beguerie J, Sze DM, Chan GC",
+        "year": 2016,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27045603/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Cancer patients, not healthy people taking it for immunity. Quality poor.",
+      "id": "jin-2016"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That lion's mane improves memory or mood and reishi supports immunity: a handful of small trials (15 per group; 41 healthy adults; five cancer trials rated low quality), none in Black participants.",
+  "tier_note": "Randomised trials exist, so not D, but they are few, small and rated poor quality by the Cochrane authors, so strength is thin. It stays B, short of A, because no trial in people of African descent was found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal beyond what the lion's mane review lists (stomach discomfort, headache, allergic reactions, commonly unreported). I did not open a source on reishi interactions with medicines, so nothing is claimed about them.",
+  "founder_flag": false,
+  "evidence_summary": "The best-known lion's mane trial gave 15 older Japanese adults with mild cognitive impairment tablets for 16 weeks and saw higher scores that fell back after stopping. A pilot in 41 healthy adults saw faster performance on one task after one dose and a trend to lower stress after 28 days. A 2025 systematic review found few trials and reported side effects of stomach discomfort, headache and allergic reaction. For reishi, a Cochrane review of five low-quality trials found people responded better when it was added to chemotherapy or radiotherapy, with wide uncertainty, and no trial measured survival.",
+  "measured_variables": [
+    "Cognitive scores (Hasegawa scale, Stroop task, MMSE)",
+    "Tumour response and immune markers (reishi trials)",
+    "Allergy and stomach side effects",
+    "No ancestry variable in any source"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 1 record for mushroom supplements or extracts, a 2001 laboratory paper on a different mushroom, so nothing relevant. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): lion's mane 0 records, reishi 2 records (titles read only: a fatigue trial and a lupus herbal trial; not read in full). Untested: any effect in Black participants; long-term safety; mushroom and medicine interactions (no source opened); whether supplement products contain what the label says.",
+  "related": [
+    "vitamins-and-supplements-basics",
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "meditation",
+    "sea-moss-irish-moss"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Mori K, Inatomi S, Ouchi K, Azumi Y et al",
+      "year": 2009,
+      "journal": "Phytotherapy Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18844328/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Docherty S, Doughty FL, Smith EF",
+      "year": 2023,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38004235/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Menon A, Jalal A, Arshad Z, Nawaz FA et al",
+      "year": 2025,
+      "journal": "Frontiers in Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40959699/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Jin X, Ruiz Beguerie J, Sze DM, Chan GC",
+      "year": 2016,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27045603/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

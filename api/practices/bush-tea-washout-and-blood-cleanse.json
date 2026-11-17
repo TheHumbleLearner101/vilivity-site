@@ -1,0 +1,63 @@
+{
+  "slug": "bush-tea-washout-and-blood-cleanse",
+  "name": "Bush tea for a \"washout\" or \"blood cleanse\"",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Drink a bitter or purgative bush tea (cerasee and others), often as a regular tonic or at the turn of the year, to \"wash out\" or \"clean the blood\".",
+  "why_they_say_it_works": "The body is said to collect \"dirt\" or \"bad blood\" that a bitter tea flushes out; it is also taken to prevent illness.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Picking D et al 2015, J Ethnopharmacol, PMID 25929450 (TRAMIL survey, Jamaica)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25929450/",
+      "quote_or_summary": "407 Jamaican adults named 107 medicinal plants; the survey reports high agreement among informants for \"washout and blood cleanse\" tonics, nerves and insomnia, and respiratory complaints (as summarised in the agent4 file; abstract confirms 14 plants reached the 20% TRAMIL threshold)."
+    },
+    {
+      "source": "Clement YN et al 2015, J Ethnobiol Ethnomed, PMID 26369926 (TRAMIL survey, Trinidad)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26369926/",
+      "quote_or_summary": "450 rural Trinidad households, 917 single-plant remedies; the 20% \"popular use\" threshold was met by only a handful of plants (none of them a washout tea in the abstract)."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Laboratory and animal work on three Caribbean plants (cerasee, soursop, anamu)",
+      "population": "In vitro and in vivo only",
+      "finding": "13 preclinical studies; no human trial retrieved.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Forbes FF 2026, Cureus, PMID 42395245",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42395245/"
+      }
+    },
+    {
+      "tested": "Whether any bush tea \"cleanses the blood\"",
+      "population": "n/a",
+      "finding": "My search found no human study of a washout or blood-cleanse effect. \"Washout\" is not a measurable clinical outcome in the sources I read.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "C",
+  "headline_strength": "thin",
+  "harm_flag": "possible",
+  "harm_note": "Bitter and purgative teas can cause diarrhoea and dehydration (general pharmacology, not sourced here). A search summary links Jamaican \"bush tea\" made from Crotalaria to veno-occlusive liver disease (Bras 1954/1957); I did not open the primary papers, so UNVERIFIED.",
+  "links_to_entries": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines"
+  ],
+  "gaps": [
+    "No source opened that measures what \"washout\" means or tests it.",
+    "Pyrrolizidine-alkaloid liver risk is UNVERIFIED (primary papers not opened).",
+    "Picking 2015 full text not read for tea-by-tea figures."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/bush-tea-washout-and-blood-cleanse/"
+}

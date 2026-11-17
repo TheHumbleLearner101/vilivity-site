@@ -1,0 +1,30 @@
+{
+  "pmid": "22070559",
+  "slug": "chan-2011-22070559",
+  "citation": {
+    "authors": "Chan TY",
+    "year": 2011,
+    "journal": "Clinical Toxicology (Philadelphia)"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22070559/",
+  "page": "https://vilivity.com/studies/chan-2011-22070559/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": {
+        "id": "chan-2011",
+        "population": "31 relevant reports of mercury poisoning from lightening cosmetics (to March 2011)",
+        "n": 31,
+        "design": "Toxicology review of case reports and product analyses",
+        "finding": "Mercury and its salts are prohibited as skin-lightening agents because of high toxicity. The kidneys are the major site of deposition; renal damage includes reversible proteinuria, acute tubular necrosis and nephrotic syndrome. Gastrointestinal effects include a metallic taste, gingivostomatitis, nausea and hypersalivation. A single case report (Tang 2006, PMID 16912361) documented a woman with nephrotic syndrome whose proteinuria remitted 9 months after stopping the cream.",
+        "line_tier": "B",
+        "note": "Abstract read in full for kidney and gut effects; neurological part of the abstract was cut off in my read.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

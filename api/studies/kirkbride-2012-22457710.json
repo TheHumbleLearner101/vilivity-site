@@ -1,0 +1,30 @@
+{
+  "pmid": "22457710",
+  "slug": "kirkbride-2012-22457710",
+  "citation": {
+    "authors": "Kirkbride JB, Errazuriz A, Croudace TJ et al",
+    "year": 2012,
+    "journal": "PLoS One"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22457710/",
+  "page": "https://vilivity.com/studies/kirkbride-2012-22457710/",
+  "cited_by": [
+    {
+      "entry": "mental-health-act-psychosis-and-misdiagnosis",
+      "title": "Psychosis, sectioning and misdiagnosis in the UK",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/mental-health-act-psychosis-and-misdiagnosis/",
+      "record": {
+        "id": "kirkbride-2012",
+        "population": "83 citations, people aged 16 to 64 with first-onset psychosis, England 1950 to 2009",
+        "n": "83 studies",
+        "design": "Systematic review and meta-analysis of incidence",
+        "finding": "Rates of psychosis were higher in several ethnic minority groups than in white British people. For schizophrenia the pooled rate ratio was 5.6 for Black Caribbean people (95% CI 3.4 to 9.2) and 4.7 for Black African people (3.3 to 6.8). The studies were mostly cross-sectional, which limits conclusions about cause.",
+        "line_tier": "B",
+        "note": "Abstract read. Incidence studies were mostly cross-sectional, with high heterogeneity; the review cannot say why rates differ.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

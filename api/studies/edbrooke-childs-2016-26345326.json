@@ -1,0 +1,30 @@
+{
+  "pmid": "26345326",
+  "slug": "edbrooke-childs-2016-26345326",
+  "citation": {
+    "authors": "Edbrooke-Childs J, Newman R, Fleming I et al",
+    "year": 2016,
+    "journal": "European Child and Adolescent Psychiatry"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26345326/",
+  "page": "https://vilivity.com/studies/edbrooke-childs-2016-26345326/",
+  "cited_by": [
+    {
+      "entry": "childrens-mental-health-support",
+      "title": "Getting a child mental health support",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/childrens-mental-health-support/",
+      "record": {
+        "id": "edbrooke-childs-2016",
+        "population": "11,592 children from 26 CAMHS services, England",
+        "n": "11,592",
+        "design": "Routinely collected data on care pathway by ethnicity",
+        "finding": "Children from Black and minority ethnic backgrounds were more likely to be referred to child and adolescent mental health services through education, social and other services than through primary care, compared with White British children (odds ratios 1.52 to 9.96), and less likely to end treatment for non-attendance. The authors say this may mirror the adult pattern of more compulsory than voluntary routes.",
+        "line_tier": "B",
+        "note": "Grouped as BAME; Black children not reported separately in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

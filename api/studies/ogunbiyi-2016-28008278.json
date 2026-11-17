@@ -1,0 +1,30 @@
+{
+  "pmid": "28008278",
+  "slug": "ogunbiyi-2016-28008278",
+  "citation": {
+    "authors": "Ogunbiyi A",
+    "year": 2016,
+    "journal": "Clinical, Cosmetic and Investigational Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28008278/",
+  "page": "https://vilivity.com/studies/ogunbiyi-2016-28008278/",
+  "cited_by": [
+    {
+      "entry": "mens-hair-waves-fades-and-durags",
+      "title": "Men's afro hair: waves, fades, durags and the nape",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-hair-waves-fades-and-durags/",
+      "record": {
+        "id": "ogunbiyi-2016",
+        "population": "Review of acne keloidalis nuchae (folliculitis keloidalis nuchae)",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "AKN is a chronic scarring folliculitis seen mostly in men of African descent after puberty and is classed as a primary scarring alopecia. The cause is unknown; suggested inciting factors include androgens, inflammation, infection, trauma, genetics and ingrowing hairs.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

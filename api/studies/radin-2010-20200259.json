@@ -1,0 +1,30 @@
+{
+  "pmid": "20200259",
+  "slug": "radin-2010-20200259",
+  "citation": {
+    "authors": "Radin RG, Palmer JR, Rosenberg L, Kumanyika SK et al",
+    "year": 2010,
+    "journal": "American Journal of Clinical Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20200259/",
+  "page": "https://vilivity.com/studies/radin-2010-20200259/",
+  "cited_by": [
+    {
+      "entry": "fibroids-and-diet",
+      "title": "Fibroids, food and supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/fibroids-and-diet/",
+      "record": {
+        "id": "radin-2010",
+        "population": "21,861 premenopausal Black women in the Black Women's Health Study, followed 1997-2007",
+        "n": 21861,
+        "design": "Prospective cohort with food-frequency questionnaires",
+        "finding": "During 162,604 person-years, 5,800 fibroid cases were diagnosed. Dietary glycaemic index was weakly associated with fibroid risk overall (highest against lowest quintile 1.09, 95% CI 0.99-1.19; P for trend 0.04), with stronger links in women under 35 for glycaemic load (1.18) and in college-educated women for glycaemic index (1.17).",
+        "line_tier": "B",
+        "note": "Questionnaire diet; the authors call the findings something that warrants further study.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

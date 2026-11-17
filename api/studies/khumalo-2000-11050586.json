@@ -1,0 +1,30 @@
+{
+  "pmid": "11050586",
+  "slug": "khumalo-2000-11050586",
+  "citation": {
+    "authors": "Khumalo NP et al",
+    "year": 2000,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/11050586/",
+  "page": "https://vilivity.com/studies/khumalo-2000-11050586/",
+  "cited_by": [
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "khumalo-2000",
+        "population": "12 African volunteers, Oxford; over 2,000 hairs",
+        "n": 12,
+        "design": "Hair-fibre examination",
+        "finding": "Afro-textured shafts knotted and fractured far more often when combed: 10 to 16% of shafts knotted against 0.15% in other groups.",
+        "line_tier": "C",
+        "note": "12 volunteers with no chemical treatment and limited grooming: shows untreated hair, not how common knotting is in daily life.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

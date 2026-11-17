@@ -1,0 +1,30 @@
+{
+  "pmid": "25933684",
+  "slug": "okokon-2015-25933684",
+  "citation": {
+    "authors": "Okokon EO, Verbeek JH et al",
+    "year": 2015,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25933684/",
+  "page": "https://vilivity.com/studies/okokon-2015-25933684/",
+  "cited_by": [
+    {
+      "entry": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+      "title": "Dry, itchy, flaky scalp and dandruff",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/scalp-itch-dandruff-and-seborrhoeic-dermatitis/",
+      "record": {
+        "id": "okokon-2015",
+        "population": "Adolescents and adults with seborrhoeic dermatitis of the face or scalp, randomised trials in mixed populations",
+        "n": "not stated",
+        "design": "Cochrane systematic review and meta-analysis",
+        "finding": "Topical ketoconazole 2% gave a 31% lower risk of failed clearance than placebo at four weeks (risk ratio 0.69, 95% CI 0.59-0.81, low-quality evidence), a remission rate similar to steroids with fewer side effects, and results similar to ciclopirox. The authors note that 24 trials appeared to have conflicts of interest such as pharmaceutical funding.",
+        "line_tier": "B",
+        "note": "Trials were not selected for afro hair or dark skin.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

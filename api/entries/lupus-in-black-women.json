@@ -1,0 +1,206 @@
+{
+  "slug": "lupus-in-black-women",
+  "title": "Lupus: symptoms, risk and getting diagnosed early",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "Is lupus more common in Black women?",
+    "What are the first signs of lupus?",
+    "Does lupus look different on dark skin?",
+    "Can lupus damage the kidneys?"
+  ],
+  "tradition_says": "Long-lasting joint pain, tiredness and rashes are often put down to stress, a hard life or 'just being run down'. My search found no study of what families pass down about lupus.",
+  "layer1": {
+    "plain_answer": "Lupus is a long-term autoimmune condition that causes joint pain, rashes and deep tiredness. It is more common in women of African and Caribbean background and can affect the kidneys, so finding it early matters. See a GP if symptoms keep coming back. Sun protection and regular check-ups help once diagnosed.",
+    "do": [
+      {
+        "text": "See a doctor if you often get lupus symptoms: joint and muscle pain, tiredness rest does not fix, or a rash after sun. It is better managed when found and treated early.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Use high-factor sunscreen (at least factor 50) and a hat in the sun. In the UK it can be prescribed if you have lupus.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Go to the regular checks after diagnosis, including blood tests for anaemia and urine tests for kidney problems.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Pace yourself, stay active on better days, and ask family, friends and work for help.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "See a doctor before trying for a pregnancy, so medicines can be checked.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Smoking: it makes lupus worse.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Long spells in direct sun or in rooms with fluorescent lights.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Waiting for one classic rash: lupus has many possible symptoms and is not always easy to diagnose because they resemble other conditions.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lupus\"",
+          "url": "https://www.nhs.uk/conditions/lupus/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Assuming it is unlikely in you: in one Manhattan registry prevalence in Black women was 210.9 per 100,000 against 64.3 in white women.",
+        "basis": "tested",
+        "source": "izmirly-2017"
+      }
+    ],
+    "see_someone_when": [
+      "Joint pain, a sun-triggered rash or tiredness that keeps returning for weeks (doctor; ask about lupus tests).",
+      "Swollen ankles or face, foamy or dark urine, or new high blood pressure with any lupus symptoms (doctor the same day; kidneys can be affected).",
+      "Chest pain, sudden breathlessness or a severe headache with fever (emergency services; NHS in the UK lists chest or tummy pain among lupus symptoms).",
+      "Low mood or anxiety with lupus (doctor; NHS in the UK lists depression and anxiety among symptoms)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Residents of New York County (Manhattan) with lupus, 2007 prevalence and 2007 to 2009 incidence, by race and ethnicity",
+      "design": "Population-based registry (Manhattan Lupus Surveillance Program), capture-recapture analysis",
+      "n": "not stated in the abstract",
+      "finding": "Age-standardised prevalence was 62.2 and incidence 4.6 per 100,000 person-years by ACR criteria, about 9 times higher in women than men. Prevalence in non-Hispanic Black women was 210.9 per 100,000 against 64.3 in non-Hispanic white women, 138.3 in Hispanic and 91.2 in non-Hispanic Asian women. Incidence was 15.7 in Black women against 6.5 in white and Hispanic women and 6.6 in Asian women.",
+      "source": {
+        "authors": "Izmirly PM, Wan I, Sahl S, Buyon JP et al",
+        "year": 2017,
+        "journal": "Arthritis and Rheumatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28891252/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "One US county; no data on Black people outside the US. Abstract read; the number of cases is not in it.",
+      "id": "izmirly-2017"
+    },
+    {
+      "population": "27 children with lupus nephritis of Afro-descendant background, French Overseas Departments of America, 2000 to 2024",
+      "design": "Retrospective multicentre cohort",
+      "n": 27,
+      "finding": "Mean age at diagnosis 11.3 years; 55% had kidney involvement at diagnosis and 75% had class III or IV disease. Kidney flares were more frequent under age 12. Six (22%) had eGFR under 60 at last follow-up, two on dialysis and two transplanted. The authors say outcomes showed higher dialysis and kidney failure than Caucasian series.",
+      "source": {
+        "authors": "Michau C, Osei L, Elenga N, Delion F et al",
+        "year": 2026,
+        "journal": "BMC Nephrology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157049/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small case series, children only; comparison is with other published series, not a matched group.",
+      "id": "michau-2026"
+    },
+    {
+      "population": "61 people with lupus at one internal medicine department in Casablanca, Morocco, 2017 to 2022",
+      "design": "Retrospective descriptive study",
+      "n": 61,
+      "finding": "90.2% were women, mean age at diagnosis 40.3 years. Fatigue (82.0%), joint pain (70.5%) and malar rash (59.0%) were most common; anaemia affected 47.5% and renal involvement 16.4%. The authors note restricted access to advanced targeted treatments.",
+      "source": {
+        "authors": "Lakdim L, Naitlhou A, Carroll R",
+        "year": 2026,
+        "journal": "Cureus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43006003/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "North African single centre; descriptive, no comparison group.",
+      "id": "lakdim-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That lupus is several times more common in Black women than white women: a population-based Manhattan registry, supported by NHS guidance saying it is more common in women of African and Caribbean background.",
+  "tier_note": "Observational and US-based for the rates; the two non-US studies are small descriptive series. No trial in Black patients tested here. Whether the facial rash looks different on dark skin was not found in my search.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The risk is delay: lupus is not always easy to diagnose (NHS in the UK), and the kidney outcomes in the French series were worse than in published Caucasian series.",
+  "founder_flag": false,
+  "evidence_summary": "In a Manhattan registry, lupus prevalence was 210.9 per 100,000 in Black women against 64.3 in white women, and incidence about 2.4 times higher. The NHS says lupus is more common in women with an African, Caribbean, Asian or Chinese background. Small series from the French Overseas Departments (27 children) and Casablanca (61 adults) show kidney disease can be serious. The NHS lists sun protection, regular blood and urine checks, no smoking and pacing as key steps. The variable is the autoimmune disease itself, with hormones, sun and genes involved; the cause is not fully understood, and it is not on you.",
+  "measured_variables": [
+    "Lupus diagnosis by ACR or SLICC criteria",
+    "Kidney function (eGFR, urine tests)",
+    "Sun exposure",
+    "Self-identified race in the registry, a stand-in for genes and exposures that are not measured"
+  ],
+  "gaps": "Not found or not opened: whether the lupus rash looks different on dark skin; why rates differ (genes, environment or access to care); hydroxychloroquine eye screening in Black patients; rates in Africa and the Caribbean (only the Moroccan and French-territory series were found); CDC and Lupus UK pages; UK registry rates.",
+  "related": [
+    "sickle-cell-disease-trait-and-pregnancy",
+    "conditions-look-different-on-dark-skin",
+    "sunscreen-on-dark-skin",
+    "kidney-disease-apol1-and-egfr"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Izmirly PM, Wan I, Sahl S, Buyon JP et al",
+      "year": 2017,
+      "journal": "Arthritis and Rheumatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28891252/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Michau C, Osei L, Elenga N, Delion F et al",
+      "year": 2026,
+      "journal": "BMC Nephrology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42157049/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Lakdim L, Naitlhou A, Carroll R",
+      "year": 2026,
+      "journal": "Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43006003/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Lupus\"",
+      "url": "https://www.nhs.uk/conditions/lupus/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "36017529",
+  "slug": "akhgarjand-2022-36017529",
+  "citation": {
+    "authors": "Akhgarjand C, Asoudeh F, Bagheri A, Kalantar Z et al",
+    "year": 2022,
+    "journal": "Phytotherapy Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36017529/",
+  "page": "https://vilivity.com/studies/akhgarjand-2022-36017529/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha",
+      "title": "Ashwagandha: stress, sleep, thyroid and liver cautions",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha/",
+      "record": {
+        "id": "akhgarjand-2022",
+        "population": "Adults aged 25 to 48 in 12 randomised trials (country and ethnicity not stated in the abstract)",
+        "n": 1002,
+        "design": "Systematic review and meta-analysis of randomised trials of ashwagandha extract against placebo for anxiety and stress",
+        "finding": "Ashwagandha lowered anxiety and stress scores compared with placebo. The studies disagreed a lot with each other (heterogeneity above 80 per cent), so the size of the effect is uncertain.",
+        "line_tier": "B",
+        "note": "Self-rated scales, short trials. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

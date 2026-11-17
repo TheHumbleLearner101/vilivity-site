@@ -1,0 +1,30 @@
+{
+  "pmid": "32271134",
+  "slug": "buchanan-2020-32271134",
+  "citation": {
+    "authors": "Buchanan BK, Siebert DM, Zigman Suchsland ML, Drezner JA et al",
+    "year": 2020,
+    "journal": "Sports Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32271134/",
+  "page": "https://vilivity.com/studies/buchanan-2020-32271134/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-trait-and-hard-exercise",
+      "title": "Sickle cell trait and hard exercise",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-trait-and-hard-exercise/",
+      "record": {
+        "id": "buchanan-2020",
+        "population": "8,309,050 NCAA athlete-years, 2000-2019",
+        "n": 8309050,
+        "design": "Observational comparison of sudden death associated with sickle cell trait before and after mandatory NCAA screening and education in 2010",
+        "finding": "In Division I football the incidence of death associated with the trait fell from 1 in 28,145 athlete-years before legislation (9 deaths) to 1 in 250,468 after (1 death), a relative risk of 0.112 (95% CI 0.003-0.811). Cases outside football were rare. The authors' stated hypothesis was that legislation would reduce incidence.",
+        "line_tier": "B",
+        "note": "Before-and-after, not randomised; the policy bundled screening and education, so it cannot separate them.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "skincare-routine-basics",
+  "title": "Skincare routine basics (and Korean multi-step routines)",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "What skincare routine is right for Black skin?",
+    "What skincare routine should Black men follow?",
+    "Does Korean skincare work for Black skin?",
+    "How do I get glowing, clear skin on dark skin?",
+    "How do I repair my skin barrier and stop over-exfoliating?"
+  ],
+  "tradition_says": "A long routine of steps, serums and exfoliants is sold as the way to clear, glowing skin, and scrubbing is often treated as what dark skin needs.",
+  "layer1": {
+    "plain_answer": "A short routine is what dermatologist guidance recommends: gentle cleanser, moisturiser and sunscreen. Scrubbing irritates and over-exfoliating is a common reason people see a dermatologist. I found no human study showing a long multi-step routine, Korean or otherwise, improves dark skin. Stop any product that burns or stings.",
+    "do": [
+      {
+        "text": "Cleanse gently with warm water and your fingertips, not tools.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a fragrance-free moisturiser, with ceramides if your skin looks ashy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Dry skin remedies for darker skin tones\"",
+          "url": "https://www.aad.org/public/darker-skin/secrets/dry-skin/dry-skin-remedies-darker-skin",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Apply sunscreen daily: SPF 30 or higher, broad-spectrum, water-resistant.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose products for your skin type: oily, dry, normal, combination or sensitive.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If a product irritates your skin, stop using it right away.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Dermatologist-recommended skin care for your 20s\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-in-your-20s",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Scrubbing: it irritates and can worsen any skin condition, including acne.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Overusing exfoliating products you see on social media: dermatologists frequently treat the damage.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Dermatologist-recommended skin care for your 20s\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-in-your-20s",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Hot water and long baths on dry skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Dry skin remedies for darker skin tones\"",
+          "url": "https://www.aad.org/public/darker-skin/secrets/dry-skin/dry-skin-remedies-darker-skin",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Smoking: the AAD's skin-care tips say don't smoke.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Skin is burning, stinging, peeling or breaking out after a product (stop it; pharmacist or doctor if it does not settle).",
+      "Dark patches, spots or irritation that a basic routine does not fix (doctor or dermatologist).",
+      "A skin change you are unsure about (doctor)."
+    ]
+  },
+  "tested": [],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "The claim people make is that a multi-step (for example Korean) routine, or any exfoliating routine, gives clearer or glowing dark skin: my search found nothing in humans. The basic-routine advice is guidance, not trial evidence.",
+  "tier_note": "D because the headline claim people come with (the multi-step routine works for dark skin) has no human study in my search (\"Korean skincare ten step routine evidence\" returned nothing on PubMed; control: other PubMed searches in this session returned records). Would move with a trial of a routine against a simple one, reported by skin type. The moisturising trial is in the moisturising entry.",
+  "harm_flag": false,
+  "harm_note": "The harm in this entry is irritation from over-exfoliating and too many actives (AAD guidance); not tested.",
+  "founder_flag": false,
+  "evidence_summary": "AAD guidance for everyone: cleanse gently, moisturise, use sunscreen of SPF 30 or higher daily, match products to skin type, do not scrub, stop products that irritate. The AAD dry-skin page for darker skin tones adds ceramide moisturisers to reduce the whitish look of dry skin. I found no trial of a Korean-style multi-step routine and none comparing routines by skin colour; my one PubMed search on it returned nothing.",
+  "measured_variables": [
+    "Skin type (oily, dry, normal, combination, sensitive)",
+    "Pigmentation (irritation shows as dark marks)"
+  ],
+  "gaps": "Fact-check 12 Nov: all three AAD pages behind the do and avoid lines re-opened and each line found on them (the dry-skin page describes a whitish or greyish look on melanin-rich skin, not the word ashy). Untested: the long routine against the short routine; which actives (niacinamide, vitamin C, azelaic acid, retinoids) work on dark skin beyond the dark marks entry; men-specific skincare (no source found, so guidance is general). Barrier repair: the AAD advice to stop irritants and moisturise is guidance, with no trial opened. Founder: none.",
+  "related": [
+    "moisturising-and-ashy-skin",
+    "sunscreen-on-dark-skin",
+    "dark-marks-after-acne",
+    "acne-on-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Dry skin remedies for darker skin tones\"",
+      "url": "https://www.aad.org/public/darker-skin/secrets/dry-skin/dry-skin-remedies-darker-skin",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Dermatologist-recommended skin care for your 20s\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-in-your-20s",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

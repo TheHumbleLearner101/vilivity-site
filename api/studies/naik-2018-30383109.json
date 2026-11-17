@@ -1,0 +1,30 @@
+{
+  "pmid": "30383109",
+  "slug": "naik-2018-30383109",
+  "citation": {
+    "authors": "Naik RP, Smith-Whitley K, Hassell KL, Umeh NI et al",
+    "year": 2018,
+    "journal": "Annals of Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30383109/",
+  "page": "https://vilivity.com/studies/naik-2018-30383109/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-trait-and-hard-exercise",
+      "title": "Sickle cell trait and hard exercise",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-trait-and-hard-exercise/",
+      "record": {
+        "id": "naik-2018",
+        "population": "41 observational studies in children and adults",
+        "n": "41 studies",
+        "design": "Systematic review of clinical outcomes associated with sickle cell trait",
+        "finding": "High-strength evidence for a positive association between trait and pulmonary embolism, proteinuria and chronic kidney disease. Moderate-strength evidence for exertional rhabdomyolysis, and for no association with deep vein thrombosis, heart failure or stroke. Absolute risks of thromboembolism and rhabdomyolysis were small. The authors state that sickle cell trait is largely a benign carrier state that is a risk factor for a few outcomes.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

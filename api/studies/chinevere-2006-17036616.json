@@ -1,0 +1,30 @@
+{
+  "pmid": "17036616",
+  "slug": "chinevere-2006-17036616",
+  "citation": {
+    "authors": "Chinevere TD, Murray CK, Grant E, Johnson GA",
+    "year": 2006,
+    "journal": "Military Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17036616/",
+  "page": "https://vilivity.com/studies/chinevere-2006-17036616/",
+  "cited_by": [
+    {
+      "entry": "g6pd-deficiency-what-to-avoid-and-who-carries-it",
+      "title": "G6PD deficiency: who carries it and what to avoid",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/g6pd-deficiency-what-to-avoid-and-who-carries-it/",
+      "record": {
+        "id": "chinevere-2006",
+        "population": "63,302 US military personnel tested for G6PD, October 2004 to January 2005 (54,874 males, 8,428 females)",
+        "n": 63302,
+        "design": "Retrospective review of routine pre-deployment test results by sex, self-reported ethnicity and WHO class",
+        "finding": "2.5% of males and 1.6% of females were deficient, most with only moderate deficiency. African American males (12.2%) and females (4.1%) and Asian males (4.3%) had the highest rates. The authors judged universal screening warranted, particularly for male service members who report African American, Asian or Hispanic ethnicity.",
+        "line_tier": "B",
+        "note": "US adults of military age, a relatively healthy group; self-reported ethnicity is a stand-in for G6PD variants. Abstract read in full.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

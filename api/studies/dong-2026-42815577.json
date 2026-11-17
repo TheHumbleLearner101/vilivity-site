@@ -1,0 +1,30 @@
+{
+  "pmid": "42815577",
+  "slug": "dong-2026-42815577",
+  "citation": {
+    "authors": "Dong H, Shardow JY, Mulligan K, Oyibo P et al",
+    "year": 2026,
+    "journal": "American Journal of Clinical Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42815577/",
+  "page": "https://vilivity.com/studies/dong-2026-42815577/",
+  "cited_by": [
+    {
+      "entry": "vitamin-d-and-dark-skin",
+      "title": "Vitamin D and dark skin",
+      "module": "body",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/body/vitamin-d-and-dark-skin/",
+      "record": {
+        "id": "dong-2026",
+        "population": "12 trials, 8,023 non-White adults (Black African, South Asian, South Korean, Chinese)",
+        "n": 8023,
+        "design": "Systematic review and meta-analysis of vitamin D supplementation and bone health",
+        "finding": "Of 8 trials measuring bone density, one in South Asians found a benefit. A meta-analysis showed a higher bone-specific alkaline phosphatase marker (SMD 0.96, 95% CI 0.09-1.83), which lost significance after excluding one clinically distinct study. One fracture study (n=5,106) found no difference. The authors conclude evidence supporting supplementation for bone health in non-White adults remains limited.",
+        "line_tier": "B",
+        "note": "Mixed non-White populations; the Black African subgroup is not separated in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

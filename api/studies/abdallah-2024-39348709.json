@@ -1,0 +1,30 @@
+{
+  "pmid": "39348709",
+  "slug": "abdallah-2024-39348709",
+  "citation": {
+    "authors": "Abdallah M, Arters F, Patel J, Edwards C et al",
+    "year": 2024,
+    "journal": "Blood Advances"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39348709/",
+  "page": "https://vilivity.com/studies/abdallah-2024-39348709/",
+  "cited_by": [
+    {
+      "entry": "low-white-cell-count-duffy-null",
+      "title": "A low white cell count that may be Duffy-null (neutrophil count)",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/low-white-cell-count-duffy-null/",
+      "record": {
+        "id": "abdallah-2024",
+        "population": "Duffy-null Black people and dose decisions",
+        "n": 0,
+        "design": "Search for trial evidence that Duffy-specific reference ranges are safe",
+        "finding": "I found papers on febrile neutropenia in Duffy-null patients with myeloma (Abdallah 2024, abstract not retrievable) and on CDK4/6 inhibitors in breast cancer (Ferri 2025, not opened). I could not confirm trial evidence for safe use of Duffy-specific thresholds. UNVERIFIED.",
+        "line_tier": "B",
+        "note": "Title only seen in search; the abstract returned empty from PubMed.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "37821068",
+  "slug": "bertrand-2023-37821068",
+  "citation": {
+    "authors": "Bertrand KA, Delp L, Coogan PF, Cozier YC et al",
+    "year": 2023,
+    "journal": "Environmental Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37821068/",
+  "page": "https://vilivity.com/studies/bertrand-2023-37821068/",
+  "cited_by": [
+    {
+      "entry": "chemical-relaxers",
+      "title": "Chemical relaxers and hair straighteners",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/chemical-relaxers/",
+      "record": {
+        "id": "bertrand-2023",
+        "population": "44,798 Black women with an intact uterus in the Black Women's Health Study; 347 uterine cancers",
+        "n": 44798,
+        "design": "Prospective cohort, 1997-2019",
+        "finding": "Heavy use (15 or more years, at least 5 times a year) against never or light use gave a hazard ratio of 1.18 (95% CI 0.81-1.71), not significant. Among postmenopausal women, heavy use was 1.64 (1.01-2.64) and 20 or more years of use 1.71 (1.08-2.72). Premenopausal women: null.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

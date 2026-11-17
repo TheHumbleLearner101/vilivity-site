@@ -1,0 +1,47 @@
+{
+  "pmid": "38779373",
+  "slug": "galal-2024-38779373",
+  "citation": {
+    "authors": "Galal et al",
+    "year": 2024,
+    "journal": "Journal of Clinical and Aesthetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38779373/",
+  "page": "https://vilivity.com/studies/galal-2024-38779373/",
+  "cited_by": [
+    {
+      "entry": "hair-shedding-and-thinning-after-pregnancy-or-stress",
+      "title": "Hair shedding after pregnancy, illness or stress",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-shedding-and-thinning-after-pregnancy-or-stress/",
+      "record": {
+        "id": "galal-2024",
+        "population": "200 women with postpartum hair loss, Egypt",
+        "n": 200,
+        "design": "Clinical and dermoscopic evaluation",
+        "finding": "Only 9.5% had telogen effluvium alone; 56.0% also had androgenetic alopecia, 6.5% also had traction alopecia and 28.0% had all three. The authors say postpartum telogen effluvium may be associated with other hair loss disorders.",
+        "line_tier": "B",
+        "note": "Egyptian clinic sample, not African American or British Black women.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "galal-2024",
+        "population": "200 women with postpartum hair loss, Egypt",
+        "n": 200,
+        "design": "Clinical and dermoscopic evaluation",
+        "finding": "Only 9.5% had telogen effluvium alone; 56.0% also had androgenetic alopecia, 6.5% also had traction alopecia and 28.0% had all three. The authors say postpartum telogen effluvium may be associated with other hair loss disorders.",
+        "line_tier": "B",
+        "note": "Egyptian clinic sample, not African American or British Black women.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "24176228",
+  "slug": "coe-2013-24176228",
+  "citation": {
+    "authors": "Coe SA, Clegg M, Armengol M, Ryan L",
+    "year": 2013,
+    "journal": "Nutrition Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24176228/",
+  "page": "https://vilivity.com/studies/coe-2013-24176228/",
+  "cited_by": [
+    {
+      "entry": "baobab-fruit",
+      "title": "Baobab fruit: blood sugar, iron and vitamin C",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/baobab-fruit/",
+      "record": {
+        "id": "coe-2013",
+        "population": "Healthy adults in the UK (numbers not in the abstract)",
+        "n": "not stated in the abstract",
+        "design": "Test-meal study: baobab extract in solution with white bread, glucose response, satiety and energy expenditure measured",
+        "finding": "Baobab fruit extract at both low and high doses significantly reduced the glucose response to white bread. It had no significant effect on satiety or energy expenditure. In the lab it also reduced starch digestion.",
+        "line_tier": "B",
+        "note": "A short test-meal study of an extract; funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

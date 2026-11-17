@@ -1,0 +1,30 @@
+{
+  "pmid": "27045603",
+  "slug": "jin-2016-27045603",
+  "citation": {
+    "authors": "Jin X, Ruiz Beguerie J, Sze DM, Chan GC",
+    "year": 2016,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27045603/",
+  "page": "https://vilivity.com/studies/jin-2016-27045603/",
+  "cited_by": [
+    {
+      "entry": "lions-mane-and-reishi-mushroom-supplements",
+      "title": "Lion's mane and reishi mushroom supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/lions-mane-and-reishi-mushroom-supplements/",
+      "record": {
+        "id": "jin-2016",
+        "population": "Cancer patients in five randomised trials of reishi (Ganoderma lucidum), mostly as an add-on to chemotherapy or radiotherapy",
+        "n": 5,
+        "design": "Cochrane systematic review (searches to February 2016)",
+        "finding": "Methodological quality was generally unsatisfying and reporting poor. People given reishi alongside chemotherapy or radiotherapy were more likely to respond than with the treatment alone (relative risk 1.50, 95% CI 0.90 to 2.51), and reishi on its own did not match that. No trial reported long-term survival, and adverse events were reported in only one study.",
+        "line_tier": "B",
+        "note": "Cancer patients, not healthy people taking it for immunity. Quality poor.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

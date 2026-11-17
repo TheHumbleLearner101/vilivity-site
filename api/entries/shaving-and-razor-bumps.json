@@ -1,0 +1,263 @@
+{
+  "slug": "shaving-and-razor-bumps",
+  "title": "Shaving and razor bumps (pseudofolliculitis barbae)",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Why do I get razor bumps?",
+    "How do I stop ingrown hairs after shaving?",
+    "Should I shave every day or less?",
+    "Do depilatory creams help razor bumps?",
+    "Why do I get razor bumps, and how do I get rid of them?",
+    "Which razor, clippers and aftershave suit curly facial hair?",
+    "How should Black men shave to avoid razor bumps and razor burn?",
+    "How do I stop razor bumps and ingrown hairs after shaving the pubic area?",
+    "How do I treat razor bumps on my neck and the back of my head?",
+    "How can I tell razor bumps from herpes or an infection?",
+    "How do I stop razor bumps on my legs and underarms?"
+  ],
+  "tradition_says": "Razor bumps are blamed on the razor or the barber and are widely seen as something to put up with; many men grow a beard, use clippers or switch to creams.",
+  "layer1": {
+    "plain_answer": "Razor bumps happen when tightly curled hair grows back into the skin after shaving. In one trial of Black men, shaving two or three times a week gave fewer ingrown hairs than daily shaving, but bump counts and doctor-rated severity did not differ. Small trials found hair-removal creams gave fewer bumps but more irritation.",
+    "do": [
+      {
+        "text": "Shave with the grain, on soft skin: after a shower, or with a warm, damp washcloth held on first.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Razor bumps: how to prevent them\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/hair/razor-bump-prevention",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Avoid stretching the skin, use a razor with fewer blades, or switch to clippers.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "US Army (army.mil), R. Sanders PA, \"Simple shaving tips to promote healthier skin\", 8 Jul 2019",
+          "url": "https://www.army.mil/article/224058/simple_shaving_tips_to_promote_healthier_skin",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Shave every two or three days rather than daily if ingrown hairs are your main problem.",
+        "basis": "tested",
+        "source": "daniel-2013"
+      },
+      {
+        "text": "Use a moisturising shaving cream and a soothing aftershave.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Razor bumps: how to prevent them\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/hair/razor-bump-prevention",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Grow the hair out if bumps keep coming back: the UK's NHS says not shaving is the best prevention, on any shaved site (face, neck, legs, armpits, chest, back, pubic area); if you do shave, go with the direction of growth and leave at least 1mm of stubble.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Ingrown hairs\"",
+          "url": "https://www.nhs.uk/conditions/ingrown-hairs/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Tweezing hairs out: the review lists it with shaving as a trigger.",
+        "basis": "tested",
+        "source": "perry-2002"
+      },
+      {
+        "text": "A dull razor: replace a disposable after 5 to 7 shaves.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Razor bumps: how to prevent them\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/hair/razor-bump-prevention",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Expecting advanced shaving products to cut bumps: bump counts were the same, though users felt better and itched less.",
+        "basis": "tested",
+        "source": "daniel-2013"
+      },
+      {
+        "text": "Hair-removal creams on irritated skin: they caused more irritation than a razor.",
+        "basis": "tested",
+        "source": "kindred-2011"
+      }
+    ],
+    "see_someone_when": [
+      "Bumps become pus-filled, painful, or leave dark marks or scars (doctor or dermatologist).",
+      "You are considering laser or a prescription cream (dermatologist: both are clinic or prescription treatments).",
+      "You need to shave for work or service and it keeps flaring (occupational health or doctor).",
+      "Small blisters that burst to leave sores, with tingling, burning or itching around the genitals, thighs or bottom (sexual health clinic, soon: the UK's NHS says genital herpes sores may be less red on brown and black skin, so test rather than guess)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "90 African American men with pseudofolliculitis barbae (PFB)",
+      "design": "Randomised to three groups for 12 weeks: shaving 2-3 times a week with standard products, daily with standard products, or daily with advanced products",
+      "n": 90,
+      "finding": "Papule and pustule counts did not differ between groups at 12 weeks, and investigator-graded severity did not differ (P=.43). Ingrown hairs were significantly fewer in the 2-3 times a week group than in either daily group (P=.005 against daily standard, P=.04 against daily advanced). Participants in the daily advanced products group reported more perceived improvement (P=.007) and less itching (P=.002) than the 2-3 times a week group.",
+      "source": {
+        "authors": "Daniel A, Gustafson CJ, Zupkosky PJ, Candido A et al",
+        "year": 2013,
+        "journal": "Journal of Drugs in Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23652888/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "V2 check against the abstract (efetch, 12 Nov 2026): papule and pustule counts did not differ between groups (P=.32, P=.46); ingrown hairs were fewer in the 2-3 times a week group than in either daily group (P=.005, P=.04); investigator severity did not differ (P=.43). The daily \"advanced products\" group reported better perceived response (P=.007) and itching (P=.002) than the 2-3 times a week group. The abstract names no product or razor type, so it cannot support single-blade or razor-guard advice. Funding not stated.",
+      "id": "daniel-2013"
+    },
+    {
+      "population": "Black men (single centre, 1 week)",
+      "design": "Randomised, split-face trial comparing three depilatory compositions with a manual razor",
+      "n": "not stated",
+      "finding": "The depilatory creams produced fewer papules and more irritation than the razor; the irritation was transient. One composition was withdrawn because of a high rate of adverse events. Skin looked and felt smoother with the creams. The authors recommend depilatories for people who develop PFB or are unsatisfied with razors.",
+      "source": {
+        "authors": "Kindred C, Oresajo CO, Yatskayer M, Halder RM",
+        "year": 2011,
+        "journal": "Cutis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21916277/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "One week only, preliminary (the abstract's own wording). Funding and author affiliations not checked.",
+      "id": "kindred-2011"
+    },
+    {
+      "population": "27 men with PFB in a military population",
+      "design": "Randomised, double-blind, paired right-neck/left-neck trial of laser hair removal plus eflornithine cream against laser plus placebo, 16 weeks",
+      "n": 27,
+      "finding": "The eflornithine side had a median hair reduction of 99.5% against 85.0% on the placebo side, with fewer inflammatory papules. Follow-up ended at 16 weeks.",
+      "source": {
+        "authors": "Xia Y, Cho S, Howard RS, Maggio KL",
+        "year": 2012,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22226431/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Participants' ethnicity is not stated in the abstract. Eflornithine and laser are clinic or prescription treatments.",
+      "id": "xia-2012"
+    },
+    {
+      "population": "Literature",
+      "design": "Review of PFB and its pathogenesis",
+      "n": "not stated",
+      "finding": "PFB is most often seen in men and women of African American and Hispanic origin who have tightly curled hair and who shave or tweeze frequently. The authors state follicle shape, hair cuticle and direction of hair growth each play a role, and that prevention and early intervention are the mainstays; no treatment is completely curative.",
+      "source": {
+        "authors": "Perry PK, Cook-Bolden FE, Rahman Z, Jones E et al",
+        "year": 2002,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11807473/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "perry-2002"
+    },
+    {
+      "population": "Review 1987-2023",
+      "design": "Literature review of treatments",
+      "n": "not stated",
+      "finding": "Treatment needs a multifaceted approach: preventive measures, antibiotics, corticosteroids, keratolytics, depilatories or laser. Topical therapies are the mainstay; laser hair removal is a potential long-term option needing more study of efficacy and permanence.",
+      "source": {
+        "authors": "Dalia Y, Khatib J, Odens H, Patel T",
+        "year": 2023,
+        "journal": "Clinical and Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36840647/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "dalia-2023"
+    }
+  ],
+  "tier": "A",
+  "strength": "thin",
+  "tier_driver": "Whether shaving less often reduces ingrown hairs in Black men: one 12-week randomised trial of 90.",
+  "tier_note": "Randomised trials in Black men with the condition exist, but they are small (90, and a one-week study) and mostly industry-style product comparisons; would be firmer with a trial comparing no shaving, clippers and razors.",
+  "harm_flag": false,
+  "harm_note": "Depilatories caused more irritation than razors and one composition was withdrawn for adverse events (Kindred 2011), but that is a tolerability finding, not a lasting harm. Untreated PFB can scar (Perry 2002 describes disfiguring cases).",
+  "founder_flag": false,
+  "evidence_summary": "Razor bumps happen because tightly curled hair can grow back into the skin after shaving. In a 12-week randomised trial of 90 African American men, bump counts did not differ between daily and two-or-three-times-a-week shaving, but ingrown hairs were fewer with less frequent shaving (P=.005 and P=.04), and the daily advanced-products group reported more perceived improvement (P=.007) and less itching (P=.002) than the less frequent group. Creams that dissolve hair gave fewer bumps in a small one-week trial but more irritation. The NHS lists the face and neck, legs, armpits, chest, back and pubic area as shaved sites where ingrown hairs form, says infected ones can be painful with pus (see a GP if very painful, hot or swollen, or with a high temperature), and describes genital herpes as small blisters that burst to leave sores, which may be less red on brown and black skin. No trial opened tests shaving advice at the pubic area, legs or underarms: that advice rests on NHS guidance, not on the beard trial.",
+  "measured_variables": [
+    "Hair shaft shape (tightly curled) and follicle shape",
+    "Shave frequency and products",
+    "Papule, pustule and ingrown hair counts"
+  ],
+  "gaps": "Untested: clippers or razor guards against razors in a trial that I found; long-term laser in Black skin (reviews call for more study); whether diet or skincare matters; women with PFB. Daniel 2013 abstract read in full. The brand of the advanced products is unknown. V2: \"clippers or a guard leaving a little length\" is only partly sourced: the Army article names clippers as an option and the AAD says growing hair out removes the cause; no opened source gives a guard length. The \"single-blade\" wording became \"fewer blades\" because that is what the Army article says. 12 Nov: body sites other than the face and neck, and telling razor bumps from herpes, rest on NHS guidance only (no trial by body site; the UK's NHS ingrown hairs page does not mention herpes, and the herpes page does not compare it with razor bumps).",
+  "related": [
+    "keloids-and-piercings",
+    "dark-marks-after-acne",
+    "hair-porosity-and-moisture"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Daniel A et al",
+      "year": 2013,
+      "journal": "J Drugs Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23652888/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kindred C et al",
+      "year": 2011,
+      "journal": "Cutis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21916277/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Xia Y et al",
+      "year": 2012,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22226431/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Perry PK et al",
+      "year": 2002,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11807473/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Dalia Y et al",
+      "year": 2023,
+      "journal": "Clin Exp Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36840647/",
+      "tag": "[review]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Razor bumps: how to prevent them\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/hair/razor-bump-prevention",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "US Army (army.mil), R. Sanders PA, \"Simple shaving tips to promote healthier skin\", 8 Jul 2019",
+      "url": "https://www.army.mil/article/224058/simple_shaving_tips_to_promote_healthier_skin",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Ingrown hairs\"",
+      "url": "https://www.nhs.uk/conditions/ingrown-hairs/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Genital herpes\"",
+      "url": "https://www.nhs.uk/conditions/genital-herpes/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

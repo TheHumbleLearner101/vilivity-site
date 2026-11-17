@@ -1,0 +1,30 @@
+{
+  "pmid": "17003413",
+  "slug": "rudnicka-2006-17003413",
+  "citation": {
+    "authors": "Rudnicka AR, Mt-Isa S, Owen CG, Cook DG et al",
+    "year": 2006,
+    "journal": "Investigative Ophthalmology and Visual Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17003413/",
+  "page": "https://vilivity.com/studies/rudnicka-2006-17003413/",
+  "cited_by": [
+    {
+      "entry": "glaucoma-and-eye-tests",
+      "title": "Glaucoma and eye tests",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/glaucoma-and-eye-tests/",
+      "record": {
+        "id": "rudnicka-2006",
+        "population": "46 studies of open-angle glaucoma prevalence: 103,567 participants, 2,509 cases",
+        "n": "103567",
+        "design": "Bayesian meta-analysis of observational prevalence studies by age, gender and race",
+        "finding": "Black populations had the highest prevalence of primary open-angle glaucoma at all ages, though the proportional rise with age was steepest in white populations. Estimated prevalence above age 70 was 6% in white, 16% in black and 3% in Asian populations. Men were 1.37 times more likely than women to have it.",
+        "line_tier": "B",
+        "note": "Studies from many countries; race categories as in the original studies; authors in London.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

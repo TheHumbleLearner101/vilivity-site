@@ -1,0 +1,47 @@
+{
+  "slug": "cocoa-butter-on-stretch-marks",
+  "name": "Cocoa butter on stretch marks",
+  "regions": [
+    "Caribbean",
+    "African American",
+    "Black British",
+    "West Africa"
+  ],
+  "module": "skin",
+  "what_people_do": "Rub cocoa butter cream or butter into the belly, hips and breasts in pregnancy, and onto scars.",
+  "why_they_say_it_works": "Said to keep skin supple and stop or fade stretch marks.",
+  "documentation_status": "unverified",
+  "documented_by": [
+    {
+      "source": "Buchanan K, Fletcher H, Reid M 2010, Int J Gynaecol Obstet, PMID 19793585",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19793585/",
+      "quote_or_summary": "A trial was run in a clinic with mainly Afro-Caribbean women because cocoa butter is widely used; I did not open a survey of how many use it. UNVERIFIED as a documentation of the habit."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Cocoa butter cream vs placebo to prevent stretch marks",
+      "population": "300 pregnant women, predominantly Afro-Caribbean clinic",
+      "finding": "Stretch marks in 44% on cocoa butter vs 55% on placebo, not significant (P=0.09). Cocoa butter cream does not prevent striae gravidarum.",
+      "tier": "A",
+      "strength": "moderate",
+      "source": {
+        "name": "Buchanan K, Fletcher H, Reid M 2010, Int J Gynaecol Obstet, PMID 19793585",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19793585/"
+      }
+    }
+  ],
+  "headline_tier": "A",
+  "headline_strength": "moderate",
+  "harm_flag": "none",
+  "harm_note": "No harm identified; wasted money more than harm.",
+  "links_to_entries": [
+    "stretch-marks-and-scar-fading"
+  ],
+  "gaps": [
+    "Survey of use not found; scar evidence not searched."
+  ],
+  "counted": false,
+  "page": "https://vilivity.com/practices/cocoa-butter-on-stretch-marks/"
+}

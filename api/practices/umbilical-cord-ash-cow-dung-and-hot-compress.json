@@ -1,0 +1,47 @@
+{
+  "slug": "umbilical-cord-ash-cow-dung-and-hot-compress",
+  "name": "Ash, cow dung or heat on the baby's umbilical cord",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Birth attendants and relatives cut the cord with a razor blade and dress the stump with ash, cow dung or a hot compress.",
+  "why_they_say_it_works": "To dry the stump quickly and prevent bleeding or \"spirits\".",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Umbilical cord care practices, Sokoto and Bauchi, Nigeria, 2017, BMC Pregnancy Childbirth, PMID 29121870",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29121870/",
+      "quote_or_summary": "Bauchi and Sokoto, Nigeria, about 1,140 and 1,311 households per round: over 75% and over 80% of cords cut with razor blades; traditional birth attendants kept using ash, cow dung and hot compress; chlorhexidine gel uptake rose in facilities."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Unsafe cord care",
+      "population": "Household surveys 2012 to 2015",
+      "finding": "Authors state that neonatal infections from unsafe cord practices account for the majority of neonatal deaths in Nigeria and call these practices unsafe.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Umbilical cord care practices, Sokoto and Bauchi, Nigeria, 2017, BMC Pregnancy Childbirth, PMID 29121870",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29121870/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "Ash and dung on a cord stump are linked by the authors to fatal infection; chlorhexidine gel is the replacement.",
+  "links_to_entries": [
+    "baby-skin-care",
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Death attribution is the authors' statement; not independently checked."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/umbilical-cord-ash-cow-dung-and-hot-compress/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "41619863",
+  "slug": "anyanwu-2026-41619863",
+  "citation": {
+    "authors": "Anyanwu EG, Onuchukwu CL, Ojukwu CP, Anyanwu CN",
+    "year": 2026,
+    "journal": "Journal of Ethnopharmacology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41619863/",
+  "page": "https://vilivity.com/studies/anyanwu-2026-41619863/",
+  "cited_by": [
+    {
+      "entry": "shea-butter",
+      "title": "Shea butter",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/shea-butter/",
+      "record": {
+        "id": "anyanwu-2026",
+        "population": "34 adults in a Nigerian hospital with wounds that had not healed in over 4 weeks",
+        "n": 34,
+        "design": "Parallel-arm, described as quasi-experimental with randomisation, comparing standard wound care with ointments made from three purified triterpenes extracted from shea oil",
+        "finding": "The triterpene ointments were associated with wound contraction and better wound scores. These are isolated compounds in an ointment, not shea butter as sold or used.",
+        "line_tier": "C",
+        "note": "Abstract read; I did not open the full text for control details. Small, one centre. Isolated compounds, not the butter.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

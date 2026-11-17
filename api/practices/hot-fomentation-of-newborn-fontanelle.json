@@ -1,0 +1,46 @@
+{
+  "slug": "hot-fomentation-of-newborn-fontanelle",
+  "name": "Hot water fomentation of the baby's soft spot",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Press hot cloths or heated water to a newborn's fontanelle (and body) to \"mould\" the head or soothe the baby.",
+  "why_they_say_it_works": "Believed to close the fontanelle, protect the baby's head and ward off illness.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Hot fomentation of newborn fontanelles in Ghana, 2023, Int J Equity Health, PMID 36850018",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36850018/",
+      "quote_or_summary": "Critical review of 31 studies (1983 to 2022): hot fontanelle fomentation is a predominant indigenous home-based postnatal practice in Ghana and among Africans in the diaspora."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Harm from hot fomentation",
+      "population": "Literature review",
+      "finding": "The review describes dangers of the practice and recommends educating mothers; the abstract does not give injury rates.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Hot fomentation of newborn fontanelles in Ghana, 2023, Int J Equity Health, PMID 36850018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36850018/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "Listed with scalp moulding, scarification and ano-genital irrigation as newborn practices that \"pose a threat\" to the neonate. Scald risk is plain; rates not read.",
+  "links_to_entries": [
+    "baby-skin-care"
+  ],
+  "gaps": [
+    "Injury rates and burn data not extracted."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/hot-fomentation-of-newborn-fontanelle/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "23149426",
+  "slug": "schneider-2012-23149426",
+  "citation": {
+    "authors": "Schneider RH, Grim CE, Rainforth MV, Kotchen T et al",
+    "year": 2012,
+    "journal": "Circulation: Cardiovascular Quality and Outcomes"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23149426/",
+  "page": "https://vilivity.com/studies/schneider-2012-23149426/",
+  "cited_by": [
+    {
+      "entry": "meditation",
+      "title": "Meditation",
+      "module": "mind",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/mind/meditation/",
+      "record": {
+        "id": "schneider-2012",
+        "population": "201 Black men and women with coronary heart disease, US",
+        "n": 201,
+        "design": "Randomised controlled trial of the Transcendental Meditation (TM) programme against health education, 5.4 years average follow-up",
+        "finding": "The primary outcome (death, heart attack or stroke) was 48% lower in the TM group (hazard ratio 0.52, 95% CI 0.29-0.92, P=0.025). The wider secondary composite fell 24% (HR 0.76, 0.51-1.13, not significant). Systolic blood pressure was 4.9 mmHg lower, and anger scores improved. Adherence was linked to survival.",
+        "line_tier": "A",
+        "note": "One trial of one technique (TM), small number of events, no independent replication found in my search. Who funded and ran it was not checked; the research group's link to TM was not checked (UNVERIFIED).",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

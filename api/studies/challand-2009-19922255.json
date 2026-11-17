@@ -1,0 +1,30 @@
+{
+  "pmid": "19922255",
+  "slug": "challand-2009-19922255",
+  "citation": {
+    "authors": "Challand S, Willcox M",
+    "year": 2009,
+    "journal": "Journal of Alternative and Complementary Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19922255/",
+  "page": "https://vilivity.com/studies/challand-2009-19922255/",
+  "cited_by": [
+    {
+      "entry": "bush-teas-cerasee-bitter-leaf-and-medicines",
+      "title": "Bush teas and herbal remedies (cerasee, bitter leaf) with medicines",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bush-teas-cerasee-bitter-leaf-and-medicines/",
+      "record": {
+        "id": "challand-2009",
+        "population": "Patients aged 12 and over with uncomplicated malaria, a traditional remedy trial in Africa",
+        "n": "not stated in the abstract",
+        "design": "Uncontrolled clinical trial of an infusion of fresh Vernonia amygdalina (bitter leaf)",
+        "finding": "An adequate clinical response at day 14 occurred in 67% of cases, but complete parasite clearance occurred in only 32% of those, and 71% of those had recrudescence. No significant side effects or toxicity were seen. The authors say more studies are needed.",
+        "line_tier": "B",
+        "note": "Uncontrolled, in malaria; it says nothing about blood sugar. Not evidence that bitter leaf works.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

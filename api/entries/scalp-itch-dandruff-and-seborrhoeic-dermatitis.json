@@ -1,0 +1,290 @@
+{
+  "slug": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+  "title": "Dry, itchy, flaky scalp and dandruff",
+  "category": "hair",
+  "kind": "condition",
+  "question_forms": [
+    "What is the best way to treat dandruff and seborrheic dermatitis on Black hair?",
+    "Why is my scalp dry, itchy or flaky?",
+    "How do I wash locs if I have dandruff or seborrheic dermatitis?"
+  ],
+  "tradition_says": "A dry, flaky scalp is put down to dryness, so it is oiled or greased; flakes are blamed on not moisturising enough. Black people are often said not to get lice.",
+  "layer1": {
+    "plain_answer": "Flaking and itch are often dandruff or seborrhoeic dermatitis, which is a skin reaction, not simple dryness. An anti-dandruff shampoo, such as ketoconazole, coal tar or salicylic acid, is the UK's NHS first step; ketoconazole beat placebo in trials of mixed people (low-quality evidence). Lice can affect any hair; find a live louse before treating.",
+    "do": [
+      {
+        "text": "Use an anti-dandruff shampoo with ketoconazole, coal tar or salicylic acid for up to 4 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Dandruff\"",
+          "url": "https://www.nhs.uk/conditions/dandruff/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Massage a medicated shampoo in, leave it 5 to 10 minutes, then rinse.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Seborrhoeic dermatitis\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/seborrhoeic-dermatitis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Once clear, use the antifungal shampoo once or twice a week to keep it away.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Seborrhoeic dermatitis\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/seborrhoeic-dermatitis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose an antifungal shampoo: ketoconazole beat placebo in a review of trials.",
+        "basis": "tested",
+        "source": "okokon-2015"
+      },
+      {
+        "text": "To check for lice, use a detection comb on wet, conditioned hair; allow 20 to 30 minutes for long, frizzy or curly hair.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Letting product build up, or washing so seldom that the scalp is irritated.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treating itch as lice without finding a live louse: it is the only sure way to confirm them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming extensions, infrequent oiling or grooming cause it: associations only in a small survey.",
+        "basis": "tested",
+        "source": "rucker-2011"
+      },
+      {
+        "text": "Using plant oils such as tea tree or lavender for lice: the UK's NHS does not recommend them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Symptoms continue after at least 4 weeks of anti-dandruff shampoo, or the scalp is red, swollen or very itchy (doctor).",
+      "Flaky, itchy patches on the face or body (doctor).",
+      "Patches of hair loss with scale, or a scaly area that is tender (doctor: could be a scalp fungal infection).",
+      "A rash from a new glue, dye or extension (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adolescents and adults with seborrhoeic dermatitis of the face or scalp, randomised trials in mixed populations",
+      "design": "Cochrane systematic review and meta-analysis",
+      "n": "not stated",
+      "finding": "Topical ketoconazole 2% gave a 31% lower risk of failed clearance than placebo at four weeks (risk ratio 0.69, 95% CI 0.59-0.81, low-quality evidence), a remission rate similar to steroids with fewer side effects, and results similar to ciclopirox. The authors note that 24 trials appeared to have conflicts of interest such as pharmaceutical funding.",
+      "source": {
+        "authors": "Okokon EO, Verbeek JH et al",
+        "year": 2015,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25933684/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Trials were not selected for afro hair or dark skin.",
+      "id": "okokon-2015"
+    },
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US clinics",
+      "design": "Questionnaire, multivariate analysis",
+      "n": 201,
+      "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Caregiver report, small, wide confidence intervals; associations only.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "Consensus panel of dermatologists on high-curl-pattern hair and seborrhoeic dermatitis",
+      "design": "Five consensus statements after a systematic literature review",
+      "n": "not stated",
+      "finding": "High-curl-pattern hair is said to be more susceptible to breakage and to seborrhoeic dermatitis, and some common hair care practices may contribute to or worsen it. The panel says ceramide-containing products may help scalp barrier health.",
+      "source": {
+        "authors": "Callender VD, Burgess C et al",
+        "year": 2026,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998807/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Expert opinion, not trial evidence. Unrestricted grant from CeraVe (a L'Oreal brand) and paid panel, per the 12 Nov baseline file.",
+      "id": "callender-2026-sd"
+    },
+    {
+      "population": "Review of seborrhoeic dermatitis in different populations",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "In people with more richly pigmented skin, post-inflammatory pigment change can be a feature of seborrhoeic dermatitis, so skin colour matters for diagnosis; it overlaps with atopic dermatitis, psoriasis and rosacea.",
+      "source": {
+        "authors": "Turchin I, Albrecht J et al",
+        "year": 2025,
+        "journal": "Journal of Cutaneous Medicine and Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40965095/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "turchin-2025"
+    },
+    {
+      "population": "School pupils in Buffalo, New York, 1972 to 1973",
+      "design": "Prevalence survey of head lice",
+      "n": "not stated",
+      "finding": "In one elementary school 20% of white pupils and no Black pupils were infested; city-wide 7.2% of pupils were infested. Hair length was apparently not a factor.",
+      "source": {
+        "authors": "Slonka GF, Fleissner ML et al",
+        "year": 1977,
+        "journal": "Journal of Parasitology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/870674/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Old study; one city.",
+      "id": "slonka-1977"
+    },
+    {
+      "population": "School children, elementary to high school (US)",
+      "design": "Retrospective prevalence study of head lice",
+      "n": "not stated",
+      "finding": "Hispanic children had the highest rate of infestation, then Caucasian children. African American children showed a 15% infestation rate, which the authors say is not supported by other studies.",
+      "source": {
+        "authors": "Estrada B, Morris R",
+        "year": 2000,
+        "journal": "Journal of School Nursing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11885087/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Conflicts with the 1977 study; unclear counting.",
+      "id": "estrada-2000"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That antifungal shampoo clears seborrhoeic dermatitis: a Cochrane review of randomised trials, low-quality evidence, not selected for afro hair.",
+  "tier_note": "Fact-check 12 Nov: the Cochrane review covers topical antifungals (ketoconazole 2%, ciclopirox and others); zinc pyrithione, selenium sulphide, coal tar and salicylic acid are not in its abstract, so the plain answer no longer claims they beat placebo; the NHS dandruff page is the source for coal tar and salicylic acid. Randomised trials in mixed populations, not in people selected for coiled hair or dark skin. Whether wash interval or oiling changes it is untested.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for antifungal shampoos in my search.",
+  "founder_flag": false,
+  "evidence_summary": "Cochrane (Okokon 2015) found topical ketoconazole 2% gave a 31% lower risk of failed clearance than placebo at four weeks (low-quality evidence), with remission similar to steroids and fewer side effects; 24 trials had possible conflicts of interest. In a survey of 201 caregivers of African American girls, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated with seborrhoeic dermatitis and wash frequency was not (Rucker Wright 2011; association only). A paid expert panel says ceramide products may help (Callender 2026; expert opinion). In darker skin, seborrhoeic dermatitis can leave pigment change (Turchin 2025). Lice: two old school surveys disagree (no Black pupils infested in one Buffalo school, 1977; a 15% rate in another study, 2000, that its authors say other studies do not support). The NHS says medicated lotions work on all hair types and comb times are longer for curly hair; it does not mention afro hair or locs.",
+  "measured_variables": [
+    "Skin colour (post-inflammatory pigment change)",
+    "Hair care practices (self-reported)"
+  ],
+  "gaps": "Untested: wash frequency or oiling for dandruff in coiled hair; ceramide products in a trial; lice now have their own entry (head-lice-in-afro-hair-and-locs): treatment in locs untested, old surveys conflict.",
+  "related": [
+    "scalp-oiling-and-greasing",
+    "wash-day-routine-for-4c-hair",
+    "locs-starting-washing-and-maintenance",
+    "braids-twists-and-extensions",
+    "traction-alopecia-and-protective-styles",
+    "head-lice-in-afro-hair-and-locs"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Okokon EO et al",
+      "year": 2015,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25933684/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Callender VD et al",
+      "year": 2026,
+      "journal": "Journal of Cosmetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41998807/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Turchin I et al",
+      "year": 2025,
+      "journal": "Journal of Cutaneous Medicine and Surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40965095/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Slonka GF et al",
+      "year": 1977,
+      "journal": "Journal of Parasitology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/870674/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Estrada B et al",
+      "year": 2000,
+      "journal": "Journal of School Nursing",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11885087/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Dandruff\"",
+      "url": "https://www.nhs.uk/conditions/dandruff/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Seborrhoeic dermatitis\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/seborrhoeic-dermatitis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Head lice and nits\"",
+      "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

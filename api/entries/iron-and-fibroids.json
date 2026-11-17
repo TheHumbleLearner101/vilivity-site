@@ -1,0 +1,247 @@
+{
+  "slug": "iron-and-fibroids",
+  "title": "Iron, heavy periods and fibroids",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "Why are my periods so heavy?",
+    "Are fibroids more common in Black women?",
+    "Should I take iron for heavy periods?",
+    "Why is my haemoglobin low?"
+  ],
+  "tradition_says": "Heavy, painful periods are often treated as something to put up with, and fibroids are widely thought to 'run in Black families'. Iron-rich foods and tonics are commonly used for tiredness.",
+  "layer1": {
+    "plain_answer": "Fibroids are very common in Black women and start earlier than in White women. Heavy periods can drain iron, and in a small US pilot most African American women had low iron. Do not treat tiredness or heavy bleeding yourself: ask a doctor for a blood test.",
+    "do": [
+      {
+        "text": "Note how heavy your periods are, and how tired you feel, and take it to your doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a full blood count if periods are heavy or you are exhausted.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about iron stores (ferritin) too: low iron was common without anaemia.",
+        "basis": "tested",
+        "source": "bernardi-2016"
+      },
+      {
+        "text": "Eat iron-rich foods such as leafy greens, pulses and fortified cereals; tea and coffee with meals reduce absorption.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Taking iron tablets without a blood test: the UK's NHS has a doctor recommend them once a test shows low levels.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming a low haemoglobin means the same thing for everyone: laboratory ranges differed by group.",
+        "basis": "tested",
+        "source": "beutler-2005"
+      }
+    ],
+    "see_someone_when": [
+      "Periods are so heavy they affect your daily life, last a long time, or you feel exhausted (doctor).",
+      "Bleeding between periods or after sex, or pelvic pain (doctor).",
+      "A haemoglobin result is flagged low: ask whether iron deficiency or an inherited trait such as alpha-thalassaemia is the cause (doctor).",
+      "Fibroids have been seen on a scan and you have symptoms (gynaecologist: removal is one specialist option)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,364 randomly selected women aged 35-49 in a US urban health plan (Black and White)",
+      "design": "Ultrasound screening plus records, estimating cumulative incidence of fibroids by age",
+      "n": 1364,
+      "finding": "By age 50, cumulative incidence of fibroids was above 80% for Black women and nearly 70% for White women (odds ratio 2.9, 95% CI 2.5-3.4). Fibroids developed at earlier ages in Black women. Fifty-one percent of premenopausal women with no previous diagnosis had ultrasound evidence of fibroids.",
+      "source": {
+        "authors": "Baird DD, Dunson DB, Hill MC, Cousins D et al",
+        "year": 2003,
+        "journal": "American Journal of Obstetrics and Gynecology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12548202/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "baird-2003"
+    },
+    {
+      "population": "1,693 African American women aged 23-35 with no prior fibroid diagnosis",
+      "design": "Prospective, community-based, ultrasound at enrolment and about 18 months",
+      "n": 1693,
+      "finding": "Among 1,123 fibroid-free women with follow-up, incidence was 9.4% over about 18 months, rising from 6% at ages 23-25 to 13% at 32-35. Women with existing fibroids were more than twice as likely to develop new ones (relative risk 2.3). Average fibroid growth was 89% per 18 months.",
+      "source": {
+        "authors": "Baird DD, Patchel SA, Saldana TM, Umbach DM et al",
+        "year": 2020,
+        "journal": "American Journal of Obstetrics and Gynecology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32105679/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "baird-2020"
+    },
+    {
+      "population": "44 premenopausal African American women, a pilot",
+      "design": "Cross-sectional survey and blood tests",
+      "n": 44,
+      "finding": "Iron deficiency was present in 68.2% and anaemia in 18.2%. Women who reported heavy or very heavy periods had lower haemoglobin, haematocrit and ferritin and more anaemia symptoms. Of those reporting heavy periods, 35% were anaemic. The authors recommend evaluation for iron deficiency and anaemia whenever African American women report heavy bleeding.",
+      "source": {
+        "authors": "Bernardi LA, Ghant MS, Andrade C, Recht H et al",
+        "year": 2016,
+        "journal": "BMC Women's Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27524363/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Pilot of 44; not representative.",
+      "id": "bernardi-2016"
+    },
+    {
+      "population": "1,491 African-American and 31,005 White laboratory subjects",
+      "design": "Analysis of anonymised laboratory data on haemoglobin, MCV, transferrin saturation, ferritin and white cell count",
+      "n": 32496,
+      "finding": "Haemoglobin, haematocrit and MCV were lower in African-Americans. Among all subjects 19.8% of African-American women would be classed as anaemic against 5.3% of White women; after removing iron-deficient and thalassaemic subjects the gap narrowed to 6.1% and 2.77%. The alpha-thalassaemia deletion explained about a third of the haemoglobin difference. The authors say the same reference standards do not apply to all ethnic groups.",
+      "source": {
+        "authors": "Beutler E, West C",
+        "year": 2005,
+        "journal": "Blood",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Laboratory-referred samples, not a population survey. A good example of a measured variable (alpha-thalassaemia deletion) standing behind a race difference.",
+      "id": "beutler-2005"
+    },
+    {
+      "population": "NHS guidance on heavy periods",
+      "design": "NHS patient information",
+      "n": "not applicable",
+      "finding": "The NHS advises a non-urgent GP visit if heavy periods affect your life or have lasted a while, and says blood tests may check underlying conditions, including iron deficiency anaemia. Fibroids are listed as a cause of heavy periods, and removing them is one specialist option.",
+      "source": {
+        "authors": "NHS",
+        "year": 2026,
+        "journal": "NHS website, Heavy periods",
+        "url": "https://www.nhs.uk/conditions/heavy-periods/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "Page opened 12 Nov 2026 (paraphrase). The NICE NG88 page returned 403, so NICE guidance is not cited.",
+      "id": "nhs-2026"
+    },
+    {
+      "population": "23,580 premenopausal Black women, Black Women's Health Study",
+      "design": "Prospective cohort of relaxer use and fibroids (see chemical relaxers entry)",
+      "n": 23580,
+      "finding": "Ever against never relaxer use: incidence rate ratio 1.17 (95% CI 1.06-1.30); the authors raise this as a hypothesis.",
+      "source": {
+        "authors": "Wise LA, Palmer JR, Reich D, Cozier YC et al",
+        "year": 2012,
+        "journal": "American Journal of Epidemiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22234483/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "wise-2012"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "How common fibroids and low iron are in Black women: ultrasound and laboratory studies, not trials.",
+  "tier_note": "Observational and ultrasound-based data in Black women; no trial tested iron or any self-care for fibroid symptoms in this setting, and the iron-deficiency data are a pilot.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the entry's subject in the sources. Untreated heavy bleeding can cause iron deficiency anaemia (Bernardi 2016). Taking iron without a blood test was not studied in what I read.",
+  "founder_flag": false,
+  "evidence_summary": "Fibroids are very common in Black women: more than 80% had them by age 50 in a US ultrasound study, against nearly 70% in White women, and they start earlier. Heavy periods are linked to low iron, and in a small pilot 68% of African American women had iron deficiency. See a doctor for blood tests rather than treating tiredness or heavy bleeding yourself.",
+  "measured_variables": [
+    "Haemoglobin, MCV, ferritin, transferrin saturation (blood tests)",
+    "Alpha-thalassaemia deletion (explains a third of the Hb gap in Beutler 2005)",
+    "Fibroid presence on ultrasound",
+    "Self-identified race is the grouping in the fibroid studies; ancestry and other risk factors were not separated in the abstracts"
+  ],
+  "gaps": "Untested: whether iron treatment, diet or any home remedy helps heavy periods from fibroids in Black women; reasons for earlier and higher fibroid rates (relaxers are one hypothesis, not proven); vitamin D and fibroids (trials exist, I did not open them). Not verified: UK-specific rates; NICE NG88 content (403). Some do lines (track periods) are general advice, not from these abstracts.",
+  "related": [
+    "chemical-relaxers",
+    "vitamin-d-and-dark-skin",
+    "low-white-cell-count-duffy-null"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Baird DD et al",
+      "year": 2003,
+      "journal": "Am J Obstet Gynecol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12548202/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Baird DD et al",
+      "year": 2020,
+      "journal": "Am J Obstet Gynecol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32105679/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bernardi LA et al",
+      "year": 2016,
+      "journal": "BMC Womens Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27524363/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Beutler E, West C",
+      "year": 2005,
+      "journal": "Blood",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "NHS",
+      "year": 2026,
+      "journal": "NHS website",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "tag": "[official]"
+    },
+    {
+      "authors": "Wise LA et al",
+      "year": 2012,
+      "journal": "Am J Epidemiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22234483/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Heavy periods\"",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Iron deficiency anaemia\"",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

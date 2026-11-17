@@ -1,0 +1,30 @@
+{
+  "pmid": "40562077",
+  "slug": "grant-2025-40562077",
+  "citation": {
+    "authors": "Grant S, Revan D, Tang L et al",
+    "year": 2025,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40562077/",
+  "page": "https://vilivity.com/studies/grant-2025-40562077/",
+  "cited_by": [
+    {
+      "entry": "skin-cancer-and-moles-on-dark-skin",
+      "title": "Skin cancer and moles on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-cancer-and-moles-on-dark-skin/",
+      "record": {
+        "id": "grant-2025",
+        "population": "Cutaneous melanoma cases in SEER compared by race",
+        "n": "not stated",
+        "design": "Registry cohort",
+        "finding": "No significant difference in disease severity at diagnosis between Black and White patients with acral lentiginous melanoma, yet Black patients had double the risk of dying from it (hazard ratio 2.04). The authors say delay in diagnosis does not fully explain the gap.",
+        "line_tier": "B",
+        "note": "Counters the simple \"found late\" story for acral melanoma.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

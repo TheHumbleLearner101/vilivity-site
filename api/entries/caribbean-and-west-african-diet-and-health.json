@@ -1,0 +1,149 @@
+{
+  "slug": "caribbean-and-west-african-diet-and-health",
+  "title": "Caribbean and West African diets and health",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "What diet is best for my health and skin?",
+    "Is a traditional Caribbean or West African diet healthy?",
+    "Do I need to change how my family eats?"
+  ],
+  "tradition_says": "Family food is often thought of as either perfectly healthy or as the cause of disease, with salt, fried food, sugary drinks and portion size argued about in both directions.",
+  "layer1": {
+    "plain_answer": "No trial has tested a traditional Caribbean or West African diet for blood pressure or diabetes, so nobody can say whether it is better or worse. What is tested is the pattern: more fruit and vegetables, less salt and saturated fat lowered blood pressure in a mostly Black US trial. Judge your own plate on that pattern.",
+    "do": [
+      {
+        "text": "Aim for the tested pattern: plenty of fruit and vegetables and low-fat dairy, with less salt, as in the DASH trial.",
+        "basis": "tested",
+        "source": "hussain-2026-d"
+      },
+      {
+        "text": "Base meals on starchy foods, and eat plenty of fruit and veg, some protein and fish, with less saturated fat and sugar.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"8 tips for healthy eating\"",
+          "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep salt to no more than 6g a day, remembering salt in stock, sauces, bread and processed foods.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"8 tips for healthy eating\"",
+          "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Weigh yourself against the lower BMI cut-offs the NHS uses for Black African and African-Caribbean adults.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Overweight and obesity in adults\"",
+          "url": "https://www.nhs.uk/conditions/obesity/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Judging a dish as good or bad by where it comes from: the UK's NHS advice is about amounts of salt, saturated fat and sugar.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"8 tips for healthy eating\"",
+          "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You have high blood pressure, type 2 diabetes or kidney disease and want to change your diet a lot (doctor, or a dietitian by referral).",
+      "You have lost weight without trying, or have bloating or diarrhoea for weeks (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "335 adults with ambulatory blood pressure data in the DASH-Sodium trial, 58% self-reported Black",
+      "design": "Randomised controlled feeding trial of a control diet and DASH diet at three sodium levels",
+      "n": 335,
+      "finding": "Reducing sodium and consuming the DASH diet, alone or combined, significantly lowered 24-hour, awake and asleep blood pressure in Black and non-Black participants.",
+      "source": {
+        "authors": "Hussain T, Juraschek SP, Miller ER 3rd, Sacks FM et al",
+        "year": 2026,
+        "journal": "American Journal of Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429484/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "DASH is a US-designed pattern, not a Caribbean or West African one.",
+      "id": "hussain-2026-d"
+    },
+    {
+      "population": "459 adults in the original DASH trial",
+      "design": "Randomised feeding trial with subgroup analysis",
+      "n": 459,
+      "finding": "The combination diet lowered systolic blood pressure in all subgroups and was particularly effective in African Americans and people with hypertension.",
+      "source": {
+        "authors": "Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ et al",
+        "year": 1999,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9989541/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Proportion of Black participants not in the abstract.",
+      "id": "svetkey-1999-d"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a traditional Caribbean or West African diet is better or worse for health: my search found no completed trial; the tested part is the DASH pattern.",
+  "tier_note": "D because the claim the reader makes (my family diet) was not tested; the DASH trial lines are A and B for a different diet. Would move with a trial of a culturally tailored diet.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for the advice on this card.",
+  "founder_flag": false,
+  "evidence_summary": "DASH, a pattern rich in fruit, vegetables and low-fat dairy, lowered blood pressure in a feeding trial in which 58% of participants were Black, and the original trial found it worked best in African Americans. Earlier notes found no completed trial of a traditional West African, Caribbean or Ghanaian diet with blood pressure or diabetes outcomes; a UK trial of tailored diabetes education in Black African and Black Caribbean adults (HEAL-D) was registered, but I did not open its page. Nothing I found tests diet and skin in Black adults.",
+  "measured_variables": [
+    "Blood pressure on controlled diets",
+    "Dietary sodium and food pattern (not specific foods)",
+    "Self-reported race in the trials; diets of the participants were not Caribbean or West African"
+  ],
+  "gaps": "Untested or not opened: any trial of a traditional West African or Caribbean diet (my PubMed searches for culturally tailored trials, diet patterns and UK salt intake returned nothing usable); HEAL-D (ISRCTN14344948) was seen only in earlier notes and not opened; diet and skin in Black adults (not searched in this pass); NHS Eatwell Guide not opened (the page I tried returned 404). The \"base meals on starchy foods\" line is the NHS 8 tips page wording.",
+  "related": [
+    "salt-and-blood-pressure",
+    "hibiscus-sorrel-blood-pressure",
+    "type-2-diabetes-risk",
+    "vitamins-and-supplements-basics"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Hussain T, Juraschek SP, Miller ER 3rd, Sacks FM et al",
+      "year": 2026,
+      "journal": "American Journal of Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42429484/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ et al",
+      "year": 1999,
+      "journal": "Archives of Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9989541/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"8 tips for healthy eating\"",
+      "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Overweight and obesity in adults\"",
+      "url": "https://www.nhs.uk/conditions/obesity/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "kidney-disease-apol1-and-egfr",
+  "title": "Kidney disease, the APOL1 gene and the eGFR race adjustment",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Why are Black people more likely to get kidney disease?",
+    "What is the APOL1 gene?",
+    "Why was race removed from the kidney function (eGFR) test?"
+  ],
+  "tradition_says": "High blood pressure and diabetes are blamed for kidney trouble in Black families, and many only learn that something is wrong when it is advanced.",
+  "layer1": {
+    "plain_answer": "Two variants of the APOL1 gene, common on African chromosomes, raise the risk of some kidney diseases in African Americans. Early kidney disease usually has no symptoms. UK guidance no longer adjusts the kidney blood test (eGFR) for Black ethnicity. If you have high blood pressure or diabetes, ask about regular kidney checks.",
+    "what_it_is": [
+      {
+        "text": "APOL1 is a gene on chromosome 22; two variants common in African chromosomes and absent from European ones raise the risk of some kidney disease.",
+        "basis": "tested",
+        "source": "genovese-2010"
+      },
+      {
+        "text": "Chronic kidney disease (CKD) is usually caused by other conditions that strain the kidneys, such as high blood pressure and diabetes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Chronic kidney disease\"",
+          "url": "https://www.nhs.uk/conditions/kidney-disease/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "Blood and urine tests find it; if you have high blood pressure or diabetes you may be advised to have regular tests.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Chronic kidney disease\"",
+          "url": "https://www.nhs.uk/conditions/kidney-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Early CKD usually has no symptoms; later signs include tiredness, swollen ankles, breathlessness and blood in your pee.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Chronic kidney disease\"",
+          "url": "https://www.nhs.uk/conditions/kidney-disease/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "In African Americans the two APOL1 variants were linked to a 10-fold higher odds of a scarring kidney disease (FSGS) and a 7-fold higher odds of high-blood-pressure-related kidney failure.",
+        "basis": "tested",
+        "source": "genovese-2010"
+      },
+      {
+        "text": "The old kidney test equation with a Black-race adjustment overestimated true kidney function in Black participants by a median of 3.7 mL/min.",
+        "basis": "tested",
+        "source": "inker-2021"
+      },
+      {
+        "text": "Equations using creatinine and cystatin C, without race, were more accurate than creatinine alone, with smaller gaps between groups.",
+        "basis": "tested",
+        "source": "inker-2021"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "NICE (UK) removed the ethnicity adjustment: differences in eGFR are probably partly due to muscle mass, which varies between people of the same ethnicity.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE NG203, \"Chronic kidney disease: assessment and management\" (recommendations)",
+          "url": "https://www.nice.org.uk/guidance/ng203/chapter/Recommendations",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Race is a social, not biological, construct in these equations (the authors' words); the measure that matters is measured GFR.",
+        "basis": "tested",
+        "source": "inker-2021"
+      }
+    ],
+    "see_someone_when": [
+      "High blood pressure or diabetes and no kidney blood or urine test in the last year or so (doctor).",
+      "Blood in your pee, swollen ankles or feet, or breathlessness that is new (doctor).",
+      "A kidney result was reported using a race adjustment and you are being assessed for referral or a transplant list: ask whether it was recalculated without it (doctor or kidney doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "African Americans with focal segmental glomerulosclerosis (FSGS) and hypertension-attributed end-stage kidney disease (H-ESKD), and controls",
+      "design": "Genetic association study with lab assays of the APOL1 protein",
+      "n": "not stated in the abstract",
+      "finding": "Two independent APOL1 sequence variants were associated with FSGS (odds ratio 10.5, 95% CI 6.0-18.4) and H-ESKD (odds ratio 7.3, 95% CI 5.6-9.5). The variants are common in African chromosomes but absent from European chromosomes, and sit within haplotypes showing positive selection. Only the kidney-disease variants lysed Trypanosoma brucei rhodesiense in vitro; the authors speculate a survival factor against sleeping sickness may have contributed to high kidney disease rates.",
+      "source": {
+        "authors": "Genovese G, Friedman DJ, Ross MD, Lecordier L et al",
+        "year": 2010,
+        "journal": "Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20647424/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Odds ratios refer to carrying two risk variants against none in African Americans; the abstract does not give how common two-variant carriers are.",
+      "id": "genovese-2010"
+    },
+    {
+      "population": "8,254 participants (31.5% Black) for the creatinine equation and 5,352 (39.7% Black) for creatinine plus cystatin C; validated in 4,050 (14.3% Black)",
+      "design": "Development and validation of eGFR equations against measured GFR",
+      "n": "4050 in validation",
+      "finding": "The current equation with a race term overestimated measured GFR in Black participants by a median of 3.7 mL/min/1.73 m2 and slightly in others (0.5). Omitting the race term underestimated it in Black participants by 7.1. A new race-free creatinine equation underestimated in Black participants by 3.6 and overestimated in non-Black by 3.9. Creatinine plus cystatin C equations were more accurate with smaller differences between groups.",
+      "source": {
+        "authors": "Inker LA, Eneanya ND, Coresh J, Tighiouart H et al",
+        "year": 2021,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34554658/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US data; funded by the National Institute of Diabetes and Digestive and Kidney Diseases.",
+      "id": "inker-2021"
+    },
+    {
+      "population": "NKF-ASN Task Force on race in diagnosing kidney disease",
+      "design": "Task force recommendations after a 10-month process",
+      "n": "not applicable",
+      "finding": "The Task Force recommended a unified approach to estimating GFR without race; the abstract in my copy was cut off before the recommendations themselves.",
+      "source": {
+        "authors": "Delgado C, Baweja M, Crews DC, Eneanya ND et al",
+        "year": 2021,
+        "journal": "Journal of the American Society of Nephrology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34556489/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Abstract only partly read.",
+      "id": "delgado-2021"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That two APOL1 variants raise kidney disease risk in African Americans, and that race-free eGFR equations are more accurate with cystatin C: a replicated genetic association and a 4,050-person validation.",
+  "tier_note": "Genetic association in African Americans and a measurement validation, both observational; sizes of the genetic study not stated in the abstract; no trial of testing for APOL1.",
+  "harm_flag": true,
+  "harm_note": "The harm sits in the old test, not the biology: the race-adjusted eGFR equation overestimated true kidney function in Black participants (Inker 2021), which can delay referral. Removing the adjustment can also shift estimates the other way (underestimating by a median of 3.6), which is why cystatin C is advised.",
+  "founder_flag": false,
+  "evidence_summary": "APOL1 is the textbook case of a gene variant, common in people of African ancestry, that changes kidney disease risk; the variable is the genotype, not race. Separately, kidney blood tests used a race adjustment that overestimated kidney function in Black patients. US and UK guidance have since removed it, and the best-evidenced fix is to estimate GFR from creatinine plus cystatin C. Early CKD usually has no symptoms.",
+  "measured_variables": [
+    "APOL1 genotype (two risk variants, G1 and G2)",
+    "Measured GFR, and creatinine and cystatin C in blood",
+    "Self-identified race in the eGFR studies, a stand-in for muscle mass and other factors"
+  ],
+  "gaps": "Not opened or untested: how common two-variant carriers are (so the card gives no proportion); whether APOL1 testing changes outcomes (no trial; the NHS page does not mention it); how NICE and the NKF-ASN position differ on cystatin C (NICE NG203 removed its 2014 cystatin C advice for lack of good accuracy evidence, while Inker 2021 finds it more accurate); UK kidney transplant waiting-list effects of the old equation; the Delgado abstract was cut off before its recommendations.",
+  "related": [
+    "high-blood-pressure-in-black-adults",
+    "type-2-diabetes-risk",
+    "sickle-cell-trait-and-hard-exercise",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Genovese G, Friedman DJ, Ross MD, Lecordier L et al",
+      "year": 2010,
+      "journal": "Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20647424/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Inker LA, Eneanya ND, Coresh J, Tighiouart H et al",
+      "year": 2021,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34554658/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Delgado C, Baweja M, Crews DC, Eneanya ND et al",
+      "year": 2021,
+      "journal": "Journal of the American Society of Nephrology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34556489/",
+      "tag": "[consensus]"
+    },
+    {
+      "name": "NHS, \"Chronic kidney disease\"",
+      "url": "https://www.nhs.uk/conditions/kidney-disease/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NICE NG203, \"Chronic kidney disease: assessment and management\" (recommendations)",
+      "url": "https://www.nice.org.uk/guidance/ng203/chapter/Recommendations",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "slug": "ashwagandha",
+  "title": "Ashwagandha: stress, sleep, thyroid and liver cautions",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "Does ashwagandha help with stress and anxiety?",
+    "Does ashwagandha help you sleep?",
+    "Is ashwagandha safe for your liver or thyroid?",
+    "Has ashwagandha been tested on Black people?"
+  ],
+  "tradition_says": "Ashwagandha (Withania somnifera) is a root used in Ayurvedic medicine in India. It is now sold worldwide as an \"adaptogen\" for stress, sleep, energy and fertility.",
+  "layer1": {
+    "plain_answer": "Ashwagandha eased stress and helped sleep a little in short trials, but our search found no trial in Black participants. NCCIH says avoid it in pregnancy, while breastfeeding and with thyroid or autoimmune conditions, and rare liver injury is reported. Ask a pharmacist first, and stop if your skin or eyes turn yellow.",
+    "do": [
+      {
+        "text": "Ask a pharmacist or your doctor before starting if you take any medicine, especially for thyroid, diabetes, blood pressure, sleep or seizures: NCCIH says ashwagandha might interact with them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Ashwagandha: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/ashwagandha",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Stop it and get medical advice if your skin or eyes turn yellow, or you get itching, nausea or marked tiredness: this was the pattern in the liver injury cases.",
+        "basis": "tested",
+        "source": "bjornsson-2020"
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any herbal product you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Ashwagandha in pregnancy, and while breastfeeding.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Ashwagandha: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/ashwagandha",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Ashwagandha if you have a thyroid or autoimmune condition, or before surgery, unless your doctor agrees.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Ashwagandha: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/ashwagandha",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Taking it for more than about three months on the assumption that it is safe: NCCIH says there is not enough information on long-term safety.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Ashwagandha: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/ashwagandha",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Yellow skin or eyes, dark urine, itching or marked tiredness while taking it (doctor or urgent care).",
+      "You have a thyroid condition or take thyroid tablets and use ashwagandha (doctor or pharmacist).",
+      "You are pregnant or breastfeeding and have been taking it (midwife or doctor).",
+      "You are booked for surgery (tell the surgical team you take it)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults aged 25 to 48 in 12 randomised trials (country and ethnicity not stated in the abstract)",
+      "design": "Systematic review and meta-analysis of randomised trials of ashwagandha extract against placebo for anxiety and stress",
+      "n": 1002,
+      "finding": "Ashwagandha lowered anxiety and stress scores compared with placebo. The studies disagreed a lot with each other (heterogeneity above 80 per cent), so the size of the effect is uncertain.",
+      "source": {
+        "authors": "Akhgarjand C, Asoudeh F, Bagheri A, Kalantar Z et al",
+        "year": 2022,
+        "journal": "Phytotherapy Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36017529/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Self-rated scales, short trials. Ethnicity not reported in the abstract.",
+      "id": "akhgarjand-2022"
+    },
+    {
+      "population": "Adults aged 18 and over in five randomised trials (insomnia subgroup included)",
+      "design": "Systematic review and meta-analysis of randomised trials of ashwagandha extract against placebo for sleep",
+      "n": 400,
+      "finding": "Ashwagandha extract gave a small but significant improvement in overall sleep (standardised mean difference -0.59). Effects were larger in people diagnosed with insomnia, at 600 mg a day or more, and over eight weeks or more.",
+      "source": {
+        "authors": "Cheah KL, Norhayati MN, Husniati Yaacob L, Abdul Rahman R",
+        "year": 2021,
+        "journal": "PLoS One",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34559859/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Five trials only. Ethnicity not reported in the abstract.",
+      "id": "cheah-2021"
+    },
+    {
+      "population": "Five adults (mean age 43, three men) with liver injury attributed to ashwagandha supplements, from Iceland and the US Drug-Induced Liver Injury Network",
+      "design": "Case series with structured expert causality assessment",
+      "n": 5,
+      "finding": "All five became jaundiced with nausea, lethargy, itching or abdominal discomfort after 2 to 12 weeks. The injury was cholestatic or mixed. Itching and raised bilirubin lasted 5 to 20 weeks, no one developed liver failure, and liver tests returned to normal within 1 to 5 months in four of the five.",
+      "source": {
+        "authors": "Bjornsson HK, Bjornsson ES, Avula B, Khan IA et al",
+        "year": 2020,
+        "journal": "Liver International",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A harm signal from five cases. It cannot say how often this happens. Not a trial.",
+      "id": "bjornsson-2020"
+    },
+    {
+      "population": "Adults aged 18 to 50 with subclinical hypothyroidism (raised TSH), one hospital in Varanasi, India",
+      "design": "Randomised, double-blind, placebo-controlled pilot of ashwagandha root extract 600 mg a day for 8 weeks",
+      "n": 50,
+      "finding": "TSH, T3 and T4 improved compared with placebo over 8 weeks. Four people withdrew (two from each group).",
+      "source": {
+        "authors": "Sharma AK, Basu I, Singh S",
+        "year": 2018,
+        "journal": "Journal of Alternative and Complementary Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28829155/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A small pilot at one site. NCCIH still advises people with thyroid disorders not to use ashwagandha, so this does not settle it; the two sources disagree in tone.",
+      "id": "sharma-2018"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That ashwagandha lowers stress and anxiety and helps sleep a little: two meta-analyses of short randomised trials (12 trials, 1,002 people; 5 trials, 400 people), none reporting ethnicity in the abstract and none in Black participants.",
+  "tier_note": "Two systematic reviews of several small trials, with large disagreement between studies, so I took the lower reading of strength. It is It stays B, short of A, because no trial in people of African descent was found. It would move if a trial enrolled Black participants or reported results by ancestry.",
+  "harm_flag": true,
+  "harm_note": "Case series (Bjornsson 2020) link ashwagandha products to liver injury with jaundice 2 to 12 weeks after starting; none developed liver failure and most recovered within 5 months. NCCIH calls these cases rare. It also advises avoiding ashwagandha in pregnancy and with thyroid or autoimmune conditions.",
+  "founder_flag": false,
+  "evidence_summary": "In short trials ashwagandha extract lowered anxiety and stress scores and gave a small improvement in sleep, mostly at 600 mg a day or more for eight weeks or longer. The trials are small, vary a lot and did not report ethnicity in the abstracts I read. NCCIH says it may be safe for up to about three months, that rare liver injury has been linked to it, and that it may interact with medicines for diabetes, blood pressure, immune suppression, sedation, seizures and thyroid. A 50-person trial in India reported better thyroid hormone results in subclinical hypothyroidism, which sits against NCCIH advice to avoid it with thyroid disorders.",
+  "measured_variables": [
+    "Anxiety and stress scores (self-rated scales)",
+    "Sleep quality and quantity",
+    "Liver enzymes and bilirubin (the harm outcome)",
+    "TSH, T3 and T4 (one small trial)",
+    "No ancestry variable in any source"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 0 records for ashwagandha or Withania. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 5 records matched; I read titles only and none looked like a trial in Black participants. The NIH Office of Dietary Supplements fact sheet returned a security check and could not be opened. Untested: any effect in Black participants; long-term safety; the thyroid trial has not been repeated in my search.",
+  "related": [
+    "sleep-and-sleep-apnoea",
+    "anxiety-depression-and-what-helps",
+    "stress-burnout-and-blood-pressure",
+    "vitamins-and-supplements-basics",
+    "black-seed-oil-nigella-sativa"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Akhgarjand C, Asoudeh F, Bagheri A, Kalantar Z et al",
+      "year": 2022,
+      "journal": "Phytotherapy Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36017529/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Cheah KL, Norhayati MN, Husniati Yaacob L, Abdul Rahman R",
+      "year": 2021,
+      "journal": "PLoS One",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34559859/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Bjornsson HK, Bjornsson ES, Avula B, Khan IA et al",
+      "year": 2020,
+      "journal": "Liver International",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Sharma AK, Basu I, Singh S",
+      "year": 2018,
+      "journal": "Journal of Alternative and Complementary Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28829155/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NCCIH, \"Ashwagandha: Usefulness and Safety\"",
+      "url": "https://www.nccih.nih.gov/health/ashwagandha",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

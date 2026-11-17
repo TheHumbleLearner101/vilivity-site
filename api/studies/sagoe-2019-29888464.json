@@ -1,0 +1,30 @@
+{
+  "pmid": "29888464",
+  "slug": "sagoe-2019-29888464",
+  "citation": {
+    "authors": "Sagoe D et al",
+    "year": 2019,
+    "journal": "International Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29888464/",
+  "page": "https://vilivity.com/studies/sagoe-2019-29888464/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": {
+        "id": "sagoe-2019",
+        "population": "68 studies, 67,665 people worldwide",
+        "n": 67665,
+        "design": "Meta-analysis and meta-regression of the prevalence of skin bleaching",
+        "finding": "Pooled lifetime prevalence of skin bleaching was 27.7%, and 27.1% in Africa, with very high heterogeneity, so the figure is a rough average of unlike samples. The highest prevalence in a subgroup analysis was 51.8%, associated with topical corticosteroid use (the abstract does not say whether this is the share of users who applied steroids); the pooled sample is global, not Black-specific.",
+        "line_tier": "B",
+        "note": "Prevalence and corticosteroid figures from the 12 Nov research file (agent4), which opened the paper; I confirmed the paper exists and its title. Not re-read by me.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

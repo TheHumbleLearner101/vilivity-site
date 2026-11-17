@@ -1,0 +1,30 @@
+{
+  "pmid": "38910369",
+  "slug": "khurana-2024-38910369",
+  "citation": {
+    "authors": "Khurana R, Kanvinde P, Mudaliar S",
+    "year": 2024,
+    "journal": "Indian Pediatrics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38910369/",
+  "page": "https://vilivity.com/studies/khurana-2024-38910369/",
+  "cited_by": [
+    {
+      "entry": "haemoglobin-and-white-cell-reference-ranges",
+      "title": "Haemoglobin and white cell ranges on your blood test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/haemoglobin-and-white-cell-reference-ranges/",
+      "record": {
+        "id": "khurana-2024",
+        "population": "WHO 2024 guideline on haemoglobin cut-offs",
+        "n": "not applicable",
+        "design": "Journal summary of the revised guideline",
+        "finding": "WHO proposed revised haemoglobin cut-offs for children aged 6 to 23 months, pregnant women in the second trimester and people living at elevated altitude, to raise sensitivity and make diagnosis uniform; there were no major changes in other domains.",
+        "line_tier": "B",
+        "note": "A short summary of the guideline; the full 79-page guideline was not read, so absence of an ethnicity adjustment is as reported there.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

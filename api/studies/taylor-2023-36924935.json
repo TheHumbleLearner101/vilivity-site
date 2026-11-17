@@ -1,0 +1,47 @@
+{
+  "pmid": "36924935",
+  "slug": "taylor-2023-36924935",
+  "citation": {
+    "authors": "Taylor S, Elbuluk N, Grimes P, Chien A et al",
+    "year": 2023,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36924935/",
+  "page": "https://vilivity.com/studies/taylor-2023-36924935/",
+  "cited_by": [
+    {
+      "entry": "acne-on-dark-skin",
+      "title": "Acne on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/acne-on-dark-skin/",
+      "record": {
+        "id": "taylor-delphi-2023",
+        "population": "Ten US dermatologists (consensus), plus a literature review, for acne with dark marks",
+        "n": "10",
+        "design": "Modified Delphi consensus",
+        "finding": "Most people with acne and acne-related dark marks should get early, effective acne treatment with a topical retinoid and benzoyl peroxide. Hydroquinone, azelaic acid, chemical peels or antioxidants may be added. The authors say large randomised trials are lacking, so evidence-based recommendations cannot be made.",
+        "line_tier": "B",
+        "note": "Expert opinion, not trial evidence.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "dark-marks-after-acne",
+      "title": "Dark marks after acne (post-inflammatory hyperpigmentation)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/dark-marks-after-acne/",
+      "record": {
+        "id": "taylor-2023",
+        "population": "10 board-certified dermatologists",
+        "n": "10 experts",
+        "design": "Modified Delphi consensus and literature review on acne-associated hyperpigmentation",
+        "finding": "Large randomised trials of acne and acne-marks treatment are lacking, so evidence-based recommendations cannot be made. The panel agreed that most patients with acne and marks should get early, effective acne treatment with a topical retinoid and benzoyl peroxide. Hydroquinone, azelaic acid, chemical peel or antioxidants may be added.",
+        "line_tier": "B",
+        "note": "Expert opinion. The authors say evidence-based recommendations cannot be made.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

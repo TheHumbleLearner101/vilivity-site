@@ -1,0 +1,147 @@
+{
+  "slug": "prostate-cancer-and-psa-testing",
+  "title": "Prostate cancer risk and PSA testing",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "When should Black men get checked for prostate cancer?",
+    "Are Black men more at risk of prostate cancer?",
+    "Can I ask my GP for a PSA test?"
+  ],
+  "tradition_says": "Prostate checks are often avoided as embarrassing, and many men assume a check is only for older men or for those with symptoms.",
+  "layer1": {
+    "plain_answer": "In England, about one in four Black men will be diagnosed with prostate cancer in their lifetime, against about one in eight White men. There is no routine NHS PSA screening for Black men: the UK National Screening Committee advised against it in 2026. You can still ask your GP about a PSA test and weigh the risks and benefits.",
+    "do": [
+      {
+        "text": "Ask a doctor about PSA testing if you are worried; the UK's NHS says men can ask and the doctor will discuss risks and benefits.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"PSA test\"",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Go to a doctor if you pee more often, urgently or at night, have blood in your pee, or erection problems.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"PSA test\"",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know that a high PSA does not mean cancer: an enlarged prostate can cause it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"PSA test\"",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For 48 hours before a PSA test, avoid ejaculating, exercise that leaves you out of breath, and cycling.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"PSA test\"",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating a PSA result as a diagnosis: the test can be inaccurate and lead to tests or treatment you do not need.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"PSA test\"",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Having a PSA test within 4 to 6 weeks after a urine infection has cleared.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"PSA test\"",
+          "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Peeing more than usual, a sudden urge to pee, or getting up often at night (doctor).",
+      "Blood in your pee (doctor, soon).",
+      "A raised PSA result: expect a repeat test and possibly referral for a biopsy or MRI (doctor, urologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Prostate cancer registrations and deaths in England 2008-2010 by ethnic group, from Public Health England",
+      "design": "Registry analysis of lifetime risk of diagnosis and death using DevCan, with adjustments for incomplete ethnicity data",
+      "n": "not stated",
+      "finding": "Lifetime risk of diagnosis was about 1 in 8 (13.3%) for White men, 1 in 4 (29.3%, range 23.5-37.2%) for Black men and 1 in 13 (7.9%) for Asian men. Lifetime risk of death was about 1 in 24 (4.2%) for White, 1 in 12 (8.7%) for Black and 1 in 44 (2.3%) for Asian men. The authors say Black men are at twice the risk of being diagnosed with and dying from the disease.",
+      "source": {
+        "authors": "Lloyd T, Hounsome L, Mehay A, Mee S et al",
+        "year": 2015,
+        "journal": "BMC Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26224061/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Ethnicity and mortality data were incomplete and needed assumptions. Authors are from Prostate Cancer UK and Public Health England.",
+      "id": "lloyd-2015"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That Black men in England have about twice the lifetime risk of diagnosis and death: one national registry analysis with adjusted data.",
+  "tier_note": "National registry data but incomplete ethnicity records and assumptions, and a charity author team; no trial shows that screening Black men saves lives.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for asking a doctor. The UK's NHS warns PSA tests can be inaccurate and lead to unneeded tests and treatment.",
+  "founder_flag": false,
+  "evidence_summary": "Black men in England have about twice the lifetime risk of being diagnosed with and dying from prostate cancer, from one registry analysis. The NHS does not offer routine PSA screening except for men with a BRCA2 gene fault. As reported on 28 May 2026, the UK National Screening Committee advised against screening for Black men, citing uncertainty over whether it would do more good than harm, and ongoing trials such as TRANSFORM aim to settle it. You can still ask a GP for a PSA test.",
+  "measured_variables": [
+    "Prostate cancer diagnosis and death by recorded ethnic group",
+    "Ethnic group as a stand-in; the sources opened do not name an inherited cause",
+    "BRCA2 gene status (the one group the NHS screens)"
+  ],
+  "gaps": "Not opened: the UK National Screening Committee documents themselves (the 2026 decision is known here through an LBC news report quoting the committee and a Science Media Centre expert-reaction page, so treat the wording as secondary; GOV.UK pages I guessed did not open); Prostate Cancer UK guidance on the age Black men should ask (its pages did not open); TRANSFORM and IMProVE results; the age at which Black men are advised to ask a GP, so the card gives none. A later report of the government widening the TRANSFORM trial to more Black men came only from a search summary and is not used.",
+  "related": [
+    "breast-cancer-and-cancer-screening",
+    "being-believed-by-doctors-and-pain",
+    "mens-mental-health-and-depression"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Lloyd T, Hounsome L, Mehay A, Mee S et al",
+      "year": 2015,
+      "journal": "BMC Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26224061/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"PSA test\"",
+      "url": "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "LBC, \"Health chiefs reject calls for mass prostate cancer screening for all men\" (28 May 2026, quoting the UK National Screening Committee)",
+      "url": "https://www.lbc.co.uk/article/mass-prostate-cancer-screening-for-all-men-rejected-5HjdZpw_2/",
+      "tag": "[news]",
+      "role": "practical advice (news report of the decision)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Science Media Centre, expert reaction to the UK National Screening Committee final recommendation (28 May 2026)",
+      "url": "https://www.sciencemediacentre.org/expert-reaction-to-final-recommendation-from-the-uk-national-screening-committee-for-prostate-cancer-screening/",
+      "tag": "[commentary]",
+      "role": "practical advice (expert reaction)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

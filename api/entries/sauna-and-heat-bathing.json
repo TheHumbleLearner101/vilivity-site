@@ -1,0 +1,202 @@
+{
+  "slug": "sauna-and-heat-bathing",
+  "title": "Sauna and heat bathing: heart health, recovery and risks",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "Is sauna good for you?",
+    "Does sauna help your heart or blood pressure?",
+    "Does sauna detox your body?",
+    "Is sauna safe for Black people, or with sickle cell trait?"
+  ],
+  "tradition_says": "Heat bathing, from saunas and steam rooms to hot baths, is traditional in many cultures. Today the sauna is promoted for heart health, detox, recovery and relaxation.",
+  "layer1": {
+    "plain_answer": "Frequent sauna use went with fewer heart deaths in Finnish men, a link that falls short of proof, and Black participants were tested only in one tiny heat study. Keep sessions to fifteen or twenty minutes, skip alcohol, watch for dehydration, and ask a doctor first if you have heart or blood pressure problems or sickle cell trait.",
+    "do": [
+      {
+        "text": "Keep sessions to about 15 to 20 minutes, starting with about five if you are new to it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Sauna Benefits\"",
+          "url": "https://health.clevelandclinic.org/sauna-benefits",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Watch for dehydration, and leave if you feel faint or confused: the weight lost is water.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Sauna Benefits\"",
+          "url": "https://health.clevelandclinic.org/sauna-benefits",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Sauna after alcohol.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Sauna Benefits\"",
+          "url": "https://health.clevelandclinic.org/sauna-benefits",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Sauna if you have heart disease, heart failure, severe aortic stenosis or high or low blood pressure, unless your doctor agrees.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Sauna Benefits\"",
+          "url": "https://health.clevelandclinic.org/sauna-benefits",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Sauna if you are trying to get pregnant.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Sauna Benefits\"",
+          "url": "https://health.clevelandclinic.org/sauna-benefits",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Staying in heat until you feel unwell if you have sickle cell trait: one sauna visit triggered severe muscle breakdown and kidney failure in one reported case.",
+        "basis": "tested",
+        "source": "eisenbach-2005"
+      }
+    ],
+    "see_someone_when": [
+      "Chest pain, palpitations, fainting or severe breathlessness in the heat (urgent care).",
+      "Severe muscle pain, weakness or very dark urine after a sauna or hard exercise (urgent care).",
+      "You have heart or blood pressure problems, sickle cell trait or disease, or are pregnant and want to use a sauna (doctor or haematology team)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Middle-aged men (42 to 60) in eastern Finland, Kuopio Ischaemic Heart Disease cohort",
+      "design": "Prospective cohort, median follow-up 20.7 years; sauna frequency and duration at baseline",
+      "n": 2315,
+      "finding": "Compared with one session a week, men using a sauna 4 to 7 times a week had about two-thirds lower risk of sudden cardiac death (hazard ratio 0.37, 95% CI 0.18 to 0.75), and lower fatal heart and all-cause mortality. Sessions over 19 minutes were linked to lower risk than sessions under 11 minutes.",
+      "source": {
+        "authors": "Laukkanen T, Khan H, Zaccardi F, Laukkanen JA",
+        "year": 2015,
+        "journal": "JAMA Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25705824/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Observational, Finnish men, dry sauna habits. It cannot show that sauna caused the lower risk.",
+      "id": "laukkanen-2015"
+    },
+    {
+      "population": "People in 16 studies of sauna treatment (healthy people and people with heart problems)",
+      "design": "Meta-analysis of acute and short-term cardiovascular effects",
+      "n": "not stated in the abstract",
+      "finding": "Straight after a sauna, body temperature rose 0.94 degrees C and heart rate 18 beats a minute, and systolic and diastolic blood pressure fell by about 5.6 and 6.5 mmHg. Over 2 to 4 weeks, flow-mediated dilation, ejection fraction and walking distance rose and blood pressure fell. The authors describe the trials as limited.",
+      "source": {
+        "authors": "Li Z, Jiang W, Chen Y, Wang G",
+        "year": 2020,
+        "journal": "European Journal of Cardiovascular Nursing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32814462/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Short effects on surrogate measures. Ethnicity not reported in the abstract.",
+      "id": "li-2020"
+    },
+    {
+      "population": "Eighteen healthy young females: nine Black (average 21) and nine White (average 27), United States",
+      "design": "Single-session experiment: 60 minutes of whole-body heat therapy in a tube-lined hot-water suit (49 degrees C water), vascular tests before and 45 minutes after",
+      "n": 18,
+      "finding": "Before heating there was no difference in vascular function between the groups. Heat improved forearm blood flow response and brachial artery flow-mediated dilation in both groups (6.2 to 8.8 per cent), with no effect on cerebral vascular reactivity.",
+      "source": {
+        "authors": "Martin ZT, Akins JD, Merlau ER, Kolade JO et al",
+        "year": 2023,
+        "journal": "Microvascular Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37024072/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "The only heat-therapy study in Black participants I found. It used a hot-water suit instead of a sauna, one session, in young women. It shows a short-term vascular response and no health outcome.",
+      "id": "martin-2023"
+    },
+    {
+      "population": "One 29-year-old African American with sickle cell trait",
+      "design": "Case report",
+      "n": 1,
+      "finding": "A sauna visit triggered severe rhabdomyolysis (muscle breakdown) and acute kidney failure.",
+      "source": {
+        "authors": "Eisenbach C, Pohl J, Dikow R, Stremmel W",
+        "year": 2005,
+        "journal": "Clinical Nephrology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15786826/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "One case. It cannot say how often this happens; it is the reason sickle cell trait is flagged.",
+      "id": "eisenbach-2005"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That regular sauna protects the heart: one 2,315-man Finnish cohort and short trials (16 studies) in other populations; Black participants appear only in one 18-person heat-suit experiment.",
+  "tier_note": "The headline claim rests on one observational cohort and short surrogate-outcome trials, so thin. It stays B, short of A, because the one study in Black participants is a single session of heat in a water suit.",
+  "harm_flag": true,
+  "harm_note": "Eisenbach 2005 reports severe rhabdomyolysis and kidney failure triggered by a sauna in a person with sickle cell trait. Cleveland Clinic advises against saunas with alcohol, heart disease, heart failure and high or low blood pressure, and when trying to get pregnant, and notes weight lost is dehydration.",
+  "founder_flag": false,
+  "evidence_summary": "In 2,315 Finnish men followed for about 21 years, using a sauna 4 to 7 times a week went with about two-thirds lower risk of sudden cardiac death than once a week. A meta-analysis of 16 studies found blood pressure falls straight after a sauna and short-term gains in vascular and heart measures. One experiment in nine Black and nine White young women found a one-hour hot-water-suit session improved blood vessel function in both. A case report links a sauna to severe muscle breakdown in someone with sickle cell trait.",
+  "measured_variables": [
+    "Sudden cardiac death, cardiovascular and all-cause mortality (cohort)",
+    "Blood pressure, flow-mediated dilation (trial measures)",
+    "Sickle cell trait (HbAS genotype) in the case report",
+    "Ethnicity: self-identified Black and White in one experiment"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 9 records for sauna or heat therapy, two relevant (the 2023 heat-suit experiment and the 2005 case report); the rest concerned climate heat exposure. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 1 record (an unrelated fasting study). Sauna was checked against the existing heat and hydration entry, which does not cover it. Untested: sauna and heart outcomes in Black participants; safety in sickle cell trait beyond a single case; \"detox\" claims (no human trial opened).",
+  "related": [
+    "heat-and-hydration",
+    "sickle-cell-trait-and-hard-exercise",
+    "high-blood-pressure-in-black-adults",
+    "ice-baths-and-cold-exposure",
+    "sickle-cell-disease-trait-and-pregnancy"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Laukkanen T, Khan H, Zaccardi F, Laukkanen JA",
+      "year": 2015,
+      "journal": "JAMA Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25705824/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Li Z, Jiang W, Chen Y, Wang G",
+      "year": 2020,
+      "journal": "European Journal of Cardiovascular Nursing",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32814462/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Martin ZT, Akins JD, Merlau ER, Kolade JO et al",
+      "year": 2023,
+      "journal": "Microvascular Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37024072/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Eisenbach C, Pohl J, Dikow R, Stremmel W",
+      "year": 2005,
+      "journal": "Clinical Nephrology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15786826/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "Cleveland Clinic, \"Sauna Benefits\"",
+      "url": "https://health.clevelandclinic.org/sauna-benefits",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

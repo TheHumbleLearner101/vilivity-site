@@ -1,0 +1,30 @@
+{
+  "pmid": "34013957",
+  "slug": "coogan-2021-34013957",
+  "citation": {
+    "authors": "Coogan PF, Rosenberg L, Palmer JR, Cozier YC et al",
+    "year": 2021,
+    "journal": "Carcinogenesis"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34013957/",
+  "page": "https://vilivity.com/studies/coogan-2021-34013957/",
+  "cited_by": [
+    {
+      "entry": "chemical-relaxers",
+      "title": "Chemical relaxers and hair straighteners",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/chemical-relaxers/",
+      "record": {
+        "id": "coogan-2021",
+        "population": "50,543 Black women, Black Women's Health Study; 2,311 breast cancers",
+        "n": 50543,
+        "design": "Prospective cohort 1997-2017",
+        "finding": "Heavy use of relaxers gave a hazard ratio for breast cancer of 1.13 (95% CI 0.96-1.33), not significant. For heavy use of lye-containing relaxers the hazard ratio for ER-positive breast cancer was 1.32 (0.97-1.80), also not significant. The authors call the results largely null.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

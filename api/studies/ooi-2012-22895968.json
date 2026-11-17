@@ -1,0 +1,47 @@
+{
+  "pmid": "22895968",
+  "slug": "ooi-2012-22895968",
+  "citation": {
+    "authors": "Ooi CP, Yassin Z, Hamid TA",
+    "year": 2012,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22895968/",
+  "page": "https://vilivity.com/studies/ooi-2012-22895968/",
+  "cited_by": [
+    {
+      "entry": "bush-teas-cerasee-bitter-leaf-and-medicines",
+      "title": "Bush teas and herbal remedies (cerasee, bitter leaf) with medicines",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bush-teas-cerasee-bitter-leaf-and-medicines/",
+      "record": {
+        "id": "ooi-2012-b",
+        "population": "479 adults with type 2 diabetes in four randomised trials of Momordica charantia (bitter gourd, cerasee)",
+        "n": "4 trials (479 people)",
+        "design": "Cochrane systematic review of randomised trials, up to three months",
+        "finding": "No significant difference in glycaemic control against placebo, and none against metformin or glibenclamide in reliable measures. Risk of bias was generally high. No serious adverse effects were reported in any trial. The authors conclude there is insufficient evidence.",
+        "line_tier": "B",
+        "note": "Trials were of preparations of the plant in other populations; none was a tea made at home.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "type-2-diabetes-risk",
+      "title": "Type 2 diabetes risk and blood sugar",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/type-2-diabetes-risk/",
+      "record": {
+        "id": "ooi-2012",
+        "population": "479 adults with type 2 diabetes in four trials of Momordica charantia (bitter gourd, cerasee)",
+        "n": "4 trials (479 people)",
+        "design": "Cochrane systematic review of randomised trials, up to three months",
+        "finding": "No significant difference in glycaemic control against placebo, and no significant change against metformin or glibenclamide in reliable measures. Risk of bias was generally high and only two trials were full peer-reviewed papers. The authors conclude there is insufficient evidence.",
+        "line_tier": "B",
+        "note": "Trials were not in people of African descent; they test the plant, not a Black-specific use.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "39519498",
+  "slug": "wang-2024-39519498",
+  "citation": {
+    "authors": "Wang Z, Qiu B, Li R, Han Y et al",
+    "year": 2024,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39519498/",
+  "page": "https://vilivity.com/studies/wang-2024-39519498/",
+  "cited_by": [
+    {
+      "entry": "creatine-supplements",
+      "title": "Creatine supplements: strength, kidneys and your kidney test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/creatine-supplements/",
+      "record": {
+        "id": "wang-2024",
+        "population": "Adults under 50 in 23 trials of creatine with resistance training (460 men and 49 women across the included studies)",
+        "n": 509,
+        "design": "Systematic review and meta-analysis of randomised trials",
+        "finding": "Creatine with resistance training raised upper-body strength by 4.4 kg and lower-body strength by 11.4 kg more than placebo. Males gained strength; females showed no significant gains, though only three studies included women. Ethnicity was not reported.",
+        "line_tier": "B",
+        "note": "Mostly young men. Strength outcomes, not health outcomes.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "site": "Vilivity",
+  "count": 53,
+  "counted": 48,
+  "practices": [
+    {
+      "slug": "african-black-soap",
+      "name": "African black soap",
+      "module": "skin",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "partial",
+      "tier": "C",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "black-soap-and-african-black-soap"
+      ],
+      "what_people_do": "Wash the face and body, and sometimes hair, with a soft soap made from plantain-skin and cocoa-pod ash with palm oil and shea; known as dudu osun or ose dudu.",
+      "page": "https://vilivity.com/practices/african-black-soap/",
+      "json": "https://vilivity.com/api/practices/african-black-soap.json"
+    },
+    {
+      "slug": "aloe-vera-sinkle-bible",
+      "name": "Aloe vera (sinkle bible)",
+      "module": "skin",
+      "regions": [
+        "Caribbean",
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "moisturising-and-ashy-skin"
+      ],
+      "what_people_do": "Cut a leaf and use the gel on burns, skin and scalp, or drink it for \"sugar\"; in rural Somalia aloe gel is also put in the eye.",
+      "page": "https://vilivity.com/practices/aloe-vera-sinkle-bible/",
+      "json": "https://vilivity.com/api/practices/aloe-vera-sinkle-bible.json"
+    },
+    {
+      "slug": "umbilical-cord-ash-cow-dung-and-hot-compress",
+      "name": "Ash, cow dung or heat on the baby's umbilical cord",
+      "module": "body",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "baby-skin-care",
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Birth attendants and relatives cut the cord with a razor blade and dress the stump with ash, cow dung or a hot compress.",
+      "page": "https://vilivity.com/practices/umbilical-cord-ash-cow-dung-and-hot-compress/",
+      "json": "https://vilivity.com/api/practices/umbilical-cord-ash-cow-dung-and-hot-compress.json"
+    },
+    {
+      "slug": "the-strong-black-woman-and-hiding-distress",
+      "name": "Being strong and hiding distress",
+      "module": "mind",
+      "regions": [
+        "Black British",
+        "African American"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "racism-and-mental-health",
+        "stigma-and-starting-therapy"
+      ],
+      "what_people_do": "Carry on, keep distress private, and avoid asking for help; a cultural legacy of strength.",
+      "page": "https://vilivity.com/practices/the-strong-black-woman-and-hiding-distress/",
+      "json": "https://vilivity.com/api/practices/the-strong-black-woman-and-hiding-distress.json"
+    },
+    {
+      "slug": "bitter-leaf",
+      "name": "Bitter leaf (Vernonia amygdalina)",
+      "module": "food",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "bush-teas-cerasee-bitter-leaf-and-medicines"
+      ],
+      "what_people_do": "Wash the leaves to remove bitterness and cook them in soup, or squeeze and drink the bitter juice, for malaria, \"sugar\" and stomach complaints.",
+      "page": "https://vilivity.com/practices/bitter-leaf/",
+      "json": "https://vilivity.com/api/practices/bitter-leaf.json"
+    },
+    {
+      "slug": "bush-medicine-alongside-diabetes-and-blood-pressure-drugs",
+      "name": "Bush medicine taken alongside diabetes and blood pressure tablets",
+      "module": "body",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "C",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "bush-teas-cerasee-bitter-leaf-and-medicines",
+        "high-blood-pressure-in-black-adults",
+        "type-2-diabetes-risk"
+      ],
+      "what_people_do": "Take bush teas or herbal remedies for \"sugar\" and \"pressure\" in addition to, or sometimes instead of, prescribed medicines; about a third of Barbadian church-goers use herbal remedies.",
+      "page": "https://vilivity.com/practices/bush-medicine-alongside-diabetes-and-blood-pressure-drugs/",
+      "json": "https://vilivity.com/api/practices/bush-medicine-alongside-diabetes-and-blood-pressure-drugs.json"
+    },
+    {
+      "slug": "bush-tea-washout-and-blood-cleanse",
+      "name": "Bush tea for a \"washout\" or \"blood cleanse\"",
+      "module": "body",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "C",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "bush-teas-cerasee-bitter-leaf-and-medicines"
+      ],
+      "what_people_do": "Drink a bitter or purgative bush tea (cerasee and others), often as a regular tonic or at the turn of the year, to \"wash out\" or \"clean the blood\".",
+      "page": "https://vilivity.com/practices/bush-tea-washout-and-blood-cleanse/",
+      "json": "https://vilivity.com/api/practices/bush-tea-washout-and-blood-cleanse.json"
+    },
+    {
+      "slug": "cerasee-tea-bitter-melon",
+      "name": "Cerasee (bitter melon) tea",
+      "module": "body",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "bush-teas-cerasee-bitter-leaf-and-medicines",
+        "type-2-diabetes-risk"
+      ],
+      "what_people_do": "Boil the vine leaves of cerasee (Momordica charantia) and drink the bitter tea, for \"sugar\" (diabetes), colds, skin and as a cleansing tonic.",
+      "page": "https://vilivity.com/practices/cerasee-tea-bitter-melon/",
+      "json": "https://vilivity.com/api/practices/cerasee-tea-bitter-melon.json"
+    },
+    {
+      "slug": "chebe-powder",
+      "name": "Chebe powder",
+      "module": "hair",
+      "regions": [
+        "West Africa",
+        "Central Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "hair-breakage-and-length-retention",
+        "chebe-powder-and-hair-length"
+      ],
+      "what_people_do": "Mix roasted chebe seed powder with oil or fat and coat the lengths (not scalp) before plaiting, repeating every few days.",
+      "page": "https://vilivity.com/practices/chebe-powder/",
+      "json": "https://vilivity.com/api/practices/chebe-powder.json"
+    },
+    {
+      "slug": "chemical-relaxers-from-childhood",
+      "name": "Chemical relaxers, often started in childhood",
+      "module": "hair",
+      "regions": [
+        "African American",
+        "East and Southern Africa",
+        "West Africa",
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "chemical-relaxers",
+        "traction-alopecia-and-protective-styles"
+      ],
+      "what_people_do": "Use a lye or no-lye relaxer to straighten the hair every few weeks to months, often starting as a girl.",
+      "page": "https://vilivity.com/practices/chemical-relaxers-from-childhood/",
+      "json": "https://vilivity.com/api/practices/chemical-relaxers-from-childhood.json"
+    },
+    {
+      "slug": "cocoa-butter-on-stretch-marks",
+      "name": "Cocoa butter on stretch marks",
+      "module": "skin",
+      "regions": [
+        "Caribbean",
+        "African American",
+        "Black British",
+        "West Africa"
+      ],
+      "counted": false,
+      "documentation_status": "unverified",
+      "tier": "A",
+      "strength": "moderate",
+      "harm_flag": "none",
+      "links_to_entries": [
+        "stretch-marks-and-scar-fading"
+      ],
+      "what_people_do": "Rub cocoa butter cream or butter into the belly, hips and breasts in pregnancy, and onto scars.",
+      "page": "https://vilivity.com/practices/cocoa-butter-on-stretch-marks/",
+      "json": "https://vilivity.com/api/practices/cocoa-butter-on-stretch-marks.json"
+    },
+    {
+      "slug": "shea-butter-as-cooking-fat",
+      "name": "Cooking with shea butter",
+      "module": "food",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "none",
+      "links_to_entries": [
+        "shea-butter",
+        "salt-and-blood-pressure"
+      ],
+      "what_people_do": "Use shea butter as a cooking fat in northern Ghana and the savanna belt of West Africa.",
+      "page": "https://vilivity.com/practices/shea-butter-as-cooking-fat/",
+      "json": "https://vilivity.com/api/practices/shea-butter-as-cooking-fat.json"
+    },
+    {
+      "slug": "clay-eating-geophagy",
+      "name": "Eating clay (geophagy) and ice (pagophagia) in pregnancy",
+      "module": "food",
+      "regions": [
+        "African American"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care",
+        "iron-and-fibroids"
+      ],
+      "what_people_do": "Some women, especially in the rural South, eat white or red clay, and some pregnant women eat large amounts of ice or freezer frost.",
+      "page": "https://vilivity.com/practices/clay-eating-geophagy/",
+      "json": "https://vilivity.com/api/practices/clay-eating-geophagy.json"
+    },
+    {
+      "slug": "somali-diet-in-the-uk",
+      "name": "Eating patterns of Somali families in the UK",
+      "module": "food",
+      "regions": [
+        "Black British",
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "caribbean-and-west-african-diet-and-health"
+      ],
+      "what_people_do": "Eat mainly rice, pasta and red meat with little fruit or vegetable; cultural beliefs about food shape the diet.",
+      "page": "https://vilivity.com/practices/somali-diet-in-the-uk/",
+      "json": "https://vilivity.com/api/practices/somali-diet-in-the-uk.json"
+    },
+    {
+      "slug": "epsom-salt-baths",
+      "name": "Epsom salt baths",
+      "module": "body",
+      "regions": [
+        "African American",
+        "Caribbean",
+        "Black British"
+      ],
+      "counted": false,
+      "documentation_status": "unverified",
+      "tier": "C",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [],
+      "what_people_do": "Soak in hot water with Epsom salt for aches, colds and \"drawing out\" illness.",
+      "page": "https://vilivity.com/practices/epsom-salt-baths/",
+      "json": "https://vilivity.com/api/practices/epsom-salt-baths.json"
+    },
+    {
+      "slug": "fever-grass-lemongrass-tea",
+      "name": "Fever grass (lemongrass) tea for fever",
+      "module": "body",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "bush-teas-cerasee-bitter-leaf-and-medicines"
+      ],
+      "what_people_do": "Drink fever grass (Cymbopogon citratus) tea to bring down a fever, often for children, with a shared home tradition of \"sweating it out\".",
+      "page": "https://vilivity.com/practices/fever-grass-lemongrass-tea/",
+      "json": "https://vilivity.com/api/practices/fever-grass-lemongrass-tea.json"
+    },
+    {
+      "slug": "dietary-taboos-in-pregnancy",
+      "name": "Food taboos in pregnancy",
+      "module": "food",
+      "regions": [
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Pregnant women avoid certain foods because of family rules and beliefs about the baby and about witchcraft.",
+      "page": "https://vilivity.com/practices/dietary-taboos-in-pregnancy/",
+      "json": "https://vilivity.com/api/practices/dietary-taboos-in-pregnancy.json"
+    },
+    {
+      "slug": "garlic-and-ginger-for-blood-pressure",
+      "name": "Garlic and ginger for high blood pressure",
+      "module": "food",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "high-blood-pressure-in-black-adults"
+      ],
+      "what_people_do": "People with hypertension take raw garlic or ginger, in food or water, alongside or instead of tablets.",
+      "page": "https://vilivity.com/practices/garlic-and-ginger-for-blood-pressure/",
+      "json": "https://vilivity.com/api/practices/garlic-and-ginger-for-blood-pressure.json"
+    },
+    {
+      "slug": "greasing-the-scalp-and-hot-combing",
+      "name": "Greasing the scalp (and pressing with a hot comb)",
+      "module": "hair",
+      "regions": [
+        "African American",
+        "Caribbean",
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "scalp-oiling-and-greasing"
+      ],
+      "what_people_do": "Part the hair and rub a grease, pomade or oil onto the scalp, often as a weekly routine before braiding or pressing.",
+      "page": "https://vilivity.com/practices/greasing-the-scalp-and-hot-combing/",
+      "json": "https://vilivity.com/api/practices/greasing-the-scalp-and-hot-combing.json"
+    },
+    {
+      "slug": "threading-irun-kiko",
+      "name": "Hair threading (irun kiko)",
+      "module": "hair",
+      "regions": [
+        "West Africa",
+        "Central Africa"
+      ],
+      "counted": true,
+      "documentation_status": "partial",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "traction-alopecia-and-protective-styles",
+        "braids-twists-and-extensions"
+      ],
+      "what_people_do": "Wrap sections of hair in black or coloured thread from root to tip to stretch and style it, often for girls and women.",
+      "page": "https://vilivity.com/practices/threading-irun-kiko/",
+      "json": "https://vilivity.com/api/practices/threading-irun-kiko.json"
+    },
+    {
+      "slug": "herbal-concoctions-in-pregnancy-and-to-start-labour",
+      "name": "Herbal concoctions in pregnancy and to start labour",
+      "module": "body",
+      "regions": [
+        "West Africa",
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Women drink herbal mixtures through pregnancy, to induce labour or to boost health, often from family or friends, and often without telling the clinic.",
+      "page": "https://vilivity.com/practices/herbal-concoctions-in-pregnancy-and-to-start-labour/",
+      "json": "https://vilivity.com/api/practices/herbal-concoctions-in-pregnancy-and-to-start-labour.json"
+    },
+    {
+      "slug": "herbal-teas-and-spices-for-colds-and-flu",
+      "name": "Herbal teas, ginger, lime and spices for colds and flu",
+      "module": "body",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "bush-teas-cerasee-bitter-leaf-and-medicines"
+      ],
+      "what_people_do": "Drink hot infusions, decoctions and \"punch\" made from local herbs (mint family especially), often with ginger, lime or honey, at the first sign of a cold; Haitian families did this in the COVID period.",
+      "page": "https://vilivity.com/practices/herbal-teas-and-spices-for-colds-and-flu/",
+      "json": "https://vilivity.com/api/practices/herbal-teas-and-spices-for-colds-and-flu.json"
+    },
+    {
+      "slug": "postpartum-hot-compress-on-the-abdomen",
+      "name": "Hot compress on the abdomen after birth",
+      "module": "body",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "After delivery a mother presses hot cloths or hot water bottles to the lower abdomen, often daily for weeks.",
+      "page": "https://vilivity.com/practices/postpartum-hot-compress-on-the-abdomen/",
+      "json": "https://vilivity.com/api/practices/postpartum-hot-compress-on-the-abdomen.json"
+    },
+    {
+      "slug": "postpartum-hot-sitz-bath",
+      "name": "Hot salt-water sitz bath after birth",
+      "module": "body",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Sit in a bowl or bath of hot water (sometimes with salt) in the first days and weeks after delivery.",
+      "page": "https://vilivity.com/practices/postpartum-hot-sitz-bath/",
+      "json": "https://vilivity.com/api/practices/postpartum-hot-sitz-bath.json"
+    },
+    {
+      "slug": "hot-fomentation-of-newborn-fontanelle",
+      "name": "Hot water fomentation of the baby's soft spot",
+      "module": "body",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "baby-skin-care"
+      ],
+      "what_people_do": "Press hot cloths or heated water to a newborn's fontanelle (and body) to \"mould\" the head or soothe the baby.",
+      "page": "https://vilivity.com/practices/hot-fomentation-of-newborn-fontanelle/",
+      "json": "https://vilivity.com/api/practices/hot-fomentation-of-newborn-fontanelle.json"
+    },
+    {
+      "slug": "postpartum-hot-water-hot-food-and-pepper",
+      "name": "Hot water, hot food and pepper soup after birth",
+      "module": "food",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care",
+        "caribbean-and-west-african-diet-and-health"
+      ],
+      "what_people_do": "For weeks after birth the mother drinks hot water, eats hot (temperature) and very peppery food and bathes in hot water.",
+      "page": "https://vilivity.com/practices/postpartum-hot-water-hot-food-and-pepper/",
+      "json": "https://vilivity.com/api/practices/postpartum-hot-water-hot-food-and-pepper.json"
+    },
+    {
+      "slug": "irish-sea-moss-drink",
+      "name": "Irish moss (sea moss) drink",
+      "module": "food",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": false,
+      "documentation_status": "unverified",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "sea-moss-irish-moss"
+      ],
+      "what_people_do": "Boil dried sea moss with milk, spices and sweetener for a thick drink; now sold as a gel supplement.",
+      "page": "https://vilivity.com/practices/irish-sea-moss-drink/",
+      "json": "https://vilivity.com/api/practices/irish-sea-moss-drink.json"
+    },
+    {
+      "slug": "zulu-isihlambezo-umhlabelo-and-imbiza",
+      "name": "Isihlambezo, umhlabelo and imbiza in pregnancy and infancy",
+      "module": "body",
+      "regions": [
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Zulu women take isihlambezo during pregnancy, umhlabelo for postpartum recovery and imbiza for babies.",
+      "page": "https://vilivity.com/practices/zulu-isihlambezo-umhlabelo-and-imbiza/",
+      "json": "https://vilivity.com/api/practices/zulu-isihlambezo-umhlabelo-and-imbiza.json"
+    },
+    {
+      "slug": "jamaican-black-castor-oil-on-scalp-and-edges",
+      "name": "Jamaican black castor oil on the scalp and edges",
+      "module": "hair",
+      "regions": [
+        "Caribbean",
+        "African American",
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "C",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "scalp-oiling-and-greasing",
+        "hair-growth-oils-and-supplements"
+      ],
+      "what_people_do": "Massage black castor oil into the scalp and hairline for growth, thickness and edges.",
+      "page": "https://vilivity.com/practices/jamaican-black-castor-oil-on-scalp-and-edges/",
+      "json": "https://vilivity.com/api/practices/jamaican-black-castor-oil-on-scalp-and-edges.json"
+    },
+    {
+      "slug": "kola-nut-chewing",
+      "name": "Kola nut",
+      "module": "food",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "kola-nut"
+      ],
+      "what_people_do": "Chew kola nut for alertness and stamina, offer it in hospitality and ritual, and (in one Nigerian custom) rub a kola paste on a pregnant belly.",
+      "page": "https://vilivity.com/practices/kola-nut-chewing/",
+      "json": "https://vilivity.com/api/practices/kola-nut-chewing.json"
+    },
+    {
+      "slug": "moringa-for-health-and-milk",
+      "name": "Moringa",
+      "module": "food",
+      "regions": [
+        "West Africa",
+        "Caribbean"
+      ],
+      "counted": false,
+      "documentation_status": "unverified",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "hibiscus-sorrel-blood-pressure",
+        "moringa-leaf-and-blood-sugar"
+      ],
+      "what_people_do": "Drink moringa leaf tea or powder for energy, blood pressure and breast milk.",
+      "page": "https://vilivity.com/practices/moringa-for-health-and-milk/",
+      "json": "https://vilivity.com/api/practices/moringa-for-health-and-milk.json"
+    },
+    {
+      "slug": "newborn-oil-massage-and-petroleum-jelly",
+      "name": "Oiling and massaging newborns",
+      "module": "skin",
+      "regions": [
+        "West Africa",
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "baby-skin-care",
+        "shea-butter"
+      ],
+      "what_people_do": "Rub cooking oil, other natural oils or petroleum jelly into a newborn after bathing; massage the belly with a kola paste in some Nigerian communities.",
+      "page": "https://vilivity.com/practices/newborn-oil-massage-and-petroleum-jelly/",
+      "json": "https://vilivity.com/api/practices/newborn-oil-massage-and-petroleum-jelly.json"
+    },
+    {
+      "slug": "ethiopian-orthodox-fasting",
+      "name": "Orthodox Christian fasting",
+      "module": "food",
+      "regions": [
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "type-2-diabetes-risk",
+        "high-blood-pressure-in-black-adults",
+        "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell"
+      ],
+      "what_people_do": "Observe the Orthodox fasts (no animal products on many days, including Wednesdays, Fridays and long seasons such as the Assumption fast).",
+      "page": "https://vilivity.com/practices/ethiopian-orthodox-fasting/",
+      "json": "https://vilivity.com/api/practices/ethiopian-orthodox-fasting.json"
+    },
+    {
+      "slug": "postpartum-lactation-drinks-palm-wine-and-tea",
+      "name": "Palm wine, alcohol and tea to bring in milk",
+      "module": "food",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Mothers drink tea, hot water, palm wine or other alcoholic drinks to \"improve the flow\" of breast milk.",
+      "page": "https://vilivity.com/practices/postpartum-lactation-drinks-palm-wine-and-tea/",
+      "json": "https://vilivity.com/api/practices/postpartum-lactation-drinks-palm-wine-and-tea.json"
+    },
+    {
+      "slug": "planning-exercise-around-hair",
+      "name": "Planning exercise around your hair",
+      "module": "hair",
+      "regions": [
+        "African American"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "starting-training-rest-days-and-recovery",
+        "wash-day-routine-for-4c-hair"
+      ],
+      "what_people_do": "Change hairstyle for exercise or skip workouts to protect a style that took hours and money.",
+      "page": "https://vilivity.com/practices/planning-exercise-around-hair/",
+      "json": "https://vilivity.com/api/practices/planning-exercise-around-hair.json"
+    },
+    {
+      "slug": "haitian-and-caribbean-plants-for-childbirth-and-vaginal-cleansing",
+      "name": "Plants for childbirth recovery and vaginal \"cleansing\" (Haitian and Caribbean women)",
+      "module": "body",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Women use food plants as teas, baths and vaginal preparations after childbirth and for gynaecological infections or \"cleansing\"; the practice continues after migration.",
+      "page": "https://vilivity.com/practices/haitian-and-caribbean-plants-for-childbirth-and-vaginal-cleansing/",
+      "json": "https://vilivity.com/api/practices/haitian-and-caribbean-plants-for-childbirth-and-vaginal-cleansing.json"
+    },
+    {
+      "slug": "prayer-and-faith-as-coping",
+      "name": "Prayer and the church as mental health support",
+      "module": "mind",
+      "regions": [
+        "African American",
+        "Caribbean",
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "racism-and-mental-health",
+        "stigma-and-starting-therapy",
+        "finding-a-black-therapist"
+      ],
+      "what_people_do": "Turn to prayer, scripture, the pastor or the congregation when distressed, instead of or before therapy.",
+      "page": "https://vilivity.com/practices/prayer-and-faith-as-coping/",
+      "json": "https://vilivity.com/api/practices/prayer-and-faith-as-coping.json"
+    },
+    {
+      "slug": "traditional-and-faith-healing-for-mental-illness",
+      "name": "Prayer camps, faith and traditional healers for mental illness",
+      "module": "mind",
+      "regions": [
+        "West Africa",
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "mental-health-act-psychosis-and-misdiagnosis",
+        "stigma-and-starting-therapy"
+      ],
+      "what_people_do": "Families take people with psychosis or severe distress to a traditional healer, prayer camp or church; some centres use shackling, flogging and forced fasting.",
+      "page": "https://vilivity.com/practices/traditional-and-faith-healing-for-mental-illness/",
+      "json": "https://vilivity.com/api/practices/traditional-and-faith-healing-for-mental-illness.json"
+    },
+    {
+      "slug": "traditional-eye-remedies-for-babies-and-children",
+      "name": "Putting mascara, kohl, aloe, honey or breast milk in babies' eyes",
+      "module": "body",
+      "regions": [
+        "West Africa",
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "baby-skin-care"
+      ],
+      "what_people_do": "Apply mascara-type eye cosmetics to a newborn's eyes, or instil aloe, honey, plant sap or breast milk for red or sore eyes.",
+      "page": "https://vilivity.com/practices/traditional-eye-remedies-for-babies-and-children/",
+      "json": "https://vilivity.com/api/practices/traditional-eye-remedies-for-babies-and-children.json"
+    },
+    {
+      "slug": "root-work-and-gullah-herbal-remedies",
+      "name": "Root work and Gullah herbal remedies",
+      "module": "body",
+      "regions": [
+        "African American"
+      ],
+      "counted": true,
+      "documentation_status": "partial",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [],
+      "what_people_do": "Families in the South and Sea Islands use teas, poultices and spiritual practice drawn from herbal lore; the tradition is documented in books.",
+      "page": "https://vilivity.com/practices/root-work-and-gullah-herbal-remedies/",
+      "json": "https://vilivity.com/api/practices/root-work-and-gullah-herbal-remedies.json"
+    },
+    {
+      "slug": "satin-bonnet-and-scarf-at-night",
+      "name": "Satin bonnet, scarf or pillowcase at night",
+      "module": "hair",
+      "regions": [
+        "African American",
+        "Caribbean",
+        "Black British",
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "partial",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "none",
+      "links_to_entries": [
+        "hair-breakage-and-length-retention",
+        "edges-and-hairline"
+      ],
+      "what_people_do": "Cover the hair with a satin or silk bonnet or scarf, or sleep on a satin pillowcase.",
+      "page": "https://vilivity.com/practices/satin-bonnet-and-scarf-at-night/",
+      "json": "https://vilivity.com/api/practices/satin-bonnet-and-scarf-at-night.json"
+    },
+    {
+      "slug": "shea-butter-on-skin-hair-and-babies",
+      "name": "Shea butter on skin, hair and babies",
+      "module": "skin",
+      "regions": [
+        "West Africa",
+        "Caribbean",
+        "African American",
+        "Black British"
+      ],
+      "counted": false,
+      "documentation_status": "unverified",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "shea-butter",
+        "baby-skin-care"
+      ],
+      "what_people_do": "Rub raw or whipped shea butter on skin, scalp, hair and babies as a daily moisturiser.",
+      "page": "https://vilivity.com/practices/shea-butter-on-skin-hair-and-babies/",
+      "json": "https://vilivity.com/api/practices/shea-butter-on-skin-hair-and-babies.json"
+    },
+    {
+      "slug": "skin-lightening-and-bleaching",
+      "name": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "regions": [
+        "West Africa",
+        "Caribbean",
+        "African American",
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "skin-lightening-creams"
+      ],
+      "what_people_do": "Apply lightening creams, soaps or injections (hydroquinone, steroids, sometimes mercury) to the face or whole body, often for years, often from a young age.",
+      "page": "https://vilivity.com/practices/skin-lightening-and-bleaching/",
+      "json": "https://vilivity.com/api/practices/skin-lightening-and-bleaching.json"
+    },
+    {
+      "slug": "sorrel-drink",
+      "name": "Sorrel (hibiscus) drink",
+      "module": "food",
+      "regions": [
+        "Caribbean",
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "hibiscus-sorrel-blood-pressure",
+        "high-blood-pressure-in-black-adults"
+      ],
+      "what_people_do": "Steep dried sorrel calyces (Hibiscus sabdariffa) with ginger and cloves, sweeten and chill; a Christmas staple in Jamaica and drunk through the year; known as zobo or sobolo in West Africa.",
+      "page": "https://vilivity.com/practices/sorrel-drink/",
+      "json": "https://vilivity.com/api/practices/sorrel-drink.json"
+    },
+    {
+      "slug": "soursop-leaf-tea",
+      "name": "Soursop leaf tea",
+      "module": "food",
+      "regions": [
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "C",
+      "strength": "thin",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "soursop-graviola",
+        "bush-teas-cerasee-bitter-leaf-and-medicines"
+      ],
+      "what_people_do": "Steep soursop (graviola) leaves, or eat or juice the fruit, for sleep, nerves, \"sugar\", and increasingly as a cancer remedy.",
+      "page": "https://vilivity.com/practices/soursop-leaf-tea/",
+      "json": "https://vilivity.com/api/practices/soursop-leaf-tea.json"
+    },
+    {
+      "slug": "braids-and-extensions-on-relaxed-hair",
+      "name": "Tight braids, weaves and extensions on relaxed hair",
+      "module": "hair",
+      "regions": [
+        "West Africa",
+        "East and Southern Africa",
+        "African American",
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "yes",
+      "links_to_entries": [
+        "traction-alopecia-and-protective-styles",
+        "braids-twists-and-extensions",
+        "children-and-babies-hair"
+      ],
+      "what_people_do": "Put in tight cornrows, braids or extensions as a protective, low-maintenance style for weeks at a time.",
+      "page": "https://vilivity.com/practices/braids-and-extensions-on-relaxed-hair/",
+      "json": "https://vilivity.com/api/practices/braids-and-extensions-on-relaxed-hair.json"
+    },
+    {
+      "slug": "traditional-birth-attendant-herbs",
+      "name": "Traditional birth attendants' herbal remedies",
+      "module": "body",
+      "regions": [
+        "East and Southern Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Traditional birth attendants give herbal remedies for threatened miscarriage, labour complications, retained placenta and postpartum bleeding.",
+      "page": "https://vilivity.com/practices/traditional-birth-attendant-herbs/",
+      "json": "https://vilivity.com/api/practices/traditional-birth-attendant-herbs.json"
+    },
+    {
+      "slug": "high-blood-and-high-pertension",
+      "name": "Treating \"high blood\" by how you feel",
+      "module": "body",
+      "regions": [
+        "African American"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "high-blood-pressure-in-black-adults",
+        "salt-and-blood-pressure"
+      ],
+      "what_people_do": "Older Black women describe \"high blood\" or \"high-pertension\" as something felt in the blood and nerves, and manage medication by those symptoms.",
+      "page": "https://vilivity.com/practices/high-blood-and-high-pertension/",
+      "json": "https://vilivity.com/api/practices/high-blood-and-high-pertension.json"
+    },
+    {
+      "slug": "postpartum-abdominal-binding",
+      "name": "Tying cloth tightly around the abdomen after birth",
+      "module": "body",
+      "regions": [
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Tie a wrapper or cloth tight across the belly after delivery, for days or weeks.",
+      "page": "https://vilivity.com/practices/postpartum-abdominal-binding/",
+      "json": "https://vilivity.com/api/practices/postpartum-abdominal-binding.json"
+    },
+    {
+      "slug": "vaginal-steaming-and-feminine-cleansing",
+      "name": "Vaginal steaming and herbal feminine cleansing",
+      "module": "body",
+      "regions": [
+        "African American",
+        "West Africa",
+        "Caribbean"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "D",
+      "strength": "none",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "pregnancy-and-maternity-care"
+      ],
+      "what_people_do": "Sit over herbal steam or use herbal washes to \"clean\" the womb after periods or birth; promoted through wellness networks.",
+      "page": "https://vilivity.com/practices/vaginal-steaming-and-feminine-cleansing/",
+      "json": "https://vilivity.com/api/practices/vaginal-steaming-and-feminine-cleansing.json"
+    },
+    {
+      "slug": "vicks-vaporub-on-chest-and-feet",
+      "name": "Vicks VapoRub on the chest, feet and nose",
+      "module": "body",
+      "regions": [
+        "Caribbean",
+        "African American",
+        "Black British",
+        "West Africa"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "moderate",
+      "harm_flag": "possible",
+      "links_to_entries": [
+        "baby-skin-care"
+      ],
+      "what_people_do": "Rub Vicks on the chest, back, soles of the feet (under socks) or under the nose for colds, coughs and asthma, including on children.",
+      "page": "https://vilivity.com/practices/vicks-vaporub-on-chest-and-feet/",
+      "json": "https://vilivity.com/api/practices/vicks-vaporub-on-chest-and-feet.json"
+    },
+    {
+      "slug": "infrequent-hair-washing-and-long-gaps-between-wash-days",
+      "name": "Washing hair every few weeks",
+      "module": "hair",
+      "regions": [
+        "Black British",
+        "African American"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "low",
+      "links_to_entries": [
+        "wash-day-routine-for-4c-hair",
+        "scalp-itch-dandruff-and-seborrhoeic-dermatitis"
+      ],
+      "what_people_do": "Keep a style in for weeks and wash only now and then, often once every two to four weeks, longer in braids or weaves.",
+      "page": "https://vilivity.com/practices/infrequent-hair-washing-and-long-gaps-between-wash-days/",
+      "json": "https://vilivity.com/api/practices/infrequent-hair-washing-and-long-gaps-between-wash-days.json"
+    },
+    {
+      "slug": "natural-hairstyles-and-wellbeing-in-older-black-women",
+      "name": "Wearing hair natural in later life",
+      "module": "hair",
+      "regions": [
+        "Black British"
+      ],
+      "counted": true,
+      "documentation_status": "documented",
+      "tier": "B",
+      "strength": "thin",
+      "harm_flag": "none",
+      "links_to_entries": [
+        "hair-texture-types-and-typing"
+      ],
+      "what_people_do": "Stop relaxing and wearing complex styles; wear the natural texture.",
+      "page": "https://vilivity.com/practices/natural-hairstyles-and-wellbeing-in-older-black-women/",
+      "json": "https://vilivity.com/api/practices/natural-hairstyles-and-wellbeing-in-older-black-women.json"
+    }
+  ]
+}

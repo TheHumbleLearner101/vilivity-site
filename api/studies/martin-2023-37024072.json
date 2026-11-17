@@ -1,0 +1,30 @@
+{
+  "pmid": "37024072",
+  "slug": "martin-2023-37024072",
+  "citation": {
+    "authors": "Martin ZT, Akins JD, Merlau ER, Kolade JO et al",
+    "year": 2023,
+    "journal": "Microvascular Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37024072/",
+  "page": "https://vilivity.com/studies/martin-2023-37024072/",
+  "cited_by": [
+    {
+      "entry": "sauna-and-heat-bathing",
+      "title": "Sauna and heat bathing: heart health, recovery and risks",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sauna-and-heat-bathing/",
+      "record": {
+        "id": "martin-2023",
+        "population": "Eighteen healthy young females: nine Black (average 21) and nine White (average 27), United States",
+        "n": 18,
+        "design": "Single-session experiment: 60 minutes of whole-body heat therapy in a tube-lined hot-water suit (49 degrees C water), vascular tests before and 45 minutes after",
+        "finding": "Before heating there was no difference in vascular function between the groups. Heat improved forearm blood flow response and brachial artery flow-mediated dilation in both groups (6.2 to 8.8 per cent), with no effect on cerebral vascular reactivity.",
+        "line_tier": "A",
+        "note": "The only heat-therapy study in Black participants I found. It used a hot-water suit instead of a sauna, one session, in young women. It shows a short-term vascular response and no health outcome.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

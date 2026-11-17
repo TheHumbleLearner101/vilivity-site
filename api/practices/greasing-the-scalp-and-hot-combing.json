@@ -1,0 +1,59 @@
+{
+  "slug": "greasing-the-scalp-and-hot-combing",
+  "name": "Greasing the scalp (and pressing with a hot comb)",
+  "regions": [
+    "African American",
+    "Caribbean",
+    "Black British"
+  ],
+  "module": "hair",
+  "what_people_do": "Part the hair and rub a grease, pomade or oil onto the scalp, often as a weekly routine before braiding or pressing.",
+  "why_they_say_it_works": "Said to moisturise, heal the scalp and help growth.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Haskin A, Aguh C 2016, J Am Acad Dermatol, PMID 27114262",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27114262/",
+      "quote_or_summary": "Review of black hairstyling practices for traction alopecia; the abstract does not name greasing, so documentation of the grease habit is UNVERIFIED. The book Hair Story (Byrd and Tharps) is a likely source I did not open."
+    },
+    {
+      "source": "Reddit, r/Naturalhair (raw pull: _reddit/r2_naturalhair.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/Naturalhair/comments/1ghnatv/how_often_do_you_oilgrease_your_scalphair/",
+      "quote_or_summary": "5 users across threads describe greasing or oiling the scalp or parts, or having it done in childhood. (1) Oils the scalp every wash day, about weekly. (2) Oiled the scalp as a child, stopped as an adult. Other threads: https://www.reddit.com/r/Naturalhair/comments/1ds19uf/why_do_people_oil_and_grease_their_scalp/ (3) puts a rosemary hair oil on the scalp every night. https://www.reddit.com/r/Naturalhair/comments/1jb9djt/how_many_of_you_still_grease_your_scalp_or_have/ (4) uses Blue Magic grease on the parts and to seal over the lengths when twisting; (5) had grease put on the parts when a little girl having hair done. Region not stated. Several others in these threads say they never oil the scalp; the practice is documented as common, not universal."
+    },
+    {
+      "source": "Reddit, r/blackladies (raw pull: _reddit/r4_blackladies_a.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/blackladies/comments/1hzry9l/hair_tips_cold_climate_girlies/",
+      "quote_or_summary": "1 further user (6 users in total with the above), in a cold dry climate, says to grease the scalp with heavy creams and a moisturising shampoo; 2 more name hair grease as their go-to (a Carol's Daughter grease and an unnamed grease), not specifically on the scalp. Region not stated. Hot-combing is not documented in the retrieved forum posts."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Greasing as an intervention",
+      "population": "n/a",
+      "finding": "No randomised trial found; the scalp-oiling entry has industry-funded fibre studies only.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Heavy products on a scalp with seborrhoeic dermatitis can feed yeast (dermatology guidance in the bank's scalp-oiling entry).",
+  "links_to_entries": [
+    "scalp-oiling-and-greasing"
+  ],
+  "gaps": [
+    "Survey of greasing frequency not found.",
+    "Forum documentation only (Reddit, 6 users); the hot-comb half of the practice is not documented in the retrieved posts. Region not stated."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/greasing-the-scalp-and-hot-combing/"
+}

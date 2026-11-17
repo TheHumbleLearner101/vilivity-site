@@ -1,0 +1,47 @@
+{
+  "pmid": "21875181",
+  "slug": "cabral-2011-21875181",
+  "citation": {
+    "authors": "Cabral RR, Smith TB",
+    "year": 2011,
+    "journal": "Journal of Counseling Psychology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21875181/",
+  "page": "https://vilivity.com/studies/cabral-2011-21875181/",
+  "cited_by": [
+    {
+      "entry": "colourism-and-mental-health",
+      "title": "Colourism, skin tone and mental health",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/colourism-and-mental-health/",
+      "record": {
+        "id": "cabral-2011",
+        "population": "Clients and therapists across 52 to 81 studies per question; countries not stated in the abstract",
+        "n": "52 preference, 81 perception, 53 outcome studies",
+        "design": "Meta-analysis of racial/ethnic matching",
+        "finding": "Matching made almost no difference to treatment outcomes on average (d 0.09), despite a moderately strong preference for a matched therapist (d 0.63). Studies with African American participants had the highest effect sizes.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "finding-a-black-therapist",
+      "title": "Finding a Black therapist or one who understands being Black",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/finding-a-black-therapist/",
+      "record": {
+        "id": "cabral-2011",
+        "population": "Clients and therapists across 52 to 81 studies per question; countries not stated in the abstract",
+        "n": "52 preference, 81 perception, 53 outcome studies",
+        "design": "Meta-analysis of racial/ethnic matching: preferences, perceptions and outcomes",
+        "finding": "People preferred a therapist of their own race or ethnicity (d 0.63, moderately strong) and rated them somewhat more positively (d 0.32), but matching made almost no difference to treatment outcomes on average (d 0.09). Effects varied a lot between studies, and studies with African American participants had the highest effect sizes on all three.",
+        "line_tier": "B",
+        "note": "Abstract read in full. Mostly US data; the abstract does not say how many studies were UK (UNVERIFIED).",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

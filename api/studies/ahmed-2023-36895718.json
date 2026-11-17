@@ -1,0 +1,30 @@
+{
+  "pmid": "36895718",
+  "slug": "ahmed-2023-36895718",
+  "citation": {
+    "authors": "Ahmed K, Abdu Y, Khasawneh S, Shukri A et al",
+    "year": 2023,
+    "journal": "Frontiers in Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36895718/",
+  "page": "https://vilivity.com/studies/ahmed-2023-36895718/",
+  "cited_by": [
+    {
+      "entry": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+      "title": "Fasting in Ramadan with diabetes or sickle cell",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/ramadan-and-religious-fasting-with-diabetes-or-sickle-cell/",
+      "record": {
+        "id": "ahmed-2023",
+        "population": "52 adult Muslims with sickle cell disease in Qatar (about 70% Arab, the rest African or Asian; 90% HbSS) who fasted in Ramadan 2019 to 2021",
+        "n": "52",
+        "design": "Retrospective record review comparing one month before, during and after Ramadan",
+        "finding": "The numbers of severe vaso-occlusive crises and haemolytic crises did not differ significantly before, during or after Ramadan. Platelet count, reticulocyte count and creatinine did differ. The authors call it preliminary and say larger studies are needed.",
+        "line_tier": "B",
+        "note": "Small, retrospective, patients who chose to fast; mostly Arab, so a mixed match for Black Muslims.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

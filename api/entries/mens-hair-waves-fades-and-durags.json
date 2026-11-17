@@ -1,0 +1,191 @@
+{
+  "slug": "mens-hair-waves-fades-and-durags",
+  "title": "Men's afro hair: waves, fades, durags and the nape",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I get and keep waves, a fade or a durag routine?",
+    "How do I care for 4c hair as a man?"
+  ],
+  "tradition_says": "Waves are trained by brushing in a pattern, moisturising several times a day and wearing a durag at night. Close fades and tapers are kept sharp with regular cuts, and men are told 4c hair needs little care.",
+  "layer1": {
+    "plain_answer": "No study has tested a waves routine or durags for scalp or hair health. Barber guides say brush, moisturise and wear a satin durag; that is untested. The part with a medical record is the nape: bumps from very close cuts or shaving there can be acne keloidalis nuchae, a scarring condition in men of African descent.",
+    "do": [
+      {
+        "text": "Start with a healthy scalp: treat dryness or dandruff before a brushing routine.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Wise Barber, \"How to get 360 waves\" (a barber guide site)",
+          "url": "https://wisebarber.com/how-to-get-360-waves",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wear a silk or satin durag at night, with the seam outside and not tied too tight.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Wise Barber, \"How to get 360 waves\" (a barber guide site)",
+          "url": "https://wisebarber.com/how-to-get-360-waves",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a soft brush if the scalp is sensitive.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Wise Barber, \"How to get 360 waves\" (a barber guide site)",
+          "url": "https://wisebarber.com/how-to-get-360-waves",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wash 4c hair every 1 to 3 weeks and use conditioner, as for any coiled hair.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor for bumps at the back of the neck: acne keloidalis nuchae is a scarring condition.",
+        "basis": "tested",
+        "source": "ogunbiyi-2016"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Brushing hard or three times a day on a tender scalp: hard bristles can be harsh.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Wise Barber, \"How to get 360 waves\" (a barber guide site)",
+          "url": "https://wisebarber.com/how-to-get-360-waves",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tying a durag or head wrap so tight it pulls.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ignoring bumps, pus or keloid-like scars at the nape; very close cuts there are suspected, not proven, triggers.",
+        "basis": "tested",
+        "source": "ogunbiyi-2016"
+      }
+    ],
+    "see_someone_when": [
+      "Bumps, pus or scars at the back of the head or neck (doctor, then dermatologist: acne keloidalis nuchae).",
+      "Itchy, flaky scalp that has not settled after 4 weeks of an anti-dandruff shampoo (doctor).",
+      "Hairline thinning, crown thinning or tenderness (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Review of acne keloidalis nuchae (folliculitis keloidalis nuchae)",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "AKN is a chronic scarring folliculitis seen mostly in men of African descent after puberty and is classed as a primary scarring alopecia. The cause is unknown; suggested inciting factors include androgens, inflammation, infection, trauma, genetics and ingrowing hairs.",
+      "source": {
+        "authors": "Ogunbiyi A",
+        "year": 2016,
+        "journal": "Clinical, Cosmetic and Investigational Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28008278/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "ogunbiyi-2016"
+    },
+    {
+      "population": "390 HIV-positive South African men, clinic",
+      "design": "Prevalence survey of clean-shave haircut bleeding and folliculitis keloidalis nuchae",
+      "n": 390,
+      "finding": "Haircut-associated bleeding and FKN were studied in men who wear the very close \"chiskop\" haircut; FKN prevalence was similar to published population data. The abstract is truncated beyond that in the record read.",
+      "source": {
+        "authors": "Khumalo NP, Gantsho N",
+        "year": 2013,
+        "journal": "South African Medical Journal",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23802217/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Only the first part of the abstract was read; the bleeding result is not quoted.",
+      "id": "khumalo-chiskop-2013"
+    },
+    {
+      "population": "Waves routine and durags",
+      "design": "PubMed search run 12 Nov 2026, exact string: (durag OR \"360 waves\" OR \"hair brushing\" OR pomade) AND (scalp OR hair) AND (African American OR Black OR afro) (result count 5).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 5 results: a stroke motion-capture paper, a breast cancer and puberty product-use cohort, an acne review, a sheep paper and a 1995 review of skin disorders in Black children (PMIDs 42973162, 38306193, 34818170, 29037398, 7742234); none studies waves routines or durags. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no study of waves routines or durags and scalp or hair health.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28durag+OR+%22360+waves%22+OR+%22hair+brushing%22+OR+pomade%29+AND+%28scalp+OR+hair%29+AND+%28African+American+OR+Black+OR+afro%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "waves"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a waves routine or durag helps or harms the scalp: no study found; barber guides are commercial advice.",
+  "tier_note": "D because the claims about waves and durags have no human study. The nape condition (acne keloidalis nuchae) is B evidence from reviews and is cited as a harm signal. A study of scalp outcomes by grooming practice would move it.",
+  "harm_flag": true,
+  "harm_note": "Acne keloidalis nuchae is a chronic scarring folliculitis seen mostly in men of African descent, causes unknown with trauma and ingrowing hairs suggested (Ogunbiyi 2016). Close cuts are suspected, not proven.",
+  "founder_flag": false,
+  "evidence_summary": "A review of acne keloidalis nuchae (Ogunbiyi 2016) describes it as chronic scarring folliculitis mostly in post-pubertal men of African descent, with androgens, inflammation, infection, trauma, genetics and ingrowing hairs suggested but the cause unknown. A South African survey of men wearing a very close clean-shave haircut (the \"chiskop\") looked at haircut-associated bleeding and nape keloids (Khumalo 2013; only the opening of the abstract was read). The waves routine advice (brush daily, moisturise three times a day, wear a durag) is from a barber guide site and is untested.",
+  "measured_variables": [
+    "Haircut closeness (self-reported)"
+  ],
+  "gaps": "Untested: any waves routine, durag, brushing or pomade on scalp health; whether close fades cause nape bumps (suspected only); men's braid care (see the braids entry). No men-specific wash-interval study.",
+  "related": [
+    "braids-twists-and-extensions",
+    "mens-hair-loss-and-hair-transplants",
+    "shaving-and-razor-bumps",
+    "scalp-itch-dandruff-and-seborrhoeic-dermatitis"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Ogunbiyi A",
+      "year": 2016,
+      "journal": "Clinical, Cosmetic and Investigational Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28008278/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2013,
+      "journal": "South African Medical Journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23802217/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "Wise Barber, \"How to get 360 waves\" (a barber guide site)",
+      "url": "https://wisebarber.com/how-to-get-360-waves",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

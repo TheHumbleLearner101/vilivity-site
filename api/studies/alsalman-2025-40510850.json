@@ -1,0 +1,30 @@
+{
+  "pmid": "40510850",
+  "slug": "alsalman-2025-40510850",
+  "citation": {
+    "authors": "Alsalman MH, Alsalman Z, Alshams MM, Aljasem JM et al",
+    "year": 2025,
+    "journal": "Frontiers in Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40510850/",
+  "page": "https://vilivity.com/studies/alsalman-2025-40510850/",
+  "cited_by": [
+    {
+      "entry": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+      "title": "Fasting in Ramadan with diabetes or sickle cell",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/ramadan-and-religious-fasting-with-diabetes-or-sickle-cell/",
+      "record": {
+        "id": "alsalman-2025",
+        "population": "320 adult Muslims with sickle cell disease in Saudi Arabia (67% fasted)",
+        "n": "320",
+        "design": "Cross-sectional interview study",
+        "finding": "A history of crises, emergency visits, acute chest syndrome or intensive care admission made fasting the whole month less likely. People with more than four episodes or more than four emergency visits in a year had higher odds of complications in the 30 days after Ramadan. The authors say effects are subtle during the month and larger afterwards.",
+        "line_tier": "B",
+        "note": "Self-reported by interview; association only; not a Black population.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

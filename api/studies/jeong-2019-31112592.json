@@ -1,0 +1,30 @@
+{
+  "pmid": "31112592",
+  "slug": "jeong-2019-31112592",
+  "citation": {
+    "authors": "Jeong J, Zhu H, Harris RA, Dong Y et al",
+    "year": 2019,
+    "journal": "American Journal of Hypertension"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31112592/",
+  "page": "https://vilivity.com/studies/jeong-2019-31112592/",
+  "cited_by": [
+    {
+      "entry": "melatonin-for-sleep",
+      "title": "Melatonin for sleep: what it does, dose and rules by country",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/melatonin-for-sleep/",
+      "record": {
+        "id": "jeong-2019",
+        "population": "Young adults in the Georgia Stress and Heart study: 71 African American and 79 European American",
+        "n": 150,
+        "design": "Cross-sectional study of overnight urinary melatonin (6-sulfatoxymelatonin) and 24-hour blood pressure",
+        "finding": "After adjustment, African American participants had lower night-time melatonin excretion and higher night-time systolic blood pressure. Lower melatonin went with higher night-time blood pressure in both groups, and melatonin partly explained the group difference in pressure.",
+        "line_tier": "B",
+        "note": "The body's own melatonin, not supplements. Group difference is a measured association in 150 young adults; the variable behind it is not known.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

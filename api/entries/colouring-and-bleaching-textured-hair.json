@@ -1,0 +1,200 @@
+{
+  "slug": "colouring-and-bleaching-textured-hair",
+  "title": "Colouring and bleaching afro-textured hair",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Can I colour or bleach 4c hair without ruining it?",
+    "Is hair dye safe on natural or relaxed hair?"
+  ],
+  "tradition_says": "Coily hair is too fragile to colour and bleach always ruins it, or a professional colour is safe on any hair if you add a bond-repair treatment.",
+  "layer1": {
+    "plain_answer": "Bleaching and dyeing damage the hair surface whatever the curl, in lab tests on hair samples; no study has tested a colour or bleach routine in people with coiled hair. Dermatologists advise 2 weeks after a relaxer, and the UK's NHS a strand test at least 48 hours before dyeing, because dye can cause allergy.",
+    "do": [
+      {
+        "text": "Do a strand test at least 48 hours before dyeing, and buy a home patch-test kit if you think you may be allergic.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Hair dye reactions\"",
+          "url": "https://www.nhs.uk/conditions/hair-dye-reactions/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leave 2 weeks between a relaxer and dyeing or heat straightening.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Watch for stinging, burning, itch, swelling or blisters for up to 72 hours; a rash can look darker or be harder to see on brown and black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Hair dye reactions\"",
+          "url": "https://www.nhs.uk/conditions/hair-dye-reactions/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you react, wash hair and scalp straight away with mild shampoo and stop using the dye.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Hair dye reactions\"",
+          "url": "https://www.nhs.uk/conditions/hair-dye-reactions/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming bleach is kinder to coily hair: in a lab, bleaching and dyeing damaged the surface in every curl type.",
+        "basis": "tested",
+        "source": "bloch-2019"
+      },
+      {
+        "text": "Stacking bleach, straightening and heat on the same hair: lab work found combined treatments changed the fibre more than single ones.",
+        "basis": "tested",
+        "source": "dos-santos-2019"
+      },
+      {
+        "text": "Dyeing soon after a relaxer: the BAD leaflet says this causes cumulative damage.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Swelling of the lips, mouth, throat or tongue, or fast or difficult breathing after dye: call 999 (UK).",
+      "A rash, blisters or soreness that gets worse after colouring (doctor).",
+      "Hair breaking or thinning after colouring or bleaching (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Caucasian (straight, wavy, curly) and Afro-ethnic hair tresses",
+      "design": "Laboratory comparison of bleaching or dyeing, thioglycolate straightening, brushing with a flat iron, and UVA/visible light",
+      "n": "not stated",
+      "finding": "Bleaching, dyeing and UV light increased the combing work of afro-ethnic tresses, indicating cuticle damage confirmed by electron microscopy. Bleaching and dyeing caused wear on cuticles with high protein loss whatever the curliness. Thioglycolate straightening faded brown and black tresses.",
+      "source": {
+        "authors": "Bloch et al",
+        "year": 2019,
+        "journal": "Journal of the European Academy of Dermatology and Venereology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31237371/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Hair samples, not people. The abstract does not report a result for flat-iron heat alone.",
+      "id": "bloch-2019"
+    },
+    {
+      "population": "Caucasian and Afro hair samples, treated with heat, bleach and straightening alone and together",
+      "design": "Laboratory: Raman spectroscopy and electron microscopy",
+      "n": "not stated",
+      "finding": "Bleaching, straightening and heat changed chemical bonds and protein structure; excessive heat caused the largest change, and applying several treatments to the same fibres caused even more pronounced changes. The two hair groups showed small differences for each treatment.",
+      "source": {
+        "authors": "Dos Santos et al",
+        "year": 2019,
+        "journal": "Heliyon",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31111104/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Hair samples, not people.",
+      "id": "dos-santos-2019"
+    },
+    {
+      "population": "54,917 patients patch tested to paraphenylenediamine (PPD) by the North American Contact Dermatitis Group, 1994-2018",
+      "design": "Retrospective analysis",
+      "n": "54917",
+      "finding": "3,095 (5.6%) had an allergic reaction to PPD; hair dye was the source in 73.5%. Allergic patients had lower odds of being White (odds ratio 0.66) and higher odds of being over 40 and female. Of occupational reactions (8.3%), 72.8% were in hairdressers or cosmetologists.",
+      "source": {
+        "authors": "Warshaw EM et al",
+        "year": 2023,
+        "journal": "Dermatitis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37523239/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Patients referred for patch testing, not the general population; PPD is one dye chemical.",
+      "id": "warshaw-2023"
+    },
+    {
+      "population": "Colour or bleach routines in coiled hair",
+      "design": "PubMed search run 12 Nov 2026, exact string: hair bleaching AND (damage OR breakage) AND (afro OR African OR curly) (result count 7).",
+      "n": 0,
+      "finding": "My search found nothing in people: of 7 results I read all titles; the relevant ones are Bloch 2019, Dos Santos 2019 and a three-ethnicity chemical-damage comparison (Lee 2014, PMID 24261682); all are hair-fibre lab studies. None tests a routine or a bond-repair product in people. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hair+bleaching+AND+%28damage+OR+breakage%29+AND+%28afro+OR+African+OR+curly%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "colour-search"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That any colour or bleach routine can be done on coiled hair without damage, or that a product repairs it: no human study; lab studies show damage in all curl types.",
+  "tier_note": "D because the claim people make (a safe colour or bleach routine) has no human study; the lab damage work is C and the allergy data are B and do not lift the headline. A trial of colour routines with breakage or hair-loss outcomes would move it.",
+  "harm_flag": true,
+  "harm_note": "Harm signal: bleaching and dyeing damage hair fibres in the lab (Bloch 2019, Dos Santos 2019), and hair dye is the commonest source of PPD allergy in a large patch-test series (Warshaw 2023).",
+  "founder_flag": false,
+  "evidence_summary": "Lab work on hair samples (Bloch 2019; Dos Santos 2019; Lee 2014 title only) shows bleaching and dyeing damage the cuticle and strip protein whatever the curliness, and combined treatments do more. Allergy: in a large North American patch-test series, 5.6% of those tested reacted to PPD, mostly from hair dye, and hairdressers were most of the occupational cases. NHS and BAD give the practice points. I found no human study of bond-repair products in coiled hair (my search covered none); their effect is untested.",
+  "measured_variables": [
+    "Hair breakage (not measured)",
+    "PPD allergy (patch test)"
+  ],
+  "gaps": "Untested: which colour or bleach routine is least damaging; bond-repair products; timing around relaxers beyond the BAD 2-week gap. Closes the 12 Nov partial as \"damage and allergy guidance only; routine untested\".",
+  "related": [
+    "heat-styling-silk-press-and-smoothing-treatments",
+    "relaxer-texturiser-perm-and-keratin-differences",
+    "chemical-relaxers",
+    "hair-breakage-and-length-retention"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Bloch et al",
+      "year": 2019,
+      "journal": "Journal of the European Academy of Dermatology and Venereology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31237371/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Dos Santos et al",
+      "year": 2019,
+      "journal": "Heliyon",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31111104/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Warshaw EM et al",
+      "year": 2023,
+      "journal": "Dermatitis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37523239/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Hair dye reactions\"",
+      "url": "https://www.nhs.uk/conditions/hair-dye-reactions/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

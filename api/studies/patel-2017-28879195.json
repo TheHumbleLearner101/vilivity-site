@@ -1,0 +1,30 @@
+{
+  "pmid": "28879195",
+  "slug": "patel-2017-28879195",
+  "citation": {
+    "authors": "Patel DP, Swink SM et al",
+    "year": 2017,
+    "journal": "Skin Appendage Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28879195/",
+  "page": "https://vilivity.com/studies/patel-2017-28879195/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "patel-biotin-2017",
+        "population": "Published case reports and randomised trials of biotin for hair and nails",
+        "n": "not stated",
+        "design": "Systematic literature review",
+        "finding": "Eighteen reported cases of biotin use for hair and nail changes; in all of them the patient had an underlying cause of poor hair or nail growth and improved. The authors found limited research showing biotin works in healthy people and propose there is insufficient evidence for supplementation in healthy individuals.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

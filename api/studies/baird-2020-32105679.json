@@ -1,0 +1,30 @@
+{
+  "pmid": "32105679",
+  "slug": "baird-2020-32105679",
+  "citation": {
+    "authors": "Baird DD, Patchel SA, Saldana TM, Umbach DM et al",
+    "year": 2020,
+    "journal": "American Journal of Obstetrics and Gynecology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32105679/",
+  "page": "https://vilivity.com/studies/baird-2020-32105679/",
+  "cited_by": [
+    {
+      "entry": "iron-and-fibroids",
+      "title": "Iron, heavy periods and fibroids",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/iron-and-fibroids/",
+      "record": {
+        "id": "baird-2020",
+        "population": "1,693 African American women aged 23-35 with no prior fibroid diagnosis",
+        "n": 1693,
+        "design": "Prospective, community-based, ultrasound at enrolment and about 18 months",
+        "finding": "Among 1,123 fibroid-free women with follow-up, incidence was 9.4% over about 18 months, rising from 6% at ages 23-25 to 13% at 32-35. Women with existing fibroids were more than twice as likely to develop new ones (relative risk 2.3). Average fibroid growth was 89% per 18 months.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

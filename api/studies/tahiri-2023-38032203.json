@@ -1,0 +1,30 @@
+{
+  "pmid": "38032203",
+  "slug": "tahiri-2023-38032203",
+  "citation": {
+    "authors": "Tahiri M, Johnsrud C, Steffensen IL",
+    "year": 2023,
+    "journal": "Critical Reviews in Toxicology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38032203/",
+  "page": "https://vilivity.com/studies/tahiri-2023-38032203/",
+  "cited_by": [
+    {
+      "entry": "sea-moss-irish-moss",
+      "title": "Sea moss (Irish moss): health claims, iodine and heavy metals",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/sea-moss-irish-moss/",
+      "record": {
+        "id": "tahiri-2023",
+        "population": "Humans, experimental mammals and cells (scoping review of the additives carrageenan E407 and processed Eucheuma seaweed E407a)",
+        "n": "262 publications (5 in humans for carrageenan)",
+        "design": "Scoping review of 262 publications",
+        "finding": "The most studied adverse effects of carrageenan on the intestines were inflammation, the gut microbiome, intestinal permeability, and cancer, metabolic and immune effects. Only five publications on carrageenan were in humans. The authors call for randomised trials of realistic dietary exposures.",
+        "line_tier": "C",
+        "note": "About the food additive, not sea moss gel; it maps what is unknown and shows that human data are scarce. Counted as lab-level because most publications were in animals and cells.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "18039988",
+  "slug": "krishnan-2007-18039988",
+  "citation": {
+    "authors": "Krishnan S, Rosenberg L, Singer M, Hu FB et al",
+    "year": 2007,
+    "journal": "Archives of Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18039988/",
+  "page": "https://vilivity.com/studies/krishnan-2007-18039988/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "krishnan-2007",
+        "population": "About 59,000 US Black women in the Black Women's Health Study, 8 years' follow-up, 1,938 new cases of diabetes",
+        "n": "about 59,000",
+        "design": "Prospective cohort study with food-frequency questionnaire",
+        "finding": "Women in the highest fifth for dietary glycaemic index had 23% higher diabetes rates than the lowest fifth (IRR 1.23, 95% CI 1.05 to 1.44), and women in the highest fifth for cereal fibre had 18% lower (IRR 0.82). Associations were stronger in women with a BMI under 25.",
+        "line_tier": "B",
+        "note": "Observational, self-reported diet; one cohort; it does not say which individual staples drive the result.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

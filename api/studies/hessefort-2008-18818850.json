@@ -1,0 +1,30 @@
+{
+  "pmid": "18818850",
+  "slug": "hessefort-2008-18818850",
+  "citation": {
+    "authors": "Hessefort Y, Holland BT, Cloud RW",
+    "year": 2008,
+    "journal": "Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18818850/",
+  "page": "https://vilivity.com/studies/hessefort-2008-18818850/",
+  "cited_by": [
+    {
+      "entry": "hair-porosity-and-moisture",
+      "title": "Hair porosity and moisture",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-porosity-and-moisture/",
+      "record": {
+        "id": "hessefort-2008",
+        "population": "Hair fibre samples (laboratory)",
+        "n": "not stated",
+        "design": "Gas sorption measurement of true pore volume and surface area in damaged hair",
+        "finding": "Bleach damage and UV damage change hair porosity by different pathways; bleach nearly triples surface area in the first minute, then it falls, while UV damage shows an immediate loss then gradual increase. This defines porosity as a measurable pore property of the fibre.",
+        "line_tier": "C",
+        "note": "Not afro-textured hair specifically; the abstract does not give hair types.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

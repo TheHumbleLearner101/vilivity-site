@@ -1,0 +1,307 @@
+{
+  "slug": "hair-breakage-and-length-retention",
+  "title": "Hair breakage, growth and keeping length",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I grow my black hair longer and faster?",
+    "Why is my 4c hair not growing, and is it growing but breaking?",
+    "Why is my hair breaking and how do I stop it?",
+    "Which brushes, combs, dryers and tools are good for 4c hair?",
+    "Is Black hair really harder to grow, and what are the myths?"
+  ],
+  "tradition_says": "Black hair is said not to grow, or to grow slowly; the answer passed down is to protect the ends, moisturise, and avoid the comb. Length checks and \"length retention\" are a community goal.",
+  "layer1": {
+    "plain_answer": "Tightly coiled hair does grow, but it breaks more easily when combed or handled, so the length you keep depends on breakage. Company studies measure slower growth in African hair, but nobody has tested how to keep length. Gentle detangling is the best-supported step. No product is shown to repair a strand.",
+    "do": [
+      {
+        "text": "Detangle gently with as few passes as you can.",
+        "basis": "tested",
+        "source": "molamodi-2021"
+      },
+      {
+        "text": "Use a soft wide-spaced brush or wide-toothed comb.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Protect hair at night with a satin cap, scarf or pillowcase.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Give relaxers, heat and braids time apart rather than stacking them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Regular trims and a break between long tight styles (4 to 6 weeks).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+          "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Rough or repeated combing: more strokes meant more cuticle damage.",
+        "basis": "tested",
+        "source": "molamodi-2021"
+      },
+      {
+        "text": "Tight styles on relaxed hair.",
+        "basis": "tested",
+        "source": "khumalo-2008"
+      },
+      {
+        "text": "Heat at a higher setting than the style needs.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hair breaks or thins in a patch, or the scalp looks shiny or scarred (dermatologist).",
+      "Shedding that is sudden or all over (doctor).",
+      "Scalp pain, bumps or itch with the breakage (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "38 adults from Central and West Africa",
+      "design": "Phototrichogram, three scalp regions",
+      "n": 38,
+      "finding": "Mean growth 256 micrometres a day against 396 in Caucasian volunteers (comparison from earlier work); density 190 against 227 hairs per cm squared. By my arithmetic that is about 0.8 cm a month against 1.2.",
+      "source": {
+        "authors": "Loussouarn G",
+        "year": 2001,
+        "journal": "British Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11531795/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Author affiliation L'Oreal. Small sample; comparison with older data. Growth rate is not length kept.",
+      "id": "loussouarn-2001"
+    },
+    {
+      "population": "2,249 young adults from 24 ethnic groups",
+      "design": "Measurement of density, growth and diameter",
+      "n": 2249,
+      "finding": "African hair had lower density and slower growth than the other groups; Asian hair was thicker and faster.",
+      "source": {
+        "authors": "Loussouarn G et al",
+        "year": 2016,
+        "journal": "European Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27019510/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "L'Oreal-funded. Measures growth rate, not length retention.",
+      "id": "loussouarn-2016"
+    },
+    {
+      "population": "12 African volunteers, Oxford; over 2,000 hairs",
+      "design": "Hair-fibre examination",
+      "n": 12,
+      "finding": "Afro-textured shafts knotted and fractured far more often when combed: 10 to 16% of shafts knotted against 0.15% in other groups.",
+      "source": {
+        "authors": "Khumalo NP et al",
+        "year": 2000,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11050586/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "12 volunteers with no chemical treatment and limited grooming: shows untreated hair, not how common knotting is in daily life.",
+      "id": "khumalo-2000"
+    },
+    {
+      "population": "African hair samples, electron microscopy",
+      "design": "Structural study of fragile afro hair",
+      "n": "not stated",
+      "finding": "Cystine-rich proteins were distributed as in other hair types, so fragility was not explained by a protein defect; the authors read the damage as grooming trauma rather than inherent weakness.",
+      "source": {
+        "authors": "Khumalo NP, Dawber RP, Ferguson DJ",
+        "year": 2005,
+        "journal": "Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15810890/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Small electron-microscopy study.",
+      "id": "khumalo-2005"
+    },
+    {
+      "population": "30 women (15 frequent braiders against 15 comparison women); hair fibres studied in the laboratory",
+      "design": "Fibre damage after standardised combing strokes and comparison of braiders and non-braiders",
+      "n": 30,
+      "finding": "Cuticle damage rose in a linear trend with the number of combing strokes; 480 strokes did more cuticle damage than frequent braiding. Frequent braiders had weaker, thinner fibres.",
+      "source": {
+        "authors": "Molamodi et al",
+        "year": 2021,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33605448/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Small. Funder not stated in the abstract. Hair-fibre measurements, not hair length kept.",
+      "id": "molamodi-2021"
+    },
+    {
+      "population": "Review of hair-fibre studies across hair types",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Curlier hair has a smaller, elliptical cross-section. Fragility is attributed to knotting and cracking rather than to a structural weakness. Sources disagree on water uptake. The review calls the eight-type curl system possibly too complex to reproduce.",
+      "source": {
+        "authors": "Daniels G, Fraser A, Westgate G",
+        "year": 2023,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36374002/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "id": "daniels-2023"
+    },
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; logistic regression",
+      "n": 1178,
+      "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional: association, not cause.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "Length retention",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"hair breakage\" OR \"length retention\") AND (afro-textured hair OR \"African American\" OR \"Black women\") (result count 11).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 11 results: I read all 11 titles: relaxer reviews, a hair care practices study (PMID 26300276), a breakage review (PMID 26207659) and CCCA case series; none measures length kept under different routines. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no study measures length kept under different routines. The control searches for growth rate returned abstracts.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22hair+breakage%22+OR+%22length+retention%22%29+AND+%28afro-textured+hair+OR+%22African+American%22+OR+%22Black+women%22%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "length-retention"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That any routine, product or style helps you keep more length: no study measures length retention.",
+  "tier_note": "D because the claim people make (do X to grow or keep length) has no human study; growth rate and fibre fragility are measured, but they are C and B lines about different questions. A trial measuring length kept under two routines would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search.",
+  "founder_flag": false,
+  "evidence_summary": "Measured growth rate in two L'Oreal-affiliated studies was lower in African samples (256 against 396 micrometres a day in 38 adults, Loussouarn 2001; lower density and slower growth across 2,249 adults, Loussouarn 2016), and the samples were small or old. Growth rate is how fast hair leaves the scalp, not how much length you keep. In the lab, afro-textured shafts knot and fracture far more under combing (Khumalo 2000) without a protein defect (Khumalo 2005), and damage rose with each combing stroke (Molamodi 2021, 30 women). Whether the base fibre is weaker or just more stressed is contested (Daniels 2023). \"Black hair does not grow\" is supported by nothing.",
+  "measured_variables": [
+    "Hair shaft shape (curl, cross-section)",
+    "Growth rate (micrometres a day)",
+    "Hair density (hairs per cm squared)"
+  ],
+  "gaps": "Untested: length retention under any routine; whether hair vitamins change breakage; heat; humidity. Not verified: Loussouarn 2005 (no abstract), direction of the Lewallen 2015 differences.",
+  "related": [
+    "wash-day-routine-for-4c-hair",
+    "traction-alopecia-and-protective-styles",
+    "hair-growth-oils-and-supplements",
+    "hair-porosity-and-moisture"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Loussouarn G",
+      "year": 2001,
+      "journal": "British Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11531795/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Loussouarn G et al",
+      "year": 2016,
+      "journal": "European Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27019510/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2000,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11050586/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2005,
+      "journal": "Experimental Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15810890/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Molamodi et al",
+      "year": 2021,
+      "journal": "International Journal of Cosmetic Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33605448/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Daniels G et al",
+      "year": 2023,
+      "journal": "International Journal of Cosmetic Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36374002/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+      "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+      "tag": "[commentary]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

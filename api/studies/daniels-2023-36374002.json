@@ -1,0 +1,47 @@
+{
+  "pmid": "36374002",
+  "slug": "daniels-2023-36374002",
+  "citation": {
+    "authors": "Daniels G, Fraser A, Westgate G",
+    "year": 2023,
+    "journal": "International Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36374002/",
+  "page": "https://vilivity.com/studies/daniels-2023-36374002/",
+  "cited_by": [
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "daniels-2023",
+        "population": "Review of hair-fibre studies across hair types",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Curlier hair has a smaller, elliptical cross-section. Fragility is attributed to knotting and cracking rather than to a structural weakness. Sources disagree on water uptake. The review calls the eight-type curl system possibly too complex to reproduce.",
+        "line_tier": "C",
+        "note": null,
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "daniels-2023",
+        "population": "Review of hair-fibre studies across hair types",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Curlier hair has a smaller, elliptical cross-section. Fragility is attributed to knotting and cracking rather than to a structural weakness. Sources disagree on water uptake. The review calls the eight-type curl system possibly too complex to reproduce.",
+        "line_tier": "C",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

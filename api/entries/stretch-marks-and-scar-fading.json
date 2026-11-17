@@ -1,0 +1,176 @@
+{
+  "slug": "stretch-marks-and-scar-fading",
+  "title": "Stretch marks and fading scars",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "How do I fade scars and stretch marks on dark skin?",
+    "Does cocoa butter stop stretch marks?",
+    "Do stretch marks fade?"
+  ],
+  "tradition_says": "Cocoa butter, shea butter and oils are rubbed on in pregnancy and puberty to stop or fade stretch marks, a practice handed down in many families.",
+  "layer1": {
+    "plain_answer": "No cream, butter or oil has been shown to stop stretch marks, and a trial of cocoa butter in pregnant women found it made no difference. They usually fade over time. Retinoid creams or hyaluronic acid may help new ones, and laser carries a higher risk of dark marks and burns in dark skin.",
+    "do": [
+      {
+        "text": "Expect stretch marks to fade over time, though not always completely.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Stretch marks\"",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask a pharmacist or doctor about retinoid cream or hyaluronic acid, if you are not pregnant.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Stretch marks\"",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you want laser or other devices, see a dermatologist who treats dark skin often and ask for cautious settings and strict sun protection.",
+        "basis": "tested",
+        "source": "dreifus-2026"
+      },
+      {
+        "text": "Raised, growing scars are a different problem; see the keloid entry.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Stretch marks\"",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Paying for cocoa butter to prevent stretch marks in pregnancy: no difference from placebo lotion.",
+        "basis": "tested",
+        "source": "osman-2008"
+      },
+      {
+        "text": "Retinoid creams in pregnancy: they may harm the baby.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Stretch marks\"",
+          "url": "https://www.nhs.uk/conditions/stretch-marks/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Laser or energy devices from anyone without dark-skin experience: pigment competes with the target and raises the risk of dark or pale marks, blisters and scars.",
+        "basis": "tested",
+        "source": "dreifus-2026"
+      }
+    ],
+    "see_someone_when": [
+      "Stretch marks appear with no pregnancy, puberty or weight change (doctor: rarely a hormone condition).",
+      "A scar is raised, growing or itchy (doctor or dermatologist, early).",
+      "Dark or pale patches, blisters or scars follow a laser treatment (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "210 first-time pregnant women in Lebanon, 175 completed",
+      "design": "Multicentre, double-blind, randomised placebo-controlled trial of cocoa butter lotion until delivery",
+      "n": 210,
+      "finding": "Stretch marks developed in 45.1% with cocoa butter and 48.8% with placebo (P=0.730), with no difference in severity.",
+      "source": {
+        "authors": "Osman H, Usta IM, Rubeiz N et al",
+        "year": 2008,
+        "journal": "BJOG",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18715434/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Not in women of African descent as far as the abstract shows.",
+      "id": "osman-2008"
+    },
+    {
+      "population": "800 pregnant women in six trials",
+      "design": "Cochrane review of topical preparations to prevent stretch marks in pregnancy",
+      "n": "800",
+      "finding": "No statistically significant difference in developing stretch marks with topical preparations against placebo or no treatment (risk ratio 0.74, 95% CI 0.53 to 1.03).",
+      "source": {
+        "authors": "Brennan M, Young G, Devane D",
+        "year": 2012,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23152199/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "2012; ethnicity of participants not stated in the abstract.",
+      "id": "brennan-2012"
+    },
+    {
+      "population": "Fitzpatrick IV-VI skin (mixed groups)",
+      "design": "Clinical review of laser and energy device safety",
+      "n": "not stated",
+      "finding": "In skin of colour, melanin competes for the laser energy and raises the risk of dark or pale marks, blisters and scarring. Low-fluence Q-switched and picosecond Nd:YAG are favourable; non-ablative fractional lasers can be used conservatively; ablative devices carry more complications. The authors say large prospective trials in darker skin are lacking.",
+      "source": {
+        "authors": "Dreifus EM, Burke OM, Alexis AF et al",
+        "year": 2026,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660430/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Published online 27 Aug 2026; covers Fitzpatrick IV-VI, not only Black skin.",
+      "id": "dreifus-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That topical preparations do not prevent stretch marks: a Cochrane review of six trials (800 women) and a placebo-controlled cocoa butter trial (210 women), none reported in Black women.",
+  "tier_note": "Trials in other populations are negative; nothing was found for fading existing stretch marks or scars in dark skin specifically.",
+  "harm_flag": false,
+  "harm_note": "No harm from the creams themselves; the harm is laser in dark skin from an inexperienced provider (review), and retinoids in pregnancy (NHS in the UK).",
+  "founder_flag": false,
+  "evidence_summary": "In the cocoa butter trial, 45.1% of women on cocoa butter and 48.8% on placebo got stretch marks. The Cochrane review pooled six trials and found no significant preventive effect. The UK's NHS says retinoid cream or hyaluronic acid may help new stretch marks, and light or laser treatments are available privately. Cocoa butter and shea butter are traditional practices that this bank tests rather than assumes.",
+  "measured_variables": [
+    "Skin pigmentation (dark-mark risk after lasers)",
+    "Pregnancy status",
+    "Age of stretch marks (new red or purple against older pale)"
+  ],
+  "gaps": "Untested: any treatment for fading stretch marks or scars in Black skin in a trial; whether shea butter, oils or cocoa butter change how stretch marks fade after they form (the trials test prevention only); microneedling in dark skin (a 2016 review exists, not opened).",
+  "related": [
+    "shea-butter",
+    "keloids-and-piercings",
+    "dark-marks-after-acne"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Osman H et al",
+      "year": 2008,
+      "journal": "BJOG",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18715434/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Brennan M et al",
+      "year": 2012,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23152199/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Dreifus EM et al",
+      "year": 2026,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660430/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Stretch marks\"",
+      "url": "https://www.nhs.uk/conditions/stretch-marks/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

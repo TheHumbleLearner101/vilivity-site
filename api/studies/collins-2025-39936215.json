@@ -1,0 +1,47 @@
+{
+  "pmid": "39936215",
+  "slug": "collins-2025-39936215",
+  "citation": {
+    "authors": "Collins M, Yu J et al",
+    "year": 2025,
+    "journal": "Dermatitis"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39936215/",
+  "page": "https://vilivity.com/studies/collins-2025-39936215/",
+  "cited_by": [
+    {
+      "entry": "braids-twists-and-extensions",
+      "title": "Braids, twists and extensions: tension, how long, itch",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/braids-twists-and-extensions/",
+      "record": {
+        "id": "collins-2025",
+        "population": "Review of documented cases of contact dermatitis from synthetic hair and related practices",
+        "n": "not stated",
+        "design": "Review of case reports",
+        "finding": "Synthetic hair extensions are known to cause contact dermatitis through allergens such as acrylates and disperse dyes. Scalp contact dermatitis can show up as itch, thinning or an eczema-like rash and is easily misdiagnosed. Braiding, wigs and the products used to maintain them are discussed.",
+        "line_tier": "B",
+        "note": "Case reports, not a prevalence study; the abstract does not name which glues or products.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "wigs-weaves-and-hair-glue",
+      "title": "Wigs, weaves and lace glue",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/wigs-weaves-and-hair-glue/",
+      "record": {
+        "id": "collins-2025",
+        "population": "Review of documented cases of contact dermatitis from synthetic hair and related practices",
+        "n": "not stated",
+        "design": "Review of case reports",
+        "finding": "Synthetic hair extensions are known to cause contact dermatitis through allergens such as acrylates and disperse dyes. Scalp contact dermatitis can show up as itch, thinning or an eczema-like rash and is easily misdiagnosed. Braiding, wigs and the products used to maintain them are discussed.",
+        "line_tier": "B",
+        "note": "Case reports, not a prevalence study; the abstract does not name which glues or products.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

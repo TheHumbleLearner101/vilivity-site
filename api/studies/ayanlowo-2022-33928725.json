@@ -1,0 +1,30 @@
+{
+  "pmid": "33928725",
+  "slug": "ayanlowo-2022-33928725",
+  "citation": {
+    "authors": "Ayanlowo O, Cole-Adeife O, Ilomuanya M, Ebie C et al",
+    "year": 2022,
+    "journal": "Dermatologic Therapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33928725/",
+  "page": "https://vilivity.com/studies/ayanlowo-2022-33928725/",
+  "cited_by": [
+    {
+      "entry": "shea-butter",
+      "title": "Shea butter",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/shea-butter/",
+      "record": {
+        "id": "ayanlowo-2022",
+        "population": "Literature review plus interviews with traditional healers in Nigeria",
+        "n": "not stated",
+        "design": "Narrative review of seven plant oils and one animal fat used on skin and scalp in Nigeria",
+        "finding": "The oils contain fatty acids, ceramides, phospholipids and antioxidants that have been shown in laboratory and some other work to support barrier function and wound healing. Adverse effects were mainly attributed to how the product was processed and stored. The authors say further studies are required.",
+        "line_tier": "C",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "bitter-leaf",
+  "name": "Bitter leaf (Vernonia amygdalina)",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Wash the leaves to remove bitterness and cook them in soup, or squeeze and drink the bitter juice, for malaria, \"sugar\" and stomach complaints.",
+  "why_they_say_it_works": "Bitterness is read as strength; it is said to clean the blood and treat fever.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Amira OC, Okubadejo NU 2007, BMC Complement Altern Med, PMID 17903257",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17903257/",
+      "quote_or_summary": "Lagos, 225 hypertensive patients: 39.1% used complementary and alternative medicine; among users bitter leaf 9.1%, garlic 69.3%, ginger 23.9%, aloe 4.5%."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Bitter leaf for malaria",
+      "population": "Uncontrolled trial, patients aged 12+, Kasese, Uganda",
+      "finding": "Adequate clinical response at day 14 in 67% but parasite clearance only 32%; 71% of those recrudesced; no significant toxicity. Uncontrolled, so not good evidence of efficacy.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Challand S, Willcox M 2009, J Altern Complement Med, PMID 19922255",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19922255/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "possible",
+  "harm_note": "Malaria treated with a leaf instead of an antimalarial is dangerous; the trial does not support that.",
+  "links_to_entries": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines"
+  ],
+  "gaps": [
+    "No trial for diabetes found.",
+    "Bitter leaf as soup vegetable not studied."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/bitter-leaf/"
+}

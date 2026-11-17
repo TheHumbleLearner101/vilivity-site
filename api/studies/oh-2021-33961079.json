@@ -1,0 +1,30 @@
+{
+  "pmid": "33961079",
+  "slug": "oh-2021-33961079",
+  "citation": {
+    "authors": "Oh H, Lincoln K, Waldman K",
+    "year": 2021,
+    "journal": "Social Psychiatry and Psychiatric Epidemiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33961079/",
+  "page": "https://vilivity.com/studies/oh-2021-33961079/",
+  "cited_by": [
+    {
+      "entry": "colourism-and-mental-health",
+      "title": "Colourism, skin tone and mental health",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/colourism-and-mental-health/",
+      "record": {
+        "id": "oh-2021",
+        "population": "Black American adults, National Survey of American Life 2001-2003 (probability sample)",
+        "n": "not stated in the abstract",
+        "design": "Cross-sectional survey, multivariable logistic regression",
+        "finding": "In-group colourism (from other Black people) was associated with greater odds of any lifetime psychiatric disorder (aOR 1.20, 95% CI 1.08 to 1.32); out-group colourism was not (aOR 1.08, 0.99 to 1.18). In-group colourism was linked to alcohol use, substance use, anxiety and eating disorders, but not PTSD or mood disorder. The authors say more research is needed to understand why.",
+        "line_tier": "B",
+        "note": "Association from one survey, perceived colourism self-reported; not a trial and not proof of cause.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "41998807",
+  "slug": "callender-2026-41998807",
+  "citation": {
+    "authors": "Callender VD, Burgess C et al",
+    "year": 2026,
+    "journal": "Journal of Cosmetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41998807/",
+  "page": "https://vilivity.com/studies/callender-2026-41998807/",
+  "cited_by": [
+    {
+      "entry": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+      "title": "Dry, itchy, flaky scalp and dandruff",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/scalp-itch-dandruff-and-seborrhoeic-dermatitis/",
+      "record": {
+        "id": "callender-2026-sd",
+        "population": "Consensus panel of dermatologists on high-curl-pattern hair and seborrhoeic dermatitis",
+        "n": "not stated",
+        "design": "Five consensus statements after a systematic literature review",
+        "finding": "High-curl-pattern hair is said to be more susceptible to breakage and to seborrhoeic dermatitis, and some common hair care practices may contribute to or worsen it. The panel says ceramide-containing products may help scalp barrier health.",
+        "line_tier": "B",
+        "note": "Expert opinion, not trial evidence. Unrestricted grant from CeraVe (a L'Oreal brand) and paid panel, per the 12 Nov baseline file.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

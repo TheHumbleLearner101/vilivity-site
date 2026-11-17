@@ -1,0 +1,44 @@
+{
+  "slug": "zulu-isihlambezo-umhlabelo-and-imbiza",
+  "name": "Isihlambezo, umhlabelo and imbiza in pregnancy and infancy",
+  "regions": [
+    "East and Southern Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Zulu women take isihlambezo during pregnancy, umhlabelo for postpartum recovery and imbiza for babies.",
+  "why_they_say_it_works": "To keep pregnancy healthy, speed recovery and protect the baby; passed down and used alongside free clinics.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Ramulondi M et al 2022, Afr J Reprod Health, PMID 37585018",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37585018/",
+      "quote_or_summary": "Northern KwaZulu-Natal, 140 women: 79% used traditional medicine in childbearing despite free healthcare."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Isihlambezo, umhlabelo, imbiza",
+      "population": "n/a",
+      "finding": "No safety or efficacy study read; the survey asks health workers to be aware.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Contents vary by healer; nothing opened quantifies harm.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Ingredients and safety not found."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/zulu-isihlambezo-umhlabelo-and-imbiza/"
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "11885087",
+  "slug": "estrada-2000-11885087",
+  "citation": {
+    "authors": "Estrada B, Morris R",
+    "year": 2000,
+    "journal": "Journal of School Nursing"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/11885087/",
+  "page": "https://vilivity.com/studies/estrada-2000-11885087/",
+  "cited_by": [
+    {
+      "entry": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+      "title": "Dry, itchy, flaky scalp and dandruff",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/scalp-itch-dandruff-and-seborrhoeic-dermatitis/",
+      "record": {
+        "id": "estrada-2000",
+        "population": "School children, elementary to high school (US)",
+        "n": "not stated",
+        "design": "Retrospective prevalence study of head lice",
+        "finding": "Hispanic children had the highest rate of infestation, then Caucasian children. African American children showed a 15% infestation rate, which the authors say is not supported by other studies.",
+        "line_tier": "B",
+        "note": "Conflicts with the 1977 study; unclear counting.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "head-lice-in-afro-hair-and-locs",
+      "title": "Head lice in afro-textured hair and locs",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/head-lice-in-afro-hair-and-locs/",
+      "record": {
+        "id": "estrada-2000",
+        "population": "School children, elementary to high school (US)",
+        "n": "not stated",
+        "design": "Retrospective prevalence study of head lice",
+        "finding": "Hispanic children had the highest rate of infestation, then Caucasian children. African American children showed a 15% infestation rate, which the authors say is not supported by other studies.",
+        "line_tier": "B",
+        "note": "Conflicts with the 1977 study; unclear counting.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

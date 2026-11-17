@@ -1,0 +1,176 @@
+{
+  "slug": "type-2-diabetes-risk",
+  "title": "Type 2 diabetes risk and blood sugar",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "How do I lower my diabetes risk and manage blood sugar?",
+    "Am I more at risk of type 2 diabetes as a Black person?",
+    "When should I get checked for diabetes?"
+  ],
+  "tradition_says": "Diabetes is often called \"sugar\" and is widely believed to run in Black families. Bush teas and bitter plants are commonly used to bring sugar down.",
+  "layer1": {
+    "plain_answer": "In south London, people with Black African or Black Caribbean backgrounds had two to three times the risk of type 2 diabetes of White British people, and the gap was only partly explained by weight, blood pressure or deprivation. The NHS says check your risk from 25. Weight, activity and blood tests are where you act.",
+    "do": [
+      {
+        "text": "Check your risk from age 25 if you are Black African or Black Caribbean, rather than waiting until 40.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of type 2 diabetes and how it's diagnosed\"",
+          "url": "https://www.nhs.uk/conditions/type-2-diabetes/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use the Diabetes UK Know Your Risk tool, and ask for a free NHS Health Check once you are 40 to 74.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of type 2 diabetes and how it's diagnosed\"",
+          "url": "https://www.nhs.uk/conditions/type-2-diabetes/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know that health risks from weight start at a lower BMI for you: the UK's NHS calls 23 to 27.4 overweight and 27.5 or more obese.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Overweight and obesity in adults\"",
+          "url": "https://www.nhs.uk/conditions/obesity/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Build up to at least 150 minutes of moderate activity a week, spread over 4 to 5 days.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+          "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you are overweight, aim to lose weight steadily, about half to one kilogram a week.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Overweight and obesity in adults\"",
+          "url": "https://www.nhs.uk/conditions/obesity/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting for symptoms: not everyone with type 2 diabetes has any.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of type 2 diabetes and how it's diagnosed\"",
+          "url": "https://www.nhs.uk/conditions/type-2-diabetes/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Using bitter gourd (cerasee) tea or tablets in place of diabetes treatment: the Cochrane review found insufficient evidence.",
+        "basis": "tested",
+        "source": "ooi-2012"
+      }
+    ],
+    "see_someone_when": [
+      "You are very tired, very thirsty, peeing more than usual or losing weight without trying (doctor, for a blood glucose test).",
+      "You are 25 or over, from a Black African or Black Caribbean background, and have never been checked (GP or pharmacy).",
+      "A parent, brother or sister has diabetes and you have not been tested (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "About 340,000 adults without diabetes in South London primary care, followed 2012-2019",
+      "design": "Cohort study with Cox models, adjusted stepwise for age, sex, migration, mental health, BMI, blood pressure and deprivation",
+      "n": 340000,
+      "finding": "South Asian, Black African and Black Caribbean groups had 2 to 3 times the type 2 diabetes risk of White British people, which was only partly explained by socioeconomic and clinical factors. Being born outside the UK raised risk by 29% across all groups. Depression, anxiety and severe mental illness were also linked to higher risk.",
+      "source": {
+        "authors": "Shamsutdinova D, Stahl D, Das-Munshi J",
+        "year": 2026,
+        "journal": "Diabetologia",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42018145/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "One region of London; ethnic group is the recorded category in GP records. Funding not checked.",
+      "id": "shamsutdinova-2026"
+    },
+    {
+      "population": "479 adults with type 2 diabetes in four trials of Momordica charantia (bitter gourd, cerasee)",
+      "design": "Cochrane systematic review of randomised trials, up to three months",
+      "n": "4 trials (479 people)",
+      "finding": "No significant difference in glycaemic control against placebo, and no significant change against metformin or glibenclamide in reliable measures. Risk of bias was generally high and only two trials were full peer-reviewed papers. The authors conclude there is insufficient evidence.",
+      "source": {
+        "authors": "Ooi CP, Yassin Z, Hamid TA",
+        "year": 2012,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22895968/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Trials were not in people of African descent; they test the plant, not a Black-specific use.",
+      "id": "ooi-2012"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That Black African and Black Caribbean adults in south London have two to three times the type 2 diabetes risk: a cohort of about 340,000 adults.",
+  "tier_note": "A very large cohort pointing the same way as NHS guidance, but one region and not a trial; whether any programme closes the gap is not tested here.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search for the advice on this card. Delayed diagnosis is the risk.",
+  "founder_flag": false,
+  "evidence_summary": "In a cohort of about 340,000 adults in south London, Black African and Black Caribbean people had two to three times the risk of type 2 diabetes of White British people, and the gap persisted after adjusting for BMI, blood pressure, mental health and deprivation. The NHS says people from these backgrounds should check risk from 25, and uses lower BMI cut-offs. A Cochrane review of bitter gourd found insufficient evidence it improves blood sugar control.",
+  "measured_variables": [
+    "Recorded type 2 diabetes diagnosis; BMI; blood pressure; deprivation",
+    "Ethnic group as recorded in GP records, a stand-in for diet, body fat distribution, migration and inherited factors",
+    "Birth outside the UK (a separate risk factor)"
+  ],
+  "gaps": "Not opened or untested: HbA1c or glucose thresholds by ethnicity; Diabetes Prevention Programme results in Black adults; the NICE (UK) guideline behind the age-25 advice (I read the UK's NHS page); whether the lower BMI cut-offs predict diabetes in Black adults (the NHS states them, I opened no study); the HEAL-D culturally tailored trial protocol was not opened. Cerasee tea itself (as opposed to bitter gourd preparations) was not found in a trial.",
+  "related": [
+    "weight-bmi-and-ethnicity",
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "high-blood-pressure-in-black-adults",
+    "pcos-endometriosis-and-heavy-periods"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Shamsutdinova D, Stahl D, Das-Munshi J",
+      "year": 2026,
+      "journal": "Diabetologia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42018145/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ooi CP, Yassin Z, Hamid TA",
+      "year": 2012,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22895968/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Symptoms of type 2 diabetes and how it's diagnosed\"",
+      "url": "https://www.nhs.uk/conditions/type-2-diabetes/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Overweight and obesity in adults\"",
+      "url": "https://www.nhs.uk/conditions/obesity/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Physical activity guidelines for adults aged 19 to 64\"",
+      "url": "https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

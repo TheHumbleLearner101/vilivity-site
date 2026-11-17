@@ -1,0 +1,140 @@
+{
+  "slug": "glaucoma-and-eye-tests",
+  "title": "Glaucoma and eye tests",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "Are Black people more likely to get glaucoma?",
+    "How often should I have an eye test?",
+    "Can I get a free eye test for glaucoma?"
+  ],
+  "tradition_says": "Eye tests are for people who cannot see well, and failing sight is seen as part of getting older. Few families know glaucoma has no early symptoms.",
+  "layer1": {
+    "plain_answer": "Glaucoma is more common in Black populations at every age, and often has no symptoms until sight is lost. A pooled analysis found the highest prevalence in Black populations at all ages. Have an eye test at least every two years, and ask whether you qualify for a free NHS (UK) test, for example if a close relative has glaucoma.",
+    "do": [
+      {
+        "text": "Have an eye test at least every 2 years: glaucoma is usually found during a routine test before any symptoms.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Glaucoma\"",
+          "url": "https://www.nhs.uk/conditions/glaucoma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a free NHS (UK) sight test if you are 40 or over and a parent, brother, sister or child has glaucoma.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Free NHS eye tests and optical vouchers\"",
+          "url": "https://www.nhs.uk/nhs-services/opticians/free-nhs-eye-tests-and-optical-vouchers/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If advised you are at higher risk, have eye tests more often.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Glaucoma\"",
+          "url": "https://www.nhs.uk/conditions/glaucoma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you are diagnosed, go to every follow-up appointment: treatments slow damage but there is no cure.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Glaucoma\"",
+          "url": "https://www.nhs.uk/conditions/glaucoma/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting for symptoms: it usually has none and develops slowly over years.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Glaucoma\"",
+          "url": "https://www.nhs.uk/conditions/glaucoma/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Missing follow-up appointments once treatment has started.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Glaucoma\"",
+          "url": "https://www.nhs.uk/conditions/glaucoma/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Sudden severe eye pain, a red eye, seeing rainbow rings around lights, blurred vision, sickness or a headache (call 999, or your local emergency number or go to A&E in the UK; do not drive).",
+      "You have not had an eye test in the last 2 years (optician).",
+      "A parent, brother, sister or child has glaucoma and you are 40 or over (optician, for a free test)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "46 studies of open-angle glaucoma prevalence: 103,567 participants, 2,509 cases",
+      "design": "Bayesian meta-analysis of observational prevalence studies by age, gender and race",
+      "n": "103567",
+      "finding": "Black populations had the highest prevalence of primary open-angle glaucoma at all ages, though the proportional rise with age was steepest in white populations. Estimated prevalence above age 70 was 6% in white, 16% in black and 3% in Asian populations. Men were 1.37 times more likely than women to have it.",
+      "source": {
+        "authors": "Rudnicka AR, Mt-Isa S, Owen CG, Cook DG et al",
+        "year": 2006,
+        "journal": "Investigative Ophthalmology and Visual Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17003413/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Studies from many countries; race categories as in the original studies; authors in London.",
+      "id": "rudnicka-2006"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That open-angle glaucoma is most prevalent in Black populations at every age: a meta-analysis of 46 studies with 103,567 participants.",
+  "tier_note": "A meta-analysis of observational surveys with methods that varied between studies, 20 years old; no trial of screening Black adults earlier.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the advice on this card. The risk is losing sight when found late.",
+  "founder_flag": false,
+  "evidence_summary": "In a meta-analysis of 46 prevalence studies, primary open-angle glaucoma was most common in Black populations at all ages: about 16% above age 70, against 6% in White and 3% in Asian populations. The UK's NHS says glaucoma usually has no symptoms and is found at a routine eye test, advises tests at least every two years, and lists free NHS sight tests for those 40 or over with an affected close relative. The NHS list does not include ethnicity as a reason.",
+  "measured_variables": [
+    "Primary open-angle glaucoma (eye pressure, optic nerve and visual field tests)",
+    "Race as defined in the original surveys, a stand-in for inherited and other risk factors not separated",
+    "Age and sex (men were more likely to have it)"
+  ],
+  "gaps": "Untested or not opened: whether earlier or more frequent testing for Black adults saves sight (the NHS page does not give an ethnicity-specific schedule; Glaucoma UK was not opened); UK-specific prevalence; the \"at higher risk, tests more often\" line is the NHS wording and does not name ethnicity; the 2006 pooled estimates pre-date recent data and one 2004 US prevalence paper was not opened.",
+  "related": [
+    "type-2-diabetes-risk",
+    "high-blood-pressure-in-black-adults",
+    "sickle-cell-disease-trait-and-pregnancy"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Rudnicka AR, Mt-Isa S, Owen CG, Cook DG et al",
+      "year": 2006,
+      "journal": "Investigative Ophthalmology and Visual Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17003413/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Glaucoma\"",
+      "url": "https://www.nhs.uk/conditions/glaucoma/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Free NHS eye tests and optical vouchers\"",
+      "url": "https://www.nhs.uk/nhs-services/opticians/free-nhs-eye-tests-and-optical-vouchers/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

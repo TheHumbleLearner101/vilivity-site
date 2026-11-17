@@ -1,0 +1,30 @@
+{
+  "pmid": "29028856",
+  "slug": "alexis-2017-29028856",
+  "citation": {
+    "authors": "Alexis AF, Obioha JO",
+    "year": 2017,
+    "journal": "Journal of Drugs in Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29028856/",
+  "page": "https://vilivity.com/studies/alexis-2017-29028856/",
+  "cited_by": [
+    {
+      "entry": "skin-ageing-in-dark-skin",
+      "title": "Skin ageing in dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-ageing-in-dark-skin/",
+      "record": {
+        "id": "alexis-2017",
+        "population": "Literature on ageing across groups",
+        "n": "not stated",
+        "design": "Short review",
+        "finding": "Skin of colour is less susceptible to photodamage, so signs of ageing are less pronounced and occur later than in Caucasians.",
+        "line_tier": "B",
+        "note": "Abstract only; mixed skin-of-colour groups.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "pcos-endometriosis-and-heavy-periods",
+  "title": "PCOS, endometriosis and heavy periods",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "What do PCOS, endometriosis and heavy periods look like in Black women?",
+    "Is endometriosis rarer in Black women?",
+    "What is polyendocrine metabolic ovarian syndrome (PMOS)?"
+  ],
+  "tradition_says": "Bad period pain, heavy bleeding or irregular cycles are often taken as normal. PCOS is thought of as a condition of White women and endometriosis is rarely suspected in Black women.",
+  "layer1": {
+    "plain_answer": "Heavy or painful periods are not something you have to accept. Fibroids are clearly more common in Black women. Endometriosis was the same or lower in US studies, though the data are unclear, and PCOS (now PMOS on the NHS) looked milder in one US trial cohort. See a GP with notes of your symptoms.",
+    "do": [
+      {
+        "text": "See a doctor if heavy periods affect your life, you have bleeding between periods or after sex, or severe period pain.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Describe how heavy: changing a pad or tampon every 1 to 2 hours, periods over 7 days, clots larger than a 10p coin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Expect endometriosis to take time to diagnose: symptoms overlap with fibroids, IBS and other conditions.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Endometriosis\"",
+          "url": "https://www.nhs.uk/conditions/endometriosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about hormone and insulin resistance blood tests, and a scan if over 18, if you have irregular periods, excess hair growth or thick dark skin patches.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Polyendocrine metabolic ovarian syndrome (PMOS)\" (formerly PCOS)",
+          "url": "https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a blood test for iron deficiency anaemia if bleeding is heavy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Ruling out endometriosis because it is said to be rarer: data on it are less clear and Black women had worse outcomes.",
+        "basis": "tested",
+        "source": "katon-2023-b"
+      },
+      {
+        "text": "Assuming heavy periods are always normal: they can be a sign of fibroids, endometriosis, PMOS or, rarely, womb cancer.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Heavy periods or severe period pain that stop you doing normal things (doctor).",
+      "Bleeding between periods or after sex (doctor).",
+      "Irregular or missing periods with hair growth, acne or thick dark patches of skin on the neck or armpits (doctor).",
+      "Pain when peeing, pooing or having sex with heavy periods (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "US studies of fibroids and endometriosis in Black and White women",
+      "design": "Systematic review of racial disparities in prevalence",
+      "n": "not stated in the abstract",
+      "finding": "Prevalence of endometriosis varied considerably with population and case definition but was the same or lower in Black than White women. Data suggest no racial difference in incidence of endometriosis. Black women with fibroids or endometriosis had worse clinical and surgical outcomes. The authors link disparities to exposures, access to skilled surgeons and bias.",
+      "source": {
+        "authors": "Katon JG, Plowden TC, Marsh EE",
+        "year": 2023,
+        "journal": "Fertility and Sterility",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36682686/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "US data. Funding not checked.",
+      "id": "katon-2023-b"
+    },
+    {
+      "population": "702 women with PCOS aged 18-40 wanting to conceive, in a US multicentre trial (non-Hispanic white, non-Hispanic black, Hispanic)",
+      "design": "Secondary analysis of a randomised trial: insulin resistance, metabolic syndrome and androgen levels by group",
+      "n": 702,
+      "finding": "Non-Hispanic black women had a lower prevalence of metabolic syndrome than Hispanic women (24.5% against 42.2%) and lower triglycerides than Hispanic and white women. BMI and waist did not differ. The authors conclude non-Hispanic black women have an overall milder PCOS phenotype than Hispanics and in some respects than white women.",
+      "source": {
+        "authors": "Engmann L, Jin S, Sun F, Legro RS et al",
+        "year": 2017,
+        "journal": "American Journal of Obstetrics and Gynecology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28104402/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Women who wanted to conceive and entered a trial, so not a general population; the abstract shows no direct Black-against-white test on most outcomes.",
+      "id": "engmann-2017"
+    },
+    {
+      "population": "648 endometriosis studies published in 2022",
+      "design": "Systematic review of how race and ethnicity are reported",
+      "n": "648",
+      "finding": "Only 65 studies (10.0%) reported participants' race or ethnicity, and the quality of that reporting was poor. The authors call for improved documentation.",
+      "source": {
+        "authors": "Raffone A, Doglioli M, Aguzzi A, Girardi L et al",
+        "year": 2025,
+        "journal": "Facts, Views and Vision in ObGyn",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41030014/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Explains why endometriosis findings by ancestry are thin.",
+      "id": "raffone-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That endometriosis is not more common in Black women and PCOS looked milder: one US systematic review (unclear data) and one trial secondary analysis; a second review shows few studies report race at all.",
+  "tier_note": "Thin because the endometriosis data are unclear, the PCOS finding is a secondary analysis of trial participants, and most endometriosis studies do not report race.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the advice on this card. The risk is delayed diagnosis, which the UK's NHS says can take a long time for endometriosis.",
+  "founder_flag": false,
+  "evidence_summary": "US data show fibroids more common in Black women, and endometriosis the same or lower, but a review calls the endometriosis data less clear and says Black women with either condition had worse surgical outcomes. A US trial secondary analysis found women who are non-Hispanic black had a milder PCOS metabolic picture than Hispanic women and in some respects than white women. Only one in ten endometriosis studies reported race. The NHS now calls PCOS \"polyendocrine metabolic ovarian syndrome\" (PMOS).",
+  "measured_variables": [
+    "Endometriosis (usually confirmed surgically) and fibroids (ultrasound)",
+    "PCOS features: insulin resistance, metabolic syndrome, androgen levels",
+    "Self-reported race in US studies, a stand-in for access, exposures and inherited factors"
+  ],
+  "gaps": "Untested or not opened: diagnostic delay in Black women in the UK (a search returned nothing I could open on it); UK-specific PCOS prevalence; how hair and skin signs of PCOS such as hirsutism and acanthosis are recognised on dark skin; adenomyosis. The \"ask about blood tests and a scan\" line paraphrases the NHS list of tests, which a GP may arrange; it is not a rule that you will be given them.",
+  "related": [
+    "fibroids-symptoms-treatment-and-pregnancy",
+    "iron-and-fibroids",
+    "acanthosis-nigricans",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Katon JG, Plowden TC, Marsh EE",
+      "year": 2023,
+      "journal": "Fertility and Sterility",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36682686/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Engmann L, Jin S, Sun F, Legro RS et al",
+      "year": 2017,
+      "journal": "American Journal of Obstetrics and Gynecology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28104402/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Raffone A, Doglioli M, Aguzzi A, Girardi L et al",
+      "year": 2025,
+      "journal": "Facts, Views and Vision in ObGyn",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41030014/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Heavy periods\"",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Endometriosis\"",
+      "url": "https://www.nhs.uk/conditions/endometriosis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Polyendocrine metabolic ovarian syndrome (PMOS)\" (formerly PCOS)",
+      "url": "https://www.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

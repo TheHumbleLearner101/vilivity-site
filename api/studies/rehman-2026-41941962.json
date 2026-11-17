@@ -1,0 +1,30 @@
+{
+  "pmid": "41941962",
+  "slug": "rehman-2026-41941962",
+  "citation": {
+    "authors": "Rehman Z, Altonji OM, Steger FL, Jamshed H et al",
+    "year": 2026,
+    "journal": "Journal of Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41941962/",
+  "page": "https://vilivity.com/studies/rehman-2026-41941962/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-weight-and-health",
+      "title": "Intermittent fasting for weight and health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-weight-and-health/",
+      "record": {
+        "id": "rehman-2026",
+        "population": "Adults aged 25 to 75 with obesity (BMI 30 to 60) in a 14-week weight-loss trial; the race analysis used 13 Black participants",
+        "n": "not stated for the whole trial",
+        "design": "Secondary subgroup analysis of a randomised trial of early time-restricted eating (8 hours, 07:00 to 15:00) against 12 hours or more",
+        "finding": "Early time-restricted eating lowered blood pressure in adults with hypertension and HbA1c in prediabetes, and raised cholesterol in people with severe obesity. Blood pressure and glucose measures improved more in Black than in White participants, but the authors say the Black group was small and the result needs further investigation.",
+        "line_tier": "A",
+        "note": "Exploratory subgroup of 13 people. A hint, short of a finding.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

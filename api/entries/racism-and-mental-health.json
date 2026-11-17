@@ -1,0 +1,146 @@
+{
+  "slug": "racism-and-mental-health",
+  "title": "Racism, racial stress and mental health",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do I cope with racism and code-switching at work or school?",
+    "Does racism affect mental health?",
+    "What is racial trauma?",
+    "How do I build self-esteem and cope with colourism?"
+  ],
+  "tradition_says": "Many Black families pass down that you carry the strain of racism quietly, keep going and pray or push through, and that it will not be understood outside the community.",
+  "layer1": {
+    "plain_answer": "Many studies find that people who report experiencing racism have worse mental health, including more depression, anxiety and stress. This shows a link, not proof of cause, but it means the strain is real and not a personal failing. Talking therapies, including for trauma, are available.",
+    "do": [
+      {
+        "text": "Tell someone you trust how it is affecting you; talking about feelings is NHS (UK) advice for stress.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Get help with stress\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Self-refer to NHS (UK) talking therapies if low mood, worry or trauma symptoms persist; they list PTSD among what they treat.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Look for a therapist who works with racism and identity; see the Black therapist finder entry for directories.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+          "url": "https://www.baatn.org.uk/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treat the strain as a health matter: the link to depression, anxiety and stress is seen in a large body of research.",
+        "basis": "tested",
+        "source": "paradies-2015"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming it is just you: the association with worse mental health was found across 293 studies.",
+        "basis": "tested",
+        "source": "paradies-2015"
+      },
+      {
+        "text": "Waiting until it is severe before asking for help: the UK's NHS says not to delay seeking help for depression.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Depression in adults: overview\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Low mood, anxiety, nightmares or flashbacks last more than a couple of weeks (doctor or NHS in the UK talking therapies self-referral).",
+      "Stress is affecting sleep, work or relationships (doctor).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "293 studies (333 articles), mainly US",
+      "design": "Systematic review and meta-analysis of reported racism and health",
+      "n": "293 studies",
+      "finding": "Reported racism was linked to poorer mental health (negative mental health r = -0.23, 95% CI -0.24 to -0.21, 227 studies), including depression, anxiety and psychological stress, and to poorer general (r = -0.13) and physical health (r = -0.09). Effects were stronger in cross-sectional than longitudinal data. Ethnicity moderated some effects; the abstract text I read was cut off before the Black-specific comparison.",
+      "source": {
+        "authors": "Paradies Y, Ben J, Denson N et al",
+        "year": 2015,
+        "journal": "PLoS One",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26398658/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Association, mostly cross-sectional, so it does not prove cause. Abstract read; the sentence on which groups showed stronger effects was truncated in my copy (UNVERIFIED for Black adults specifically).",
+      "id": "paradies-2015"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_driver": "Whether racism harms mental health: a meta-analysis of 293 studies, mostly cross-sectional and mainly US, finds consistent associations with depression, anxiety and stress.",
+  "tier_note": "Tier B observational. It shows association, with weaker effects in the longitudinal studies; it does not test whether any coping method works for racial stress. My search found no trial of a racism-specific therapy in Black adults that I could open.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. The risk is under-recognition: strain being treated as a character trait.",
+  "founder_flag": false,
+  "evidence_summary": "Paradies and colleagues (2015) pooled 293 studies and found reported racism is associated with poorer mental health (r about -0.23 across 227 studies) and, more weakly, poorer general and physical health. Effect sizes were smaller in longitudinal than cross-sectional data. The UK's NHS pages say talking therapies are available by self-referral for anxiety, depression and PTSD, and that talking about feelings helps with stress. Code-switching and colourism did not return a source I could open, so those parts of the questions are only partly covered.",
+  "measured_variables": [
+    "Reported racism",
+    "Depression, anxiety, psychological stress",
+    "General and physical health"
+  ],
+  "gaps": "Untested or not found: code-switching and mental health; colourism and self-esteem; trials of racism-specific therapy or racial-trauma treatments in Black adults; UK-specific data. The 2026 Jurado systematic review of racial trauma was seen in a title list only.",
+  "related": [
+    "finding-a-black-therapist",
+    "stigma-and-starting-therapy",
+    "stress-burnout-and-blood-pressure"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Paradies Y et al",
+      "year": 2015,
+      "journal": "PLoS One",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26398658/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Get help with stress\"",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Talking therapies\"",
+      "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Depression in adults: overview\"",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+      "url": "https://www.baatn.org.uk/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

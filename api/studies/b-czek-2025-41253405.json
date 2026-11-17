@@ -1,0 +1,30 @@
+{
+  "pmid": "41253405",
+  "slug": "b-czek-2025-41253405",
+  "citation": {
+    "authors": "Bączek KK, Leng Cheng S, Amanda G, Achaiah A et al",
+    "year": 2025,
+    "journal": "BMJ Open Respiratory Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41253405/",
+  "page": "https://vilivity.com/studies/b-czek-2025-41253405/",
+  "cited_by": [
+    {
+      "entry": "sarcoidosis-in-black-adults",
+      "title": "Sarcoidosis: symptoms, risk and follow-up",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sarcoidosis-in-black-adults/",
+      "record": {
+        "id": "baczek-2025",
+        "population": "1,071 adults with confirmed pulmonary sarcoidosis in the British Thoracic Society ILD Registry, 2013 to 2024 (ethnicity recorded for 918: 55.4% white, 14.2% non-white including Black, South Asian and mixed)",
+        "n": 1071,
+        "design": "Retrospective registry study with multivariable logistic regression",
+        "finding": "Non-white patients presented younger (52 against 54 years) with more breathlessness (46% against 33%) and cough (44% against 27%), more CT nodularity (54% against 36%) and abnormal liver tests (16% against 9%), and more comorbidity. Lung physiology was comparable. Immunosuppression was more likely with non-white ethnicity (odds ratio 3.20) and male sex (2.34). The authors say treatment decisions were more influenced by sex and ethnicity than by lung function or imaging.",
+        "line_tier": "B",
+        "note": "UK registry; non-white is a pooled group, so Black adults alone are not separated in the abstract. Abstract read.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

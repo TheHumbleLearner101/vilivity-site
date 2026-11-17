@@ -1,0 +1,44 @@
+{
+  "slug": "traditional-birth-attendant-herbs",
+  "name": "Traditional birth attendants' herbal remedies",
+  "regions": [
+    "East and Southern Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Traditional birth attendants give herbal remedies for threatened miscarriage, labour complications, retained placenta and postpartum bleeding.",
+  "why_they_say_it_works": "Long experience: attendants have delivered hundreds of women and trust the local plants.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Kaingu CK et al 2011, J Ethnopharmacol, PMID 21679761",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21679761/",
+      "quote_or_summary": "Machakos, Kenya: 200 traditional birth attendants and 20 clients; 10 pregnancy complications; 55 plant species mostly Euphorbiaceae used."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Herbal remedies for birth complications",
+      "population": "n/a",
+      "finding": "No trial found; Euphorbiaceae toxicity not examined here.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Bleeding and retained placenta are emergencies; relying on herbs delays hospital care (authors stress referral).",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Plant names not extracted; safety of Euphorbiaceae teas not searched."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/traditional-birth-attendant-herbs/"
+}

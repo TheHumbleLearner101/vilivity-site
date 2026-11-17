@@ -1,0 +1,30 @@
+{
+  "pmid": "28104402",
+  "slug": "engmann-2017-28104402",
+  "citation": {
+    "authors": "Engmann L, Jin S, Sun F, Legro RS et al",
+    "year": 2017,
+    "journal": "American Journal of Obstetrics and Gynecology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28104402/",
+  "page": "https://vilivity.com/studies/engmann-2017-28104402/",
+  "cited_by": [
+    {
+      "entry": "pcos-endometriosis-and-heavy-periods",
+      "title": "PCOS, endometriosis and heavy periods",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/pcos-endometriosis-and-heavy-periods/",
+      "record": {
+        "id": "engmann-2017",
+        "population": "702 women with PCOS aged 18-40 wanting to conceive, in a US multicentre trial (non-Hispanic white, non-Hispanic black, Hispanic)",
+        "n": 702,
+        "design": "Secondary analysis of a randomised trial: insulin resistance, metabolic syndrome and androgen levels by group",
+        "finding": "Non-Hispanic black women had a lower prevalence of metabolic syndrome than Hispanic women (24.5% against 42.2%) and lower triglycerides than Hispanic and white women. BMI and waist did not differ. The authors conclude non-Hispanic black women have an overall milder PCOS phenotype than Hispanics and in some respects than white women.",
+        "line_tier": "B",
+        "note": "Women who wanted to conceive and entered a trial, so not a general population; the abstract shows no direct Black-against-white test on most outcomes.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

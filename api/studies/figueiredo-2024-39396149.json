@@ -1,0 +1,30 @@
+{
+  "pmid": "39396149",
+  "slug": "figueiredo-2024-39396149",
+  "citation": {
+    "authors": "Figueiredo AS, Braz GL, Garcia FF, Moreno LB et al",
+    "year": 2024,
+    "journal": "Medicina Oral, Patologia Oral y Cirugia Bucal"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39396149/",
+  "page": "https://vilivity.com/studies/figueiredo-2024-39396149/",
+  "cited_by": [
+    {
+      "entry": "dark-or-swollen-lips",
+      "title": "Dark or swollen lips",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/dark-or-swollen-lips/",
+      "record": {
+        "id": "figueiredo-2024",
+        "population": "7 reported cases of pigmented contact cheilitis (6 women, mean age 32)",
+        "n": "7 cases",
+        "design": "Systematic review of case reports",
+        "finding": "Ricinoleic acid and gum ester were the most frequent allergens, each in two cases. All cases had multiple pigmented lesions, with itching, scaling, swelling, redness, vesicles or papules, and a mean duration of 13.5 months. The authors say it often alarms patients because of the unexpected darkening.",
+        "line_tier": "B",
+        "note": "Seven case reports; shows that an allergy to a lip product can darken lips; not a measure of how common it is.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

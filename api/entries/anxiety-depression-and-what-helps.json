@@ -1,0 +1,155 @@
+{
+  "slug": "anxiety-depression-and-what-helps",
+  "title": "Anxiety, depression and what helps",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do I handle anxiety and social anxiety?",
+    "What mental-health challenges do Black people face, and what helps?",
+    "Is low mood the same as depression?",
+    "Do talking therapies work for Black people?"
+  ],
+  "tradition_says": "Many people hold that anxiety and low mood are stress or a test of faith, and that you manage them privately.",
+  "layer1": {
+    "plain_answer": "Anxiety and depression are common and treatable, and the NHS says to seek help early. In the UK you can refer yourself to NHS talking therapies, including for social anxiety and panic, without seeing a GP. Whether therapies work differently in Black adults is untested in my search, so choose a service you can attend.",
+    "do": [
+      {
+        "text": "Refer yourself to NHS (UK) talking therapies for anxiety and depression, including social anxiety and panic; you must be registered with a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor if you think you may be depressed; the UK's NHS says not to wait.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Depression in adults: overview\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about guided self-help, group or video options if in-person therapy is hard to attend.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a service or therapist you feel comfortable with; see the Black therapist finder entry for directories.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+          "url": "https://www.baatn.org.uk/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Talk to someone you trust about what is happening.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Help for suicidal thoughts\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting a long time before asking: the UK's NHS notes many people do.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Depression in adults: overview\"",
+          "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Anxiety or low mood lasts weeks, or stops you working, studying or leaving the house (doctor or NHS in the UK talking therapies self-referral).",
+      "Panic attacks, constant worry or avoiding people and places (doctor or self-referral).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "293 studies (333 articles), mainly US",
+      "design": "Systematic review and meta-analysis of reported racism and health",
+      "n": "293 studies",
+      "finding": "Reported racism was linked to poorer mental health (negative mental health r = -0.23, 95% CI -0.24 to -0.21, 227 studies), including depression, anxiety and psychological stress, and to poorer general (r = -0.13) and physical health (r = -0.09). Effects were stronger in cross-sectional than longitudinal data. Ethnicity moderated some effects; the abstract text I read was cut off before the Black-specific comparison.",
+      "source": {
+        "authors": "Paradies Y, Ben J, Denson N et al",
+        "year": 2015,
+        "journal": "PLoS One",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26398658/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Association, mostly cross-sectional, so it does not prove cause. Abstract read; the sentence on which groups showed stronger effects was truncated in my copy (UNVERIFIED for Black adults specifically).",
+      "id": "paradies-2015"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a particular treatment works better or differently in Black adults with anxiety or depression: my search found no trial or review I could open.",
+  "tier_note": "Tier D for the claim readers bring, that culturally adapted care or a given therapy is better for Black adults. My search found nothing; the one culturally adapted therapy search I ran returned only off-topic results, so it is a gap, not a no. The Paradies review is kept as context for the link between racism and mental health. Moves to B or A if a review of therapy outcomes in Black adults is found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. The medicine line is the UK's NHS route: speak to the prescriber, do not stop alone.",
+  "founder_flag": false,
+  "evidence_summary": "The UK's NHS talking therapies page says you can refer yourself for anxiety, depression, social anxiety, panic, OCD and PTSD, and types include guided self-help and CBT. The NHS depression page says do not delay seeking help. Paradies and colleagues (2015) link reported racism to worse mental health but do not test treatment. No review of therapy outcomes in Black adults was opened.",
+  "measured_variables": [
+    "Anxiety and depressive symptoms",
+    "Treatment access"
+  ],
+  "gaps": "Untested or not found: outcomes of talking therapies by ethnicity in the UK; culturally adapted CBT in Black adults; social anxiety specifically; the 2024 and 2026 reviews seen only as titles.",
+  "related": [
+    "stigma-and-starting-therapy",
+    "mens-mental-health-and-depression",
+    "racism-and-mental-health",
+    "meditation",
+    "breathwork"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Paradies Y et al",
+      "year": 2015,
+      "journal": "PLoS One",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26398658/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Talking therapies\"",
+      "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Depression in adults: overview\"",
+      "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Help for suicidal thoughts\"",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+      "url": "https://www.baatn.org.uk/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

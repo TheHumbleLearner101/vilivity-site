@@ -1,0 +1,119 @@
+{
+  "slug": "soursop-graviola",
+  "title": "Soursop (graviola): cancer cure, blood sugar and safety",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does soursop (graviola) cure cancer or lower blood sugar, and is it safe?",
+    "Is soursop tea safe?",
+    "Does graviola interact with medicines?"
+  ],
+  "tradition_says": "Soursop fruit and leaf tea are widely drunk across the Caribbean and West Africa, and are promoted online as a cancer cure and a way to lower blood sugar and blood pressure.",
+  "layer1": {
+    "plain_answer": "There is no proof that soursop treats cancer; human studies are lacking. The fruit is eaten as food. In Guadeloupe, regular soursop consumption was closely linked to a rare, severe parkinsonism, with a plant chemical called annonacin as the probable cause. Do not use it instead of cancer treatment, and tell your doctor if you take it.",
+    "do": [
+      {
+        "text": "Tell your healthcare providers about any soursop or graviola you take, including tea and capsules.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Memorial Sloan Kettering Cancer Center, \"Graviola\" (About Herbs, updated 14 April 2026)",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/graviola",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Talk to your provider before using graviola if you take blood sugar or blood pressure medicines: graviola can lower both.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Memorial Sloan Kettering Cancer Center, \"Graviola\" (About Herbs, updated 14 April 2026)",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/graviola",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Avoid graviola if you are having imaging such as a PET scan: it can affect results.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Memorial Sloan Kettering Cancer Center, \"Graviola\" (About Herbs, updated 14 April 2026)",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/graviola",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using graviola as a cancer treatment: Memorial Sloan Kettering says there is no proof it benefits cancer patients.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Memorial Sloan Kettering Cancer Center, \"Graviola\" (About Herbs, updated 14 April 2026)",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/graviola",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Regular use of soursop fruit or leaf tea: regular consumption was linked to atypical parkinsonism in Guadeloupe.",
+        "basis": "tested",
+        "source": "lannuzel-2008"
+      }
+    ],
+    "see_someone_when": [
+      "You have cancer and are thinking of stopping or delaying treatment for a herbal remedy (your cancer team, first).",
+      "New tremor, stiffness, balance problems, hallucinations or memory loss in someone who uses soursop regularly (doctor, urgently).",
+      "You take diabetes or blood pressure medicine and drink soursop leaf tea (pharmacist or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Patients with atypical parkinsonism on Guadeloupe; midbrain cell cultures; rats",
+      "design": "Epidemiological association plus lab and animal experiments (review of the programme)",
+      "n": "not stated in the abstract",
+      "finding": "On Guadeloupe atypical parkinsonian patients were two-thirds of all parkinsonism cases, against about 5% in European data. Epidemiological data suggested a close association with regular consumption of soursop. Annonacin, a mitochondrial complex I inhibitor in the fruit and leaves, was identified in cell cultures as a probable cause, and giving it to rats reproduced the brain lesions.",
+      "source": {
+        "authors": "Lannuzel A, Ruberg M, Michel PP",
+        "year": 2008,
+        "journal": "Movement Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18816693/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Review by authors of the original work. MSK notes it is unclear whether the neurotoxicity translates to humans, and one review reports a favourable profile for leaf extract.",
+      "id": "lannuzel-2008"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That soursop treats cancer or lowers blood sugar: my search found no human trial; MSK says human studies are lacking.",
+  "tier_note": "D because the claims people make have no human evidence in what I opened; the lab and animal data stay on the page as lines and do not lift the headline, and the harm signal is flagged separately.",
+  "harm_flag": true,
+  "harm_note": "In Guadeloupe regular consumption of soursop was closely associated with atypical parkinsonism, and annonacin reproduced the brain lesions in rats (Lannuzel 2008). MSK says in vitro alkaloids caused movement disorders but it is unclear whether neurotoxicity translates to humans, and its patient section says side effects have not been reported. Graviola can lower blood sugar and blood pressure and affect PET scan results.",
+  "founder_flag": false,
+  "evidence_summary": "No human trial supports soursop as a cancer treatment; Memorial Sloan Kettering says human studies are lacking and there is no proof it benefits cancer patients, while lab studies show activity against cancer cell lines. The fruit is a food. A Guadeloupe programme linked regular soursop consumption with a severe atypical parkinsonism and identified annonacin as the probable cause; whether that applies elsewhere is unclear. Graviola can lower blood sugar and blood pressure, so it adds to those medicines.",
+  "measured_variables": [
+    "Atypical parkinsonism cases and soursop consumption on Guadeloupe",
+    "Annonacin, a mitochondrial complex I inhibitor, in the fruit and leaves",
+    "Blood sugar and blood pressure (graviola can lower both per MSK)"
+  ],
+  "gaps": "Untested or not opened: human trials of soursop for cancer, blood sugar or blood pressure (my search found none; Earlier notes: PubMed \"graviola soursop human clinical trial\" returned 0); soursop leaf tea safety in the general Caribbean or West African population; the dose, frequency or preparation in Guadeloupe that carried the risk; the favourable-profile systematic review MSK cites was not opened. MSK pages contradict themselves (patient section: no side effects reported; clinician section: neurotoxicity in lab and animal studies); I used the clinician section.",
+  "related": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "black-seed-oil-nigella-sativa",
+    "hibiscus-sorrel-blood-pressure"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Lannuzel A, Ruberg M, Michel PP",
+      "year": 2008,
+      "journal": "Movement Disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18816693/",
+      "tag": "[review]"
+    },
+    {
+      "name": "Memorial Sloan Kettering Cancer Center, \"Graviola\" (About Herbs, updated 14 April 2026)",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/graviola",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

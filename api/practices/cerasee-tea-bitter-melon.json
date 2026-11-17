@@ -1,0 +1,60 @@
+{
+  "slug": "cerasee-tea-bitter-melon",
+  "name": "Cerasee (bitter melon) tea",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Boil the vine leaves of cerasee (Momordica charantia) and drink the bitter tea, for \"sugar\" (diabetes), colds, skin and as a cleansing tonic.",
+  "why_they_say_it_works": "It is bitter, so it is \"strong medicine\"; it is believed to lower blood sugar and clear the system.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Mahabir D, Gulliford MC 1997, Rev Panam Salud Publica, PMID 9128111",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9128111/",
+      "quote_or_summary": "622 people with diabetes in Trinidad: bush medicines used by 42%, for diabetes by 24%; \"caraili\" (bitter melon), aloes, olive-bush and seed-under-leaf were preferentially used for diabetes; Afro-Trinidadians used bush medicine more than Indo-Trinidadians."
+    },
+    {
+      "source": "Picking D et al 2015, J Ethnopharmacol, PMID 25929450 (TRAMIL survey, Jamaica)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25929450/",
+      "quote_or_summary": "Jamaica TRAMIL survey of 407 adults (cerasee is one of the island's commonly cited plants in the agent4 reading; plant-by-plant figures not read)."
+    },
+    {
+      "source": "Reddit, r/jamaica (raw pull: _reddit/r3_jamaica.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/jamaica/comments/sy505v/cerasee_tea/",
+      "quote_or_summary": "3 users describe drinking cerasee tea in Jamaica. (1) Taught by a grandmother who gave it a few times a year, saying too much would cut your pressure. (2) Drank it about three times a week growing up. https://www.reddit.com/r/jamaica/comments/b2mvmz/ (3) mixes cerasee with sweet iced tea. Forum evidence documents use only; the tier is unchanged."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Bitter melon vs placebo and vs metformin or glibenclamide in type 2 diabetes",
+      "population": "4 RCTs, 479 adults, up to 3 months (not diaspora-specific)",
+      "finding": "No significant difference from placebo on glycaemic control; \"insufficient evidence\"; trials at high risk of bias.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Ooi CP et al 2012, Cochrane Database Syst Rev, PMID 22895968",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22895968/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "possible",
+  "harm_note": "Bitter melon can lower blood sugar; people on diabetes tablets or insulin using it alongside risk going too low (general pharmacology, not found in the Cochrane abstract). MSK says safety data are sparse (agent4).",
+  "links_to_entries": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "type-2-diabetes-risk"
+  ],
+  "gaps": [
+    "No trial in Caribbean people.",
+    "Dose and preparation of home teas differ from trial extracts."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/cerasee-tea-bitter-melon/"
+}

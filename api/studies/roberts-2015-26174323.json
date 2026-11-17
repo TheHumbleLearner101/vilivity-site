@@ -1,0 +1,30 @@
+{
+  "pmid": "26174323",
+  "slug": "roberts-2015-26174323",
+  "citation": {
+    "authors": "Roberts LA, Raastad T, Markworth JF, Figueiredo VC et al",
+    "year": 2015,
+    "journal": "Journal of Physiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26174323/",
+  "page": "https://vilivity.com/studies/roberts-2015-26174323/",
+  "cited_by": [
+    {
+      "entry": "ice-baths-and-cold-exposure",
+      "title": "Ice baths and cold exposure",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/ice-baths-and-cold-exposure/",
+      "record": {
+        "id": "roberts-2015",
+        "population": "21 physically active men (12-week study) and 9 men (muscle biopsy study)",
+        "n": 30,
+        "design": "Randomised comparison of 10 minutes of cold-water immersion against active recovery after strength training",
+        "finding": "Strength and muscle mass increased more with active recovery than with cold-water immersion, and several markers of muscle growth signalling were lower after cold-water immersion.",
+        "line_tier": "B",
+        "note": "Counter-evidence to the recovery claim: relevant if you lift to get bigger or stronger. Men only; ethnicity not reported in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

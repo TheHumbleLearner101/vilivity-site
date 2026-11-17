@@ -1,0 +1,30 @@
+{
+  "pmid": "36725794",
+  "slug": "elmajnoun-2023-36725794",
+  "citation": {
+    "authors": "Elmajnoun HK, Faris ME, Abdelrahim DN, Haris PI et al",
+    "year": 2023,
+    "journal": "Diabetes Therapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36725794/",
+  "page": "https://vilivity.com/studies/elmajnoun-2023-36725794/",
+  "cited_by": [
+    {
+      "entry": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+      "title": "Fasting in Ramadan with diabetes or sickle cell",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/ramadan-and-religious-fasting-with-diabetes-or-sickle-cell/",
+      "record": {
+        "id": "elmajnoun-2023",
+        "population": "5,554 adults with type 2 diabetes in 12 observational studies from Middle Eastern and Asian countries",
+        "n": "12 studies (5,554 people)",
+        "design": "Systematic review and meta-analysis of before-and-after studies of Ramadan fasting",
+        "finding": "HbA1c and fasting blood glucose were significantly lower after Ramadan than before it (heterogeneity high, about 93% and 81%); body weight did not change. The authors call the outcomes favourable and say effects of diet, activity and sleep need study. No study looked only at young adults.",
+        "line_tier": "B",
+        "note": "No control group of non-fasters; people who choose to fast may be healthier. The studies were not in Black populations.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

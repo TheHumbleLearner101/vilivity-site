@@ -1,0 +1,30 @@
+{
+  "pmid": "38004235",
+  "slug": "docherty-2023-38004235",
+  "citation": {
+    "authors": "Docherty S, Doughty FL, Smith EF",
+    "year": 2023,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38004235/",
+  "page": "https://vilivity.com/studies/docherty-2023-38004235/",
+  "cited_by": [
+    {
+      "entry": "lions-mane-and-reishi-mushroom-supplements",
+      "title": "Lion's mane and reishi mushroom supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/lions-mane-and-reishi-mushroom-supplements/",
+      "record": {
+        "id": "docherty-2023",
+        "population": "Healthy adults aged 18 to 45 (country not stated in the abstract)",
+        "n": 41,
+        "design": "Randomised, double-blind, placebo-controlled pilot of 1.8 g lion's mane, one dose and then 28 days",
+        "finding": "One dose was followed by faster Stroop task performance at 60 minutes. A trend to lower self-rated stress after 28 days did not reach significance (p = 0.051). The authors say null and limited findings were also seen and call for larger studies.",
+        "line_tier": "B",
+        "note": "A pilot. Ethnicity not reported in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

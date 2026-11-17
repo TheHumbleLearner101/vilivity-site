@@ -1,0 +1,30 @@
+{
+  "pmid": "7574829",
+  "slug": "reed-1995-7574829",
+  "citation": {
+    "authors": "Reed JT, Ghadially R, Elias PM",
+    "year": 1995,
+    "journal": "Archives of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/7574829/",
+  "page": "https://vilivity.com/studies/reed-1995-7574829/",
+  "cited_by": [
+    {
+      "entry": "moisturising-and-ashy-skin",
+      "title": "Moisturising and 'ashy' skin",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/moisturising-and-ashy-skin/",
+      "record": {
+        "id": "reed-1995",
+        "population": "22-38 year-old White (8), Asian (6) adults; skin type II/III (14) against skin type V/VI (7)",
+        "n": 21,
+        "design": "Laboratory comparison of barrier strength (tape strips to disrupt barrier) and recovery",
+        "finding": "Barrier function did not differ by race or sex. Skin type II/III needed 29.6 tape strips to disrupt the barrier against 66.7 for skin type V/VI, and V/VI recovered faster (43% against about 20% at 6 hours). The authors conclude skin type, not race, influences barrier function.",
+        "line_tier": "A",
+        "note": "Very small. The abstract lists White and Asian groups for race comparisons; the V/VI group's ancestry is not given. This is the example for the measured-variable rule.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "27518662",
+  "slug": "nelson-2016-27518662",
+  "citation": {
+    "authors": "Nelson DA, Deuster PA, Carter R, Hill OT et al",
+    "year": 2016,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27518662/",
+  "page": "https://vilivity.com/studies/nelson-2016-27518662/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-trait-and-hard-exercise",
+      "title": "Sickle cell trait and hard exercise",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sickle-cell-trait-and-hard-exercise/",
+      "record": {
+        "id": "nelson-2016",
+        "population": "47,944 Black US Army soldiers tested for sickle cell trait (HbAS), 2011-2014",
+        "n": 47944,
+        "design": "Cohort study with Cox models, adjusted for known risk factors, among soldiers under exertional-injury precautions",
+        "finding": "No significant difference in death risk between soldiers with and without the trait (hazard ratio 0.99, 95% CI 0.46-2.13). Exertional rhabdomyolysis risk was higher with the trait (adjusted HR 1.54, 95% CI 1.12-2.12), similar in size to the effect of tobacco use (HR 1.54) and of a BMI of 30 or more (HR 1.39).",
+        "line_tier": "B",
+        "note": "Soldiers were already under exertional-injury precautions, so this tells you about risk when precautions are in place, not without them.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

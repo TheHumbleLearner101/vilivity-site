@@ -1,0 +1,30 @@
+{
+  "pmid": "29223552",
+  "slug": "erukainure-2017-29223552",
+  "citation": {
+    "authors": "Erukainure OL, Oyebode OA, Sokhela MK, Koorbanally NA et al",
+    "year": 2017,
+    "journal": "Biomedicine and Pharmacotherapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29223552/",
+  "page": "https://vilivity.com/studies/erukainure-2017-29223552/",
+  "cited_by": [
+    {
+      "entry": "kola-nut",
+      "title": "Kola nut: caffeine, the heart and health claims",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/kola-nut/",
+      "record": {
+        "id": "erukainure-2017",
+        "population": "Laboratory models (cell-free assays and rat liver tissue)",
+        "n": "not applicable",
+        "design": "In vitro and ex vivo study of a caffeine-rich Cola nitida infusion",
+        "finding": "The concentrated infusion was 80.08% caffeine by HPLC, scavenged free radicals and inhibited carbohydrate-digesting enzymes (alpha-glucosidase and alpha-amylase) in the lab. The authors suggest antioxidative and antidiabetic properties, with caffeine the major constituent.",
+        "line_tier": "C",
+        "note": "A concentrated infusion in the lab, not a nut; the 80% caffeine is for the concentrate and says nothing about caffeine per nut.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

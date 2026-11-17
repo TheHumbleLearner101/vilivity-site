@@ -1,0 +1,127 @@
+{
+  "slug": "acanthosis-nigricans",
+  "title": "Dark velvety patches on the neck and folds (acanthosis nigricans)",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "Why is the back of my neck dark and how do I treat it (acanthosis nigricans)?",
+    "Is a dark neck a sign of diabetes?",
+    "How do I get rid of dark armpits or neck?"
+  ],
+  "tradition_says": "A dark neck or dark armpits are often seen as dirt or poor hygiene and scrubbed, or lightened with creams.",
+  "layer1": {
+    "plain_answer": "Dark, thick, velvety patches in the neck, armpits or groin are called acanthosis nigricans. They are often a sign of insulin resistance, and the UK's NHS says to have them checked by a doctor. Scrubbing and lightening creams do not treat the cause. They fade over time once the cause is treated.",
+    "do": [
+      {
+        "text": "See a doctor for new dark patches: it could be a sign of an underlying condition.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acanthosis nigricans\"",
+          "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about the cause, which is most often obesity, and about hormone or insulin treatment.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acanthosis nigricans\"",
+          "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If a medicine is the cause, ask about changing it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acanthosis nigricans\"",
+          "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a dermatologist if you want help with the appearance after the cause is addressed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acanthosis nigricans\"",
+          "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating it as a skin-only problem: the UK's NHS says there is no specific treatment for the patches themselves.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acanthosis nigricans\"",
+          "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ignoring it: in 89 African Americans with the patches, 19 had diabetes and insulin levels rose with severity of neck involvement.",
+        "basis": "tested",
+        "source": "stuart-1997"
+      }
+    ],
+    "see_someone_when": [
+      "New dark, velvety patches on the neck, armpits or groin (doctor).",
+      "You have any skin change you are unsure about (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "89 African American people with acanthosis nigricans and 25 without",
+      "design": "Cross-sectional study with oral glucose tolerance testing and insulin response",
+      "n": 114,
+      "finding": "Diabetes was present in 19 of those with acanthosis nigricans, reaching 50% among those in their 40s. Fasting insulin rose in direct proportion to the severity of neck involvement. The authors read the skin sign as a marker of hyperinsulinaemia and insulin resistance.",
+      "source": {
+        "authors": "Stuart CA, Gilkison CR, Keenan BS, Nagamani M",
+        "year": 1997,
+        "journal": "Journal of the National Medical Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9264219/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "1997, small, one centre.",
+      "id": "stuart-1997"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That the patches are a marker of insulin resistance in African Americans: one 1997 study of 89 people with the sign, plus NHS guidance.",
+  "tier_note": "Small cross-sectional study in an African American group; guidance rests on NHS wording that says it is more common with black or brown skin.",
+  "harm_flag": false,
+  "harm_note": "The risk is a missed diabetes or hormone condition; bleaching products carry their own harm (see skin lightening entry).",
+  "founder_flag": false,
+  "evidence_summary": "The UK's NHS says the most common cause is obesity, that it is more common in people with black or brown skin, and that patches should fade once the cause is treated. In a 1997 study of 89 African Americans with the sign, 19 had diabetes, 50% of those in their 40s, and the neck patches tracked insulin levels.",
+  "measured_variables": [
+    "Skin pigmentation",
+    "Insulin resistance, obesity",
+    "Site (neck, armpit, groin)"
+  ],
+  "gaps": "Untested or not opened: trials of any treatment for the patches themselves; current prevalence by skin colour; children and adolescents (the question mentions the neck only). Link to Body module (diabetes, metabolic) is not yet built.",
+  "related": [
+    "skin-lightening-creams",
+    "conditions-look-different-on-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Stuart CA et al",
+      "year": 1997,
+      "journal": "Journal of the National Medical Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9264219/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Acanthosis nigricans\"",
+      "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

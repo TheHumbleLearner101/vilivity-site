@@ -1,0 +1,30 @@
+{
+  "pmid": "22471955",
+  "slug": "vachiramon-2012-22471955",
+  "citation": {
+    "authors": "Vachiramon V, Tey HL, Thompson AE, Yosipovitch G",
+    "year": 2012,
+    "journal": "Pediatric Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22471955/",
+  "page": "https://vilivity.com/studies/vachiramon-2012-22471955/",
+  "cited_by": [
+    {
+      "entry": "eczema-on-dark-skin",
+      "title": "Eczema on dark skin (atopic eczema, including babies)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/eczema-on-dark-skin/",
+      "record": {
+        "id": "vachiramon-2012",
+        "population": "African American children with atopic dermatitis",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Prevalence in African American children is reported as significantly higher than in Caucasians, and the presentation seems to differ, but there is little information. The abstract does not list the differences.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

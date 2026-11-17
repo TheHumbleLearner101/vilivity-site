@@ -1,0 +1,30 @@
+{
+  "pmid": "40654542",
+  "slug": "onamusi-2025-40654542",
+  "citation": {
+    "authors": "Onamusi T et al",
+    "year": 2025,
+    "journal": "International Journal of Trichology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40654542/",
+  "page": "https://vilivity.com/studies/onamusi-2025-40654542/",
+  "cited_by": [
+    {
+      "entry": "choosing-a-stylist-braider-or-loctician",
+      "title": "Choosing a stylist, braider or loctician",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/choosing-a-stylist-braider-or-loctician/",
+      "record": {
+        "id": "onamusi-2025",
+        "population": "19 African-American cosmetologists, US",
+        "n": "19",
+        "design": "Anonymous online survey",
+        "finding": "78.9% had never heard of lichen planopilaris and 57.9% had never heard of CCCA. All reported avoiding or limiting tight braids or locs and tight ponytails or buns; 89.5% avoided tight weaves. 94.7% (18 of 19) had referred a client to a dermatologist in the past year. The authors say there are gaps in knowledge of hair loss risk factors.",
+        "line_tier": "B",
+        "note": "Tiny self-selected survey; says nothing about outcomes of using a trained stylist.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

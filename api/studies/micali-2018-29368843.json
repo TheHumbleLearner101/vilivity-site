@@ -1,0 +1,30 @@
+{
+  "pmid": "29368843",
+  "slug": "micali-2018-29368843",
+  "citation": {
+    "authors": "Micali G et al",
+    "year": 2018,
+    "journal": "Giornale Italiano di Dermatologia e Venereologia"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29368843/",
+  "page": "https://vilivity.com/studies/micali-2018-29368843/",
+  "cited_by": [
+    {
+      "entry": "shea-butter",
+      "title": "Shea butter",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/shea-butter/",
+      "record": {
+        "id": "micali-2018",
+        "population": "No human trial of plain shea butter on skin found",
+        "n": 0,
+        "design": "PubMed searches: 'shea butter randomized', 'shea butter eczema', 'shea butter skin clinical', 'Vitellaria paradoxa human trial'",
+        "finding": "My search found no controlled trial of plain shea butter applied to skin in any population. A 2018 review of eczema moisturisers (Micali, in the 12 Nov research file) reached the same position: shea cannot be isolated as the active.",
+        "line_tier": "D",
+        "note": "Micali abstract was a search hit; the 'cannot be isolated' reading is from the 12 Nov research file (agent4), not re-read by me.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

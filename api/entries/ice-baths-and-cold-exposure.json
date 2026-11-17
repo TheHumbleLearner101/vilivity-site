@@ -1,0 +1,257 @@
+{
+  "slug": "ice-baths-and-cold-exposure",
+  "title": "Ice baths and cold exposure",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "Do ice baths help recovery?",
+    "Are cold plunges good for mental health?",
+    "Is cold water immersion safe for Black people?",
+    "Does cold exposure work the same on dark skin?"
+  ],
+  "tradition_says": "Cold water, from sea swimming to ice baths and cold showers, is widely believed to speed recovery, lift mood and build resilience. In recent years it has become a wellness trend.",
+  "layer1": {
+    "plain_answer": "Ice baths eased muscle soreness after exercise in small, low-quality trials that did not report ethnicity. No trial has tested them in people of African descent, and cold injury was far more common in African American soldiers in one British army clinic. Cold shock is a real risk.",
+    "do": [
+      {
+        "text": "Enter slowly and give your breathing time to settle before anything else.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Met Office blog, \"Cold water shock: what it is and how to stay safe\" (quotes RNLI and RLSS UK)",
+          "url": "https://www.metoffice.gov.uk/blog/2025/cold-water-shock-how-to-stay-safe",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Get out if you shiver badly, feel weak, disorientated or short of breath, then warm up at once with dry clothes and a hot drink.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Met Office blog, \"Cold water shock: what it is and how to stay safe\" (quotes RNLI and RLSS UK)",
+          "url": "https://www.metoffice.gov.uk/blog/2025/cold-water-shock-how-to-stay-safe",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Go with someone, and tell someone where you are and when you will be back.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Met Office blog, \"Cold water shock: what it is and how to stay safe\" (quotes RNLI and RLSS UK)",
+          "url": "https://www.metoffice.gov.uk/blog/2025/cold-water-shock-how-to-stay-safe",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Skip it straight after strength training if gaining strength or size is your aim.",
+        "basis": "tested",
+        "source": "roberts-2015"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Long immersions that leave fingers or toes numb, white or painful: finger cooling was stronger in men of African descent in one lab.",
+        "basis": "tested",
+        "source": "maley-2014"
+      },
+      {
+        "text": "Cold water with a heart condition unless a doctor agrees: cold shock increases arrhythmias.",
+        "basis": "tested",
+        "source": "barwood-2024"
+      },
+      {
+        "text": "Believing it treats depression or anxiety.",
+        "basis": "tested",
+        "source": "ngandeu-2026"
+      }
+    ],
+    "see_someone_when": [
+      "Fingers or toes stay numb, pale or painful after warming up (doctor).",
+      "You get chest pain, palpitations, fainting or severe breathlessness in cold water (urgent care).",
+      "You have a heart condition (ask your doctor before starting).",
+      "You have sickle cell disease or trait and plan regular cold exposure (ask your haematology team): I did not find specific data."
+    ]
+  },
+  "tested": [
+    {
+      "population": "366 participants in 17 small trials, mainly athletes and active adults (not selected by ancestry)",
+      "design": "Cochrane review of randomised and quasi-randomised trials of cold-water immersion after exercise; ethnicity not reported in the abstract",
+      "n": 366,
+      "finding": "Compared with rest, cold-water immersion reduced muscle soreness at 24, 48, 72 and 96 hours (for example standardised mean difference -0.55 at 24 hours). The authors rate study quality as low; the trials varied in temperature, duration and exercise, and most did not report active surveillance of adverse events.",
+      "source": {
+        "authors": "Bleakley C, McDonough S, Gardner E, Baxter GD et al",
+        "year": 2012,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22336838/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "tier_variant trial-other-population. Ethnicity of participants not reported in the abstract.",
+      "id": "bleakley-2012"
+    },
+    {
+      "population": "21 physically active men (12-week study) and 9 men (muscle biopsy study)",
+      "design": "Randomised comparison of 10 minutes of cold-water immersion against active recovery after strength training",
+      "n": 30,
+      "finding": "Strength and muscle mass increased more with active recovery than with cold-water immersion, and several markers of muscle growth signalling were lower after cold-water immersion.",
+      "source": {
+        "authors": "Roberts LA, Raastad T, Markworth JF, Figueiredo VC et al",
+        "year": 2015,
+        "journal": "Journal of Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26174323/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Counter-evidence to the recovery claim: relevant if you lift to get bigger or stronger. Men only; ethnicity not reported in the abstract.",
+      "id": "roberts-2015"
+    },
+    {
+      "population": "13 studies, 4,105 adults (cold showers, immersion, winter swimming)",
+      "design": "Systematic review and meta-analysis of randomised, non-randomised and single-group studies of psychological outcomes",
+      "n": 4105,
+      "finding": "Pooled estimates generally favoured cold exposure for depressive symptoms, perceived stress, wellbeing and mood, but confidence intervals were wide, several estimates shrank in controlled-only analyses, and most studies had serious or critical risk of bias. The authors state the evidence does not establish that cold-water exposure improves mood or stress and that it should not be regarded as a standalone psychological treatment. Anxiety showed little consistent benefit.",
+      "source": {
+        "authors": "Ngandeu Schepanski S, Batta F, Schroter M, Ngoumou GB et al",
+        "year": 2026,
+        "journal": "Frontiers in Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42819812/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "ngandeu-2026"
+    },
+    {
+      "population": "10 Caucasian, 10 Asian and 10 men of African descent (AFD), UK laboratory",
+      "design": "Controlled laboratory cooling of arm, hand (8 degrees C for 30 minutes) and foot in 30 degrees C air; skin blood flow and temperature measured",
+      "n": 30,
+      "finding": "Men of African descent had more intense and prolonged finger vasoconstriction during hand immersion than Caucasian men; skin blood flow during immersion was 24% (AFD) against 42% (Caucasian), and rewarming was slower (2.5 against 3.2 degrees C per minute). Cold sensation thresholds were similar. The authors note cold injuries are more prevalent in people of African descent and suggest this sensitivity may explain it.",
+      "source": {
+        "authors": "Maley MJ, Eglin CM, House JR, Tipton MJ",
+        "year": 2014,
+        "journal": "European Journal of Applied Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25081130/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Only 10 men of African descent, hands and feet, short laboratory exposures. This is physiology of cold response, not evidence about recovery or mood. 'Ethnicity' is the grouping used; the variable behind it was not measured.",
+      "id": "maley-2014"
+    },
+    {
+      "population": "311 male British Army soldiers assessed at a cold injury clinic; the paper compares \"African Americans\", Pacific Islanders and Gurkhas with Caucasians",
+      "design": "Retrospective analysis of peripheral cold weather injury by ethnic origin",
+      "n": 311,
+      "finding": "Those classed as African Americans (the paper's own term, in the British Army; the abstract does not say how ethnicity was assigned) had a relative incidence of cold injury of 30.36 (95% CI 25.82-35.70) against Caucasian soldiers and were more severely affected (mean score 5.39 against 4.24).",
+      "source": {
+        "authors": "Burgess JE, Macfarlane F",
+        "year": 2009,
+        "journal": "Journal of the Royal Army Medical Corps",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19817081/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "tier_variant observational-black-population. Clinic-attendee data, so the relative incidence is among those attending; the abstract does not give denominators. Small number of cases in the group. Measures cold weather injury at work, not voluntary cold-water immersion.",
+      "id": "burgess-2009"
+    },
+    {
+      "population": "17 groups, 145 participants in cold-shock response analyses",
+      "design": "Systematic review and meta-analysis of the cold shock response",
+      "n": 145,
+      "finding": "Cold-water immersion triggers a reflex cold shock response with hyperventilation, increased cardiac arrhythmias and increased drowning risk. Repeated immersions reduced these responses after about four immersions.",
+      "source": {
+        "authors": "Barwood MJ, Eglin C, Hills SP, Johnston N et al",
+        "year": 2024,
+        "journal": "Journal of Thermal Biology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38211547/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "barwood-2024"
+    },
+    {
+      "population": "Studies of cold-water immersion for recovery or mood in people of African descent",
+      "design": "PubMed searches 'cold exposure African American', 'cold water immersion African American'; ClinicalTrials.gov query 'cold water immersion African American'",
+      "n": 0,
+      "finding": "My search found no trial of cold-water immersion for recovery or mood in people of African descent, and no study of skin pigmentation and cold-water immersion outcomes. The ClinicalTrials.gov query returned unrelated studies.",
+      "source": {
+        "authors": "PubMed and ClinicalTrials.gov searches, 12 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://clinicaltrials.gov/api/v2/studies?query.term=cold+water+immersion+African+American"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "id": "pubmed-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "Whether ice baths ease post-exercise soreness: a review of 17 small trials in other populations, low quality. Nothing tests them in people of African descent.",
+  "tier_note": "Recovery and mood evidence is from trials in other populations (low quality, contested); the only data in people of African descent are cold physiology and cold injury, which point to a possible harm, not to benefit.",
+  "harm_flag": true,
+  "harm_note": "Cold shock response can cause hyperventilation and arrhythmia (Barwood 2024); in one lab study men of African descent had stronger finger vasoconstriction in cold (Maley 2014) and in one military clinic series cold weather injuries were far more frequent in Black soldiers (Burgess 2009). Neither tested ice baths.",
+  "founder_flag": true,
+  "founder_note": "founder's own practice",
+  "evidence_summary": "Cold-water immersion eases muscle soreness after exercise in small, low-quality trials, and trials of mood benefit do not establish one. It can blunt strength and muscle gains if you lift, and cold shock is a real risk. No trial has tested ice baths in people of African descent. A lab study and an army clinic series found stronger finger cooling and far more cold injury in men of African descent, but not in baths, so for you ice baths are untested.",
+  "measured_variables": [
+    "Skin blood flow and finger skin temperature (Maley 2014)",
+    "Cold-injury incidence (Burgess 2009)",
+    "'Ethnicity' was the grouping; skin pigmentation and body composition were not isolated"
+  ],
+  "gaps": "Untested: ice baths, cold plunges or winter swimming in people of African descent for any outcome; whether skin pigmentation affects cold response; dose (temperature, time) for safety in Black adults; interaction with sickle cell trait; long-term effects. Kox 2014 (PMID 24799686) tested a 10-day meditation, breathing and cold-exposure training in 24 healthy volunteers against a control group and an endotoxin challenge; I read the abstract only and it does not state ethnicity. V2: Burgess 2009 (PMID 19817081) abstract re-read: the paper itself says \"African Americans\" (objective, results, conclusion), \"ethnic origins\" in the title, \"Gurkha ethnicity\"; it does not say how ethnicity was assigned. The card uses the paper's term. RNLI cold-water-shock page returned 403; the Met Office page quoting RNLI and RLSS UK was opened instead.",
+  "related": [
+    "breathwork",
+    "meditation",
+    "sickle-cell-trait-and-hard-exercise"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Bleakley C et al",
+      "year": 2012,
+      "journal": "Cochrane Database Syst Rev",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22336838/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Roberts LA et al",
+      "year": 2015,
+      "journal": "J Physiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26174323/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ngandeu Schepanski S et al",
+      "year": 2026,
+      "journal": "Front Physiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42819812/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Maley MJ et al",
+      "year": 2014,
+      "journal": "Eur J Appl Physiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25081130/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Burgess JE, Macfarlane F",
+      "year": 2009,
+      "journal": "J R Army Med Corps",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19817081/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Barwood MJ et al",
+      "year": 2024,
+      "journal": "J Therm Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38211547/",
+      "tag": "[review]"
+    },
+    {
+      "name": "Met Office blog, \"Cold water shock: what it is and how to stay safe\" (quotes RNLI and RLSS UK)",
+      "url": "https://www.metoffice.gov.uk/blog/2025/cold-water-shock-how-to-stay-safe",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

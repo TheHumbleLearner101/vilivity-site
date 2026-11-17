@@ -1,0 +1,164 @@
+{
+  "slug": "vitiligo",
+  "title": "Vitiligo",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "What is vitiligo and how is it managed on dark skin?",
+    "Is vitiligo contagious?",
+    "Can vitiligo be treated?"
+  ],
+  "tradition_says": "Vitiligo is often feared as an infection or taken as a curse or a fault; in dark skin the patches are very visible and can cause distress.",
+  "layer1": {
+    "plain_answer": "Vitiligo is loss of skin colour in patches, an autoimmune condition, not an infection. Patches are usually permanent, though treatment can bring back colour in some people: a prescription cream did in trials, with responses seen across skin types (not compared type by type). Pale patches burn more easily, so use sunscreen. Camouflage cream can cover them.",
+    "do": [
+      {
+        "text": "See a doctor for diagnosis: they may use a Wood's lamp, a UV lamp that makes patches easier to see.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a high SPF sunscreen on pale patches: they are more vulnerable to sunburn.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Try skin camouflage cream if you want to cover small patches.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about treatment if the patches are severe or making you unhappy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Expecting patches to return to normal by themselves: they are usually permanent.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leaving pale patches unprotected in strong sun.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treating pale patches yourself as a fungal infection before a doctor confirms: vitiligo can be mistaken for conditions such as pityriasis versicolor, a fungal pigment loss.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitiligo\"",
+          "url": "https://www.nhs.uk/conditions/vitiligo/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Pale or white patches appear on your skin (doctor, to confirm it is vitiligo and not another condition).",
+      "The patches are spreading or affecting your confidence or mood (doctor, then dermatologist).",
+      "A treatment makes skin sore or irritated (the prescriber)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "674 people aged 12 or over with nonsegmental vitiligo in North America and Europe (two trials); how many were Black is not in the abstract",
+      "design": "Two phase 3, randomised, double-blind, vehicle-controlled trials of 1.5% ruxolitinib cream twice daily for 24 weeks",
+      "n": 674,
+      "finding": "At week 24, 29.8% (trial 1) and 30.9% (trial 2) on ruxolitinib cream reached a 75% improvement in facial vitiligo score, against 7.4% and 11.4% on vehicle.",
+      "source": {
+        "authors": "Rosmarin D, Passeron T, Pandya AG et al",
+        "year": 2022,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36260792/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Industry-sponsored. A prescription medicine.",
+      "id": "rosmarin-2022"
+    },
+    {
+      "population": "The same 674 patients, pooled post hoc",
+      "design": "Subgroup analysis by age, sex, Fitzpatrick skin type and other traits",
+      "n": 674,
+      "finding": "At week 52, 50.3% of those applying ruxolitinib cream throughout reached the facial score target; responses were seen across subgroups including Fitzpatrick skin type. The abstract gives no numbers for dark skin types.",
+      "source": {
+        "authors": "Seneschal J, Wolkerstorfer A, Desai SR et al",
+        "year": 2025,
+        "journal": "Dermatology and Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40156697/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Descriptive, post hoc; not a Black-population analysis.",
+      "id": "seneschal-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That a prescription cream repigments some vitiligo: two phase 3 trials of 674 people, with responses described across Fitzpatrick skin types in a pooled descriptive analysis (50.3% reached F-VASI75 at week 52; no per-type numbers in the abstract); how many Black people were included is not stated in the abstracts.",
+  "tier_note": "Fact-check 12 Nov: wording now says responses were observed across skin types (descriptive), not similar benefit; the trials were manufacturer-sponsored. Tested in a mixed population; Black-specific results not found in the abstracts. Tier unchanged.",
+  "harm_flag": false,
+  "harm_note": "Pale patches burn more easily (NHS in the UK); the cream is a prescription medicine with side effects not summarised here.",
+  "founder_flag": false,
+  "evidence_summary": "The UK's NHS says the white patches are usually permanent but treatments can reduce their appearance, and recommends a high SPF on pale patches. In two trials of 674 people, about three in ten on a ruxolitinib cream reached the main target at 24 weeks against about one in ten on vehicle; a pooled analysis said responses were observed across Fitzpatrick types, without per-type numbers in the abstract. The BAD says vitiligo affects men and women of all ethnicities equally but may have a greater impact on people of colour because it is more noticeable. A 2024 registry study in the research file found Black participants were under-represented in vitiligo trials.",
+  "measured_variables": [
+    "Skin pigmentation (depigmentation visible against dark skin)",
+    "Facial vitiligo area score",
+    "Fitzpatrick type in subgroups"
+  ],
+  "gaps": "Untested or not found: trial results reported by Black participants specifically; non-prescription treatments, light therapy and surgical options (not opened); the psychological effects in dark skin, where I only have the BAD statement. Funding: manufacturer-sponsored trials.",
+  "related": [
+    "conditions-look-different-on-dark-skin",
+    "sunscreen-on-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Rosmarin D et al",
+      "year": 2022,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36260792/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Seneschal J et al",
+      "year": 2025,
+      "journal": "Dermatology and Therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40156697/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Vitiligo\"",
+      "url": "https://www.nhs.uk/conditions/vitiligo/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

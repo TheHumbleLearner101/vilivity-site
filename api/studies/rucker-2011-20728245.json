@@ -1,0 +1,132 @@
+{
+  "pmid": "20728245",
+  "slug": "rucker-2011-20728245",
+  "citation": {
+    "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+    "year": 2011,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+  "page": "https://vilivity.com/studies/rucker-2011-20728245/",
+  "cited_by": [
+    {
+      "entry": "children-and-babies-hair",
+      "title": "Babies' and children's hair",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/children-and-babies-hair/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US clinics",
+        "n": 201,
+        "design": "Questionnaire, multivariate analysis",
+        "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+        "line_tier": "B",
+        "note": "Caregiver report, small, wide confidence intervals; associations only.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "braids-twists-and-extensions",
+      "title": "Braids, twists and extensions: tension, how long, itch",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/braids-twists-and-extensions/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US clinics",
+        "n": 201,
+        "design": "Questionnaire, multivariate analysis",
+        "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+        "line_tier": "B",
+        "note": "Caregiver report, small, wide confidence intervals; associations only.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+      "title": "Dry, itchy, flaky scalp and dandruff",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/scalp-itch-dandruff-and-seborrhoeic-dermatitis/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US clinics",
+        "n": 201,
+        "design": "Questionnaire, multivariate analysis",
+        "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+        "line_tier": "B",
+        "note": "Caregiver report, small, wide confidence intervals; associations only.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "locs-starting-washing-and-maintenance",
+      "title": "Locs: starting, washing and keeping them healthy",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/locs-starting-washing-and-maintenance/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US clinics",
+        "n": 201,
+        "design": "Questionnaire, multivariate analysis",
+        "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+        "line_tier": "B",
+        "note": "Caregiver report, small, wide confidence intervals; associations only.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "scalp-oiling-and-greasing",
+      "title": "Scalp oiling and greasing",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/scalp-oiling-and-greasing/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US clinics",
+        "n": 201,
+        "design": "Questionnaire and multivariate analysis",
+        "finding": "99% reported using hair oils or grease. Infrequent hair oil use was associated with seborrheic dermatitis (adjusted odds ratio 3.69, 95% CI 1.07-12.7). No association was found between hair grease use and tinea capitis, or between washing frequency and either condition.",
+        "line_tier": "B",
+        "note": "Small, caregiver-reported, cross-sectional, with a very wide confidence interval; it cannot show oil prevents the condition. Counted as a signal, not as evidence the practice works.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "traction-alopecia-and-protective-styles",
+      "title": "Traction alopecia and 'protective' styles",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/traction-alopecia-and-protective-styles/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US dermatology and non-dermatology clinics",
+        "n": 201,
+        "design": "Questionnaire, multivariate analysis",
+        "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). 99% used hair oils or grease, 80% hot combs and 42% chemical relaxers.",
+        "line_tier": "B",
+        "note": "Small, caregiver-reported conditions. Wide confidence interval.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "wash-day-routine-for-4c-hair",
+      "title": "Wash day and routine for 4c hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/wash-day-routine-for-4c-hair/",
+      "record": {
+        "id": "rucker-2011",
+        "population": "201 caregivers of African American girls aged 1-15, US clinics",
+        "n": 201,
+        "design": "Questionnaire, multivariate analysis",
+        "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+        "line_tier": "B",
+        "note": "Caregiver report, small, wide confidence intervals; associations only.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

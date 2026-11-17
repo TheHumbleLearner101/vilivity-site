@@ -1,0 +1,200 @@
+{
+  "slug": "edges-and-hairline",
+  "title": "Protecting your edges and hairline",
+  "category": "hair",
+  "kind": "condition",
+  "question_forms": [
+    "How do I protect my edges and hairline?"
+  ],
+  "tradition_says": "Edges are the fine hair at the temples and hairline. They are said to be fragile, to need edge control and a brush, and to be protected by keeping hair slicked down and moisturised.",
+  "layer1": {
+    "plain_answer": "Edges thin mainly from pulling: tight styles, glue on the hairline and frequent heat are linked to hairline loss. Caught early and with the pulling stopped, hair can regrow within months; long-standing loss can be permanent. Edge products have not been tested. If your edges are thinning, see a doctor early.",
+    "do": [
+      {
+        "text": "Keep styles loose at the hairline, or leave the edges out of braids.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Put adhesive just in front of the hairline, not on it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If edges are thinning, stop the pulling style: regrowth may start about 3 months later.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Protect thinning areas from the sun with sunscreen or a hat.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Limit heat on hair at the hairline.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Heat-styling many times a month: more than two sessions a month carried higher odds of hairline recession.",
+        "basis": "tested",
+        "source": "ayugane-2026"
+      },
+      {
+        "text": "Tight styles on relaxed hair.",
+        "basis": "tested",
+        "source": "khumalo-2008"
+      },
+      {
+        "text": "Sleeping in rollers most nights.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Edges or temples thinning or receding (doctor, then dermatologist).",
+      "A smooth, shiny hairline with no visible hair openings (dermatologist soon: scarring).",
+      "Pain, bumps or itch at the hairline that does not settle (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; logistic regression",
+      "n": 1178,
+      "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional: association, not cause.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "197 Ghanaian women, mean age 23, hairline status scored on the Marginal Traction Alopecia Score",
+      "design": "Cross-sectional survey, logistic regression",
+      "n": 197,
+      "finding": "40.6% had hairline recession consistent with traction alopecia. More than two high-frequency heat-styling sessions a month was associated with higher odds (adjusted odds ratio 5.65, 95% CI 1.35-23.62). Keeping one hairstyle for over 6 weeks showed higher estimated odds that were not significant (1.81, 95% CI 0.59-5.60).",
+      "source": {
+        "authors": "Ayugane et al",
+        "year": 2026,
+        "journal": "Health Science Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953661/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, self-reported, wide confidence intervals.",
+      "id": "ayugane-2026"
+    },
+    {
+      "population": "Women with marginal traction alopecia",
+      "design": "Development and reliability test of a severity score",
+      "n": "not stated",
+      "finding": "The Marginal Traction Alopecia Severity score divides the scalp margins into regions so that hairline loss can be measured. The authors state that traction alopecia is common in African females.",
+      "source": {
+        "authors": "Khumalo NP, Ngwanya RM",
+        "year": 2007,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18047612/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A measurement tool, not an outcome study.",
+      "id": "khumalo-mtas-2007"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That hairline loss tracks with traction and frequent heat: cross-sectional studies in African girls and women.",
+  "tier_note": "Observational and cross-sectional, none randomised; the 2026 Ghanaian survey is small. Edge-control products and brushes have no study.",
+  "harm_flag": true,
+  "harm_note": "Hairline recession in 41% of 197 Ghanaian women (Ayugane 2026) and traction alopecia that can become permanent (BAD leaflet).",
+  "founder_flag": false,
+  "evidence_summary": "In 1,178 African girls and women, traction alopecia was found in 17% of girls and 32% of women, highest when tension was added to relaxed hair (Khumalo 2008). A hairline score (M-TAS) exists to measure marginal loss (Khumalo 2007). In 197 Ghanaian women, more than two high-frequency heat sessions a month carried higher odds of hairline recession (adjusted odds ratio 5.65, 1.35 to 23.62). The British leaflet says regrowth may start about 3 months after the pulling stops but long-standing cases can be permanent, and lists topical minoxidil as a treatment that may help.",
+  "measured_variables": [
+    "Hairline recession score (M-TAS)",
+    "Heat-styling sessions a month (self-reported)"
+  ],
+  "gaps": "Untested: edge brushes, gels and growth products; the safest hairline treatment of braids; whether minoxidil works on traction hairline loss in a trial (the BAD leaflet says it may help; no trial opened).",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "braids-twists-and-extensions",
+    "wigs-weaves-and-hair-glue"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ayugane et al",
+      "year": 2026,
+      "journal": "Health Science Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953661/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2007,
+      "journal": "Journal of Cosmetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18047612/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

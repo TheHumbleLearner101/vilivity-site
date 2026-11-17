@@ -1,0 +1,30 @@
+{
+  "pmid": "27537560",
+  "slug": "george-2016-27537560",
+  "citation": {
+    "authors": "George MD, McGill NK, Baker JF",
+    "year": 2016,
+    "journal": "Medicine (Baltimore)"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27537560/",
+  "page": "https://vilivity.com/studies/george-2016-27537560/",
+  "cited_by": [
+    {
+      "entry": "starting-training-rest-days-and-recovery",
+      "title": "Starting training, rest days and recovery",
+      "module": "body",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/body/starting-training-rest-days-and-recovery/",
+      "record": {
+        "id": "george-2016",
+        "population": "10,096 non-pregnant US adults aged 20 and over, NHANES 2011-2014",
+        "n": "10096",
+        "design": "Cross-sectional survey; creatine kinase compared by sex and race-ethnicity, excluding recent strenuous exercise",
+        "finding": "Black race was strongly associated with creatine kinase: the odds of an abnormal result were 5.08 times higher (95% CI 3.65-7.08) for Black women and 8.39 times higher (6.11-11.52) for Black men. Body size and composition mattered but did not explain the racial difference. The 97.5th percentile was 382 in white men and 1001 in black men; 295 in white women and 487 in black women.",
+        "line_tier": "B",
+        "note": "Healthy-population reference ranges, not an exercise recovery study. Self-reported race-ethnicity.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

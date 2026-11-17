@@ -1,0 +1,30 @@
+{
+  "pmid": "32276466",
+  "slug": "glowka-2020-32276466",
+  "citation": {
+    "authors": "Glowka N, Durkalec-Michalski K, Wozniewicz M",
+    "year": 2020,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32276466/",
+  "page": "https://vilivity.com/studies/glowka-2020-32276466/",
+  "cited_by": [
+    {
+      "entry": "bovine-colostrum-supplements",
+      "title": "Bovine colostrum supplements for immunity and gut health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bovine-colostrum-supplements/",
+      "record": {
+        "id": "glowka-2020",
+        "population": "Athletes and physically active adults in ten randomised trials of bovine colostrum",
+        "n": 239,
+        "design": "Systematic review and meta-analysis of immune outcomes",
+        "finding": "Bovine colostrum had no or only a fairly low effect on serum immunoglobulins (IgA, IgG), lymphocytes, neutrophils and saliva IgA. The authors note earlier work saying it reduces upper respiratory tract infections, and say the mechanism is unclear.",
+        "line_tier": "B",
+        "note": "Trained and active people only. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

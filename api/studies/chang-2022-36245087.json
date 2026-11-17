@@ -1,0 +1,30 @@
+{
+  "pmid": "36245087",
+  "slug": "chang-2022-36245087",
+  "citation": {
+    "authors": "Chang CJ, O'Brien KM, Keil AP, Gaston SA et al",
+    "year": 2022,
+    "journal": "Journal of the National Cancer Institute"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36245087/",
+  "page": "https://vilivity.com/studies/chang-2022-36245087/",
+  "cited_by": [
+    {
+      "entry": "chemical-relaxers",
+      "title": "Chemical relaxers and hair straighteners",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/chemical-relaxers/",
+      "record": {
+        "id": "chang-2022",
+        "population": "33,947 US women aged 35-74 in the Sister Study (racially and ethnically diverse)",
+        "n": 33947,
+        "design": "Prospective cohort, average 10.9 years; 378 uterine cancers",
+        "finding": "Ever use of straightening products in the previous year was associated with higher uterine cancer rates (hazard ratio 1.80, 95% CI 1.12-2.88); more than 4 uses in the previous year, 2.55 (1.46-4.45). Dyes and perms were not associated. The authors call it the first epidemiological evidence of this link and say more research is warranted.",
+        "line_tier": "B",
+        "note": "Mixed-race cohort; the abstract does not break the result out by race. Self-reported use in the prior 12 months.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

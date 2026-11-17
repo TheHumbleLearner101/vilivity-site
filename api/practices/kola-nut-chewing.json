@@ -1,0 +1,62 @@
+{
+  "slug": "kola-nut-chewing",
+  "name": "Kola nut",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Chew kola nut for alertness and stamina, offer it in hospitality and ritual, and (in one Nigerian custom) rub a kola paste on a pregnant belly.",
+  "why_they_say_it_works": "It is a stimulant and a symbol of welcome; some say it stops hunger and fatigue.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Erinfolami A et al 2011, Ment Illn, PMID 25478098",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25478098/",
+      "quote_or_summary": "Osogbo, Nigeria: 385 secondary school students; 30-day prevalence 11.2%, one-year 29.1%, lifetime 74.8%; most started at 14 or younger."
+    },
+    {
+      "source": "Iweze FA 1983, J Nurse Midwifery, PMID 6552278 (Bendel State, Nigeria)",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6552278/",
+      "quote_or_summary": "Bendel State: kola paste rubbed on the abdomen in pregnancy to protect the newborn from thrush and skin infection."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Associations with kola chewing in schoolchildren",
+      "population": "385 Nigerian students, cross-sectional",
+      "finding": "Use linked to lower age group, poor school attendance and family factors; authors urge awareness of dangers among adolescents.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Erinfolami A et al 2011, Ment Illn, PMID 25478098",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25478098/"
+      }
+    },
+    {
+      "tested": "Kola for stimulation or health",
+      "population": "n/a",
+      "finding": "My search found only rat and agronomy papers on kola; no human trial.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Contains caffeine-type stimulants (general); linked here only to social and school correlates, not to a physical harm.",
+  "links_to_entries": [
+    "kola-nut"
+  ],
+  "gaps": [
+    "Entry now exists; caffeine content and heart effects not sourced."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/kola-nut-chewing/"
+}

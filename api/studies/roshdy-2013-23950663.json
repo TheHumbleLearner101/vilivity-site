@@ -1,0 +1,30 @@
+{
+  "pmid": "23950663",
+  "slug": "roshdy-2013-23950663",
+  "citation": {
+    "authors": "Roshdy E, Rajaratnam V, Maitra S, Sabry M et al",
+    "year": 2013,
+    "journal": "International Journal of Women's Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23950663/",
+  "page": "https://vilivity.com/studies/roshdy-2013-23950663/",
+  "cited_by": [
+    {
+      "entry": "fibroids-and-diet",
+      "title": "Fibroids, food and supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/fibroids-and-diet/",
+      "record": {
+        "id": "roshdy-2013",
+        "population": "39 women aged 18-50 with symptomatic fibroids (33 completed), Egypt",
+        "n": 39,
+        "design": "Pilot double-blind placebo-controlled randomised trial of green tea extract (EGCG)",
+        "finding": "Fibroid volume fell significantly in the green tea extract group (22 women) while it rose 24.3% in the placebo group (11 women). Symptom severity fell 32.4%, quality of life improved 18.5%, haemoglobin rose 0.7 g/dL and monthly blood loss fell from 71 to 45 mL. No adverse effects were observed.",
+        "line_tier": "B",
+        "note": "Pilot with a 2:1 split and small groups; funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

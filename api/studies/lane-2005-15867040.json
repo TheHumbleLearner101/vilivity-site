@@ -1,0 +1,30 @@
+{
+  "pmid": "15867040",
+  "slug": "lane-2005-15867040",
+  "citation": {
+    "authors": "Lane JE, Waller JL, Davis LS",
+    "year": 2005,
+    "journal": "Pediatrics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15867040/",
+  "page": "https://vilivity.com/studies/lane-2005-15867040/",
+  "cited_by": [
+    {
+      "entry": "keloids-and-piercings",
+      "title": "Keloids and piercings",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/keloids-and-piercings/",
+      "record": {
+        "id": "lane-2005",
+        "population": "32 patients with keloids resulting from ear piercing",
+        "n": 32,
+        "design": "Survey of consecutive patients, Fisher's exact test",
+        "finding": "Of those who had piercings at age 11 or older, 80% developed keloids against 23.5% of those pierced before 11. Half developed a keloid after their first piercing. The authors advise people with a family history to consider avoiding ear piercing.",
+        "line_tier": "B",
+        "note": "Only people who already had keloids were surveyed, so it cannot give the risk of piercing; it compares age among those affected. Tiny sample.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

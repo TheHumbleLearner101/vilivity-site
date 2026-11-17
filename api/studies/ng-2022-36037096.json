@@ -1,0 +1,30 @@
+{
+  "pmid": "36037096",
+  "slug": "ng-2022-36037096",
+  "citation": {
+    "authors": "Ng JNC, Manuskiatti W, Apinuntham C, Yan C",
+    "year": 2022,
+    "journal": "Dermatologic Surgery"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36037096/",
+  "page": "https://vilivity.com/studies/ng-2022-36037096/",
+  "cited_by": [
+    {
+      "entry": "dark-or-swollen-lips",
+      "title": "Dark or swollen lips",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/dark-or-swollen-lips/",
+      "record": {
+        "id": "ng-2022",
+        "population": "20 healthy Thai adults with physiologic lip hyperpigmentation",
+        "n": "20",
+        "design": "Single-arm treatment study: 5 fortnightly sessions of a 755-nm picosecond laser, followed for 6 months",
+        "finding": "Average melanin index fell significantly after the fourth treatment and at 1 month, and 70% of patients reported moderate to marked improvement at 6 months. One patient had a transient lip swelling. The authors describe physiologic lip hyperpigmentation as a common aesthetic concern, especially in Southeast Asia.",
+        "line_tier": "B",
+        "note": "No untreated comparison group and not a Black population; shows that a normal variation exists and can be treated, not that treatment is needed.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

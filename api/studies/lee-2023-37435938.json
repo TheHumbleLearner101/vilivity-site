@@ -1,0 +1,30 @@
+{
+  "pmid": "37435938",
+  "slug": "lee-2023-37435938",
+  "citation": {
+    "authors": "Lee SWH, Chen WS, Sellappans R, Md Sharif SB et al",
+    "year": 2023,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37435938/",
+  "page": "https://vilivity.com/studies/lee-2023-37435938/",
+  "cited_by": [
+    {
+      "entry": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+      "title": "Fasting in Ramadan with diabetes or sickle cell",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/ramadan-and-religious-fasting-with-diabetes-or-sickle-cell/",
+      "record": {
+        "id": "lee-2023",
+        "population": "5,359 Muslims with type 2 diabetes fasting in Ramadan, in 17 randomised trials of drugs or education",
+        "n": "17 trials (5,359 people)",
+        "design": "Cochrane systematic review of randomised trials, GRADE",
+        "finding": "Every trial had at least one high-risk domain for bias. Dipeptidyl-peptidase-4 inhibitors may cause less hypoglycaemia than sulphonylureas (low-certainty evidence). The evidence on serious hypoglycaemia, other harms and HbA1c was very uncertain, and no deaths were reported. Trials compared medicines; none tested whether fasting itself is safe.",
+        "line_tier": "B",
+        "note": "My copy of the abstract is cut before the education and insulin results and does not list the countries; strength is therefore taken at the lower reading.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "transitioning-to-natural-hair-and-the-big-chop",
+  "title": "Going natural: transitioning from a relaxer and the big chop",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I transition from a relaxer to natural hair, and what is a big chop?",
+    "Should I big chop or transition slowly?",
+    "Why does my hair break where the relaxed and natural hair meet?",
+    "How do I grow out a relaxer without losing hair?"
+  ],
+  "tradition_says": "Going natural means either a big chop, cutting off all the relaxed hair at once, or growing the relaxer out and trimming over months. People say the join between the two textures is where hair snaps.",
+  "layer1": {
+    "plain_answer": "There is no study of the big chop or of how to grow out a relaxer, so none of this is tested. Dermatology guidance on relaxers is clear: never relax hair that is already relaxed, and avoid tight styles. The advice about the weak join between the two textures and trimming comes from hair media, not research.",
+    "do": [
+      {
+        "text": "Stop putting relaxer on hair that has already been relaxed; touch up new growth only, and only every few months, if you keep relaxing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check braids, cornrows and weaves are not too tight: the AAD says pain equals damage.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a heat protectant and the lowest heat setting that gives the style, and press no more than about once a week.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Detangle with a wide-tooth comb from the ends up to the roots, in sections.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "MadameNoire, \"4 Expert Tips To Help You Grow Out Your Relaxer\" (Shannon Dawson, 12 Jun 2026; a media outlet, not a clinic)",
+          "url": "https://madamenoire.com/1674641/relaxer-hair-grow-out-tips/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose between a big chop (all relaxed hair off at once) and trimming small amounts every six to eight weeks; both are described as workable and neither has been compared.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "MadameNoire, \"4 Expert Tips To Help You Grow Out Your Relaxer\" (Shannon Dawson, 12 Jun 2026; a media outlet, not a clinic)",
+          "url": "https://madamenoire.com/1674641/relaxer-hair-grow-out-tips/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Relaxing already relaxed hair.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Direct heat on the join between relaxed and natural hair: the article says it weakens that line and can lead to snapping.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "MadameNoire, \"4 Expert Tips To Help You Grow Out Your Relaxer\" (Shannon Dawson, 12 Jun 2026; a media outlet, not a clinic)",
+          "url": "https://madamenoire.com/1674641/relaxer-hair-grow-out-tips/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tight styles that pull at the join or the edges.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hair breaking, thinning or bare patches that do not settle with gentle care (dermatologist: the AAD says earlier diagnosis means better treatment).",
+      "Hair loss around the hairline or where a style pulls tightest (dermatologist; see the traction alopecia entry).",
+      "Scalp burns from a relaxer that blister, ooze or do not heal (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Transition and big chop",
+      "design": "PubMed search 12 Nov 2026: (\"big chop\" OR \"transitioning\" OR \"transition to natural\") AND hair AND (Black OR African); 7 hits, titles read, none about growing out a relaxer (they covered retail products, goat populations and stem-cell biology). Positive control: (traction alopecia) AND children, 55 hits.",
+      "n": 0,
+      "finding": "My search found nothing: no study of the big chop, of transitioning from a relaxer, or of breakage at the join between relaxed and natural hair.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22big+chop%22+OR+%22transitioning%22+OR+%22transition+to+natural%22%29+AND+hair+AND+%28Black+OR+African%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "no-transition-study"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a big chop or a slow transition protects hair better: no human study found. The only firm lines are AAD relaxer and tight-style cautions.",
+  "tier_note": "D because the claim people make (the join breaks, so cut it or trim often) has no human study in my search. Guidance from the AAD covers relaxers and tight styles in general, not the transition. A trial or a measured series of breakage during grow-out would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for choosing either route in my search; the relaxer, heat and tight-style cautions are in the relaxer, heat and traction entries.",
+  "founder_flag": false,
+  "evidence_summary": "My search found no study of the big chop or of growing out a relaxer. The AAD page on Black hair says to use caution with relaxers, to touch up only every few months and only on new growth, never to apply relaxer to hair already relaxed, to use a heat protectant and the lowest heat setting, and that tight braids, cornrows or weaves mean damage (\"pain equals damage\"). A June 2026 MadameNoire piece quoting a cosmetic chemist and a stylist describes the join between relaxed and natural hair as the weakest point and gives the two routes, a big chop or trimming every six to eight weeks; that is media advice, not research.",
+  "measured_variables": [
+    "Relaxed against natural hair on one strand (the join) was not measured in any study I found"
+  ],
+  "gaps": "Untested: big chop against gradual transition for breakage or length kept; protein or bond-building products at the join (the article names bond-builders; no trial found); how long a transition takes. The MadameNoire experts are a cosmetic chemist and a stylist whose credentials the article does not list; the page is a media article. The AAD page does not mention natural hair, transitioning or the big chop.",
+  "related": [
+    "chemical-relaxers",
+    "traction-alopecia-and-protective-styles",
+    "hair-breakage-and-length-retention",
+    "wash-day-routine-for-4c-hair"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "This bank, 12 Nov 2026",
+      "year": 2026,
+      "journal": "PubMed search",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22big+chop%22+OR+%22transitioning%22+OR+%22transition+to+natural%22%29+AND+hair+AND+%28Black+OR+African%29",
+      "tag": "[review]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "MadameNoire, \"4 Expert Tips To Help You Grow Out Your Relaxer\" (Shannon Dawson, 12 Jun 2026; a media outlet, not a clinic)",
+      "url": "https://madamenoire.com/1674641/relaxer-hair-grow-out-tips/",
+      "tag": "[news]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "24829497",
+  "slug": "park-2014-24829497",
+  "citation": {
+    "authors": "Park J, Lyles RH, Bauer-Wu S",
+    "year": 2014,
+    "journal": "American Journal of Physiology: Regulatory, Integrative and Comparative Physiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24829497/",
+  "page": "https://vilivity.com/studies/park-2014-24829497/",
+  "cited_by": [
+    {
+      "entry": "breathwork",
+      "title": "Breathwork and slow breathing",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/breathwork/",
+      "record": {
+        "id": "park-2014",
+        "population": "15 hypertensive African American men with chronic kidney disease",
+        "n": 15,
+        "design": "Randomised crossover: 14 minutes of mindfulness meditation against blood-pressure education; a subset also did controlled breathing",
+        "finding": "Mindfulness meditation lowered blood pressure, heart rate and muscle sympathetic nerve activity. Controlled breathing alone did not reduce blood pressure, heart rate or nerve activity in this study.",
+        "line_tier": "A",
+        "note": "Tiny, acute, crossover; the controlled-breathing arm was a subset. This is a counter-signal to the breathing meta-analysis in this population.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "meditation",
+      "title": "Meditation",
+      "module": "mind",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/mind/meditation/",
+      "record": {
+        "id": "park-2014",
+        "population": "15 hypertensive African American men with chronic kidney disease",
+        "n": 15,
+        "design": "Randomised crossover: 14 minutes mindfulness meditation against blood-pressure education",
+        "finding": "Mindfulness meditation acutely lowered systolic and diastolic pressure, heart rate and muscle sympathetic nerve activity compared with the control.",
+        "line_tier": "A",
+        "note": "Acute effect over 14 minutes, not long-term.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

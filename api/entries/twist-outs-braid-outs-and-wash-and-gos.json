@@ -1,0 +1,134 @@
+{
+  "slug": "twist-outs-braid-outs-and-wash-and-gos",
+  "title": "Twist-outs, braid-outs and wash-and-gos: technique",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I do a twist-out, braid-out or wash-and-go that lasts?",
+    "Is a wash-and-go bad for 4c hair?"
+  ],
+  "tradition_says": "A twist-out or braid-out is set by twisting or plaiting product-coated hair and unravelling it dry; a wash-and-go is gel or cream raked into wet hair and left to dry in its natural pattern. Both are said to give definition for days.",
+  "layer1": {
+    "plain_answer": "No study has tested how to set a twist-out, braid-out or wash-and-go, or how long one lasts. Creators and stylists give tips and they disagree, for example on starting on wet or stretched hair. The one dermatology point is to keep twists and braids loose at the scalp.",
+    "do": [
+      {
+        "text": "Work product through small, even sections of damp hair so each twist is coated, then twist from the root.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "nicolelise, YouTube, \"THE PERFECT TWISTOUT TUTORIAL on Natural Hair| EASY & DETAILED | 2023\" (a creator)",
+          "url": "https://youtu.be/iPyHoTVnVks",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For a wash-and-go: start on freshly washed hair, apply gel in small sections and air-dry a little before stretching.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Anaël Hector, YouTube, \"HOW TO: The BEST Wash and Go for 4C NATURAL HAIR for Beginners\" (a creator)",
+          "url": "https://youtu.be/37s5QqtPTg8",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep twists and braids loose at the scalp; scalp pain means they are too tight.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Oversaturating hair with product: this creator says it leaves flakes and build-up when dry.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Anaël Hector, YouTube, \"HOW TO: The BEST Wash and Go for 4C NATURAL HAIR for Beginners\" (a creator)",
+          "url": "https://youtu.be/37s5QqtPTg8",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Expecting a wash-and-go to last for days on tightly coiled hair: one channel says it dries out unless redone every day or two (a view not tested, and others disagree).",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "hairrules, YouTube, \"Ask Dickey! E19: Wash N Go vs. Twist Outs & Protective Styles\" (a hair-education channel; the speaker's qualifications were not checked)",
+          "url": "https://youtu.be/lcqF0ET4ndY",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "An itchy, sore or flaking scalp that does not settle after you take a style out (doctor).",
+      "A hairline or crown that is thinning (doctor or dermatologist).",
+      "Pain, bumps or pus at the roots after twisting or braiding (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Twist-out, braid-out and wash-and-go technique",
+      "design": "PubMed search run 12 Nov 2026, exact string: (twist-out OR \"wash-and-go\" OR \"braid-out\" OR \"curl definition\") AND hair (result count 2).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the 2 results were a lab paper on styling formulations targeted at multicultural hair (PMID 21635844) and a method for measuring hair curliness worldwide (PMID 17919196); neither tests a technique in people. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28twist-out+OR+%22wash-and-go%22+OR+%22braid-out%22+OR+%22curl+definition%22%29+AND+hair"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "twist-out-search"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That any technique gives a longer-lasting twist-out, braid-out or wash-and-go: no study found.",
+  "tier_note": "D because the claims are about technique and durability and no human study tests either. A comparison of set methods with a durability or breakage outcome would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal from the technique itself found. Tight twisting at the scalp is a traction risk (BAD leaflet).",
+  "founder_flag": false,
+  "evidence_summary": "The tips are creators' and stylists'. They agree on damp, product-coated, sectioned hair, and disagree on detail: one stylist-educator says twist-outs on tight hair should be set on stretched, blow-dried hair with plenty of leave-in, another starts on wet hair; one says a wash-and-go on tight hair dries out unless redone every day or two. None is tested. The only guidance from clinicians is general: loose twists and braids, breaks between styles.",
+  "measured_variables": [
+    "Definition and durability (not measured)"
+  ],
+  "gaps": "Untested: product choice, sectioning, drying method, how many days a set lasts, effect on breakage. Closes the 12 Nov partial on twist-out and wash-and-go technique as \"untested; creator tips only, and they disagree\".",
+  "related": [
+    "wash-day-routine-for-4c-hair",
+    "moisture-layering-loc-and-lco-methods",
+    "hair-texture-types-and-typing",
+    "braids-twists-and-extensions"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "nicolelise, YouTube, \"THE PERFECT TWISTOUT TUTORIAL on Natural Hair| EASY & DETAILED | 2023\" (a creator)",
+      "url": "https://youtu.be/iPyHoTVnVks",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Anaël Hector, YouTube, \"HOW TO: The BEST Wash and Go for 4C NATURAL HAIR for Beginners\" (a creator)",
+      "url": "https://youtu.be/37s5QqtPTg8",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "hairrules, YouTube, \"Ask Dickey! E19: Wash N Go vs. Twist Outs & Protective Styles\" (a hair-education channel; the speaker's qualifications were not checked)",
+      "url": "https://youtu.be/lcqF0ET4ndY",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

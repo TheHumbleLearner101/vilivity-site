@@ -1,0 +1,236 @@
+{
+  "slug": "shea-butter",
+  "title": "Shea butter",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Is shea butter good for Black skin?",
+    "Does shea butter help eczema or dry skin?",
+    "Is raw shea butter better than shea in products?"
+  ],
+  "tradition_says": "Used for centuries in West Africa to moisturise skin, scalp and hair and to treat wounds, burns and skin complaints. Widely believed to be a gentle, healing moisturiser for dark skin.",
+  "layer1": {
+    "plain_answer": "Shea butter has been used on skin and hair in West Africa for generations, but no controlled trial has tested plain shea butter on skin. The studies that exist used shea-containing creams or compounds taken from shea, which are not the same thing. Whether it beats other moisturisers is untested.",
+    "do": [
+      {
+        "text": "Patch-test a small area first.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Healthline, \"What is shea butter\"",
+          "url": "https://www.healthline.com/health/beauty-skin-care/what-is-shea-butter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you have a latex allergy, use refined shea only: raw shea contains latex.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Shea butter benefits\" (dermatologist quoted)",
+          "url": "https://health.clevelandclinic.org/shea-butter-benefits",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep it cool, dry and out of sunlight, and scoop with a clean, dry spoon.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Baraka Shea Butter (a seller), \"How to store shea butter\"",
+          "url": "https://www.barakasheabutter.com/blogs/baraka-blogs/how-to-store-shea-butter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use it as a moisturiser, not a treatment for eczema, wounds or scars.",
+        "basis": "tested",
+        "source": "micali-2018"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Claims that it cures eczema, stretch marks or scars: none is tested.",
+        "basis": "tested",
+        "source": "micali-2018"
+      },
+      {
+        "text": "Using it on acne-prone skin or with dandruff, say dermatologists: it may clog pores, and the dandruff yeast can grow in it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"Shea butter benefits\" (dermatologist quoted)",
+          "url": "https://health.clevelandclinic.org/shea-butter-benefits",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Butter that smells sour, sharp or chemical: it has gone off.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Baraka Shea Butter (a seller), \"How to store shea butter\"",
+          "url": "https://www.barakasheabutter.com/blogs/baraka-blogs/how-to-store-shea-butter",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Eczema or dry patches are cracked, weeping, or not settling after a few weeks of moisturising (doctor or dermatologist).",
+      "A wound has not healed in four weeks (doctor or nurse).",
+      "You get a rash or swelling after using it."
+    ]
+  },
+  "tested": [
+    {
+      "population": "34 children with atopic dermatitis, Hong Kong (not people of African descent)",
+      "design": "Uncontrolled before-and-after use of a cream and cleanser containing a lipid complex with shea butter extract (a branded product, not plain shea butter)",
+      "n": 34,
+      "finding": "After 4 weeks, itch score fell from 6.7 to 6.0 and the children's dermatology quality-of-life score improved from 10.0 to 8.0, in the group who rated the product good or very good. No control group, so this cannot show the shea did anything.",
+      "source": {
+        "authors": "Hon KL, Tsang YC, Pong NH, Lee VW et al",
+        "year": 2015,
+        "journal": "Hong Kong Medical Journal",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26314567/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Combination product, so shea cannot be isolated as the active. Human data, but it does not test plain shea butter, so it is not counted as evidence for the claim.",
+      "id": "hon-2015"
+    },
+    {
+      "population": "34 adults in a Nigerian hospital with wounds that had not healed in over 4 weeks",
+      "design": "Parallel-arm, described as quasi-experimental with randomisation, comparing standard wound care with ointments made from three purified triterpenes extracted from shea oil",
+      "n": 34,
+      "finding": "The triterpene ointments were associated with wound contraction and better wound scores. These are isolated compounds in an ointment, not shea butter as sold or used.",
+      "source": {
+        "authors": "Anyanwu EG, Onuchukwu CL, Ojukwu CP, Anyanwu CN",
+        "year": 2026,
+        "journal": "Journal of Ethnopharmacology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619863/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Abstract read; I did not open the full text for control details. Small, one centre. Isolated compounds, not the butter.",
+      "id": "anyanwu-2026"
+    },
+    {
+      "population": "Literature review plus interviews with traditional healers in Nigeria",
+      "design": "Narrative review of seven plant oils and one animal fat used on skin and scalp in Nigeria",
+      "n": "not stated",
+      "finding": "The oils contain fatty acids, ceramides, phospholipids and antioxidants that have been shown in laboratory and some other work to support barrier function and wound healing. Adverse effects were mainly attributed to how the product was processed and stored. The authors say further studies are required.",
+      "source": {
+        "authors": "Ayanlowo O, Cole-Adeife O, Ilomuanya M, Ebie C et al",
+        "year": 2022,
+        "journal": "Dermatologic Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33928725/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "id": "ayanlowo-2022"
+    },
+    {
+      "population": "No human trial of plain shea butter on skin found",
+      "design": "PubMed searches: 'shea butter randomized', 'shea butter eczema', 'shea butter skin clinical', 'Vitellaria paradoxa human trial'",
+      "n": 0,
+      "finding": "My search found no controlled trial of plain shea butter applied to skin in any population. A 2018 review of eczema moisturisers (Micali, in the 12 Nov research file) reached the same position: shea cannot be isolated as the active.",
+      "source": {
+        "authors": "Micali G et al",
+        "year": 2018,
+        "journal": "Giornale Italiano di Dermatologia e Venereologia",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29368843/"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "note": "Micali abstract was a search hit; the 'cannot be isolated' reading is from the 12 Nov research file (agent4), not re-read by me.",
+      "id": "micali-2018"
+    },
+    {
+      "population": "Case reports",
+      "design": "Case report of contact allergy to shea butter in a person with cheilitis",
+      "n": 1,
+      "finding": "Contact allergy to shea butter is documented but appears rare in the literature I found (3 hits in my search).",
+      "source": {
+        "authors": "Castelain F et al",
+        "year": 2024,
+        "journal": "Contact Dermatitis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38123238/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Title and journal seen in search result only. UNVERIFIED beyond that.",
+      "id": "castelain-2024"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "Whether plain shea butter moisturises or heals skin better than other moisturisers: no controlled trial found.",
+  "tier_note": "D because the claim people care about (that plain shea butter works on skin) has no controlled human trial in my search; the studies found tested shea-containing creams or isolated compounds (C lines). Moves to A or B with a controlled trial of plain shea on skin.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search beyond rare contact allergy (a single case report, title only seen). The review authors say bad outcomes came from poor processing or storage.",
+  "founder_flag": false,
+  "evidence_summary": "Shea butter has been used on skin and hair in West Africa for generations. No controlled trial has tested plain shea butter on skin, so whether it does more than other moisturisers is untested. The studies that exist used shea-containing creams or compounds pulled out of shea, which are not the same thing.",
+  "measured_variables": [
+    "None tested; no study selected people by skin pigmentation or barrier measurement"
+  ],
+  "gaps": "Untested: plain shea butter against placebo or another emollient on skin, on eczema, on scalp, on scars or on dark skin specifically. Untested: raw versus refined shea. Untested: shea on hair. Ayanlowo 2021 ('Shea butter as skin, scalp, and hair moisturizer in Nigerians') exists but PubMed showed no abstract; I could not read it. UNVERIFIED. V2: the Healthline patch-test line and the seller (Baraka) storage line are common advice, not clinical guidance.",
+  "related": [
+    "scalp-oiling-and-greasing",
+    "moisturising-and-ashy-skin",
+    "black-soap-and-african-black-soap"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Hon KL et al",
+      "year": 2015,
+      "journal": "Hong Kong Med J",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26314567/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Anyanwu EG et al",
+      "year": 2026,
+      "journal": "J Ethnopharmacol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41619863/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ayanlowo O et al",
+      "year": 2022,
+      "journal": "Dermatol Ther",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33928725/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Micali G",
+      "year": 2018,
+      "journal": "G Ital Dermatol Venereol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29368843/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Castelain F et al",
+      "year": 2024,
+      "journal": "Contact Dermatitis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38123238/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "Healthline, \"What is shea butter\"",
+      "url": "https://www.healthline.com/health/beauty-skin-care/what-is-shea-butter",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Cleveland Clinic, \"Shea butter benefits\" (dermatologist quoted)",
+      "url": "https://health.clevelandclinic.org/shea-butter-benefits",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Baraka Shea Butter (a seller), \"How to store shea butter\"",
+      "url": "https://www.barakasheabutter.com/blogs/baraka-blogs/how-to-store-shea-butter",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

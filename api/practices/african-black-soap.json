@@ -1,0 +1,56 @@
+{
+  "slug": "african-black-soap",
+  "name": "African black soap",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "skin",
+  "what_people_do": "Wash the face and body, and sometimes hair, with a soft soap made from plantain-skin and cocoa-pod ash with palm oil and shea; known as dudu osun or ose dudu.",
+  "why_they_say_it_works": "Said to clear acne, soothe eczema and fade marks, and to be gentler than shop soap.",
+  "documentation_status": "partial",
+  "documented_by": [
+    {
+      "source": "Ogunbiyi A, Enechukwu NA 2021, PMID 33571401 (narrative review of African black soap)",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33571401/",
+      "quote_or_summary": "Narrative review by Nigerian dermatologists: the soap is traditional and widely used; they state \"some of the claims remain anecdotal\"; lab studies show antimicrobial action against Staphylococcus and some Streptococcus. I did not open a survey of how people use it."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Antimicrobial effect of black soap",
+      "population": "Laboratory studies cited in the review",
+      "finding": "Activity against Staphylococcus and some Streptococcus; does not establish benefit for acne, eczema or scars.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Ogunbiyi A, Enechukwu NA 2021, PMID 33571401 (narrative review of African black soap)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33571401/"
+      }
+    },
+    {
+      "tested": "Black soap on skin in people",
+      "population": "n/a",
+      "finding": "No human trial found.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "C",
+  "headline_strength": "thin",
+  "harm_flag": "possible",
+  "harm_note": "Soaps are alkaline and can dry or irritate sensitive or eczema-prone skin (general dermatology, not from the review abstract).",
+  "links_to_entries": [
+    "black-soap-and-african-black-soap"
+  ],
+  "gaps": [
+    "Prevalence of use not found.",
+    "Review is commentary tier."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/african-black-soap/"
+}

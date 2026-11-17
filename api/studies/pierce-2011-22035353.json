@@ -1,0 +1,47 @@
+{
+  "pmid": "22035353",
+  "slug": "pierce-2011-22035353",
+  "citation": {
+    "authors": "Pierce JS et al",
+    "year": 2011,
+    "journal": "Journal of Occupational and Environmental Hygiene"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22035353/",
+  "page": "https://vilivity.com/studies/pierce-2011-22035353/",
+  "cited_by": [
+    {
+      "entry": "heat-styling-silk-press-and-smoothing-treatments",
+      "title": "Heat, silk press, keratin treatments and colour",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/heat-styling-silk-press-and-smoothing-treatments/",
+      "record": {
+        "id": "pierce-2011",
+        "population": "Four professional keratin smoothing products applied to wigs on mannequins in a simulated salon",
+        "n": 88,
+        "design": "Air sampling, 88 samples",
+        "finding": "Airborne formaldehyde averaged 0.08 to 3.47 ppm during blow-drying and 0.08 to 1.05 ppm during flat-ironing. Bulk samples held 11.5% formaldehyde in Brazilian Blowout, 8.3% in Global Keratin, 3% in Coppola and 0% in La Brasiliana, and other products that break down into formaldehyde were found in three of the four.",
+        "line_tier": "C",
+        "note": "Simulation on wigs; exposure of salon workers and clients, not a health outcome.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "relaxer-texturiser-perm-and-keratin-differences",
+      "title": "Relaxer, texturiser, perm and keratin: what is the difference",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/relaxer-texturiser-perm-and-keratin-differences/",
+      "record": {
+        "id": "pierce-2011",
+        "population": "Four professional keratin smoothing products applied to wigs on mannequins in a simulated salon",
+        "n": 88,
+        "design": "Air sampling, 88 samples",
+        "finding": "Airborne formaldehyde averaged 0.08 to 3.47 ppm during blow-drying and 0.08 to 1.05 ppm during flat-ironing. Bulk samples held 11.5% formaldehyde in Brazilian Blowout, 8.3% in Global Keratin, 3% in Coppola and 0% in La Brasiliana, and other products that break down into formaldehyde were found in three of the four.",
+        "line_tier": "C",
+        "note": "Simulation on wigs; exposure of salon workers and clients, not a health outcome.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

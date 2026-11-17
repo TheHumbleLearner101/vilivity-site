@@ -1,0 +1,47 @@
+{
+  "pmid": "41928381",
+  "slug": "callender-2026-41928381",
+  "citation": {
+    "authors": "Callender V, Burgess C, Harvey VM, Heath C et al",
+    "year": 2026,
+    "journal": "Journal of Cosmetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41928381/",
+  "page": "https://vilivity.com/studies/callender-2026-41928381/",
+  "cited_by": [
+    {
+      "entry": "hair-porosity-and-moisture",
+      "title": "Hair porosity and moisture",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-porosity-and-moisture/",
+      "record": {
+        "id": "callender-2026",
+        "population": "Hair shape classification systems",
+        "n": "4 systems",
+        "design": "Systematic review of hair-type classifications without reference to race or ethnicity",
+        "finding": "Four mainstream classification systems exist (Andre Walker, LOIS, FIA, L'Oreal). The authors state hair type classification is under-used in clinical practice and argue it should be based on shape criteria rather than race.",
+        "line_tier": "C",
+        "note": null,
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "callender-2026-class",
+        "population": "Systematic review of curl classification",
+        "n": "not stated",
+        "design": "Systematic review",
+        "finding": "Curl classification may have predictive value for scalp disease such as seborrhoeic dermatitis, but further validation is required.",
+        "line_tier": "C",
+        "note": "Unrestricted grant from CeraVe (L'Oreal group); authors paid consultants (baseline file).",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

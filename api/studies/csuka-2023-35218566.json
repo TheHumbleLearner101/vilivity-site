@@ -1,0 +1,30 @@
+{
+  "pmid": "35218566",
+  "slug": "csuka-2023-35218566",
+  "citation": {
+    "authors": "Csuka EA et al",
+    "year": 2023,
+    "journal": "International Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35218566/",
+  "page": "https://vilivity.com/studies/csuka-2023-35218566/",
+  "cited_by": [
+    {
+      "entry": "moisture-layering-loc-and-lco-methods",
+      "title": "LOC and LCO: layering liquid, oil and cream",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/moisture-layering-loc-and-lco-methods/",
+      "record": {
+        "id": "csuka-2023",
+        "population": "Review of 59 articles on lipid content of human hair",
+        "n": "59 articles",
+        "design": "Systematic review (PRISMA)",
+        "finding": "Hair lipid composition varies by ethnic hair type and by hair layer; lipids affect water permeability, hydration, strength and texture.",
+        "line_tier": "C",
+        "note": "Lab and composition studies; no routine was tested.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

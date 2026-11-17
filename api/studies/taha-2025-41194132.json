@@ -1,0 +1,30 @@
+{
+  "pmid": "41194132",
+  "slug": "taha-2025-41194132",
+  "citation": {
+    "authors": "Taha S, Shakhshir M, Zyoud SH",
+    "year": 2025,
+    "journal": "Nutrition and Metabolism"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41194132/",
+  "page": "https://vilivity.com/studies/taha-2025-41194132/",
+  "cited_by": [
+    {
+      "entry": "diet-and-acne-on-dark-skin",
+      "title": "Does diet cause acne? Sugar, dairy and foods linked to spots",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/diet-and-acne-on-dark-skin/",
+      "record": {
+        "id": "taha-2025",
+        "population": "765 participants in five case-control studies",
+        "n": "5 studies (765 people)",
+        "design": "Meta-analysis of Mediterranean diet and acne, GRADE",
+        "finding": "Closer adherence to the Mediterranean diet was linked to less severe acne but not significantly to lower odds of developing acne, and quality of evidence was low. More vegetables were linked to lower odds of acne.",
+        "line_tier": "B",
+        "note": "Low-quality, small; no Black population identified.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "18816693",
+  "slug": "lannuzel-2008-18816693",
+  "citation": {
+    "authors": "Lannuzel A, Ruberg M, Michel PP",
+    "year": 2008,
+    "journal": "Movement Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18816693/",
+  "page": "https://vilivity.com/studies/lannuzel-2008-18816693/",
+  "cited_by": [
+    {
+      "entry": "soursop-graviola",
+      "title": "Soursop (graviola): cancer cure, blood sugar and safety",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/soursop-graviola/",
+      "record": {
+        "id": "lannuzel-2008",
+        "population": "Patients with atypical parkinsonism on Guadeloupe; midbrain cell cultures; rats",
+        "n": "not stated in the abstract",
+        "design": "Epidemiological association plus lab and animal experiments (review of the programme)",
+        "finding": "On Guadeloupe atypical parkinsonian patients were two-thirds of all parkinsonism cases, against about 5% in European data. Epidemiological data suggested a close association with regular consumption of soursop. Annonacin, a mitochondrial complex I inhibitor in the fruit and leaves, was identified in cell cultures as a probable cause, and giving it to rats reproduced the brain lesions.",
+        "line_tier": "B",
+        "note": "Review by authors of the original work. MSK notes it is unclear whether the neurotoxicity translates to humans, and one review reports a favourable profile for leaf extract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

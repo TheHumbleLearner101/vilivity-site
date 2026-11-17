@@ -1,0 +1,234 @@
+{
+  "slug": "melatonin-for-sleep",
+  "title": "Melatonin for sleep: what it does, dose and rules by country",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "Does melatonin help you sleep?",
+    "Is melatonin safe to take every night?",
+    "Is melatonin legal or prescription-only where I live?",
+    "Has melatonin been tested on Black people?"
+  ],
+  "tradition_says": "Melatonin is the hormone your body releases in the dark. Capsules, gummies and sprays are sold to help you fall asleep, ease jet lag and reset a body clock.",
+  "layer1": {
+    "plain_answer": "Melatonin may help you fall asleep a little faster for some people, but reviews disagree, and it did not clearly help adults with long-term insomnia. In Black patients it has been tested only for night blood pressure, with no effect. Rules differ by country: prescription-only in the UK, a supplement in the US. Labels often miss the real dose.",
+    "do": [
+      {
+        "text": "Ask your doctor or pharmacist first if you have epilepsy or take blood thinners: NCCIH says they need medical supervision with melatonin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Melatonin: What You Need To Know\"",
+          "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "In the UK, get it through a prescription: the NHS says melatonin is only available with a prescription there. In the US it is sold as a dietary supplement, and several other countries treat it as a prescription drug, so check your own country.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Melatonin: a medicine used for sleep problems\"",
+          "url": "https://www.nhs.uk/medicines/melatonin/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Keep it out of reach of children: poison centre calls about melatonin in under-20s in the US rose from 8,337 in 2012 to 52,563 in 2021.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Melatonin: What You Need To Know\"",
+          "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Driving, cycling or using machinery after taking it: the UK's NHS says it can make you sleepy.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Melatonin: a medicine used for sleep problems\"",
+          "url": "https://www.nhs.uk/medicines/melatonin/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Alcohol with melatonin: the UK's NHS says it can stop it working properly and raise side effects.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Melatonin: a medicine used for sleep problems\"",
+          "url": "https://www.nhs.uk/medicines/melatonin/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Trusting the dose on the label: in one lab check the content ranged from 83 per cent below to 478 per cent above the label.",
+        "basis": "tested",
+        "source": "erland-2017"
+      }
+    ],
+    "see_someone_when": [
+      "Trouble sleeping most nights for more than a few weeks (doctor; consider sleep apnoea).",
+      "Heavy daytime sleepiness, loud snoring or pauses in breathing (doctor; see sleep and sleep apnoea).",
+      "You are pregnant or breastfeeding and thinking of using melatonin (midwife or doctor).",
+      "A child has swallowed melatonin that was not prescribed to them (poison centre or urgent care)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "People with chronic insomnia in 24 randomised placebo-controlled trials, analysed by age group",
+      "design": "Systematic review and meta-analysis of melatonin for sleep onset, total sleep time and efficiency",
+      "n": "not stated in the abstract",
+      "finding": "In adults with chronic insomnia melatonin did not significantly improve sleep onset, total sleep time or sleep efficiency. In children and adolescents it did, for sleep onset and total sleep time. The authors say further studies by age are needed.",
+      "source": {
+        "authors": "Choi K, Lee YJ, Park S, Je NK et al",
+        "year": 2022,
+        "journal": "Sleep Medicine Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36179487/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Ethnicity not reported in the abstract.",
+      "id": "choi-2022"
+    },
+    {
+      "population": "Adults with various conditions in 23 randomised trials",
+      "design": "Systematic review and meta-analysis of melatonin and sleep quality on the Pittsburgh Sleep Quality Index",
+      "n": "not stated in the abstract",
+      "finding": "Melatonin improved Pittsburgh Sleep Quality Index scores by 1.24 points (95% CI 0.71 to 1.77), with large differences between studies (I2 80.7 per cent). Gains were larger in people with respiratory diseases and metabolic disorders than in people with sleep disorders (0.67 points).",
+      "source": {
+        "authors": "Fatemeh G, Sajjad M, Niloufar R, Neda S",
+        "year": 2022,
+        "journal": "Journal of Neurology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33417003/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Disagrees in tone with Choi 2022. Self-rated sleep quality in mixed groups.",
+      "id": "fatemeh-2022"
+    },
+    {
+      "population": "Self-defined African American patients with essential hypertension, urban academic medical centre, United States",
+      "design": "Randomised, placebo-controlled crossover pilot: 24 mg sustained-release melatonin at night against placebo, 4 weeks each",
+      "n": 40,
+      "finding": "Night-time and daytime blood pressure on 24-hour monitoring did not differ between melatonin and placebo. The authors note this contrasts with studies in other populations.",
+      "source": {
+        "authors": "Rahbari-Oskoui FF, Abramson JL, Bruckman AM, Chapman AB et al",
+        "year": 2019,
+        "journal": "Complementary Therapies in Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30935524/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "A trial in Black participants, but its outcome was blood pressure, with sleep unmeasured, at a dose far above the usual one. The registry lists a second 8 mg study (NCT01114360, 37 people, results posted) that I did not read.",
+      "id": "rahbari-oskoui-2019"
+    },
+    {
+      "population": "Young adults in the Georgia Stress and Heart study: 71 African American and 79 European American",
+      "design": "Cross-sectional study of overnight urinary melatonin (6-sulfatoxymelatonin) and 24-hour blood pressure",
+      "n": 150,
+      "finding": "After adjustment, African American participants had lower night-time melatonin excretion and higher night-time systolic blood pressure. Lower melatonin went with higher night-time blood pressure in both groups, and melatonin partly explained the group difference in pressure.",
+      "source": {
+        "authors": "Jeong J, Zhu H, Harris RA, Dong Y et al",
+        "year": 2019,
+        "journal": "American Journal of Hypertension",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31112592/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "The body's own melatonin, not supplements. Group difference is a measured association in 150 young adults; the variable behind it is not known.",
+      "id": "jeong-2019"
+    },
+    {
+      "population": "31 commercial melatonin supplements (different brands and forms)",
+      "design": "Laboratory analysis of melatonin and serotonin content by chromatography",
+      "n": 31,
+      "finding": "Melatonin content ranged from 83 per cent below to 478 per cent above the label. Lot-to-lot variation reached 465 per cent. More than 71 per cent of products missed the label by more than 10 per cent, and serotonin was found in eight (about a quarter).",
+      "source": {
+        "authors": "Erland LA, Saxena PK",
+        "year": 2017,
+        "journal": "Journal of Clinical Sleep Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27855744/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Products sold in one market at one time. It is a reason to doubt labels and ranks no product.",
+      "id": "erland-2017"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That melatonin helps sleep: two meta-analyses of 23 and 24 randomised trials that disagree for adults with chronic insomnia, none in Black participants for sleep; the one Black-participant trial (40 people) tested night blood pressure.",
+  "tier_note": "Two meta-analyses of many trials that disagree, so the lower reading: thin. It stays B, short of A, because the one trial in Black participants (an A line) measured blood pressure and not sleep, so it cannot lift the sleep headline.",
+  "harm_flag": true,
+  "harm_note": "NCCIH says short-term use appears safe for most people, long-term safety is unknown, older people may feel sleepy the next day, and poison centre calls for under-20s rose from 8,337 in 2012 to 52,563 in 2021, mostly toddlers swallowing it by accident. One lab check found melatonin content 83 per cent below to 478 per cent above the label, and serotonin in some products.",
+  "founder_flag": false,
+  "evidence_summary": "In adults with chronic insomnia melatonin did not clearly improve sleep onset or duration, though a broader set of trials found small gains in self-rated sleep quality. In Black patients with high blood pressure, 24 mg at night did not lower blood pressure. People of African descent in one study had lower night-time melatonin than European Americans, but that was the body's own melatonin and gives no reason to supplement. The NHS lists melatonin as prescription-only in the UK, and NCCIH says it is a dietary supplement in the US and a prescription drug in several other countries.",
+  "measured_variables": [
+    "Sleep onset latency, total sleep time, PSQI score",
+    "Night-time blood pressure (the Black-participant trial)",
+    "Melatonin content of products against label",
+    "Urinary 6-sulfatoxymelatonin (own melatonin)",
+    "Ethnicity: self-defined African American in two studies"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 3 records for melatonin supplementation, one a trial in African American patients (night blood pressure, 2019). The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 5 records matched, two of them the African American blood pressure studies (NCT01114360 and NCT01114373, read in summary). A sleep trial of melatonin in Black participants was not found. Rules: the UK position is from the NHS page and the US position from NCCIH; I did not open sources for other countries, so no other rule is stated. Untested: melatonin for sleep in Black participants; long-term use.",
+  "related": [
+    "sleep-and-sleep-apnoea",
+    "high-blood-pressure-in-black-adults",
+    "stress-burnout-and-blood-pressure",
+    "vitamins-and-supplements-basics",
+    "anxiety-depression-and-what-helps"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Choi K, Lee YJ, Park S, Je NK et al",
+      "year": 2022,
+      "journal": "Sleep Medicine Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36179487/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Fatemeh G, Sajjad M, Niloufar R, Neda S",
+      "year": 2022,
+      "journal": "Journal of Neurology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33417003/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Rahbari-Oskoui FF, Abramson JL, Bruckman AM, Chapman AB et al",
+      "year": 2019,
+      "journal": "Complementary Therapies in Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30935524/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Jeong J, Zhu H, Harris RA, Dong Y et al",
+      "year": 2019,
+      "journal": "American Journal of Hypertension",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31112592/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Erland LA, Saxena PK",
+      "year": 2017,
+      "journal": "Journal of Clinical Sleep Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27855744/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NCCIH, \"Melatonin: What You Need To Know\"",
+      "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Melatonin: a medicine used for sleep problems\"",
+      "url": "https://www.nhs.uk/medicines/melatonin/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

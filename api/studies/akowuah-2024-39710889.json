@@ -1,0 +1,30 @@
+{
+  "pmid": "39710889",
+  "slug": "akowuah-2024-39710889",
+  "citation": {
+    "authors": "Akowuah GA, Sabbagh BA, Palanirajan VK, Chew YL et al",
+    "year": 2024,
+    "journal": "Journal of Complementary and Integrative Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39710889/",
+  "page": "https://vilivity.com/studies/akowuah-2024-39710889/",
+  "cited_by": [
+    {
+      "entry": "bush-teas-cerasee-bitter-leaf-and-medicines",
+      "title": "Bush teas and herbal remedies (cerasee, bitter leaf) with medicines",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bush-teas-cerasee-bitter-leaf-and-medicines/",
+      "record": {
+        "id": "akowuah-2024",
+        "population": "Diabetic rats (4 groups of 6) and enzyme assays",
+        "n": "24 rats",
+        "design": "Single-dose experiment of bitter leaf aqueous leaf extract with metformin",
+        "finding": "Given with metformin, the extract changed metformin's pharmacokinetics (higher peak level, higher total exposure and longer half-life) and inhibited the liver enzymes CYP3A4 and CYP2C9 in the assay. The authors say this suggests potential herb-drug interactions.",
+        "line_tier": "C",
+        "note": "Rats only, one dose; a signal worth a pharmacist check, not a measured human risk.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

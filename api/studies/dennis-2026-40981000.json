@@ -1,0 +1,30 @@
+{
+  "pmid": "40981000",
+  "slug": "dennis-2026-40981000",
+  "citation": {
+    "authors": "Dennis AC, DeAngelis R, Hargrove TW, Pearson JA",
+    "year": 2026,
+    "journal": "Journal of Health and Social Behavior"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40981000/",
+  "page": "https://vilivity.com/studies/dennis-2026-40981000/",
+  "cited_by": [
+    {
+      "entry": "colourism-and-mental-health",
+      "title": "Colourism, skin tone and mental health",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/colourism-and-mental-health/",
+      "record": {
+        "id": "dennis-2026",
+        "population": "627 working-age Black adults in Nashville, 2011-2014",
+        "n": "627",
+        "design": "Community survey plus biomarkers (telomere length)",
+        "finding": "Black adults who perceived themselves as dark-skinned had a lower sense of mattering and shorter telomeres than those who perceived their skin lighter, regardless of interviewer-rated skin tone.",
+        "line_tier": "B",
+        "note": "One city; telomeres are a research biomarker, not a diagnosis.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

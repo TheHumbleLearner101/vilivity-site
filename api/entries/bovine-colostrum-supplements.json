@@ -1,0 +1,163 @@
+{
+  "slug": "bovine-colostrum-supplements",
+  "title": "Bovine colostrum supplements for immunity and gut health",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does colostrum boost your immune system?",
+    "Is colostrum good for gut health?",
+    "Is colostrum safe if you are lactose intolerant?",
+    "Has colostrum been tested on Black people?"
+  ],
+  "tradition_says": "Colostrum is the first milk after birth. Colostrum powders and capsules, usually from cows, are promoted for immunity, gut health, sports recovery and healing.",
+  "layer1": {
+    "plain_answer": "Bovine colostrum, the first milk from cows, has small, mixed trials in athletes and a few other groups, with little effect on immune markers. Our search found no trial of colostrum in Black participants. It is a cow's milk product, so check first if dairy upsets you, and do not use it to treat an infection.",
+    "do": [
+      {
+        "text": "Check first if dairy upsets you: bovine colostrum comes from cow's milk, and lactose is found in milk from cows, goats and sheep.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Lactose intolerance\"",
+          "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any supplement you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Relying on it to stop colds or infections: in athletes it made little difference to immune markers or illness.",
+        "basis": "tested",
+        "source": "mizelman-2026"
+      },
+      {
+        "text": "Giving it to children for illness without advice: the evidence in children was conflicting.",
+        "basis": "tested",
+        "source": "guberti-2021"
+      }
+    ],
+    "see_someone_when": [
+      "A rash, swelling or breathing difficulty after taking it (urgent care).",
+      "Tummy pain, bloating or diarrhoea that follows each dose (pharmacist or doctor; see lactose intolerance).",
+      "An infection that is not clearing (doctor). A supplement does not replace treatment."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Athletes and physically active adults in ten randomised trials of bovine colostrum",
+      "design": "Systematic review and meta-analysis of immune outcomes",
+      "n": 239,
+      "finding": "Bovine colostrum had no or only a fairly low effect on serum immunoglobulins (IgA, IgG), lymphocytes, neutrophils and saliva IgA. The authors note earlier work saying it reduces upper respiratory tract infections, and say the mechanism is unclear.",
+      "source": {
+        "authors": "Glowka N, Durkalec-Michalski K, Wozniewicz M",
+        "year": 2020,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32276466/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Trained and active people only. Ethnicity not reported in the abstract.",
+      "id": "glowka-2020"
+    },
+    {
+      "population": "Healthy and sick people in 28 papers (reviews, randomised trials, observational studies and case series)",
+      "design": "Systematic review of bovine colostrum by every route of use",
+      "n": 28,
+      "finding": "Studies were highly varied in people, doses and risk of bias. As a supplement it showed \"interesting effects\" on upper respiratory illness in sportsmen, immune response and intestinal permeability. Results in children were conflicting, and there is little evidence in older adults.",
+      "source": {
+        "authors": "Guberti M, Botti S, Capuzzo MT, Nardozi S et al",
+        "year": 2021,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34202206/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A mixed bag by design, so it maps the field and tests no single claim.",
+      "id": "guberti-2021"
+    },
+    {
+      "population": "Club-level rugby players (26 men, 3 women), 8 weeks",
+      "design": "Randomised, double-blind trial of bovine colostrum 38 g a day against soy protein",
+      "n": 29,
+      "finding": "Vertical jump height rose by about 1 cm with colostrum and fell by 0.5 cm with soy (p = 0.0023). There were no differences in upper or lower body strength, aerobic power, body composition, saliva immune markers or reported illness.",
+      "source": {
+        "authors": "Mizelman E, Shaw KA, Kaviani M, Brenna E et al",
+        "year": 2026,
+        "journal": "European Journal of Applied Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40640599/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A small trial in athletes. Ethnicity not reported in the abstract.",
+      "id": "mizelman-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That bovine colostrum boosts immunity: a meta-analysis of ten trials in 239 athletes found little or no effect on immune markers, and none of the work was in Black participants.",
+  "tier_note": "Randomised trials exist, but they are small, in athletes and varied, so strength is thin. It stays B, short of A, because no trial in people of African descent was found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal in the abstracts I read. I did not open a clinical source on milk allergy or pregnancy and colostrum, so those cautions are not stated.",
+  "founder_flag": false,
+  "evidence_summary": "A meta-analysis of ten trials in 239 athletes found little or no effect on immunoglobulins and white cell counts. A broader review of 28 papers called results interesting for respiratory illness in sportsmen and for gut permeability, and conflicting in children. A 2026 trial in 29 rugby players found a small jump-height gain and no change in immune markers or illness.",
+  "measured_variables": [
+    "Serum and saliva immunoglobulins (IgA, IgG)",
+    "Respiratory illness incidence",
+    "Intestinal permeability",
+    "Lactose and milk protein content (not measured in the trials I read)",
+    "No ancestry variable in any source"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 1 record for colostrum, a lactation study in mothers (breast milk), so nothing relevant. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 1 record (a multi-ingredient supplement study; title read only). Several consumer pages from a web search were not opened. Untested: any effect in Black participants; safety in people with cow's milk allergy (no clinical source opened); long-term use.",
+  "related": [
+    "lactose-intolerance-and-dairy",
+    "vitamins-and-supplements-basics",
+    "starting-training-rest-days-and-recovery"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Glowka N, Durkalec-Michalski K, Wozniewicz M",
+      "year": 2020,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32276466/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Guberti M, Botti S, Capuzzo MT, Nardozi S et al",
+      "year": 2021,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34202206/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Mizelman E, Shaw KA, Kaviani M, Brenna E et al",
+      "year": 2026,
+      "journal": "European Journal of Applied Physiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40640599/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Lactose intolerance\"",
+      "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

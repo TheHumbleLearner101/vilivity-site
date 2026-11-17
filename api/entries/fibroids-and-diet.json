@@ -1,0 +1,191 @@
+{
+  "slug": "fibroids-and-diet",
+  "title": "Fibroids, food and supplements",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Which foods feed or shrink fibroids?",
+    "Does green tea shrink fibroids?",
+    "Can vitamin D shrink fibroids?"
+  ],
+  "tradition_says": "Many women are told to cut red meat, dairy or sugar to stop fibroids growing, or to drink green tea or take herbs to shrink them.",
+  "layer1": {
+    "plain_answer": "No food has been shown to shrink fibroids. In Black women, a high glycaemic index diet was only weakly linked to fibroid risk. Five trials of vitamin D in other populations found smaller fibroids, and one tiny trial of green tea extract found the same; both need larger trials. See a doctor for heavy bleeding.",
+    "do": [
+      {
+        "text": "See a doctor if fibroids cause heavy or painful periods; treatment is not needed without symptoms.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Fibroids\"",
+          "url": "https://www.nhs.uk/conditions/fibroids/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about a vitamin D supplement: the NHS says people with African, African-Caribbean or South Asian backgrounds should consider one through the year.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Eat a balanced diet with plenty of fruit and vegetables, as for everyone.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"8 tips for healthy eating\"",
+          "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know that being overweight is a risk factor the UK's NHS lists for fibroids.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Fibroids\"",
+          "url": "https://www.nhs.uk/conditions/fibroids/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating heavy bleeding with food or supplements alone: iron deficiency anaemia is a known complication.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Fibroids\"",
+          "url": "https://www.nhs.uk/conditions/fibroids/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Taking green tea extract tablets as a fibroid treatment: the only trial I found was a pilot of 39 women in Egypt.",
+        "basis": "tested",
+        "source": "roshdy-2013"
+      }
+    ],
+    "see_someone_when": [
+      "Heavy periods, pain or pressure from fibroids that affect daily life (doctor).",
+      "Tiredness, breathlessness or pale skin with heavy periods (doctor, for a blood count).",
+      "Bleeding between periods or after sex (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "21,861 premenopausal Black women in the Black Women's Health Study, followed 1997-2007",
+      "design": "Prospective cohort with food-frequency questionnaires",
+      "n": 21861,
+      "finding": "During 162,604 person-years, 5,800 fibroid cases were diagnosed. Dietary glycaemic index was weakly associated with fibroid risk overall (highest against lowest quintile 1.09, 95% CI 0.99-1.19; P for trend 0.04), with stronger links in women under 35 for glycaemic load (1.18) and in college-educated women for glycaemic index (1.17).",
+      "source": {
+        "authors": "Radin RG, Palmer JR, Rosenberg L, Kumanyika SK et al",
+        "year": 2010,
+        "journal": "American Journal of Clinical Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20200259/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Questionnaire diet; the authors call the findings something that warrants further study.",
+      "id": "radin-2010"
+    },
+    {
+      "population": "511 women with fibroids in 5 randomised trials of oral vitamin D (256 treated, 255 on placebo)",
+      "design": "Systematic review and meta-analysis of randomised trials",
+      "n": "5 trials (511 people)",
+      "finding": "Vitamin D supplementation significantly decreased fibroid size (standardised mean difference -0.48, 95% CI -0.66 to -0.31) and raised serum vitamin D, with a larger effect in trials lasting more than 8 weeks. The authors say larger well-designed trials are needed for other outcomes.",
+      "source": {
+        "authors": "Alsharif SA, Baradwan S, Alshahrani MS, Khadawardi K et al",
+        "year": 2024,
+        "journal": "Nutrition and Cancer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38234246/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Trials were not in Black women; I did not read which countries or whether low-certainty.",
+      "id": "alsharif-2024"
+    },
+    {
+      "population": "39 women aged 18-50 with symptomatic fibroids (33 completed), Egypt",
+      "design": "Pilot double-blind placebo-controlled randomised trial of green tea extract (EGCG)",
+      "n": 39,
+      "finding": "Fibroid volume fell significantly in the green tea extract group (22 women) while it rose 24.3% in the placebo group (11 women). Symptom severity fell 32.4%, quality of life improved 18.5%, haemoglobin rose 0.7 g/dL and monthly blood loss fell from 71 to 45 mL. No adverse effects were observed.",
+      "source": {
+        "authors": "Roshdy E, Rajaratnam V, Maitra S, Sabry M et al",
+        "year": 2013,
+        "journal": "International Journal of Women's Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23950663/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Pilot with a 2:1 split and small groups; funding not checked.",
+      "id": "roshdy-2013"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That vitamin D or green tea extract shrinks fibroids: a meta-analysis of five small trials of vitamin D and one pilot of 39 women for green tea, none in Black women.",
+  "tier_note": "Trials in other populations, small and not rated for certainty; the only Black-population food data are an observational cohort with a weak association; would move with a trial in Black women.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the abstracts read. The pilot reported no adverse events in 39 women and a small safety study of 39 women found no liver injury at the dose used, but both are tiny.",
+  "founder_flag": false,
+  "evidence_summary": "No food is proven to shrink fibroids. In 21,861 Black women, a diet with a higher glycaemic index was weakly linked to fibroid risk. A meta-analysis of five trials in other populations found vitamin D lowered fibroid size, and a pilot of 39 women in Egypt found green tea extract reduced volume and bleeding; neither was in Black women and both call for larger trials. The UK's NHS lists being overweight as a risk factor and says fibroids need treatment only when they cause symptoms.",
+  "measured_variables": [
+    "Fibroid size or volume by ultrasound; incident fibroids by ultrasound or surgery",
+    "Dietary glycaemic index and load (questionnaire)",
+    "Serum vitamin D",
+    "Self-identified race in the cohort, a stand-in"
+  ],
+  "gaps": "Untested or not opened: whether any food or supplement changes fibroid growth in Black women in a trial (my search found none); red meat, dairy and sugar claims (no source opened); the FRIEND trial of green tea extract was seen as a protocol title only; liver safety of green tea extract in women (a 39-woman study found none, but doses are not given here); drug interaction. The NHS vitamin D line is general advice for the African and Caribbean background, not advice about fibroids.",
+  "related": [
+    "fibroids-symptoms-treatment-and-pregnancy",
+    "iron-and-fibroids",
+    "vitamin-d-and-dark-skin",
+    "pcos-endometriosis-and-heavy-periods"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Radin RG, Palmer JR, Rosenberg L, Kumanyika SK et al",
+      "year": 2010,
+      "journal": "American Journal of Clinical Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20200259/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Alsharif SA, Baradwan S, Alshahrani MS, Khadawardi K et al",
+      "year": 2024,
+      "journal": "Nutrition and Cancer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38234246/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Roshdy E, Rajaratnam V, Maitra S, Sabry M et al",
+      "year": 2013,
+      "journal": "International Journal of Women's Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23950663/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Fibroids\"",
+      "url": "https://www.nhs.uk/conditions/fibroids/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Vitamin D\"",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"8 tips for healthy eating\"",
+      "url": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/eight-tips-for-healthy-eating/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

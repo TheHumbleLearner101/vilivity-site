@@ -1,0 +1,47 @@
+{
+  "pmid": "42660430",
+  "slug": "dreifus-2026-42660430",
+  "citation": {
+    "authors": "Dreifus EM, Burke OM, Alexis AF et al",
+    "year": 2026,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42660430/",
+  "page": "https://vilivity.com/studies/dreifus-2026-42660430/",
+  "cited_by": [
+    {
+      "entry": "laser-hair-removal-on-dark-skin",
+      "title": "Laser hair removal on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/laser-hair-removal-on-dark-skin/",
+      "record": {
+        "id": "dreifus-2026",
+        "population": "Fitzpatrick IV-VI (mixed groups)",
+        "n": "not stated",
+        "design": "Clinical review of lasers and energy devices",
+        "finding": "Melanin competes for laser energy in skin of colour, raising the risk of dark or pale marks, blisters and scarring; optimal outcomes need careful pre- and post-treatment care, strict photoprotection and sequential, lower-energy treatments; large prospective trials in darker skin are lacking.",
+        "line_tier": "B",
+        "note": "Same review as in the stretch marks entry.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "stretch-marks-and-scar-fading",
+      "title": "Stretch marks and fading scars",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/stretch-marks-and-scar-fading/",
+      "record": {
+        "id": "dreifus-2026",
+        "population": "Fitzpatrick IV-VI skin (mixed groups)",
+        "n": "not stated",
+        "design": "Clinical review of laser and energy device safety",
+        "finding": "In skin of colour, melanin competes for the laser energy and raises the risk of dark or pale marks, blisters and scarring. Low-fluence Q-switched and picosecond Nd:YAG are favourable; non-ablative fractional lasers can be used conservatively; ablative devices carry more complications. The authors say large prospective trials in darker skin are lacking.",
+        "line_tier": "B",
+        "note": "Published online 27 Aug 2026; covers Fitzpatrick IV-VI, not only Black skin.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

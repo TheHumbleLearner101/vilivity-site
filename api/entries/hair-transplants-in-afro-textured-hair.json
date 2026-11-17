@@ -1,0 +1,175 @@
+{
+  "slug": "hair-transplants-in-afro-textured-hair",
+  "title": "Hair transplants in afro-textured hair",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Do hair transplants work on Black hair?",
+    "Can Black men have a hair transplant?"
+  ],
+  "tradition_says": "Hair transplants work the same on every hair type, so any clinic can do one on Black hair, and the results are as reliable.",
+  "layer1": {
+    "plain_answer": "Transplants can be done on tightly curled hair, but the evidence is a small case series and a review, with no outcome data in Black men. Curl makes extraction harder, so the surgeon's tools and experience matter. Scarring hair loss such as CCCA must be ruled out first.",
+    "do": [
+      {
+        "text": "Ask which extraction tool will be used for tightly curled hair: in a case series of 18, conventional punches often cut the follicles and a curved non-rotary punch did better.",
+        "basis": "tested",
+        "source": "umar-2016"
+      },
+      {
+        "text": "Have the scalp checked for a scarring hair-loss condition (CCCA, lichen planopilaris, frontal fibrosing alopecia) before any surgery.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Dr. Kopelman and The Hair Doctors (a hair-transplant clinic's channel), YouTube, \"Best Hair Loss Treatments for Black Hair\"",
+          "url": "https://youtu.be/KfG05x2ijLw",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about the donor area: how much hair is there to take and how many sessions the plan needs (one surgeon says donor density can limit the target).",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Dr. Kopelman and The Hair Doctors (a hair-transplant clinic's channel), YouTube, \"Best Hair Loss Treatments for Black Hair\"",
+          "url": "https://youtu.be/KfG05x2ijLw",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Operating while a scarring disease is active: the two-patient CCCA report used patients whose biopsy showed no inflammation.",
+        "basis": "tested",
+        "source": "callender-2014"
+      },
+      {
+        "text": "Assuming extraction is scarless: one surgeon says each extraction leaves a small scar, visible on a close shave.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Dr. Kopelman and The Hair Doctors (a hair-transplant clinic's channel), YouTube, \"Best Hair Loss Treatments for Black Hair\"",
+          "url": "https://youtu.be/KfG05x2ijLw",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Thinning or a receding hairline, or bald patches: a doctor, then a dermatologist, before a surgeon.",
+      "An itchy, sore or scaly scalp with hair loss (dermatologist).",
+      "Hair loss that is spreading from the crown (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "18 patients with tightly curled afro-textured hair",
+      "design": "Retrospective case series of follicular unit extraction (FUE) punches",
+      "n": "18",
+      "finding": "Sharp and dull conventional rotary punches failed or had excessive transection rates in 8 patients; a 2-pronged curved non-rotary punch had the best transection rate, below 5%, in all instances.",
+      "source": {
+        "authors": "Umar S et al",
+        "year": 2016,
+        "journal": "Plastic and Reconstructive Surgery Global Open",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27757365/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small retrospective case series by the tool's developer group; technical result, not hair survival.",
+      "id": "umar-2016"
+    },
+    {
+      "population": "2 African American women with end-stage CCCA",
+      "design": "Case report, round (punch) grafting",
+      "n": "2",
+      "finding": "Hair grew at the recipient sites from 4 to 5 months, with no scarring in recipient or donor areas; the authors call transplantation safe and well tolerated in end-stage CCCA with no inflammation on biopsy.",
+      "source": {
+        "authors": "Callender VD et al",
+        "year": 2014,
+        "journal": "Dermatologic Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25207763/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Two women, not men; no long-term follow-up in the abstract.",
+      "id": "callender-2014"
+    },
+    {
+      "population": "Review of hair restoration surgery in curly Afrocentric hair",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Hair structure differs between groups, and curly hair poses specific challenges and special considerations when surgery is considered, including curvature, grooming techniques, instruments and complications. The abstract gives no success rates.",
+      "source": {
+        "authors": "Rogers N, Callender V",
+        "year": 2014,
+        "journal": "Dermatologic Clinics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24680003/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only.",
+      "id": "rogers-2014"
+    },
+    {
+      "population": "Hair transplant outcomes in Black or tightly curled hair",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"hair transplantation\" OR \"hair transplant\") AND (outcome OR survival OR \"graft survival\" OR satisfaction) AND (\"African American\" OR Black OR \"afro-textured\" OR \"tightly curled\") (result count 5).",
+      "n": 0,
+      "finding": "My search found nothing on outcomes in Black men: the 5 results were a hair-transplant tourism paper, a strip-to-FUE history, a follicular vitiligo paper, the CCCA report above and a mouse radiation paper. A wider string, (\"hair transplantation\" OR \"follicular unit extraction\") AND (African OR Black OR \"afro-textured\" OR \"skin of color\"), returned 78 results; the first 8 titles were read and the relevant ones are Umar 2016, Rogers 2014, Callender 2014 and an FUE technical paper (Singh 2013, no abstract). Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22hair+transplantation%22+OR+%22hair+transplant%22%29+AND+%28outcome+OR+survival+OR+%22graft+survival%22+OR+satisfaction%29+AND+%28%22African+American%22+OR+Black+OR+%22afro-textured%22+OR+%22tightly+curled%22%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "transplant-search"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a transplant gives lasting, natural-looking results in Black men: no outcome study found; case series show only that extraction can be done.",
+  "tier_note": "D because the claim people make (it works as well as in other hair) has no outcome study in Black men; the case series are B lines about technique. A series with graft survival and satisfaction in Black men would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The scarring and keloid risk is unstudied here; one surgeon says it is not a significant problem in his practice (a clinic channel, not evidence).",
+  "founder_flag": false,
+  "evidence_summary": "Umar 2016 (18 patients) found conventional rotary punches often cut tightly curled follicles and a curved non-rotary punch did better. Rogers 2014 (review, abstract only) says curly hair poses specific challenges: instruments, grooming, indications and complications. Callender 2014 reports two women with end-stage CCCA whose transplanted hair grew. A clinic-channel interview with a transplant surgeon says Black patients often present with scarring and inflammatory hair loss that must be found first, that donor density can limit the plan, and that FUE always leaves small scars; these are the surgeon's statements, untested. I found no outcome data in men and no UK source for private clinics.",
+  "measured_variables": [
+    "Follicle transection rate (case series)",
+    "Donor density (surgeon-reported)"
+  ],
+  "gaps": "Untested: graft survival, satisfaction and complications in Black men; scarring and keloid rates after FUE. Not opened: Singh 2013 (no abstract). Closes the 12 Nov partial as \"technique evidence only; no outcomes\".",
+  "related": [
+    "mens-hair-loss-and-hair-transplants",
+    "central-centrifugal-cicatricial-alopecia",
+    "traction-alopecia-and-protective-styles",
+    "keloids-and-piercings"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Umar S et al",
+      "year": 2016,
+      "journal": "Plastic and Reconstructive Surgery Global Open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27757365/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Callender VD et al",
+      "year": 2014,
+      "journal": "Dermatologic Surgery",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25207763/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rogers NE et al",
+      "year": 2014,
+      "journal": "Dermatologic Clinics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24680003/",
+      "tag": "[review]"
+    },
+    {
+      "name": "Dr. Kopelman and The Hair Doctors (a hair-transplant clinic's channel), YouTube, \"Best Hair Loss Treatments for Black Hair\"",
+      "url": "https://youtu.be/KfG05x2ijLw",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

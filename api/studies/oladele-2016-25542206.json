@@ -1,0 +1,30 @@
+{
+  "pmid": "25542206",
+  "slug": "oladele-2016-25542206",
+  "citation": {
+    "authors": "Oladele EO, Williamson G",
+    "year": 2016,
+    "journal": "European Journal of Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25542206/",
+  "page": "https://vilivity.com/studies/oladele-2016-25542206/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "oladele-2016",
+        "population": "Ten healthy volunteers (UK study with Nigerian plantain products)",
+        "n": "10",
+        "design": "Test meals of boiled unripe plantain, plantain crisps and ripe plantain against white bread",
+        "finding": "Mean glycaemic index was 44.9 for boiled unripe plantain, 55.0 for the crisps and 38 for ripe raw plantain, lower than the Nigerian review's reported plantain values. The authors say the link with resistant starch is confounded by other constituents.",
+        "line_tier": "B",
+        "note": "Ten people; ancestry not stated; one plantain variety and 25 g carbohydrate portions.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

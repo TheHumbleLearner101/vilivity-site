@@ -1,0 +1,4101 @@
+{
+  "site": "Vilivity",
+  "count": 341,
+  "studies": [
+    {
+      "slug": "merz-2023-35994632",
+      "pmid": "35994632",
+      "title": "Absolute neutrophil count by Duffy status among healthy Black and African American adults",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/merz-2023-35994632/",
+      "json": "https://vilivity.com/api/studies/merz-2023-35994632.json"
+    },
+    {
+      "slug": "reich-2009-19180233",
+      "pmid": "19180233",
+      "title": "Reduced neutrophil count in people of African descent is due to a regulatory variant in the Duffy antigen receptor for chemokines gene",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/reich-2009-19180233/",
+      "json": "https://vilivity.com/api/studies/reich-2009-19180233.json"
+    },
+    {
+      "slug": "hibbs-2024-39259539",
+      "pmid": "39259539",
+      "title": "Cancer Trial Eligibility and Therapy Modifications for Individuals With Duffy Null-Associated Neutrophil Count",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hibbs-2024-39259539/",
+      "json": "https://vilivity.com/api/studies/hibbs-2024-39259539.json"
+    },
+    {
+      "slug": "hibbs-2025-40685916",
+      "pmid": "40685916",
+      "title": "The Duffy antigen: A narrative review of testing, epidemiology, neutrophil counts and clinical consequences",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hibbs-2025-40685916/",
+      "json": "https://vilivity.com/api/studies/hibbs-2025-40685916.json"
+    },
+    {
+      "slug": "abdallah-2024-39348709",
+      "pmid": "39348709",
+      "title": "Febrile neutropenia in patients with Duffy-null-associated neutrophil counts and multiple myeloma or AL amyloidosis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/abdallah-2024-39348709/",
+      "json": "https://vilivity.com/api/studies/abdallah-2024-39348709.json"
+    },
+    {
+      "slug": "alexis-2014-24509968",
+      "pmid": "24509968",
+      "title": "A subgroup analysis to evaluate the efficacy and safety of adapalene-benzoyl peroxide topical gel in black subjects with moderate acne",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/alexis-2014-24509968/",
+      "json": "https://vilivity.com/api/studies/alexis-2014-24509968.json"
+    },
+    {
+      "slug": "taylor-2023-36924935",
+      "pmid": "36924935",
+      "title": "Treatment recommendations for acne-associated hyperpigmentation: Results of the Delphi consensus process and a literature review",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/taylor-2023-36924935/",
+      "json": "https://vilivity.com/api/studies/taylor-2023-36924935.json"
+    },
+    {
+      "slug": "callender-2022-34751927",
+      "pmid": "34751927",
+      "title": "Effects of Topical Retinoids on Acne and Post-inflammatory Hyperpigmentation in Patients with Skin of Color: A Clinical Review and Implications for Practice",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/callender-2022-34751927/",
+      "json": "https://vilivity.com/api/studies/callender-2022-34751927.json"
+    },
+    {
+      "slug": "ogunbiyi-2021-33571401",
+      "pmid": "33571401",
+      "title": "African black soap: Physiochemical, phytochemical properties, and uses",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ogunbiyi-2021-33571401/",
+      "json": "https://vilivity.com/api/studies/ogunbiyi-2021-33571401.json"
+    },
+    {
+      "slug": "beutler-2005-15790781",
+      "pmid": "15790781",
+      "title": "Hematologic differences between African-Americans and whites: the roles of iron deficiency and alpha-thalassemia on hemoglobin levels and mean corpuscular volume",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 3,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/beutler-2005-15790781/",
+      "json": "https://vilivity.com/api/studies/beutler-2005-15790781.json"
+    },
+    {
+      "slug": "piel-2014-25390741",
+      "pmid": "25390741",
+      "title": "The α-thalassemias",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/piel-2014-25390741/",
+      "json": "https://vilivity.com/api/studies/piel-2014-25390741.json"
+    },
+    {
+      "slug": "paradies-2015-26398658",
+      "pmid": "26398658",
+      "title": "Racism as a Determinant of Health: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/paradies-2015-26398658/",
+      "json": "https://vilivity.com/api/studies/paradies-2015-26398658.json"
+    },
+    {
+      "slug": "hadi-2021-34187442",
+      "pmid": "34187442",
+      "title": "The effect of apple cider vinegar on lipid profiles and glycemic parameters: a systematic review and meta-analysis of randomized clinical trials",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hadi-2021-34187442/",
+      "json": "https://vilivity.com/api/studies/hadi-2021-34187442.json"
+    },
+    {
+      "slug": "castagna-2025-41010525",
+      "pmid": "41010525",
+      "title": "Effect of Apple Cider Vinegar Intake on Body Composition in Humans with Type 2 Diabetes and/or Overweight: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/castagna-2025-41010525/",
+      "json": "https://vilivity.com/api/studies/castagna-2025-41010525.json"
+    },
+    {
+      "slug": "hill-2005-15983536",
+      "pmid": "15983536",
+      "title": "Esophageal injury by apple cider vinegar tablets and subsequent evaluation of products",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hill-2005-15983536/",
+      "json": "https://vilivity.com/api/studies/hill-2005-15983536.json"
+    },
+    {
+      "slug": "bmj-2025-41789013",
+      "pmid": "41789013",
+      "title": "Retraction: Apple cider vinegar for weight management in lebanese adolescents and young adults with overweight and obesity: a randomised, double-blind, placebo-controlled study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bmj-2025-41789013/",
+      "json": "https://vilivity.com/api/studies/bmj-2025-41789013.json"
+    },
+    {
+      "slug": "akhgarjand-2022-36017529",
+      "pmid": "36017529",
+      "title": "Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/akhgarjand-2022-36017529/",
+      "json": "https://vilivity.com/api/studies/akhgarjand-2022-36017529.json"
+    },
+    {
+      "slug": "cheah-2021-34559859",
+      "pmid": "34559859",
+      "title": "Effect of Ashwagandha (Withania somnifera) extract on sleep: A systematic review and meta-analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/cheah-2021-34559859/",
+      "json": "https://vilivity.com/api/studies/cheah-2021-34559859.json"
+    },
+    {
+      "slug": "bjornsson-2020-31991029",
+      "pmid": "31991029",
+      "title": "Ashwagandha-induced liver injury: A case series from Iceland and the US Drug-Induced Liver Injury Network",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bjornsson-2020-31991029/",
+      "json": "https://vilivity.com/api/studies/bjornsson-2020-31991029.json"
+    },
+    {
+      "slug": "sharma-2018-28829155",
+      "pmid": "28829155",
+      "title": "Efficacy and Safety of Ashwagandha Root Extract in Subclinical Hypothyroid Patients: A Double-Blind, Randomized Placebo-Controlled Trial",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/sharma-2018-28829155/",
+      "json": "https://vilivity.com/api/studies/sharma-2018-28829155.json"
+    },
+    {
+      "slug": "srivarathan-2026-40854799",
+      "pmid": "40854799",
+      "title": "Bridging diagnostic safety and mental health: a systematic review highlighting inequities in autism spectrum disorder diagnosis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/srivarathan-2026-40854799/",
+      "json": "https://vilivity.com/api/studies/srivarathan-2026-40854799.json"
+    },
+    {
+      "slug": "gallin-2025-38941049",
+      "pmid": "38941049",
+      "title": "Racial Differences in the Prevalence of Autism Spectrum Disorder: A Systematic Review",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gallin-2025-38941049/",
+      "json": "https://vilivity.com/api/studies/gallin-2025-38941049.json"
+    },
+    {
+      "slug": "khumalo-2008-18694677",
+      "pmid": "18694677",
+      "title": "Determinants of marginal traction alopecia in African girls and women",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 10,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khumalo-2008-18694677/",
+      "json": "https://vilivity.com/api/studies/khumalo-2008-18694677.json"
+    },
+    {
+      "slug": "rucker-2011-20728245",
+      "pmid": "20728245",
+      "title": "Hair care practices and their association with scalp and hair disorders in African American girls",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 7,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rucker-2011-20728245/",
+      "json": "https://vilivity.com/api/studies/rucker-2011-20728245.json"
+    },
+    {
+      "slug": "victoire-2019-30828791",
+      "pmid": "30828791",
+      "title": "Interventions for infantile seborrhoeic dermatitis (including cradle cap)",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/victoire-2019-30828791/",
+      "json": "https://vilivity.com/api/studies/victoire-2019-30828791.json"
+    },
+    {
+      "slug": "kelleher-2022-36373988",
+      "pmid": "36373988",
+      "title": "Skin care interventions in infants for preventing eczema and food allergy",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kelleher-2022-36373988/",
+      "json": "https://vilivity.com/api/studies/kelleher-2022-36373988.json"
+    },
+    {
+      "slug": "rita-2022-35057579",
+      "pmid": "35057579",
+      "title": "Adansonia digitata L. (Baobab Fruit) Effect on Postprandial Glycemia in Healthy Adults: A Randomized Controlled Trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rita-2022-35057579/",
+      "json": "https://vilivity.com/api/studies/rita-2022-35057579.json"
+    },
+    {
+      "slug": "coe-2013-24176228",
+      "pmid": "24176228",
+      "title": "The polyphenol-rich baobab fruit (Adansonia digitata L.) reduces starch digestion and glycemic response in humans",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/coe-2013-24176228/",
+      "json": "https://vilivity.com/api/studies/coe-2013-24176228.json"
+    },
+    {
+      "slug": "evang-2021-33355689",
+      "pmid": "33355689",
+      "title": "Can the supplementary consumption of baobab (Adansonia digitata L.) fruit pulp improve the hemoglobin levels and iron status of schoolchildren in Kenya? Findings of a randomized controlled intervention trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/evang-2021-33355689/",
+      "json": "https://vilivity.com/api/studies/evang-2021-33355689.json"
+    },
+    {
+      "slug": "hoffman-2016-27044069",
+      "pmid": "27044069",
+      "title": "Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between blacks and whites",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hoffman-2016-27044069/",
+      "json": "https://vilivity.com/api/studies/hoffman-2016-27044069.json"
+    },
+    {
+      "slug": "lee-2019-31186154",
+      "pmid": "31186154",
+      "title": "Racial and ethnic disparities in the management of acute pain in US emergency departments: Meta-analysis and systematic review",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lee-2019-31186154/",
+      "json": "https://vilivity.com/api/studies/lee-2019-31186154.json"
+    },
+    {
+      "slug": "hirani-2024-39529944",
+      "pmid": "39529944",
+      "title": "Racial Disparities in Opioid Prescribing in the United States from 2011 to 2021: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hirani-2024-39529944/",
+      "json": "https://vilivity.com/api/studies/hirani-2024-39529944.json"
+    },
+    {
+      "slug": "powell-2016-27337619",
+      "pmid": "27337619",
+      "title": "Masculinity and Race-Related Factors as Barriers to Health Help-Seeking Among African American Men",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/powell-2016-27337619/",
+      "json": "https://vilivity.com/api/studies/powell-2016-27337619.json"
+    },
+    {
+      "slug": "jafari-2025-40714301",
+      "pmid": "40714301",
+      "title": "Does Nigella sativa supplementation improve cardiovascular disease risk factors? A comprehensive GRADE-assessed systematic review and dose-response meta-analysis of 82 randomized controlled trials",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jafari-2025-40714301/",
+      "json": "https://vilivity.com/api/studies/jafari-2025-40714301.json"
+    },
+    {
+      "slug": "glowka-2020-32276466",
+      "pmid": "32276466",
+      "title": "Immunological Outcomes of Bovine Colostrum Supplementation in Trained and Physically Active People: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/glowka-2020-32276466/",
+      "json": "https://vilivity.com/api/studies/glowka-2020-32276466.json"
+    },
+    {
+      "slug": "guberti-2021-34202206",
+      "pmid": "34202206",
+      "title": "Bovine Colostrum Applications in Sick and Healthy People: A Systematic Review",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/guberti-2021-34202206/",
+      "json": "https://vilivity.com/api/studies/guberti-2021-34202206.json"
+    },
+    {
+      "slug": "mizelman-2026-40640599",
+      "pmid": "40640599",
+      "title": "Bovine colostrum supplementation in rugby",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mizelman-2026-40640599/",
+      "json": "https://vilivity.com/api/studies/mizelman-2026-40640599.json"
+    },
+    {
+      "slug": "us-2021-34003218",
+      "pmid": "34003218",
+      "title": "Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/us-2021-34003218/",
+      "json": "https://vilivity.com/api/studies/us-2021-34003218.json"
+    },
+    {
+      "slug": "siegel-2023-36856579",
+      "pmid": "36856579",
+      "title": "Colorectal cancer statistics, 2023",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/siegel-2023-36856579/",
+      "json": "https://vilivity.com/api/studies/siegel-2023-36856579.json"
+    },
+    {
+      "slug": "khumalo-2007-17553035",
+      "pmid": "17553035",
+      "title": "Hairdressing is associated with scalp disease in African schoolchildren",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khumalo-2007-17553035/",
+      "json": "https://vilivity.com/api/studies/khumalo-2007-17553035.json"
+    },
+    {
+      "slug": "ayugane-2026-42953661",
+      "pmid": "42953661",
+      "title": "Epidemiology, Behavioral Determinants, Symptom Burden, and Severity of Traction Alopecia Among Ghanaian Women: A Cross-Sectional Study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 3,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ayugane-2026-42953661/",
+      "json": "https://vilivity.com/api/studies/ayugane-2026-42953661.json"
+    },
+    {
+      "slug": "collins-2025-39936215",
+      "pmid": "39936215",
+      "title": "Contact Sensitization to Allergens in Synthetic Hair and Related Hair Practices: A Review",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/collins-2025-39936215/",
+      "json": "https://vilivity.com/api/studies/collins-2025-39936215.json"
+    },
+    {
+      "slug": "bowen-2008-18182985",
+      "pmid": "18182985",
+      "title": "Early onset of breast cancer in a group of British black women",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bowen-2008-18182985/",
+      "json": "https://vilivity.com/api/studies/bowen-2008-18182985.json"
+    },
+    {
+      "slug": "jack-2012-21445965",
+      "pmid": "21445965",
+      "title": "Breast cancer and age in Black and White women in South East England",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jack-2012-21445965/",
+      "json": "https://vilivity.com/api/studies/jack-2012-21445965.json"
+    },
+    {
+      "slug": "moller-2016-27780193",
+      "pmid": "27780193",
+      "title": "Short-term breast cancer survival in relation to ethnicity, stage, grade and receptor status: national cohort study in England",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/moller-2016-27780193/",
+      "json": "https://vilivity.com/api/studies/moller-2016-27780193.json"
+    },
+    {
+      "slug": "reid-2024-39652347",
+      "pmid": "39652347",
+      "title": "West African Genetic Ancestry and Breast Cancer Outcomes Among Black Women",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/reid-2024-39652347/",
+      "json": "https://vilivity.com/api/studies/reid-2024-39652347.json"
+    },
+    {
+      "slug": "fincham-2023-36624160",
+      "pmid": "36624160",
+      "title": "Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/fincham-2023-36624160/",
+      "json": "https://vilivity.com/api/studies/fincham-2023-36624160.json"
+    },
+    {
+      "slug": "garg-2024-38179185",
+      "pmid": "38179185",
+      "title": "Effect of breathing exercises on blood pressure and heart rate: A systematic review and meta-analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/garg-2024-38179185/",
+      "json": "https://vilivity.com/api/studies/garg-2024-38179185.json"
+    },
+    {
+      "slug": "wright-2021-33227157",
+      "pmid": "33227157",
+      "title": "Mindfulness in Motion and Dietary Approaches to Stop Hypertension (DASH) in Hypertensive African Americans",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wright-2021-33227157/",
+      "json": "https://vilivity.com/api/studies/wright-2021-33227157.json"
+    },
+    {
+      "slug": "jefferson-2010-20857772",
+      "pmid": "20857772",
+      "title": "Exploring effects of therapeutic massage and patient teaching in the practice of diaphragmatic breathing on blood pressure, stress, and anxiety in hypertensive African-American women: an intervention study",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jefferson-2010-20857772/",
+      "json": "https://vilivity.com/api/studies/jefferson-2010-20857772.json"
+    },
+    {
+      "slug": "park-2014-24829497",
+      "pmid": "24829497",
+      "title": "Mindfulness meditation lowers muscle sympathetic nerve activity and blood pressure in African-American males with chronic kidney disease",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 2,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/park-2014-24829497/",
+      "json": "https://vilivity.com/api/studies/park-2014-24829497.json"
+    },
+    {
+      "slug": "kox-2014-24799686",
+      "pmid": "24799686",
+      "title": "Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kox-2014-24799686/",
+      "json": "https://vilivity.com/api/studies/kox-2014-24799686.json"
+    },
+    {
+      "slug": "ooi-2012-22895968",
+      "pmid": "22895968",
+      "title": "Momordica charantia for type 2 diabetes mellitus",
+      "modules": [
+        "body",
+        "food"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ooi-2012-22895968/",
+      "json": "https://vilivity.com/api/studies/ooi-2012-22895968.json"
+    },
+    {
+      "slug": "challand-2009-19922255",
+      "pmid": "19922255",
+      "title": "A clinical trial of the traditional medicine Vernonia amygdalina in the treatment of uncomplicated malaria",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/challand-2009-19922255/",
+      "json": "https://vilivity.com/api/studies/challand-2009-19922255.json"
+    },
+    {
+      "slug": "mcgee-1976-977780",
+      "pmid": "977780",
+      "title": "A case of veno-occlusive disease of the liver in Britain associated with herbal tea consumption",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mcgee-1976-977780/",
+      "json": "https://vilivity.com/api/studies/mcgee-1976-977780.json"
+    },
+    {
+      "slug": "asante-2023-38033739",
+      "pmid": "38033739",
+      "title": "Therapeutic Benefit of Vernonia amygdalina in the Treatment of Diabetes and Its Associated Complications in Preclinical Studies",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/asante-2023-38033739/",
+      "json": "https://vilivity.com/api/studies/asante-2023-38033739.json"
+    },
+    {
+      "slug": "akowuah-2024-39710889",
+      "pmid": "39710889",
+      "title": "Vernonia amygdalina aqueous leaf extract modulates metformin pharmacokinetics, inhibits CYP3A4 and CYP2C9 enzymes in streptozotocin-induced diabetic rats",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/akowuah-2024-39710889/",
+      "json": "https://vilivity.com/api/studies/akowuah-2024-39710889.json"
+    },
+    {
+      "slug": "hussain-2026-42429484",
+      "pmid": "42429484",
+      "title": "The effects of sodium reduction and the DASH diet on ambulatory blood pressure: overall and race-stratified results from the DASH-Sodium trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 2,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/hussain-2026-42429484/",
+      "json": "https://vilivity.com/api/studies/hussain-2026-42429484.json"
+    },
+    {
+      "slug": "svetkey-1999-9989541",
+      "pmid": "9989541",
+      "title": "Effects of dietary patterns on blood pressure: subgroup analysis of the Dietary Approaches to Stop Hypertension (DASH) randomized clinical trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/svetkey-1999-9989541/",
+      "json": "https://vilivity.com/api/studies/svetkey-1999-9989541.json"
+    },
+    {
+      "slug": "kyei-2011-21482861",
+      "pmid": "21482861",
+      "title": "Medical and environmental risk factors for the development of central centrifugal cicatricial alopecia: a population study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kyei-2011-21482861/",
+      "json": "https://vilivity.com/api/studies/kyei-2011-21482861.json"
+    },
+    {
+      "slug": "malki-2019-30763140",
+      "pmid": "30763140",
+      "title": "Variant PADI3 in Central Centrifugal Cicatricial Alopecia",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/malki-2019-30763140/",
+      "json": "https://vilivity.com/api/studies/malki-2019-30763140.json"
+    },
+    {
+      "slug": "keller-rosenthal-2026-41242654",
+      "pmid": "41242654",
+      "title": "Pathogenic variants affecting peptidyl arginine deiminase 3 and its major substrates underlie central centrifugal cicatricial alopecia",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/keller-rosenthal-2026-41242654/",
+      "json": "https://vilivity.com/api/studies/keller-rosenthal-2026-41242654.json"
+    },
+    {
+      "slug": "uhlenhake-2013-23452029",
+      "pmid": "23452029",
+      "title": "Prospective histologic examinations in patients who practice traumatic hairstyling",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/uhlenhake-2013-23452029/",
+      "json": "https://vilivity.com/api/studies/uhlenhake-2013-23452029.json"
+    },
+    {
+      "slug": "ajmani-2026-43009060",
+      "pmid": "43009060",
+      "title": "Scarring Alopecias Part 2: Treatments",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ajmani-2026-43009060/",
+      "json": "https://vilivity.com/api/studies/ajmani-2026-43009060.json"
+    },
+    {
+      "slug": "persson-2026-42910370",
+      "pmid": "42910370",
+      "title": "Central Centrifugal Cicatricial Alopecia in Black Women: Diagnostic Challenges and Molecular Insights",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/persson-2026-42910370/",
+      "json": "https://vilivity.com/api/studies/persson-2026-42910370.json"
+    },
+    {
+      "slug": "jackson-2023-37495175",
+      "pmid": "37495175",
+      "title": "Central centrifugal cicatricial alopecia in males",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jackson-2023-37495175/",
+      "json": "https://vilivity.com/api/studies/jackson-2023-37495175.json"
+    },
+    {
+      "slug": "david-2025-39461505",
+      "pmid": "39461505",
+      "title": "A phase 2a trial of brepocitinib for cicatricial alopecia",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/david-2025-39461505/",
+      "json": "https://vilivity.com/api/studies/david-2025-39461505.json"
+    },
+    {
+      "slug": "chang-2022-36245087",
+      "pmid": "36245087",
+      "title": "Use of Straighteners and Other Hair Products and Incident Uterine Cancer",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/chang-2022-36245087/",
+      "json": "https://vilivity.com/api/studies/chang-2022-36245087.json"
+    },
+    {
+      "slug": "bertrand-2023-37821068",
+      "pmid": "37821068",
+      "title": "Hair relaxer use and risk of uterine cancer in the Black Women's Health Study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bertrand-2023-37821068/",
+      "json": "https://vilivity.com/api/studies/bertrand-2023-37821068.json"
+    },
+    {
+      "slug": "coogan-2021-34013957",
+      "pmid": "34013957",
+      "title": "Hair product use and breast cancer incidence in the Black Women's Health Study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/coogan-2021-34013957/",
+      "json": "https://vilivity.com/api/studies/coogan-2021-34013957.json"
+    },
+    {
+      "slug": "wise-2012-22234483",
+      "pmid": "22234483",
+      "title": "Hair relaxer use and risk of uterine leiomyomata in African-American women",
+      "modules": [
+        "hair",
+        "body"
+      ],
+      "cited_by": 3,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wise-2012-22234483/",
+      "json": "https://vilivity.com/api/studies/wise-2012-22234483.json"
+    },
+    {
+      "slug": "hernandez-2025-39828620",
+      "pmid": "39828620",
+      "title": "Systematic Review of the Epidemiology of Hair Relaxer Use and Hormone-Sensitive Reproductive Outcomes Among Black Adult Women in the United States",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hernandez-2025-39828620/",
+      "json": "https://vilivity.com/api/studies/hernandez-2025-39828620.json"
+    },
+    {
+      "slug": "merrick-2018-30242348",
+      "pmid": "30242348",
+      "title": "Prevalence of Adverse Childhood Experiences From the 2011-2014 Behavioral Risk Factor Surveillance System in 23 States",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/merrick-2018-30242348/",
+      "json": "https://vilivity.com/api/studies/merrick-2018-30242348.json"
+    },
+    {
+      "slug": "annor-2026-42066531",
+      "pmid": "42066531",
+      "title": "Cumulative adverse childhood experiences and risk of mental disorders: A systematic review and meta-analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/annor-2026-42066531/",
+      "json": "https://vilivity.com/api/studies/annor-2026-42066531.json"
+    },
+    {
+      "slug": "gillies-2016-27726123",
+      "pmid": "27726123",
+      "title": "Psychological therapies for children and adolescents exposed to trauma",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gillies-2016-27726123/",
+      "json": "https://vilivity.com/api/studies/gillies-2016-27726123.json"
+    },
+    {
+      "slug": "byansi-2026-42841399",
+      "pmid": "42841399",
+      "title": "Childhood Adversity and Anxiety, Depression, and Suicidal Behaviors Among African-Origin Emerging Adults in the United States: Findings From an Online Panel",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/byansi-2026-42841399/",
+      "json": "https://vilivity.com/api/studies/byansi-2026-42841399.json"
+    },
+    {
+      "slug": "ahmed-2026-42789523",
+      "pmid": "42789523",
+      "title": "The impact of adverse childhood experiences on the development of multimorbidity in older adults in Nigeria",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ahmed-2026-42789523/",
+      "json": "https://vilivity.com/api/studies/ahmed-2026-42789523.json"
+    },
+    {
+      "slug": "onamusi-2025-40654542",
+      "pmid": "40654542",
+      "title": "Scarring Alopecia Management and Referral Practices in African-American Cosmetologists",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/onamusi-2025-40654542/",
+      "json": "https://vilivity.com/api/studies/onamusi-2025-40654542.json"
+    },
+    {
+      "slug": "brunvoll-2022-36215222",
+      "pmid": "36215222",
+      "title": "Prevention of covid-19 and other acute respiratory infections with cod liver oil supplementation, a low dose vitamin D supplement: quadruple blinded, randomised placebo controlled trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/brunvoll-2022-36215222/",
+      "json": "https://vilivity.com/api/studies/brunvoll-2022-36215222.json"
+    },
+    {
+      "slug": "linday-2010-21677119",
+      "pmid": "21677119",
+      "title": "Cod liver oil, young children, and upper respiratory tract infections",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/linday-2010-21677119/",
+      "json": "https://vilivity.com/api/studies/linday-2010-21677119.json"
+    },
+    {
+      "slug": "pu-2023-37432180",
+      "pmid": "37432180",
+      "title": "Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/pu-2023-37432180/",
+      "json": "https://vilivity.com/api/studies/pu-2023-37432180.json"
+    },
+    {
+      "slug": "myung-2025-40324552",
+      "pmid": "40324552",
+      "title": "Effects of Collagen Supplements on Skin Aging: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/myung-2025-40324552/",
+      "json": "https://vilivity.com/api/studies/myung-2025-40324552.json"
+    },
+    {
+      "slug": "bloch-2019-31237371",
+      "pmid": "31237371",
+      "title": "Chemical and physical treatments damage Caucasian and Afro-ethnic hair fibre: analytical and image assays",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 3,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bloch-2019-31237371/",
+      "json": "https://vilivity.com/api/studies/bloch-2019-31237371.json"
+    },
+    {
+      "slug": "dos-2019-31111104",
+      "pmid": "31111104",
+      "title": "Raman spectroscopy and electronic microscopy structural studies of Caucasian and Afro human hair",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dos-2019-31111104/",
+      "json": "https://vilivity.com/api/studies/dos-2019-31111104.json"
+    },
+    {
+      "slug": "warshaw-2023-37523239",
+      "pmid": "37523239",
+      "title": "Patch Testing to Paraphenylenediamine: The North American Contact Dermatitis Group Experience (1994-2018)",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/warshaw-2023-37523239/",
+      "json": "https://vilivity.com/api/studies/warshaw-2023-37523239.json"
+    },
+    {
+      "slug": "oh-2021-33961079",
+      "pmid": "33961079",
+      "title": "Perceived colorism and lifetime psychiatric disorders among Black American adults: findings from the National Survey of American Life",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/oh-2021-33961079/",
+      "json": "https://vilivity.com/api/studies/oh-2021-33961079.json"
+    },
+    {
+      "slug": "hamler-2022-35976084",
+      "pmid": "35976084",
+      "title": "How Skin Tone Influences Relationships Between Discrimination, Psychological Distress, and Self-Rated Mental Health Among Older African Americans",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hamler-2022-35976084/",
+      "json": "https://vilivity.com/api/studies/hamler-2022-35976084.json"
+    },
+    {
+      "slug": "dennis-2026-40981000",
+      "pmid": "40981000",
+      "title": "Colorism and Health Inequities among Black Americans: A Biopsychosocial Perspective",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dennis-2026-40981000/",
+      "json": "https://vilivity.com/api/studies/dennis-2026-40981000.json"
+    },
+    {
+      "slug": "cabral-2011-21875181",
+      "pmid": "21875181",
+      "title": "Racial/ethnic matching of clients and therapists in mental health services: a meta-analytic review of preferences, perceptions, and outcomes",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/cabral-2011-21875181/",
+      "json": "https://vilivity.com/api/studies/cabral-2011-21875181.json"
+    },
+    {
+      "slug": "wang-2024-39519498",
+      "pmid": "39519498",
+      "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wang-2024-39519498/",
+      "json": "https://vilivity.com/api/studies/wang-2024-39519498.json"
+    },
+    {
+      "slug": "naeini-2025-41199218",
+      "pmid": "41199218",
+      "title": "Effect of creatine supplementation on kidney function: a systematic review and meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/naeini-2025-41199218/",
+      "json": "https://vilivity.com/api/studies/naeini-2025-41199218.json"
+    },
+    {
+      "slug": "gray-2026-42498056",
+      "pmid": "42498056",
+      "title": "Impact of African-enriched GATM regulatory variants on creatinine-derived estimated glomerular filtration rate",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gray-2026-42498056/",
+      "json": "https://vilivity.com/api/studies/gray-2026-42498056.json"
+    },
+    {
+      "slug": "michelle-2021-32740208",
+      "pmid": "32740208",
+      "title": "Treatments of Periorbital Hyperpigmentation: A Systematic Review",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/michelle-2021-32740208/",
+      "json": "https://vilivity.com/api/studies/michelle-2021-32740208.json"
+    },
+    {
+      "slug": "bulengo-ransby-1993-8479462",
+      "pmid": "8479462",
+      "title": "Topical tretinoin (retinoic acid) therapy for hyperpigmented lesions caused by inflammation of the skin in black patients",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/bulengo-ransby-1993-8479462/",
+      "json": "https://vilivity.com/api/studies/bulengo-ransby-1993-8479462.json"
+    },
+    {
+      "slug": "davis-2010-20725554",
+      "pmid": "20725554",
+      "title": "Postinflammatory hyperpigmentation: a review of the epidemiology, clinical features, and treatment options in skin of color",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/davis-2010-20725554/",
+      "json": "https://vilivity.com/api/studies/davis-2010-20725554.json"
+    },
+    {
+      "slug": "callender-2025-40256338",
+      "pmid": "40256338",
+      "title": "Efficacy and Safety of Fixed-dose Clindamycin Phosphate 1.2%/Adapalene 0.15%/Benzoyl Peroxide 3.1% Gel in Black Participants with Moderate to Severe Acne",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/callender-2025-40256338/",
+      "json": "https://vilivity.com/api/studies/callender-2025-40256338.json"
+    },
+    {
+      "slug": "mahmoud-2010-20410914",
+      "pmid": "20410914",
+      "title": "Impact of long-wavelength UVA and visible light on melanocompetent skin",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/mahmoud-2010-20410914/",
+      "json": "https://vilivity.com/api/studies/mahmoud-2010-20410914.json"
+    },
+    {
+      "slug": "ng-2022-36037096",
+      "pmid": "36037096",
+      "title": "The Efficacy and Safety of a 755-nm Picosecond Laser in the Treatment of Physiologic Lip Hyperpigmentation in Thai Patients",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ng-2022-36037096/",
+      "json": "https://vilivity.com/api/studies/ng-2022-36037096.json"
+    },
+    {
+      "slug": "sarswathi-2003-14705454",
+      "pmid": "14705454",
+      "title": "Oral melanin pigmentation in smoked and smokeless tobacco users in India. Clinico-pathological study",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/sarswathi-2003-14705454/",
+      "json": "https://vilivity.com/api/studies/sarswathi-2003-14705454.json"
+    },
+    {
+      "slug": "figueiredo-2024-39396149",
+      "pmid": "39396149",
+      "title": "Pigmented contact cheilitis: a systematic review",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/figueiredo-2024-39396149/",
+      "json": "https://vilivity.com/api/studies/figueiredo-2024-39396149.json"
+    },
+    {
+      "slug": "ho-1993-8425968",
+      "pmid": "8425968",
+      "title": "Labial melanotic macule: a clinical, histopathologic, and ultrastructural study",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ho-1993-8425968/",
+      "json": "https://vilivity.com/api/studies/ho-1993-8425968.json"
+    },
+    {
+      "slug": "stuart-1997-9264219",
+      "pmid": "9264219",
+      "title": "Hyperinsulinemia and acanthosis nigricans in African Americans",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/stuart-1997-9264219/",
+      "json": "https://vilivity.com/api/studies/stuart-1997-9264219.json"
+    },
+    {
+      "slug": "okoro-2016-26749364",
+      "pmid": "26749364",
+      "title": "Association of diet with acne vulgaris among adolescents in Ibadan, southwest Nigeria",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/okoro-2016-26749364/",
+      "json": "https://vilivity.com/api/studies/okoro-2016-26749364.json"
+    },
+    {
+      "slug": "meixiong-2022-35373155",
+      "pmid": "35373155",
+      "title": "Diet and acne: A systematic review",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/meixiong-2022-35373155/",
+      "json": "https://vilivity.com/api/studies/meixiong-2022-35373155.json"
+    },
+    {
+      "slug": "smith-2007-17616769",
+      "pmid": "17616769",
+      "title": "A low-glycemic-load diet improves symptoms in acne vulgaris patients: a randomized controlled trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/smith-2007-17616769/",
+      "json": "https://vilivity.com/api/studies/smith-2007-17616769.json"
+    },
+    {
+      "slug": "juhl-2018-30096883",
+      "pmid": "30096883",
+      "title": "Dairy Intake and Acne Vulgaris: A Systematic Review and Meta-Analysis of 78,529 Children, Adolescents, and Young Adults",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/juhl-2018-30096883/",
+      "json": "https://vilivity.com/api/studies/juhl-2018-30096883.json"
+    },
+    {
+      "slug": "taha-2025-41194132",
+      "pmid": "41194132",
+      "title": "The mediterranean diet and acne vulgaris: a systematic review and meta-analysis",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/taha-2025-41194132/",
+      "json": "https://vilivity.com/api/studies/taha-2025-41194132.json"
+    },
+    {
+      "slug": "okokon-2015-25933684",
+      "pmid": "25933684",
+      "title": "Topical antifungals for seborrhoeic dermatitis",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/okokon-2015-25933684/",
+      "json": "https://vilivity.com/api/studies/okokon-2015-25933684.json"
+    },
+    {
+      "slug": "callender-2026-41998807",
+      "pmid": "41998807",
+      "title": "High Curl Pattern Hair and Scalp Care Considerations to Mitigate Seborrheic Dermatitis",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/callender-2026-41998807/",
+      "json": "https://vilivity.com/api/studies/callender-2026-41998807.json"
+    },
+    {
+      "slug": "turchin-2025-40965095",
+      "pmid": "40965095",
+      "title": "Current Understanding of Seborrheic Dermatitis: Presentation, Diagnosis, and Special Populations",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/turchin-2025-40965095/",
+      "json": "https://vilivity.com/api/studies/turchin-2025-40965095.json"
+    },
+    {
+      "slug": "slonka-1977-870674",
+      "pmid": "870674",
+      "title": "An epidemic of pediculosis capitis",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/slonka-1977-870674/",
+      "json": "https://vilivity.com/api/studies/slonka-1977-870674.json"
+    },
+    {
+      "slug": "estrada-2000-11885087",
+      "pmid": "11885087",
+      "title": "Pediculosis in a school population",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/estrada-2000-11885087/",
+      "json": "https://vilivity.com/api/studies/estrada-2000-11885087.json"
+    },
+    {
+      "slug": "alexis-2025-40696240",
+      "pmid": "40696240",
+      "title": "Tapinarof Cream for Adults and Children with Atopic Dermatitis-Efficacy by Race and Fitzpatrick Skin Type in Two Phase 3 Randomized Clinical Trials",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/alexis-2025-40696240/",
+      "json": "https://vilivity.com/api/studies/alexis-2025-40696240.json"
+    },
+    {
+      "slug": "kaufman-2018-29457272",
+      "pmid": "29457272",
+      "title": "Atopic dermatitis in diverse racial and ethnic groups-Variations in epidemiology, genetics, clinical presentation and treatment",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kaufman-2018-29457272/",
+      "json": "https://vilivity.com/api/studies/kaufman-2018-29457272.json"
+    },
+    {
+      "slug": "vachiramon-2012-22471955",
+      "pmid": "22471955",
+      "title": "Atopic dermatitis in African American children: addressing unmet needs of a common disease",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/vachiramon-2012-22471955/",
+      "json": "https://vilivity.com/api/studies/vachiramon-2012-22471955.json"
+    },
+    {
+      "slug": "elmajnoun-2023-36725794",
+      "pmid": "36725794",
+      "title": "Effects of Ramadan Fasting on Glycaemic Control Among Patients with Type 2 Diabetes: Systematic Review and Meta-analysis of Observational Studies",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/elmajnoun-2023-36725794/",
+      "json": "https://vilivity.com/api/studies/elmajnoun-2023-36725794.json"
+    },
+    {
+      "slug": "lee-2023-37435938",
+      "pmid": "37435938",
+      "title": "Interventions for people with type 2 diabetes mellitus fasting during Ramadan",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lee-2023-37435938/",
+      "json": "https://vilivity.com/api/studies/lee-2023-37435938.json"
+    },
+    {
+      "slug": "ahmed-2023-36895718",
+      "pmid": "36895718",
+      "title": "The effect of intermittent fasting on the clinical and hematological parameters of patients with sickle cell disease: A preliminary study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ahmed-2023-36895718/",
+      "json": "https://vilivity.com/api/studies/ahmed-2023-36895718.json"
+    },
+    {
+      "slug": "alsalman-2025-40510850",
+      "pmid": "40510850",
+      "title": "Predictors and health impacts of Ramadan intermittent fasting among patients with sickle cell disease",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/alsalman-2025-40510850/",
+      "json": "https://vilivity.com/api/studies/alsalman-2025-40510850.json"
+    },
+    {
+      "slug": "diaw-2013-23915011",
+      "pmid": "23915011",
+      "title": "Intraday blood rheological changes induced by Ramadan fasting in sickle cell trait carriers",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/diaw-2013-23915011/",
+      "json": "https://vilivity.com/api/studies/diaw-2013-23915011.json"
+    },
+    {
+      "slug": "gichamo-2026-41618296",
+      "pmid": "41618296",
+      "title": "Changes in glycemic control and blood pressure during the Assumption Fast in Ethiopian Orthodox Christians with type 2 diabetes mellitus: a prospective observational study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gichamo-2026-41618296/",
+      "json": "https://vilivity.com/api/studies/gichamo-2026-41618296.json"
+    },
+    {
+      "slug": "radin-2010-20200259",
+      "pmid": "20200259",
+      "title": "Dietary glycemic index and load in relation to risk of uterine leiomyomata in the Black Women's Health Study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/radin-2010-20200259/",
+      "json": "https://vilivity.com/api/studies/radin-2010-20200259.json"
+    },
+    {
+      "slug": "alsharif-2024-38234246",
+      "pmid": "38234246",
+      "title": "Effect of Oral Consumption of Vitamin D on Uterine Fibroids: A Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/alsharif-2024-38234246/",
+      "json": "https://vilivity.com/api/studies/alsharif-2024-38234246.json"
+    },
+    {
+      "slug": "roshdy-2013-23950663",
+      "pmid": "23950663",
+      "title": "Treatment of symptomatic uterine fibroids with green tea extract: a pilot randomized controlled clinical study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/roshdy-2013-23950663/",
+      "json": "https://vilivity.com/api/studies/roshdy-2013-23950663.json"
+    },
+    {
+      "slug": "baird-2003-12548202",
+      "pmid": "12548202",
+      "title": "High cumulative incidence of uterine leiomyoma in black and white women: ultrasound evidence",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/baird-2003-12548202/",
+      "json": "https://vilivity.com/api/studies/baird-2003-12548202.json"
+    },
+    {
+      "slug": "katon-2023-36682686",
+      "pmid": "36682686",
+      "title": "Racial disparities in uterine fibroids and endometriosis: a systematic review and application of social, structural, and political context",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/katon-2023-36682686/",
+      "json": "https://vilivity.com/api/studies/katon-2023-36682686.json"
+    },
+    {
+      "slug": "daneshjou-2022-35960806",
+      "pmid": "35960806",
+      "title": "Disparities in dermatology AI performance on a diverse, curated clinical image set",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/daneshjou-2022-35960806/",
+      "json": "https://vilivity.com/api/studies/daneshjou-2022-35960806.json"
+    },
+    {
+      "slug": "louie-2018-29501717",
+      "pmid": "29501717",
+      "title": "Representations of race and skin tone in medical textbook imagery",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/louie-2018-29501717/",
+      "json": "https://vilivity.com/api/studies/louie-2018-29501717.json"
+    },
+    {
+      "slug": "chinevere-2006-17036616",
+      "pmid": "17036616",
+      "title": "Prevalence of glucose-6-phosphate dehydrogenase deficiency in U.S. Army personnel",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/chinevere-2006-17036616/",
+      "json": "https://vilivity.com/api/studies/chinevere-2006-17036616.json"
+    },
+    {
+      "slug": "taleb-2025-40225210",
+      "pmid": "40225210",
+      "title": "Epidemiology of glucose-6-phosphate dehydrogenase deficiency in 10 malaria-endemic countries in sub-Saharan Africa: a systematic review",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/taleb-2025-40225210/",
+      "json": "https://vilivity.com/api/studies/taleb-2025-40225210.json"
+    },
+    {
+      "slug": "gammal-2023-36049896",
+      "pmid": "36049896",
+      "title": "Expanded Clinical Pharmacogenetics Implementation Consortium Guideline for Medication Use in the Context of G6PD Genotype",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gammal-2023-36049896/",
+      "json": "https://vilivity.com/api/studies/gammal-2023-36049896.json"
+    },
+    {
+      "slug": "edbrooke-childs-2016-26345326",
+      "pmid": "26345326",
+      "title": "The association between ethnicity and care pathway for children with emotional problems in routinely collected child and adolescent mental health services data",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/edbrooke-childs-2016-26345326/",
+      "json": "https://vilivity.com/api/studies/edbrooke-childs-2016-26345326.json"
+    },
+    {
+      "slug": "rudnicka-2006-17003413",
+      "pmid": "17003413",
+      "title": "Variations in primary open-angle glaucoma prevalence by age, gender, and race: a Bayesian meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rudnicka-2006-17003413/",
+      "json": "https://vilivity.com/api/studies/rudnicka-2006-17003413.json"
+    },
+    {
+      "slug": "merz-2021-33181819",
+      "pmid": "33181819",
+      "title": "When non-Whiteness becomes a condition",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/merz-2021-33181819/",
+      "json": "https://vilivity.com/api/studies/merz-2021-33181819.json"
+    },
+    {
+      "slug": "khurana-2024-38910369",
+      "pmid": "38910369",
+      "title": "Revised WHO Guidelines on Hemoglobin Cutoffs to Define Anemia in Individuals and Populations",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khurana-2024-38910369/",
+      "json": "https://vilivity.com/api/studies/khurana-2024-38910369.json"
+    },
+    {
+      "slug": "loussouarn-2001-11531795",
+      "pmid": "11531795",
+      "title": "African hair growth parameters",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/loussouarn-2001-11531795/",
+      "json": "https://vilivity.com/api/studies/loussouarn-2001-11531795.json"
+    },
+    {
+      "slug": "loussouarn-2016-27019510",
+      "pmid": "27019510",
+      "title": "Diversity in human hair growth, diameter, colour and shape. An in vivo study on young adults from 24 different ethnic groups observed in the five continents",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/loussouarn-2016-27019510/",
+      "json": "https://vilivity.com/api/studies/loussouarn-2016-27019510.json"
+    },
+    {
+      "slug": "khumalo-2000-11050586",
+      "pmid": "11050586",
+      "title": "What is normal black African hair? A light and scanning electron-microscopic study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khumalo-2000-11050586/",
+      "json": "https://vilivity.com/api/studies/khumalo-2000-11050586.json"
+    },
+    {
+      "slug": "khumalo-2005-15810890",
+      "pmid": "15810890",
+      "title": "Apparent fragility of African hair is unrelated to the cystine-rich protein distribution: a cytochemical electron microscopic study",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khumalo-2005-15810890/",
+      "json": "https://vilivity.com/api/studies/khumalo-2005-15810890.json"
+    },
+    {
+      "slug": "molamodi-2021-33605448",
+      "pmid": "33605448",
+      "title": "Quantifying the impact of braiding and combing on the integrity of natural African hair",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/molamodi-2021-33605448/",
+      "json": "https://vilivity.com/api/studies/molamodi-2021-33605448.json"
+    },
+    {
+      "slug": "daniels-2023-36374002",
+      "pmid": "36374002",
+      "title": "How different is human hair? A critical appraisal of the reported differences in global hair fibre characteristics and properties towards defining a more relevant framework for hair type classification",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/daniels-2023-36374002/",
+      "json": "https://vilivity.com/api/studies/daniels-2023-36374002.json"
+    },
+    {
+      "slug": "panahi-2015-25842469",
+      "pmid": "25842469",
+      "title": "Rosemary oil vs minoxidil 2% for the treatment of androgenetic alopecia: a randomized comparative trial",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/panahi-2015-25842469/",
+      "json": "https://vilivity.com/api/studies/panahi-2015-25842469.json"
+    },
+    {
+      "slug": "patel-2025-40656290",
+      "pmid": "40656290",
+      "title": "Rosmagain™ as a Natural Therapeutic for Hair Regrowth and Scalp Health: A Double-Blind, Randomized, Three-Armed, Placebo-Controlled Clinical Trial",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/patel-2025-40656290/",
+      "json": "https://vilivity.com/api/studies/patel-2025-40656290.json"
+    },
+    {
+      "slug": "mathenge-2026-42112722",
+      "pmid": "42112722",
+      "title": "An Exploratory Preclinical In Vivo Pilot Study Evaluating the Hair Growth-Promoting Effects of Rosmarinus officinalis and Ricinus communis Combination",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mathenge-2026-42112722/",
+      "json": "https://vilivity.com/api/studies/mathenge-2026-42112722.json"
+    },
+    {
+      "slug": "ahmed-2025-40771449",
+      "pmid": "40771449",
+      "title": "Herbal Remedies for Hair Loss: A Review of Efficacy and Safety",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ahmed-2025-40771449/",
+      "json": "https://vilivity.com/api/studies/ahmed-2025-40771449.json"
+    },
+    {
+      "slug": "patel-2017-28879195",
+      "pmid": "28879195",
+      "title": "A Review of the Use of Biotin for Hair Loss",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/patel-2017-28879195/",
+      "json": "https://vilivity.com/api/studies/patel-2017-28879195.json"
+    },
+    {
+      "slug": "alanazi-2026-41954038",
+      "pmid": "41954038",
+      "title": "Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/alanazi-2026-41954038/",
+      "json": "https://vilivity.com/api/studies/alanazi-2026-41954038.json"
+    },
+    {
+      "slug": "bhimireddy-2026-42933321",
+      "pmid": "42933321",
+      "title": "The implications of biotin supplementation on multiple sclerosis, hair loss conditions, and thyroid disorders",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bhimireddy-2026-42933321/",
+      "json": "https://vilivity.com/api/studies/bhimireddy-2026-42933321.json"
+    },
+    {
+      "slug": "hessefort-2008-18818850",
+      "pmid": "18818850",
+      "title": "True porosity measurement of hair: a new way to study hair damage mechanisms",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hessefort-2008-18818850/",
+      "json": "https://vilivity.com/api/studies/hessefort-2008-18818850.json"
+    },
+    {
+      "slug": "sorrells-2026-42971783",
+      "pmid": "42971783",
+      "title": "Methods adapted to evaluate products for textured hair: Shine, curl shrinkage, flexibility and consumer-perceived hair porosity",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/sorrells-2026-42971783/",
+      "json": "https://vilivity.com/api/studies/sorrells-2026-42971783.json"
+    },
+    {
+      "slug": "evans-2026-42971788",
+      "pmid": "42971788",
+      "title": "Use of single fibre fatiguing experiments to understand breakage in textured hair Part I",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/evans-2026-42971788/",
+      "json": "https://vilivity.com/api/studies/evans-2026-42971788.json"
+    },
+    {
+      "slug": "franbourg-2003-12789163",
+      "pmid": "12789163",
+      "title": "Current research on ethnic hair",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/franbourg-2003-12789163/",
+      "json": "https://vilivity.com/api/studies/franbourg-2003-12789163.json"
+    },
+    {
+      "slug": "callender-2026-41928381",
+      "pmid": "41928381",
+      "title": "Classification of High Curl Pattern Hair: A Systematic Review and Clinical Perspective",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/callender-2026-41928381/",
+      "json": "https://vilivity.com/api/studies/callender-2026-41928381.json"
+    },
+    {
+      "slug": "galal-2024-38779373",
+      "pmid": "38779373",
+      "title": "Postpartum Telogen Effluvium Unmasking Additional Latent Hair Loss Disorders",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/galal-2024-38779373/",
+      "json": "https://vilivity.com/api/studies/galal-2024-38779373.json"
+    },
+    {
+      "slug": "hirose-2024-39462180",
+      "pmid": "39462180",
+      "title": "Postpartum hair loss is associated with anxiety",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hirose-2024-39462180/",
+      "json": "https://vilivity.com/api/studies/hirose-2024-39462180.json"
+    },
+    {
+      "slug": "umar-2016-27757365",
+      "pmid": "27757365",
+      "title": "Comparative Study of a Novel Tool for Follicular Unit Extraction for Individuals with Afro-textured Hair",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/umar-2016-27757365/",
+      "json": "https://vilivity.com/api/studies/umar-2016-27757365.json"
+    },
+    {
+      "slug": "callender-2014-25207763",
+      "pmid": "25207763",
+      "title": "Hair transplantation in the surgical treatment of central centrifugal cicatricial alopecia",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/callender-2014-25207763/",
+      "json": "https://vilivity.com/api/studies/callender-2014-25207763.json"
+    },
+    {
+      "slug": "rogers-2014-24680003",
+      "pmid": "24680003",
+      "title": "Advances and challenges in hair restoration of curly Afrocentric hair",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rogers-2014-24680003/",
+      "json": "https://vilivity.com/api/studies/rogers-2014-24680003.json"
+    },
+    {
+      "slug": "gaines-2023-37212612",
+      "pmid": "37212612",
+      "title": "Reimagining Hair Science: A New Approach to Classify Curly Hair Phenotypes via New Quantitative Geometric and Structural Mechanical Parameters",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gaines-2023-37212612/",
+      "json": "https://vilivity.com/api/studies/gaines-2023-37212612.json"
+    },
+    {
+      "slug": "de-2007-18078200",
+      "pmid": "18078200",
+      "title": "Shape variability and classification of human hair: a worldwide approach",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/de-2007-18078200/",
+      "json": "https://vilivity.com/api/studies/de-2007-18078200.json"
+    },
+    {
+      "slug": "haskin-2016-27114262",
+      "pmid": "27114262",
+      "title": "All hairstyles are not created equal: What the dermatologist needs to know about black hairstyling practices and the risk of traction alopecia (TA)",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/haskin-2016-27114262/",
+      "json": "https://vilivity.com/api/studies/haskin-2016-27114262.json"
+    },
+    {
+      "slug": "geisler-2022-35659800",
+      "pmid": "35659800",
+      "title": "Hairstyling Practices to Prevent Hair Damage and Alopecia in Women of African Descent",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/geisler-2022-35659800/",
+      "json": "https://vilivity.com/api/studies/geisler-2022-35659800.json"
+    },
+    {
+      "slug": "chunge-1986-3726995",
+      "pmid": "3726995",
+      "title": "A study of head lice among primary schoolchildren in Kenya",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/chunge-1986-3726995/",
+      "json": "https://vilivity.com/api/studies/chunge-1986-3726995.json"
+    },
+    {
+      "slug": "valero-2024-37967666",
+      "pmid": "37967666",
+      "title": "Pediculosis capitis risk factors in schoolchildren: hair thickness and hair length",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/valero-2024-37967666/",
+      "json": "https://vilivity.com/api/studies/valero-2024-37967666.json"
+    },
+    {
+      "slug": "shea-2023-36241488",
+      "pmid": "36241488",
+      "title": "Over-the-counter Pediculus humanus capitis treatment: The nit comb is not appropriate for all hair types!",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/shea-2023-36241488/",
+      "json": "https://vilivity.com/api/studies/shea-2023-36241488.json"
+    },
+    {
+      "slug": "pierce-2011-22035353",
+      "pmid": "22035353",
+      "title": "Characterization of formaldehyde exposure resulting from the use of four professional hair straightening products",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/pierce-2011-22035353/",
+      "json": "https://vilivity.com/api/studies/pierce-2011-22035353.json"
+    },
+    {
+      "slug": "wyndham-1968-5642646",
+      "pmid": "5642646",
+      "title": "Tolerance of very hot humid environments by highly acclimatized Bantu at rest",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wyndham-1968-5642646/",
+      "json": "https://vilivity.com/api/studies/wyndham-1968-5642646.json"
+    },
+    {
+      "slug": "lambert-2008-19209002",
+      "pmid": "19209002",
+      "title": "Ethnicity and temperature regulation",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lambert-2008-19209002/",
+      "json": "https://vilivity.com/api/studies/lambert-2008-19209002.json"
+    },
+    {
+      "slug": "nwachukwu-2015-26289514",
+      "pmid": "26289514",
+      "title": "Effect of Hibiscus sabdariffaon blood pressure and electrolyte profile of mild to moderate hypertensive Nigerians: A comparative study with hydrochlorothiazide",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/nwachukwu-2015-26289514/",
+      "json": "https://vilivity.com/api/studies/nwachukwu-2015-26289514.json"
+    },
+    {
+      "slug": "mckay-2010-20018807",
+      "pmid": "20018807",
+      "title": "Hibiscus sabdariffa L. tea (tisane) lowers blood pressure in prehypertensive and mildly hypertensive adults",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mckay-2010-20018807/",
+      "json": "https://vilivity.com/api/studies/mckay-2010-20018807.json"
+    },
+    {
+      "slug": "norouzzadeh-2025-39870328",
+      "pmid": "39870328",
+      "title": "Efficacy and safety of Hibiscus sabdariffa in cardiometabolic health: An overview of reviews and updated dose-response meta-analysis",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/norouzzadeh-2025-39870328/",
+      "json": "https://vilivity.com/api/studies/norouzzadeh-2025-39870328.json"
+    },
+    {
+      "slug": "pattanittum-2021-34837382",
+      "pmid": "34837382",
+      "title": "Roselle for hypertension in adults",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/pattanittum-2021-34837382/",
+      "json": "https://vilivity.com/api/studies/pattanittum-2021-34837382.json"
+    },
+    {
+      "slug": "agyemang-2003-12874609",
+      "pmid": "12874609",
+      "title": "Is the blood pressure of people from African origin adults in the UK higher or lower than that in European origin white people? A review of cross-sectional data",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/agyemang-2003-12874609/",
+      "json": "https://vilivity.com/api/studies/agyemang-2003-12874609.json"
+    },
+    {
+      "slug": "agyemang-2012-21881618",
+      "pmid": "21881618",
+      "title": "Divergence with age in blood pressure in African-Caribbean and white populations in England: implications for screening for hypertension",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/agyemang-2012-21881618/",
+      "json": "https://vilivity.com/api/studies/agyemang-2012-21881618.json"
+    },
+    {
+      "slug": "baeten-2012-22784037",
+      "pmid": "22784037",
+      "title": "Antiretroviral prophylaxis for HIV prevention in heterosexual men and women",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/baeten-2012-22784037/",
+      "json": "https://vilivity.com/api/studies/baeten-2012-22784037.json"
+    },
+    {
+      "slug": "bekker-2024-39046157",
+      "pmid": "39046157",
+      "title": "Twice-Yearly Lenacapavir or Daily F/TAF for HIV Prevention in Cisgender Women",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/bekker-2024-39046157/",
+      "json": "https://vilivity.com/api/studies/bekker-2024-39046157.json"
+    },
+    {
+      "slug": "dlova-2017-28639713",
+      "pmid": "28639713",
+      "title": "Rosacea in black South Africans with skin phototypes V and VI",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dlova-2017-28639713/",
+      "json": "https://vilivity.com/api/studies/dlova-2017-28639713.json"
+    },
+    {
+      "slug": "al-dabagh-2014-25526008",
+      "pmid": "25526008",
+      "title": "Rosacea in skin of color: not a rare diagnosis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/al-dabagh-2014-25526008/",
+      "json": "https://vilivity.com/api/studies/al-dabagh-2014-25526008.json"
+    },
+    {
+      "slug": "tadesse-2023-37596324",
+      "pmid": "37596324",
+      "title": "Skin Tone Analysis for Representation in Educational Materials (STAR-ED) using machine learning",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/tadesse-2023-37596324/",
+      "json": "https://vilivity.com/api/studies/tadesse-2023-37596324.json"
+    },
+    {
+      "slug": "kostis-2005-16043683",
+      "pmid": "16043683",
+      "title": "Incidence and characteristics of angioedema associated with enalapril",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kostis-2005-16043683/",
+      "json": "https://vilivity.com/api/studies/kostis-2005-16043683.json"
+    },
+    {
+      "slug": "day-2025-41189626",
+      "pmid": "41189626",
+      "title": "Risk factors for angiotensin converting enzyme inhibitor angioedema in a South African population",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/day-2025-41189626/",
+      "json": "https://vilivity.com/api/studies/day-2025-41189626.json"
+    },
+    {
+      "slug": "mathey-2024-38300190",
+      "pmid": "38300190",
+      "title": "Meta-analysis of ACE inhibitor-induced angioedema identifies novel risk locus",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mathey-2024-38300190/",
+      "json": "https://vilivity.com/api/studies/mathey-2024-38300190.json"
+    },
+    {
+      "slug": "bradford-2002-11972444",
+      "pmid": "11972444",
+      "title": "CYP2D6 allele frequency in European Caucasians, Asians, Africans and their descendants",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bradford-2002-11972444/",
+      "json": "https://vilivity.com/api/studies/bradford-2002-11972444.json"
+    },
+    {
+      "slug": "perera-2013-23755828",
+      "pmid": "23755828",
+      "title": "Genetic variants associated with warfarin dose in African-American individuals: a genome-wide association study",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/perera-2013-23755828/",
+      "json": "https://vilivity.com/api/studies/perera-2013-23755828.json"
+    },
+    {
+      "slug": "bleakley-2012-22336838",
+      "pmid": "22336838",
+      "title": "Cold-water immersion (cryotherapy) for preventing and treating muscle soreness after exercise",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bleakley-2012-22336838/",
+      "json": "https://vilivity.com/api/studies/bleakley-2012-22336838.json"
+    },
+    {
+      "slug": "roberts-2015-26174323",
+      "pmid": "26174323",
+      "title": "Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/roberts-2015-26174323/",
+      "json": "https://vilivity.com/api/studies/roberts-2015-26174323.json"
+    },
+    {
+      "slug": "ngandeu-2026-42819812",
+      "pmid": "42819812",
+      "title": "Cold-water exposure and psychological outcomes in adults: a systematic review and meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ngandeu-2026-42819812/",
+      "json": "https://vilivity.com/api/studies/ngandeu-2026-42819812.json"
+    },
+    {
+      "slug": "maley-2014-25081130",
+      "pmid": "25081130",
+      "title": "The effect of ethnicity on the vascular responses to cold exposure of the extremities",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/maley-2014-25081130/",
+      "json": "https://vilivity.com/api/studies/maley-2014-25081130.json"
+    },
+    {
+      "slug": "burgess-2009-19817081",
+      "pmid": "19817081",
+      "title": "Retrospective analysis of the ethnic origins of male British army soldiers with peripheral cold weather injury",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/burgess-2009-19817081/",
+      "json": "https://vilivity.com/api/studies/burgess-2009-19817081.json"
+    },
+    {
+      "slug": "barwood-2024-38211547",
+      "pmid": "38211547",
+      "title": "Habituation of the cold shock response: A systematic review and meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/barwood-2024-38211547/",
+      "json": "https://vilivity.com/api/studies/barwood-2024-38211547.json"
+    },
+    {
+      "slug": "semnani-azad-2025-40533200",
+      "pmid": "40533200",
+      "title": "Intermittent fasting strategies and their effects on body weight and other cardiometabolic risk factors: systematic review and network meta-analysis of randomised clinical trials",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/semnani-azad-2025-40533200/",
+      "json": "https://vilivity.com/api/studies/semnani-azad-2025-40533200.json"
+    },
+    {
+      "slug": "yeary-2025-38986868",
+      "pmid": "38986868",
+      "title": "An Intermittent Fasting Intervention for Black Adults Can Be Feasibly Implemented in Black Churches: A Cluster Randomized Controlled Pilot Study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/yeary-2025-38986868/",
+      "json": "https://vilivity.com/api/studies/yeary-2025-38986868.json"
+    },
+    {
+      "slug": "rehman-2026-41941962",
+      "pmid": "41941962",
+      "title": "Do the Effects of Early Time-Restricted Eating Vary by Cardiometabolic Phenotype, Age, Sex, or Race? A Secondary Analysis of a Randomized Controlled Trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/rehman-2026-41941962/",
+      "json": "https://vilivity.com/api/studies/rehman-2026-41941962.json"
+    },
+    {
+      "slug": "baird-2020-32105679",
+      "pmid": "32105679",
+      "title": "Uterine fibroid incidence and growth in an ultrasound-based, prospective study of young African Americans",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/baird-2020-32105679/",
+      "json": "https://vilivity.com/api/studies/baird-2020-32105679.json"
+    },
+    {
+      "slug": "bernardi-2016-27524363",
+      "pmid": "27524363",
+      "title": "The association between subjective assessment of menstrual bleeding and measures of iron deficiency anemia in premenopausal African-American women: a cross-sectional study",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bernardi-2016-27524363/",
+      "json": "https://vilivity.com/api/studies/bernardi-2016-27524363.json"
+    },
+    {
+      "slug": "greene-2025-40835838",
+      "pmid": "40835838",
+      "title": "Multi-ancestry meta-analysis of keloids uncovers novel susceptibility loci in diverse populations",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/greene-2025-40835838/",
+      "json": "https://vilivity.com/api/studies/greene-2025-40835838.json"
+    },
+    {
+      "slug": "velez-2014-25280642",
+      "pmid": "25280642",
+      "title": "Admixture mapping identifies a locus at 15q21.2-22.3 associated with keloid formation in African Americans",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/velez-2014-25280642/",
+      "json": "https://vilivity.com/api/studies/velez-2014-25280642.json"
+    },
+    {
+      "slug": "lane-2005-15867040",
+      "pmid": "15867040",
+      "title": "Relationship between age of ear piercing and keloid formation",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lane-2005-15867040/",
+      "json": "https://vilivity.com/api/studies/lane-2005-15867040.json"
+    },
+    {
+      "slug": "hochman-2015-25715880",
+      "pmid": "25715880",
+      "title": "Does ear keloid formation depend on the type of earrings or piercing jewellery?",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hochman-2015-25715880/",
+      "json": "https://vilivity.com/api/studies/hochman-2015-25715880.json"
+    },
+    {
+      "slug": "gold-2014-25068544",
+      "pmid": "25068544",
+      "title": "Updated international clinical recommendations on scar management: part 2--algorithms for scar prevention and treatment",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gold-2014-25068544/",
+      "json": "https://vilivity.com/api/studies/gold-2014-25068544.json"
+    },
+    {
+      "slug": "ung-2023-36598763",
+      "pmid": "36598763",
+      "title": "Comorbidities of Keloid and Hypertrophic Scars Among Participants in UK Biobank",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ung-2023-36598763/",
+      "json": "https://vilivity.com/api/studies/ung-2023-36598763.json"
+    },
+    {
+      "slug": "genovese-2010-20647424",
+      "pmid": "20647424",
+      "title": "Association of trypanolytic ApoL1 variants with kidney disease in African Americans",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/genovese-2010-20647424/",
+      "json": "https://vilivity.com/api/studies/genovese-2010-20647424.json"
+    },
+    {
+      "slug": "inker-2021-34554658",
+      "pmid": "34554658",
+      "title": "New Creatinine- and Cystatin C-Based Equations to Estimate GFR without Race",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/inker-2021-34554658/",
+      "json": "https://vilivity.com/api/studies/inker-2021-34554658.json"
+    },
+    {
+      "slug": "delgado-2021-34556489",
+      "pmid": "34556489",
+      "title": "A Unifying Approach for GFR Estimation: Recommendations of the NKF-ASN Task Force on Reassessing the Inclusion of Race in Diagnosing Kidney Disease",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/delgado-2021-34556489/",
+      "json": "https://vilivity.com/api/studies/delgado-2021-34556489.json"
+    },
+    {
+      "slug": "erinfolami-2011-25478098",
+      "pmid": "25478098",
+      "title": "Prevalence and associated risk factors of Kola nut chewing among secondary school students in Osogbo, Nigeria",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/erinfolami-2011-25478098/",
+      "json": "https://vilivity.com/api/studies/erinfolami-2011-25478098.json"
+    },
+    {
+      "slug": "agatha-1978-753053",
+      "pmid": "753053",
+      "title": "Some preliminary observations on the effects of kola nut on the cardiovascular system",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/agatha-1978-753053/",
+      "json": "https://vilivity.com/api/studies/agatha-1978-753053.json"
+    },
+    {
+      "slug": "atawodi-1995-7672735",
+      "pmid": "7672735",
+      "title": "Nitrosatable amines and nitrosamide formation in natural stimulants: Cola acuminata, C. nitida and Garcinia cola",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/atawodi-1995-7672735/",
+      "json": "https://vilivity.com/api/studies/atawodi-1995-7672735.json"
+    },
+    {
+      "slug": "erukainure-2017-29223552",
+      "pmid": "29223552",
+      "title": "Caffeine - rich infusion from Cola nitida (kola nut) inhibits major carbohydrate catabolic enzymes; abates redox imbalance; and modulates oxidative dysregulated metabolic pathways and metabolites in Fe(2+)-induced hepatic toxicity",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/erukainure-2017-29223552/",
+      "json": "https://vilivity.com/api/studies/erukainure-2017-29223552.json"
+    },
+    {
+      "slug": "tishkoff-2007-17159977",
+      "pmid": "17159977",
+      "title": "Convergent adaptation of human lactase persistence in Africa and Europe",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/tishkoff-2007-17159977/",
+      "json": "https://vilivity.com/api/studies/tishkoff-2007-17159977.json"
+    },
+    {
+      "slug": "dorgham-2020-31587390",
+      "pmid": "31587390",
+      "title": "Lasers for reduction of unwanted hair in skin of colour: a systematic review and meta-analysis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dorgham-2020-31587390/",
+      "json": "https://vilivity.com/api/studies/dorgham-2020-31587390.json"
+    },
+    {
+      "slug": "dreifus-2026-42660430",
+      "pmid": "42660430",
+      "title": "Laser and energy-based device use in skin of color: A clinical review of safety, efficacy, and best practices",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dreifus-2026-42660430/",
+      "json": "https://vilivity.com/api/studies/dreifus-2026-42660430.json"
+    },
+    {
+      "slug": "mori-2009-18844328",
+      "pmid": "18844328",
+      "title": "Improving effects of the mushroom Yamabushitake (Hericium erinaceus) on mild cognitive impairment: a double-blind placebo-controlled clinical trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mori-2009-18844328/",
+      "json": "https://vilivity.com/api/studies/mori-2009-18844328.json"
+    },
+    {
+      "slug": "docherty-2023-38004235",
+      "pmid": "38004235",
+      "title": "The Acute and Chronic Effects of Lion's Mane Mushroom Supplementation on Cognitive Function, Stress and Mood in Young Adults: A Double-Blind, Parallel Groups, Pilot Study",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/docherty-2023-38004235/",
+      "json": "https://vilivity.com/api/studies/docherty-2023-38004235.json"
+    },
+    {
+      "slug": "menon-2025-40959699",
+      "pmid": "40959699",
+      "title": "Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/menon-2025-40959699/",
+      "json": "https://vilivity.com/api/studies/menon-2025-40959699.json"
+    },
+    {
+      "slug": "jin-2016-27045603",
+      "pmid": "27045603",
+      "title": "Ganoderma lucidum (Reishi mushroom) for cancer treatment",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jin-2016-27045603/",
+      "json": "https://vilivity.com/api/studies/jin-2016-27045603.json"
+    },
+    {
+      "slug": "barba-2022-34549464",
+      "pmid": "34549464",
+      "title": "Lipid distribution on ethnic hairs by Fourier transform infrared synchrotron spectroscopy",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/barba-2022-34549464/",
+      "json": "https://vilivity.com/api/studies/barba-2022-34549464.json"
+    },
+    {
+      "slug": "csuka-2023-35218566",
+      "pmid": "35218566",
+      "title": "A systematic review on the lipid composition of human hair",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/csuka-2023-35218566/",
+      "json": "https://vilivity.com/api/studies/csuka-2023-35218566.json"
+    },
+    {
+      "slug": "bhakta-2023-36973004",
+      "pmid": "36973004",
+      "title": "Race and Ethnicity in Pulmonary Function Test Interpretation: An Official American Thoracic Society Statement",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bhakta-2023-36973004/",
+      "json": "https://vilivity.com/api/studies/bhakta-2023-36973004.json"
+    },
+    {
+      "slug": "bowerman-2023-36383197",
+      "pmid": "36383197",
+      "title": "A Race-neutral Approach to the Interpretation of Lung Function Measurements",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bowerman-2023-36383197/",
+      "json": "https://vilivity.com/api/studies/bowerman-2023-36383197.json"
+    },
+    {
+      "slug": "cai-2026-42741266",
+      "pmid": "42741266",
+      "title": "Race-neutral spirometry reclassification in self-identified Black and White patients",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/cai-2026-42741266/",
+      "json": "https://vilivity.com/api/studies/cai-2026-42741266.json"
+    },
+    {
+      "slug": "izmirly-2017-28891252",
+      "pmid": "28891252",
+      "title": "The Incidence and Prevalence of Systemic Lupus Erythematosus in New York County (Manhattan), New York: The Manhattan Lupus Surveillance Program",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/izmirly-2017-28891252/",
+      "json": "https://vilivity.com/api/studies/izmirly-2017-28891252.json"
+    },
+    {
+      "slug": "michau-2026-42157049",
+      "pmid": "42157049",
+      "title": "Epidemiology and prognosis of childhood lupus nephritis in the Afro-descendant population of the French Overseas Departments of America",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/michau-2026-42157049/",
+      "json": "https://vilivity.com/api/studies/michau-2026-42157049.json"
+    },
+    {
+      "slug": "lakdim-2026-43006003",
+      "pmid": "43006003",
+      "title": "Severe Organ Involvement in Systemic Lupus Erythematosus: A Retrospective Single-Center Study From Morocco",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lakdim-2026-43006003/",
+      "json": "https://vilivity.com/api/studies/lakdim-2026-43006003.json"
+    },
+    {
+      "slug": "garrison-2020-32956536",
+      "pmid": "32956536",
+      "title": "Magnesium for skeletal muscle cramps",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/garrison-2020-32956536/",
+      "json": "https://vilivity.com/api/studies/garrison-2020-32956536.json"
+    },
+    {
+      "slug": "mah-2021-33865376",
+      "pmid": "33865376",
+      "title": "Oral magnesium supplementation for insomnia in older adults: a Systematic Review & Meta-Analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mah-2021-33865376/",
+      "json": "https://vilivity.com/api/studies/mah-2021-33865376.json"
+    },
+    {
+      "slug": "fox-2003-12749615",
+      "pmid": "12749615",
+      "title": "Magnesium deficiency in African-Americans: does it contribute to increased cardiovascular risk factors?",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/fox-2003-12749615/",
+      "json": "https://vilivity.com/api/studies/fox-2003-12749615.json"
+    },
+    {
+      "slug": "schneider-2012-23149426",
+      "pmid": "23149426",
+      "title": "Stress reduction in the secondary prevention of cardiovascular disease: randomized, controlled trial of transcendental meditation and health education in Blacks",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/schneider-2012-23149426/",
+      "json": "https://vilivity.com/api/studies/schneider-2012-23149426.json"
+    },
+    {
+      "slug": "goyal-2014-24395196",
+      "pmid": "24395196",
+      "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/goyal-2014-24395196/",
+      "json": "https://vilivity.com/api/studies/goyal-2014-24395196.json"
+    },
+    {
+      "slug": "palta-2012-22302233",
+      "pmid": "22302233",
+      "title": "Evaluation of a mindfulness-based intervention program to decrease blood pressure in low-income African-American older adults",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/palta-2012-22302233/",
+      "json": "https://vilivity.com/api/studies/palta-2012-22302233.json"
+    },
+    {
+      "slug": "collins-2022-34606073",
+      "pmid": "34606073",
+      "title": "Stress Reduction to Decrease Hypertension for Black Women: A Scoping Review of Trials and Interventions",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/collins-2022-34606073/",
+      "json": "https://vilivity.com/api/studies/collins-2022-34606073.json"
+    },
+    {
+      "slug": "levine-2017-28963100",
+      "pmid": "28963100",
+      "title": "Meditation and Cardiovascular Risk Reduction: A Scientific Statement From the American Heart Association",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/levine-2017-28963100/",
+      "json": "https://vilivity.com/api/studies/levine-2017-28963100.json"
+    },
+    {
+      "slug": "mckesey-2020-31802394",
+      "pmid": "31802394",
+      "title": "Melasma Treatment: An Evidence-Based Review",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mckesey-2020-31802394/",
+      "json": "https://vilivity.com/api/studies/mckesey-2020-31802394.json"
+    },
+    {
+      "slug": "del-2018-28987494",
+      "pmid": "28987494",
+      "title": "Randomized, placebo-controlled, double-blind study of oral tranexamic acid in the treatment of moderate-to-severe melasma",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/del-2018-28987494/",
+      "json": "https://vilivity.com/api/studies/del-2018-28987494.json"
+    },
+    {
+      "slug": "choi-2022-36179487",
+      "pmid": "36179487",
+      "title": "Efficacy of melatonin for chronic insomnia: Systematic reviews and meta-analyses",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/choi-2022-36179487/",
+      "json": "https://vilivity.com/api/studies/choi-2022-36179487.json"
+    },
+    {
+      "slug": "fatemeh-2022-33417003",
+      "pmid": "33417003",
+      "title": "Effect of melatonin supplementation on sleep quality: a systematic review and meta-analysis of randomized controlled trials",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/fatemeh-2022-33417003/",
+      "json": "https://vilivity.com/api/studies/fatemeh-2022-33417003.json"
+    },
+    {
+      "slug": "rahbari-oskoui-2019-30935524",
+      "pmid": "30935524",
+      "title": "Nighttime administration of high-dose, sustained-release melatonin does not decrease nocturnal blood pressure in African-American patients: Results from a preliminary randomized, crossover trial",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/rahbari-oskoui-2019-30935524/",
+      "json": "https://vilivity.com/api/studies/rahbari-oskoui-2019-30935524.json"
+    },
+    {
+      "slug": "jeong-2019-31112592",
+      "pmid": "31112592",
+      "title": "Ethnic Differences in Nighttime Melatonin and Nighttime Blood Pressure: A Study in European Americans and African Americans",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jeong-2019-31112592/",
+      "json": "https://vilivity.com/api/studies/jeong-2019-31112592.json"
+    },
+    {
+      "slug": "erland-2017-27855744",
+      "pmid": "27855744",
+      "title": "Melatonin Natural Health Products and Supplements: Presence of Serotonin and Significant Variability of Melatonin Content",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/erland-2017-27855744/",
+      "json": "https://vilivity.com/api/studies/erland-2017-27855744.json"
+    },
+    {
+      "slug": "ogunbiyi-2016-28008278",
+      "pmid": "28008278",
+      "title": "Acne keloidalis nuchae: prevalence, impact, and management challenges",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ogunbiyi-2016-28008278/",
+      "json": "https://vilivity.com/api/studies/ogunbiyi-2016-28008278.json"
+    },
+    {
+      "slug": "khumalo-2013-23802217",
+      "pmid": "23802217",
+      "title": "Health risks of the clean-shave chiskop haircut",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khumalo-2013-23802217/",
+      "json": "https://vilivity.com/api/studies/khumalo-2013-23802217.json"
+    },
+    {
+      "slug": "feng-2011-21464886",
+      "pmid": "21464886",
+      "title": "Reduction of \"Ashiness\" in Skin of Color with a Lipid-rich Moisturizing Body Wash",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/feng-2011-21464886/",
+      "json": "https://vilivity.com/api/studies/feng-2011-21464886.json"
+    },
+    {
+      "slug": "reed-1995-7574829",
+      "pmid": "7574829",
+      "title": "Skin type, but neither race nor gender, influence epidermal permeability barrier function",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/reed-1995-7574829/",
+      "json": "https://vilivity.com/api/studies/reed-1995-7574829.json"
+    },
+    {
+      "slug": "muizzuddin-2010-20654785",
+      "pmid": "20654785",
+      "title": "Structural and functional differences in barrier properties of African American, Caucasian and East Asian skin",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/muizzuddin-2010-20654785/",
+      "json": "https://vilivity.com/api/studies/muizzuddin-2010-20654785.json"
+    },
+    {
+      "slug": "young-2019-30028039",
+      "pmid": "30028039",
+      "title": "Transepidermal water loss, stratum corneum hydration, and skin surface pH of female African and Caucasian nursing students",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/young-2019-30028039/",
+      "json": "https://vilivity.com/api/studies/young-2019-30028039.json"
+    },
+    {
+      "slug": "rawlings-2006-18492142",
+      "pmid": "18492142",
+      "title": "Ethnic skin types: are there differences in skin structure and function?",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rawlings-2006-18492142/",
+      "json": "https://vilivity.com/api/studies/rawlings-2006-18492142.json"
+    },
+    {
+      "slug": "crisan-2025-41305552",
+      "pmid": "41305552",
+      "title": "Effects of Moringa oleifera Lam. Supplementation on Cardiometabolic Outcomes: A Meta-Analysis of Randomized Controlled Trials with GRADE Assessment",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/crisan-2025-41305552/",
+      "json": "https://vilivity.com/api/studies/crisan-2025-41305552.json"
+    },
+    {
+      "slug": "afiaenyi-2025-37229639",
+      "pmid": "37229639",
+      "title": "Effects of Moringa oleifera leaves on the blood glucose, blood pressure, and lipid profile of type 2 diabetic subjects: A parallel group randomized clinical trial of efficacy",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/afiaenyi-2025-37229639/",
+      "json": "https://vilivity.com/api/studies/afiaenyi-2025-37229639.json"
+    },
+    {
+      "slug": "leone-2018-30322091",
+      "pmid": "30322091",
+      "title": "Effect of Moringa oleifera Leaf Powder on Postprandial Blood Glucose Response: In Vivo Study on Saharawi People Living in Refugee Camps",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/leone-2018-30322091/",
+      "json": "https://vilivity.com/api/studies/leone-2018-30322091.json"
+    },
+    {
+      "slug": "watanabe-2021-34207664",
+      "pmid": "34207664",
+      "title": "Moringa oleifera Lam. in Diabetes Mellitus: A Systematic Review and Meta-Analysis",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/watanabe-2021-34207664/",
+      "json": "https://vilivity.com/api/studies/watanabe-2021-34207664.json"
+    },
+    {
+      "slug": "stohs-2015-25808883",
+      "pmid": "25808883",
+      "title": "Review of the Safety and Efficacy of Moringa oleifera",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/stohs-2015-25808883/",
+      "json": "https://vilivity.com/api/studies/stohs-2015-25808883.json"
+    },
+    {
+      "slug": "engmann-2017-28104402",
+      "pmid": "28104402",
+      "title": "Racial and ethnic differences in the polycystic ovary syndrome metabolic phenotype",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/engmann-2017-28104402/",
+      "json": "https://vilivity.com/api/studies/engmann-2017-28104402.json"
+    },
+    {
+      "slug": "raffone-2025-41030014",
+      "pmid": "41030014",
+      "title": "Race and ethnicity reporting in endometriosis literature: a systematic review",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/raffone-2025-41030014/",
+      "json": "https://vilivity.com/api/studies/raffone-2025-41030014.json"
+    },
+    {
+      "slug": "kouame-2015-25690417",
+      "pmid": "25690417",
+      "title": "Glycaemic index and load values tested in normoglycemic adults for five staple foodstuffs: pounded yam, pounded cassava-plantain, placali, attieke and maize meal stiff porridge",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/kouame-2015-25690417/",
+      "json": "https://vilivity.com/api/studies/kouame-2015-25690417.json"
+    },
+    {
+      "slug": "ramdath-2004-15182400",
+      "pmid": "15182400",
+      "title": "Glycaemic index of selected staples commonly eaten in the Caribbean and the effects of boiling v. crushing",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/ramdath-2004-15182400/",
+      "json": "https://vilivity.com/api/studies/ramdath-2004-15182400.json"
+    },
+    {
+      "slug": "oladele-2016-25542206",
+      "pmid": "25542206",
+      "title": "Impact of resistant starch in three plantain (Musa AAB) products on glycaemic response of healthy volunteers",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/oladele-2016-25542206/",
+      "json": "https://vilivity.com/api/studies/oladele-2016-25542206.json"
+    },
+    {
+      "slug": "okoduwa-2023-36584553",
+      "pmid": "36584553",
+      "title": "Dietary approach for management of Type-2 diabetes: An overview of glycemic indices of commonly consumed foods in Nigeria",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/okoduwa-2023-36584553/",
+      "json": "https://vilivity.com/api/studies/okoduwa-2023-36584553.json"
+    },
+    {
+      "slug": "krishnan-2007-18039988",
+      "pmid": "18039988",
+      "title": "Glycemic index, glycemic load, and cereal fiber intake and risk of type 2 diabetes in US black women",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/krishnan-2007-18039988/",
+      "json": "https://vilivity.com/api/studies/krishnan-2007-18039988.json"
+    },
+    {
+      "slug": "cliff-2011-20654676",
+      "pmid": "20654676",
+      "title": "Konzo and continuing cyanide intoxication from cassava in Mozambique",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/cliff-2011-20654676/",
+      "json": "https://vilivity.com/api/studies/cliff-2011-20654676.json"
+    },
+    {
+      "slug": "quinn-2022-35626954",
+      "pmid": "35626954",
+      "title": "Cyanide Content of Cassava Food Products Available in Australia",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/quinn-2022-35626954/",
+      "json": "https://vilivity.com/api/studies/quinn-2022-35626954.json"
+    },
+    {
+      "slug": "knight-2022-34977514",
+      "pmid": "34977514",
+      "title": "A national cohort study and confidential enquiry to investigate ethnic disparities in maternal mortality",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/knight-2022-34977514/",
+      "json": "https://vilivity.com/api/studies/knight-2022-34977514.json"
+    },
+    {
+      "slug": "liao-2021-33234881",
+      "pmid": "33234881",
+      "title": "Probiotics for the Prevention of Antibiotic-associated Diarrhea in Adults: A Meta-Analysis of Randomized Placebo-Controlled Trials",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/liao-2021-33234881/",
+      "json": "https://vilivity.com/api/studies/liao-2021-33234881.json"
+    },
+    {
+      "slug": "gill-2025-39836666",
+      "pmid": "39836666",
+      "title": "Feasibility, safety and tolerability of estrogen and/or probiotics for improving vaginal health in Canadian African, Caribbean, and Black women: A pilot phase 1 clinical trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/gill-2025-39836666/",
+      "json": "https://vilivity.com/api/studies/gill-2025-39836666.json"
+    },
+    {
+      "slug": "doron-2015-25922398",
+      "pmid": "25922398",
+      "title": "Risk and safety of probiotics",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/doron-2015-25922398/",
+      "json": "https://vilivity.com/api/studies/doron-2015-25922398.json"
+    },
+    {
+      "slug": "lloyd-2015-26224061",
+      "pmid": "26224061",
+      "title": "Lifetime risk of being diagnosed with, or dying from, prostate cancer by major ethnic group in England 2008-2010",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lloyd-2015-26224061/",
+      "json": "https://vilivity.com/api/studies/lloyd-2015-26224061.json"
+    },
+    {
+      "slug": "khumalo-2007-18047612",
+      "pmid": "18047612",
+      "title": "Marginal traction alopecia severity score: development and test of reliability",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/khumalo-2007-18047612/",
+      "json": "https://vilivity.com/api/studies/khumalo-2007-18047612.json"
+    },
+    {
+      "slug": "kirkbride-2012-22457710",
+      "pmid": "22457710",
+      "title": "Incidence of schizophrenia and other psychoses in England, 1950-2009: a systematic review and meta-analyses",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kirkbride-2012-22457710/",
+      "json": "https://vilivity.com/api/studies/kirkbride-2012-22457710.json"
+    },
+    {
+      "slug": "barnett-2019-30846354",
+      "pmid": "30846354",
+      "title": "Ethnic variations in compulsory detention under the Mental Health Act: a systematic review and meta-analysis of international data",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/barnett-2019-30846354/",
+      "json": "https://vilivity.com/api/studies/barnett-2019-30846354.json"
+    },
+    {
+      "slug": "valbuena-2022-35793817",
+      "pmid": "35793817",
+      "title": "Racial bias and reproducibility in pulse oximetry among medical and surgical inpatients in general care in the Veterans Health Administration 2013-19: multicenter, retrospective cohort study",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/valbuena-2022-35793817/",
+      "json": "https://vilivity.com/api/studies/valbuena-2022-35793817.json"
+    },
+    {
+      "slug": "janivara-2025-40134218",
+      "pmid": "40134218",
+      "title": "Uncovering the genetic architecture and evolutionary roots of androgenetic alopecia in African men",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/janivara-2025-40134218/",
+      "json": "https://vilivity.com/api/studies/janivara-2025-40134218.json"
+    },
+    {
+      "slug": "wilson-1991-1986989",
+      "pmid": "1986989",
+      "title": "Biohistory of slavery and blood pressure differences in blacks today. A hypothesis",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wilson-1991-1986989/",
+      "json": "https://vilivity.com/api/studies/wilson-1991-1986989.json"
+    },
+    {
+      "slug": "curtin-1992-1456349",
+      "pmid": "1456349",
+      "title": "The slavery hypothesis for hypertension among African Americans: the historical evidence",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/curtin-1992-1456349/",
+      "json": "https://vilivity.com/api/studies/curtin-1992-1456349.json"
+    },
+    {
+      "slug": "b-czek-2025-41253405",
+      "pmid": "41253405",
+      "title": "Exploring gender and ethnic disparities in sarcoidosis: insights from the British Thoracic Society UK Interstitial Lung Disease Registry",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/b-czek-2025-41253405/",
+      "json": "https://vilivity.com/api/studies/b-czek-2025-41253405.json"
+    },
+    {
+      "slug": "trongtorsak-2025-40557494",
+      "pmid": "40557494",
+      "title": "Race Comparisons in Patients With Cardiac Sarcoidosis: Insights From the Cardiac Sarcoidosis Consortium",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/trongtorsak-2025-40557494/",
+      "json": "https://vilivity.com/api/studies/trongtorsak-2025-40557494.json"
+    },
+    {
+      "slug": "obi-2023-37431305",
+      "pmid": "37431305",
+      "title": "Diversity and disparity in the treatment and care of sarcoidosis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/obi-2023-37431305/",
+      "json": "https://vilivity.com/api/studies/obi-2023-37431305.json"
+    },
+    {
+      "slug": "laukkanen-2015-25705824",
+      "pmid": "25705824",
+      "title": "Association between sauna bathing and fatal cardiovascular and all-cause mortality events",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/laukkanen-2015-25705824/",
+      "json": "https://vilivity.com/api/studies/laukkanen-2015-25705824.json"
+    },
+    {
+      "slug": "li-2020-32814462",
+      "pmid": "32814462",
+      "title": "Acute and short-term efficacy of sauna treatment on cardiovascular function: A meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/li-2020-32814462/",
+      "json": "https://vilivity.com/api/studies/li-2020-32814462.json"
+    },
+    {
+      "slug": "martin-2023-37024072",
+      "pmid": "37024072",
+      "title": "The acute effect of whole-body heat therapy on peripheral and cerebral vascular reactivity in Black and White females",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/martin-2023-37024072/",
+      "json": "https://vilivity.com/api/studies/martin-2023-37024072.json"
+    },
+    {
+      "slug": "eisenbach-2005-15786826",
+      "pmid": "15786826",
+      "title": "Severe rhabdomyolysis and renal failure triggered by a sauna visit in sickle cell trait: a case report",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/eisenbach-2005-15786826/",
+      "json": "https://vilivity.com/api/studies/eisenbach-2005-15786826.json"
+    },
+    {
+      "slug": "rele-2003-12715094",
+      "pmid": "12715094",
+      "title": "Effect of mineral oil, sunflower oil, and coconut oil on prevention of hair damage",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rele-2003-12715094/",
+      "json": "https://vilivity.com/api/studies/rele-2003-12715094.json"
+    },
+    {
+      "slug": "kaushik-2022-35377477",
+      "pmid": "35377477",
+      "title": "Benefit of coconut-based hair oil via hair porosity quantification",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/kaushik-2022-35377477/",
+      "json": "https://vilivity.com/api/studies/kaushik-2022-35377477.json"
+    },
+    {
+      "slug": "drugs-2006-41730053",
+      "pmid": "41730053",
+      "title": "Sea Moss",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/drugs-2006-41730053/",
+      "json": "https://vilivity.com/api/studies/drugs-2006-41730053.json"
+    },
+    {
+      "slug": "rubio-2017-28152409",
+      "pmid": "28152409",
+      "title": "Metals in edible seaweed",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rubio-2017-28152409/",
+      "json": "https://vilivity.com/api/studies/rubio-2017-28152409.json"
+    },
+    {
+      "slug": "farebrother-2019-30891786",
+      "pmid": "30891786",
+      "title": "Excess iodine intake: sources, assessment, and effects on thyroid function",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/farebrother-2019-30891786/",
+      "json": "https://vilivity.com/api/studies/farebrother-2019-30891786.json"
+    },
+    {
+      "slug": "tahiri-2023-38032203",
+      "pmid": "38032203",
+      "title": "Evidence and hypotheses on adverse effects of the food additives carrageenan (E 407)/processed Eucheuma seaweed (E 407a) and carboxymethylcellulose (E 466) on the intestines: a scoping review",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/tahiri-2023-38032203/",
+      "json": "https://vilivity.com/api/studies/tahiri-2023-38032203.json"
+    },
+    {
+      "slug": "daniel-2013-23652888",
+      "pmid": "23652888",
+      "title": "Shave frequency and regimen variation effects on the management of pseudofolliculitis barbae",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/daniel-2013-23652888/",
+      "json": "https://vilivity.com/api/studies/daniel-2013-23652888.json"
+    },
+    {
+      "slug": "kindred-2011-21916277",
+      "pmid": "21916277",
+      "title": "Comparative evaluation of men's depilatory composition versus razor in black men",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/kindred-2011-21916277/",
+      "json": "https://vilivity.com/api/studies/kindred-2011-21916277.json"
+    },
+    {
+      "slug": "xia-2012-22226431",
+      "pmid": "22226431",
+      "title": "Topical eflornithine hydrochloride improves the effectiveness of standard laser hair removal for treating pseudofolliculitis barbae: a randomized, double-blinded, placebo-controlled trial",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/xia-2012-22226431/",
+      "json": "https://vilivity.com/api/studies/xia-2012-22226431.json"
+    },
+    {
+      "slug": "perry-2002-11807473",
+      "pmid": "11807473",
+      "title": "Defining pseudofolliculitis barbae in 2001: a review of the literature and current trends",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/perry-2002-11807473/",
+      "json": "https://vilivity.com/api/studies/perry-2002-11807473.json"
+    },
+    {
+      "slug": "dalia-2023-36840647",
+      "pmid": "36840647",
+      "title": "Review of treatments for pseudofolliculitis barbae",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dalia-2023-36840647/",
+      "json": "https://vilivity.com/api/studies/dalia-2023-36840647.json"
+    },
+    {
+      "slug": "hon-2015-26314567",
+      "pmid": "26314567",
+      "title": "Patient acceptability, efficacy, and skin biophysiology of a cream and cleanser containing lipid complex with shea butter extract versus a ceramide product for eczema",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hon-2015-26314567/",
+      "json": "https://vilivity.com/api/studies/hon-2015-26314567.json"
+    },
+    {
+      "slug": "anyanwu-2026-41619863",
+      "pmid": "41619863",
+      "title": "Ethnopharmacological evaluation of Vitellaria paradoxa triterpenes for wound healing: In vivo evidence of lupeol and α/β-amyrin in promoting dermal regeneration",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/anyanwu-2026-41619863/",
+      "json": "https://vilivity.com/api/studies/anyanwu-2026-41619863.json"
+    },
+    {
+      "slug": "ayanlowo-2022-33928725",
+      "pmid": "33928725",
+      "title": "African oils in dermatology",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ayanlowo-2022-33928725/",
+      "json": "https://vilivity.com/api/studies/ayanlowo-2022-33928725.json"
+    },
+    {
+      "slug": "micali-2018-29368843",
+      "pmid": "29368843",
+      "title": "Evidence-based treatment of atopic dermatitis with topical moisturizers",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/micali-2018-29368843/",
+      "json": "https://vilivity.com/api/studies/micali-2018-29368843.json"
+    },
+    {
+      "slug": "castelain-2024-38123238",
+      "pmid": "38123238",
+      "title": "Contact allergy to Butyrospermum parkii butter in a patient with cheilitis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/castelain-2024-38123238/",
+      "json": "https://vilivity.com/api/studies/castelain-2024-38123238.json"
+    },
+    {
+      "slug": "jans-2010-20946275",
+      "pmid": "20946275",
+      "title": "Maternal and perinatal outcomes amongst haemoglobinopathy carriers: a systematic review",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/jans-2010-20946275/",
+      "json": "https://vilivity.com/api/studies/jans-2010-20946275.json"
+    },
+    {
+      "slug": "taylor-2012-22445352",
+      "pmid": "22445352",
+      "title": "Haemoglobinopathies and the clinical epidemiology of malaria: a systematic review and meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/taylor-2012-22445352/",
+      "json": "https://vilivity.com/api/studies/taylor-2012-22445352.json"
+    },
+    {
+      "slug": "nelson-2016-27518662",
+      "pmid": "27518662",
+      "title": "Sickle Cell Trait, Rhabdomyolysis, and Mortality among U.S. Army Soldiers",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/nelson-2016-27518662/",
+      "json": "https://vilivity.com/api/studies/nelson-2016-27518662.json"
+    },
+    {
+      "slug": "harmon-2012-22442191",
+      "pmid": "22442191",
+      "title": "Sickle cell trait associated with a RR of death of 37 times in National Collegiate Athletic Association football athletes: a database with 2 million athlete-years as the denominator",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/harmon-2012-22442191/",
+      "json": "https://vilivity.com/api/studies/harmon-2012-22442191.json"
+    },
+    {
+      "slug": "buchanan-2020-32271134",
+      "pmid": "32271134",
+      "title": "Sudden Death Associated With Sickle Cell Trait Before and After Mandatory Screening",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/buchanan-2020-32271134/",
+      "json": "https://vilivity.com/api/studies/buchanan-2020-32271134.json"
+    },
+    {
+      "slug": "naik-2018-30383109",
+      "pmid": "30383109",
+      "title": "Clinical Outcomes Associated With Sickle Cell Trait: A Systematic Review",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/naik-2018-30383109/",
+      "json": "https://vilivity.com/api/studies/naik-2018-30383109.json"
+    },
+    {
+      "slug": "vashi-2016-26962390",
+      "pmid": "26962390",
+      "title": "Aging Differences in Ethnic Skin",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/vashi-2016-26962390/",
+      "json": "https://vilivity.com/api/studies/vashi-2016-26962390.json"
+    },
+    {
+      "slug": "alexis-2017-29028856",
+      "pmid": "29028856",
+      "title": "Ethnicity and Aging Skin",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/alexis-2017-29028856/",
+      "json": "https://vilivity.com/api/studies/alexis-2017-29028856.json"
+    },
+    {
+      "slug": "cormier-2006-17000949",
+      "pmid": "17000949",
+      "title": "Ethnic differences among patients with cutaneous melanoma",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/cormier-2006-17000949/",
+      "json": "https://vilivity.com/api/studies/cormier-2006-17000949.json"
+    },
+    {
+      "slug": "bradford-2009-19380664",
+      "pmid": "19380664",
+      "title": "Acral lentiginous melanoma: incidence and survival patterns in the United States, 1986-2005",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bradford-2009-19380664/",
+      "json": "https://vilivity.com/api/studies/bradford-2009-19380664.json"
+    },
+    {
+      "slug": "huang-2020-32208196",
+      "pmid": "32208196",
+      "title": "Acral Lentiginous Melanoma: Incidence and Survival in the United States, 2006-2015, an Analysis of the SEER Registry",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/huang-2020-32208196/",
+      "json": "https://vilivity.com/api/studies/huang-2020-32208196.json"
+    },
+    {
+      "slug": "grant-2025-40562077",
+      "pmid": "40562077",
+      "title": "Disparities in acral lentiginous melanoma: Factors beyond delayed diagnosis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/grant-2025-40562077/",
+      "json": "https://vilivity.com/api/studies/grant-2025-40562077.json"
+    },
+    {
+      "slug": "gloster-2006-17052479",
+      "pmid": "17052479",
+      "title": "Skin cancer in skin of color",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gloster-2006-17052479/",
+      "json": "https://vilivity.com/api/studies/gloster-2006-17052479.json"
+    },
+    {
+      "slug": "sagoe-2019-29888464",
+      "pmid": "29888464",
+      "title": "The global prevalence and correlates of skin bleaching: a meta-analysis and meta-regression analysis",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/sagoe-2019-29888464/",
+      "json": "https://vilivity.com/api/studies/sagoe-2019-29888464.json"
+    },
+    {
+      "slug": "mahe-2003-12653741",
+      "pmid": "12653741",
+      "title": "Skin diseases associated with the cosmetic use of bleaching products in women from Dakar, Senegal",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mahe-2003-12653741/",
+      "json": "https://vilivity.com/api/studies/mahe-2003-12653741.json"
+    },
+    {
+      "slug": "hamann-2014-24321702",
+      "pmid": "24321702",
+      "title": "Spectrometric analysis of mercury content in 549 skin-lightening products: is mercury toxicity a hidden global health hazard?",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/hamann-2014-24321702/",
+      "json": "https://vilivity.com/api/studies/hamann-2014-24321702.json"
+    },
+    {
+      "slug": "bastiansz-2022-36367779",
+      "pmid": "36367779",
+      "title": "A Systematic Review of Mercury Exposures from Skin-Lightening Products",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/bastiansz-2022-36367779/",
+      "json": "https://vilivity.com/api/studies/bastiansz-2022-36367779.json"
+    },
+    {
+      "slug": "chan-2011-22070559",
+      "pmid": "22070559",
+      "title": "Inorganic mercury poisoning associated with skin-lightening cosmetic products",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/chan-2011-22070559/",
+      "json": "https://vilivity.com/api/studies/chan-2011-22070559.json"
+    },
+    {
+      "slug": "ishack-2022-34486734",
+      "pmid": "34486734",
+      "title": "Exogenous ochronosis associated with hydroquinone: a systematic review",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/ishack-2022-34486734/",
+      "json": "https://vilivity.com/api/studies/ishack-2022-34486734.json"
+    },
+    {
+      "slug": "tang-2006-16912361",
+      "pmid": "16912361",
+      "title": "Minimal change disease following exposure to mercury-containing skin lightening cream",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/tang-2006-16912361/",
+      "json": "https://vilivity.com/api/studies/tang-2006-16912361.json"
+    },
+    {
+      "slug": "chen-2015-25409106",
+      "pmid": "25409106",
+      "title": "Racial/Ethnic Differences in Sleep Disturbances: The Multi-Ethnic Study of Atherosclerosis (MESA)",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/chen-2015-25409106/",
+      "json": "https://vilivity.com/api/studies/chen-2015-25409106.json"
+    },
+    {
+      "slug": "gaston-2020-32505024",
+      "pmid": "32505024",
+      "title": "Everyday and major experiences of racial/ethnic discrimination and sleep health in a multiethnic population of U.S. women: findings from the Sister Study",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/gaston-2020-32505024/",
+      "json": "https://vilivity.com/api/studies/gaston-2020-32505024.json"
+    },
+    {
+      "slug": "lannuzel-2008-18816693",
+      "pmid": "18816693",
+      "title": "Atypical parkinsonism in the Caribbean island of Guadeloupe: etiological role of the mitochondrial complex I inhibitor annonacin",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lannuzel-2008-18816693/",
+      "json": "https://vilivity.com/api/studies/lannuzel-2008-18816693.json"
+    },
+    {
+      "slug": "george-2016-27537560",
+      "pmid": "27537560",
+      "title": "Creatine kinase in the U.S. population: Impact of demographics, comorbidities, and body composition on the normal range",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/george-2016-27537560/",
+      "json": "https://vilivity.com/api/studies/george-2016-27537560.json"
+    },
+    {
+      "slug": "mantovani-2017-27124178",
+      "pmid": "27124178",
+      "title": "Exploring the relationship between stigma and help-seeking for mental illness in African-descended faith communities in the UK",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/mantovani-2017-27124178/",
+      "json": "https://vilivity.com/api/studies/mantovani-2017-27124178.json"
+    },
+    {
+      "slug": "dolezsar-2014-24417692",
+      "pmid": "24417692",
+      "title": "Perceived racial discrimination and hypertension: a comprehensive systematic review",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dolezsar-2014-24417692/",
+      "json": "https://vilivity.com/api/studies/dolezsar-2014-24417692.json"
+    },
+    {
+      "slug": "lawrence-2022-33428158",
+      "pmid": "33428158",
+      "title": "Racial/Ethnic Differences in Burnout: a Systematic Review",
+      "modules": [
+        "mind"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/lawrence-2022-33428158/",
+      "json": "https://vilivity.com/api/studies/lawrence-2022-33428158.json"
+    },
+    {
+      "slug": "osman-2008-18715434",
+      "pmid": "18715434",
+      "title": "Cocoa butter lotion for prevention of striae gravidarum: a double-blind, randomised and placebo-controlled trial",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/osman-2008-18715434/",
+      "json": "https://vilivity.com/api/studies/osman-2008-18715434.json"
+    },
+    {
+      "slug": "brennan-2012-23152199",
+      "pmid": "23152199",
+      "title": "Topical preparations for preventing stretch marks in pregnancy",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/brennan-2012-23152199/",
+      "json": "https://vilivity.com/api/studies/brennan-2012-23152199.json"
+    },
+    {
+      "slug": "owolabi-2018-29496511",
+      "pmid": "29496511",
+      "title": "Dominant modifiable risk factors for stroke in Ghana and Nigeria (SIREN): a case-control study",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/owolabi-2018-29496511/",
+      "json": "https://vilivity.com/api/studies/owolabi-2018-29496511.json"
+    },
+    {
+      "slug": "emmett-2026-42472283",
+      "pmid": "42472283",
+      "title": "Ethnic and socioeconomic inequalities in stroke risk factors and primary prevention: the South London Stroke Register cohort study 1995-2024",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/emmett-2026-42472283/",
+      "json": "https://vilivity.com/api/studies/emmett-2026-42472283.json"
+    },
+    {
+      "slug": "wafa-2018-30289919",
+      "pmid": "30289919",
+      "title": "Long-term trends in incidence and risk factors for ischaemic stroke subtypes: Prospective population study of the South London Stroke Register",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wafa-2018-30289919/",
+      "json": "https://vilivity.com/api/studies/wafa-2018-30289919.json"
+    },
+    {
+      "slug": "wix-2024-38265787",
+      "pmid": "38265787",
+      "title": "Clinical Features and Outcomes of Black Patients With Melanoma",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/wix-2024-38265787/",
+      "json": "https://vilivity.com/api/studies/wix-2024-38265787.json"
+    },
+    {
+      "slug": "rigel-2022-34942296",
+      "pmid": "34942296",
+      "title": "Photoprotection for skin of all color: Consensus and clinical guidance from an expert panel",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rigel-2022-34942296/",
+      "json": "https://vilivity.com/api/studies/rigel-2022-34942296.json"
+    },
+    {
+      "slug": "taylor-2022-34942293",
+      "pmid": "34942293",
+      "title": "Misconceptions of photoprotection in skin of color",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/taylor-2022-34942293/",
+      "json": "https://vilivity.com/api/studies/taylor-2022-34942293.json"
+    },
+    {
+      "slug": "swaile-2012-22385032",
+      "pmid": "22385032",
+      "title": "Clinical studies of sweat rate reduction by an over-the-counter soft-solid antiperspirant and comparison with a prescription antiperspirant product in male panelists",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/swaile-2012-22385032/",
+      "json": "https://vilivity.com/api/studies/swaile-2012-22385032.json"
+    },
+    {
+      "slug": "billero-2018-29670386",
+      "pmid": "29670386",
+      "title": "Traction alopecia: the root of the problem",
+      "modules": [
+        "hair"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/billero-2018-29670386/",
+      "json": "https://vilivity.com/api/studies/billero-2018-29670386.json"
+    },
+    {
+      "slug": "zeng-2022-35935936",
+      "pmid": "35935936",
+      "title": "Efficacy and Safety of Curcumin and Curcuma longa Extract in the Treatment of Arthritis: A Systematic Review and Meta-Analysis of Randomized Controlled Trial",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/zeng-2022-35935936/",
+      "json": "https://vilivity.com/api/studies/zeng-2022-35935936.json"
+    },
+    {
+      "slug": "halegoua-demarzio-2023-36252717",
+      "pmid": "36252717",
+      "title": "Liver Injury Associated with Turmeric-A Growing Problem: Ten Cases from the Drug-Induced Liver Injury Network [DILIN]",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/halegoua-demarzio-2023-36252717/",
+      "json": "https://vilivity.com/api/studies/halegoua-demarzio-2023-36252717.json"
+    },
+    {
+      "slug": "forsyth-2024-39053552",
+      "pmid": "39053552",
+      "title": "Evidence of turmeric adulteration with lead chromate across South Asia",
+      "modules": [
+        "food"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/forsyth-2024-39053552/",
+      "json": "https://vilivity.com/api/studies/forsyth-2024-39053552.json"
+    },
+    {
+      "slug": "shamsutdinova-2026-42018145",
+      "pmid": "42018145",
+      "title": "Inequalities in type 2 diabetes incidence in a multiethnic population: a cohort study investigating the impact of ethnicity, migration and mental health comorbidities",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/shamsutdinova-2026-42018145/",
+      "json": "https://vilivity.com/api/studies/shamsutdinova-2026-42018145.json"
+    },
+    {
+      "slug": "powe-2013-24256378",
+      "pmid": "24256378",
+      "title": "Vitamin D-binding protein and vitamin D status of black Americans and white Americans",
+      "modules": [
+        "body",
+        "food"
+      ],
+      "cited_by": 2,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/powe-2013-24256378/",
+      "json": "https://vilivity.com/api/studies/powe-2013-24256378.json"
+    },
+    {
+      "slug": "aloia-2005-16043680",
+      "pmid": "16043680",
+      "title": "A randomized controlled trial of vitamin D3 supplementation in African American women",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/aloia-2005-16043680/",
+      "json": "https://vilivity.com/api/studies/aloia-2005-16043680.json"
+    },
+    {
+      "slug": "aloia-2018-29905969",
+      "pmid": "29905969",
+      "title": "Vitamin D Supplementation in Elderly Black Women Does Not Prevent Bone Loss: A Randomized Controlled Trial",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": true,
+      "page": "https://vilivity.com/studies/aloia-2018-29905969/",
+      "json": "https://vilivity.com/api/studies/aloia-2018-29905969.json"
+    },
+    {
+      "slug": "dong-2026-42815577",
+      "pmid": "42815577",
+      "title": "Effect of vitamin D supplementation on bone health in Black, Asian and other non-White ethnic adults: a systematic review and meta-analysis",
+      "modules": [
+        "body"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/dong-2026-42815577/",
+      "json": "https://vilivity.com/api/studies/dong-2026-42815577.json"
+    },
+    {
+      "slug": "rosmarin-2022-36260792",
+      "pmid": "36260792",
+      "title": "Two Phase 3, Randomized, Controlled Trials of Ruxolitinib Cream for Vitiligo",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/rosmarin-2022-36260792/",
+      "json": "https://vilivity.com/api/studies/rosmarin-2022-36260792.json"
+    },
+    {
+      "slug": "seneschal-2025-40156697",
+      "pmid": "40156697",
+      "title": "Efficacy and Safety of Ruxolitinib Cream in Vitiligo by Patient Characteristic Subgroups: Descriptive Pooled Analysis From Two Phase 3 Studies",
+      "modules": [
+        "skin"
+      ],
+      "cited_by": 1,
+      "tier_a_record": false,
+      "page": "https://vilivity.com/studies/seneschal-2025-40156697/",
+      "json": "https://vilivity.com/api/studies/seneschal-2025-40156697.json"
+    }
+  ]
+}

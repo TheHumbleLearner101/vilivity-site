@@ -1,0 +1,52 @@
+{
+  "slug": "natural-hairstyles-and-wellbeing-in-older-black-women",
+  "name": "Wearing hair natural in later life",
+  "regions": [
+    "Black British"
+  ],
+  "module": "hair",
+  "what_people_do": "Stop relaxing and wearing complex styles; wear the natural texture.",
+  "why_they_say_it_works": "Confidence, identity and less time and cost; resistance to Eurocentric standards.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Hair identity and wellbeing of older Black women, UK, 2025, J Women Aging, PMID 39921474",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39921474/",
+      "quote_or_summary": "UK survey of 46 and 10 interviews of older Black women: less frequent complex styles and fewer salon visits over 30 years; subjective wellbeing strengthened by confidence in own hair."
+    },
+    {
+      "source": "Hair grooming practices of women of African descent in London, 2016, J Eur Acad Dermatol Venereol, PMID 27038251",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27038251/",
+      "quote_or_summary": "London, 242 women: natural hairstyles the most frequent current style (52.6%)."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Natural hair and wellbeing",
+      "population": "Mixed methods, small",
+      "finding": "Qualitative link between hair confidence and wellbeing; not a health outcome trial.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Hair identity and wellbeing of older Black women, UK, 2025, J Women Aging, PMID 39921474",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39921474/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "none",
+  "harm_note": "No harm identified.",
+  "links_to_entries": [
+    "hair-texture-types-and-typing"
+  ],
+  "gaps": [
+    "Small and self-selected."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/natural-hairstyles-and-wellbeing-in-older-black-women/"
+}

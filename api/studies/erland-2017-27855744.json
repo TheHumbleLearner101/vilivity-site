@@ -1,0 +1,30 @@
+{
+  "pmid": "27855744",
+  "slug": "erland-2017-27855744",
+  "citation": {
+    "authors": "Erland LA, Saxena PK",
+    "year": 2017,
+    "journal": "Journal of Clinical Sleep Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27855744/",
+  "page": "https://vilivity.com/studies/erland-2017-27855744/",
+  "cited_by": [
+    {
+      "entry": "melatonin-for-sleep",
+      "title": "Melatonin for sleep: what it does, dose and rules by country",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/melatonin-for-sleep/",
+      "record": {
+        "id": "erland-2017",
+        "population": "31 commercial melatonin supplements (different brands and forms)",
+        "n": 31,
+        "design": "Laboratory analysis of melatonin and serotonin content by chromatography",
+        "finding": "Melatonin content ranged from 83 per cent below to 478 per cent above the label. Lot-to-lot variation reached 465 per cent. More than 71 per cent of products missed the label by more than 10 per cent, and serotonin was found in eight (about a quarter).",
+        "line_tier": "C",
+        "note": "Products sold in one market at one time. It is a reason to doubt labels and ranks no product.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

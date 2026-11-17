@@ -1,0 +1,47 @@
+{
+  "pmid": "37495175",
+  "slug": "jackson-2023-37495175",
+  "citation": {
+    "authors": "Jackson et al",
+    "year": 2023,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37495175/",
+  "page": "https://vilivity.com/studies/jackson-2023-37495175/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "jackson-2023",
+        "population": "17 men with biopsy-confirmed CCCA, one US academic centre, 2012 to 2022",
+        "n": 17,
+        "design": "Case series",
+        "finding": "Average age 43; 88.2% identified as Black. Scalp itch was the commonest symptom; few reported high-risk hair practices; none had type 2 diabetes. The authors say CCCA should be considered in adult Black men with hair loss.",
+        "line_tier": "B",
+        "note": "Single-centre, retrospective, small.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "mens-hair-loss-and-hair-transplants",
+      "title": "Receding hairline and hair transplants in Black men",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-hair-loss-and-hair-transplants/",
+      "record": {
+        "id": "jackson-2023",
+        "population": "17 men with biopsy-confirmed CCCA, one US academic centre, 2012 to 2022",
+        "n": 17,
+        "design": "Case series",
+        "finding": "Average age 43; 88.2% identified as Black. Scalp itch was the commonest symptom; few reported high-risk hair practices; none had type 2 diabetes. The authors say CCCA should be considered in adult Black men with hair loss.",
+        "line_tier": "B",
+        "note": "Single-centre, retrospective, small.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

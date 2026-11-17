@@ -1,0 +1,30 @@
+{
+  "pmid": "24395196",
+  "slug": "goyal-2014-24395196",
+  "citation": {
+    "authors": "Goyal M, Singh S, Sibinga EM, Gould NF et al",
+    "year": 2014,
+    "journal": "JAMA Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24395196/",
+  "page": "https://vilivity.com/studies/goyal-2014-24395196/",
+  "cited_by": [
+    {
+      "entry": "meditation",
+      "title": "Meditation",
+      "module": "mind",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/mind/meditation/",
+      "record": {
+        "id": "goyal-2014",
+        "population": "47 trials, 3,515 participants in diverse adult clinical populations",
+        "n": 3515,
+        "design": "Systematic review and meta-analysis of meditation programmes against active controls",
+        "finding": "Mindfulness meditation programmes had moderate evidence of improved anxiety (effect size 0.38 at 8 weeks), depression (0.30) and pain (0.33), and low evidence of improved stress and mental-health quality of life. Low or insufficient evidence for positive mood, attention, substance use, eating habits, sleep and weight. No evidence that meditation programmes were better than any active treatment (drugs, exercise, other behavioural therapies).",
+        "line_tier": "B",
+        "note": "tier_variant trial-other-population. Abstract read in full.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

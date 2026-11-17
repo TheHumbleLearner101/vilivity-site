@@ -1,0 +1,182 @@
+{
+  "slug": "turmeric-and-curcumin-supplements",
+  "title": "Turmeric and curcumin supplements",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does turmeric or curcumin reduce inflammation?",
+    "Is turmeric good for arthritis and joint pain?",
+    "Can turmeric damage your liver?",
+    "Has turmeric been tested on Black people?"
+  ],
+  "tradition_says": "Turmeric is a yellow root used in cooking and in Chinese, Ayurvedic, Islamic and Thai traditional medicine for digestion, skin and joint problems. Curcumin, its main compound, is now sold in concentrated capsules.",
+  "layer1": {
+    "plain_answer": "Turmeric and curcumin supplements may ease joint pain a little in low-quality trials, but NCCIH says we do not know enough to say they help. Our search found no trial of turmeric or curcumin in Black participants. Rare serious liver injury is reported, and some loose turmeric powder carries lead. Stop and see a doctor if you turn yellow.",
+    "do": [
+      {
+        "text": "Stop it and talk to a health care provider if you get fatigue, nausea, poor appetite, dark urine or jaundice.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Turmeric: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/turmeric",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "If you take a blood thinner such as warfarin, tell your prescriber about any supplement first: the UK's NHS says some supplements and remedies do not mix well with it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Warfarin: medicine used to prevent and treat blood clots\"",
+          "url": "https://www.nhs.uk/medicines/warfarin/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Prefer turmeric as a food spice from a source you trust to concentrated capsules: the liver injury cases were linked to supplement products.",
+        "basis": "tested",
+        "source": "halegoua-demarzio-2023"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Turmeric supplements in pregnancy: NCCIH says they may be unsafe.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Turmeric: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/turmeric",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Highly bioavailable curcumin products, which NCCIH says may harm your liver.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NCCIH, \"Turmeric: Usefulness and Safety\"",
+          "url": "https://www.nccih.nih.gov/health/turmeric",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Assuming loose turmeric powder is clean: lead chromate was found in 14 per cent of samples in a South Asian survey.",
+        "basis": "tested",
+        "source": "forsyth-2024"
+      }
+    ],
+    "see_someone_when": [
+      "Yellow skin or eyes, dark urine, itching or marked tiredness while using it (doctor or urgent care).",
+      "You take a blood thinner, diabetes medicine or any regular medicine and want to start a supplement (pharmacist).",
+      "Persistent joint pain, swelling or stiffness (doctor; a supplement does not replace a diagnosis)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "People with arthritis (osteoarthritis, rheumatoid, ankylosing spondylitis, juvenile arthritis, gout) in 29 randomised trials",
+      "design": "Systematic review and meta-analysis of curcumin and turmeric extract, 120 to 1,500 mg for 4 to 36 weeks",
+      "n": 2396,
+      "finding": "Curcumin and turmeric extract improved pain and inflammation markers in arthritis in the pooled trials and appeared safe. The authors warn the trials are low quality and few, and that the conclusions need careful interpretation.",
+      "source": {
+        "authors": "Zeng L, Yang T, Yang K, Yu G et al",
+        "year": 2022,
+        "journal": "Frontiers in Immunology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35935936/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Low quality trials. Ethnicity not reported in the abstract.",
+      "id": "zeng-2022"
+    },
+    {
+      "population": "Ten people in the US Drug-Induced Liver Injury Network with turmeric-associated liver injury (eight women; nine White; median age 56)",
+      "design": "Case series with chemical analysis of products and HLA genetic typing",
+      "n": 10,
+      "finding": "Five were hospitalised and one died of acute liver failure. Injury began 1 to 4 months after starting, mostly hepatocellular, and turmeric was confirmed in all seven products tested (three also contained black pepper extract). Seven carried HLA-B*35:01 (allele frequency 0.45 against 0.06 to 0.07 in controls). The authors say turmeric liver injury appears to be increasing.",
+      "source": {
+        "authors": "Halegoua-DeMarzio D, Navarro V, Ahmad J, Avula B et al",
+        "year": 2023,
+        "journal": "American Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36252717/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A small case series, mostly White participants, so it says nothing about how common the HLA type is in other populations. HLA-B*35:01 is the measured variable.",
+      "id": "halegoua-demarzio-2023"
+    },
+    {
+      "population": "Turmeric root and powder samples from bazaars in 23 cities in India, Pakistan, Sri Lanka and Nepal (2020 to 2021)",
+      "design": "Laboratory survey of lead and chromium in 356 samples",
+      "n": 356,
+      "finding": "Fourteen per cent (51 samples) had lead above 2 micrograms per gram, and samples at 18 or more had lead-to-chromium ratios pointing to lead chromate added as a colouring. Lead levels exceeded 1,000 micrograms per gram in Patna (India), Karachi and Peshawar (Pakistan).",
+      "source": {
+        "authors": "Forsyth JE, Mistree D, Nash E, Angrish M et al",
+        "year": 2024,
+        "journal": "Science of the Total Environment",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39053552/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "A product survey in South Asia, not a study of people. It matters because the spice is traded worldwide. It is a warning about loose spice from uncertain sources.",
+      "id": "forsyth-2024"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That curcumin eases arthritis pain: a meta-analysis of 29 randomised trials (2,396 people) rated low quality, none reporting ethnicity in the abstract; NCCIH says the evidence is not enough to conclude benefit.",
+  "tier_note": "A systematic review of several trials that its authors call low quality is moderate by rule A3. It stays B, short of A, because no trial in Black participants was found.",
+  "harm_flag": true,
+  "harm_note": "A US case series (10 people, nine White) found turmeric liver injury within 1 to 4 months, with one death, strongly linked to HLA-B*35:01. NCCIH says highly bioavailable curcumin may harm the liver and that supplements may be unsafe in pregnancy. A South Asian survey found lead chromate in 14 per cent of turmeric samples.",
+  "founder_flag": false,
+  "evidence_summary": "Twenty-nine low-quality trials in 2,396 people with arthritis suggest small gains in pain and inflammation. NCCIH says the initial evidence is positive, higher-quality evidence is needed, and we do not know enough to conclude that turmeric or curcumin helps any health purpose. Liver injury has risen in the US; of ten network cases, seven carried HLA-B*35:01. Lead chromate has been added to turmeric in parts of South Asia.",
+  "measured_variables": [
+    "Pain and inflammation scores",
+    "ALT/AST and bilirubin (liver harm outcome)",
+    "HLA-B*35:01 carrier status (measured variable in the case series)",
+    "Lead and chromium in the spice",
+    "No ancestry variable in the arthritis trials"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 4 records for curcumin or turmeric, all laboratory or mechanism reviews on cancer or Parkinson's disease, none a trial in Black participants. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 22 records matched (titles read only; none a joint trial in Black participants). The specific turmeric and warfarin interaction was not found in an opened clinical source, so only the general NHS advice is cited. Untested: any benefit in Black participants; how common HLA-B*35:01 is in people of African descent (not in the sources read); long-term use.",
+  "related": [
+    "vitamins-and-supplements-basics",
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "black-seed-oil-nigella-sativa",
+    "high-blood-pressure-in-black-adults"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Zeng L, Yang T, Yang K, Yu G et al",
+      "year": 2022,
+      "journal": "Frontiers in Immunology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35935936/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Halegoua-DeMarzio D, Navarro V, Ahmad J, Avula B et al",
+      "year": 2023,
+      "journal": "American Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36252717/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Forsyth JE, Mistree D, Nash E, Angrish M et al",
+      "year": 2024,
+      "journal": "Science of the Total Environment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39053552/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NCCIH, \"Turmeric: Usefulness and Safety\"",
+      "url": "https://www.nccih.nih.gov/health/turmeric",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Warfarin: medicine used to prevent and treat blood clots\"",
+      "url": "https://www.nhs.uk/medicines/warfarin/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

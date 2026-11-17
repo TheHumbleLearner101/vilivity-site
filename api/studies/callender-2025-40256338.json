@@ -1,0 +1,30 @@
+{
+  "pmid": "40256338",
+  "slug": "callender-2025-40256338",
+  "citation": {
+    "authors": "Callender VD, Alexis AF, Bhatia N, Harper JC et al",
+    "year": 2025,
+    "journal": "Journal of Clinical and Aesthetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40256338/",
+  "page": "https://vilivity.com/studies/callender-2025-40256338/",
+  "cited_by": [
+    {
+      "entry": "dark-marks-after-acne",
+      "title": "Dark marks after acne (post-inflammatory hyperpigmentation)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/dark-marks-after-acne/",
+      "record": {
+        "id": "callender-2025",
+        "population": "156 Black participants (14% of 1,115) pooled from four industry trials in acne",
+        "n": 156,
+        "design": "Post hoc subgroup analysis of a clindamycin, adapalene and benzoyl peroxide triple gel against vehicle, 12 weeks",
+        "finding": "Acne treatment success was 32.0% against 18.3% on vehicle (P=0.07). Inflammatory and noninflammatory lesions fell more with the gel, and hyperpigmentation scores stayed at or below baseline. The authors state the studies were not powered for Black participants, so P values are informative only.",
+        "line_tier": "B",
+        "note": "Industry-sponsored trials (the gel is a branded product), post hoc subgroup, hyperpigmentation was a safety score, not the main outcome. Treats acne, not marks.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

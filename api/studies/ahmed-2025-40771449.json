@@ -1,0 +1,30 @@
+{
+  "pmid": "40771449",
+  "slug": "ahmed-2025-40771449",
+  "citation": {
+    "authors": "Ahmed et al",
+    "year": 2025,
+    "journal": "Skin Appendage Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40771449/",
+  "page": "https://vilivity.com/studies/ahmed-2025-40771449/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "ahmed-2025",
+        "population": "Review of herbal remedies for hair loss",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Studies suggest potential benefits for some herbs in androgenetic alopecia, telogen effluvium and alopecia areata, but many studies have small samples, short treatment periods and no long-term follow-up; larger randomised trials are needed.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

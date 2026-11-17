@@ -1,0 +1,47 @@
+{
+  "pmid": "36682686",
+  "slug": "katon-2023-36682686",
+  "citation": {
+    "authors": "Katon JG, Plowden TC, Marsh EE",
+    "year": 2023,
+    "journal": "Fertility and Sterility"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36682686/",
+  "page": "https://vilivity.com/studies/katon-2023-36682686/",
+  "cited_by": [
+    {
+      "entry": "fibroids-symptoms-treatment-and-pregnancy",
+      "title": "Fibroids: symptoms, treatment and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/fibroids-symptoms-treatment-and-pregnancy/",
+      "record": {
+        "id": "katon-2023",
+        "population": "US studies of fibroids and endometriosis in Black and White women",
+        "n": "not stated in the abstract",
+        "design": "Systematic review of racial disparities in prevalence, with a social and structural context framework",
+        "finding": "Prevalence of fibroids was consistently higher in Black than in White women, with the size of the difference varying by population and case definition. Black women with fibroids or endometriosis experienced worse clinical and surgical outcomes. The authors link the disparities to differing exposures, poor access to highly skilled gynaecologic surgeons, and bias within health care.",
+        "line_tier": "B",
+        "note": "US data; funding not checked.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "pcos-endometriosis-and-heavy-periods",
+      "title": "PCOS, endometriosis and heavy periods",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/pcos-endometriosis-and-heavy-periods/",
+      "record": {
+        "id": "katon-2023-b",
+        "population": "US studies of fibroids and endometriosis in Black and White women",
+        "n": "not stated in the abstract",
+        "design": "Systematic review of racial disparities in prevalence",
+        "finding": "Prevalence of endometriosis varied considerably with population and case definition but was the same or lower in Black than White women. Data suggest no racial difference in incidence of endometriosis. Black women with fibroids or endometriosis had worse clinical and surgical outcomes. The authors link disparities to exposures, access to skilled surgeons and bias.",
+        "line_tier": "B",
+        "note": "US data. Funding not checked.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "moringa-leaf-and-blood-sugar",
+  "title": "Moringa: blood sugar, blood pressure and general health",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does moringa lower blood sugar?",
+    "Is moringa tea or powder good for you?",
+    "Can I take moringa with diabetes or blood pressure tablets?",
+    "Does moringa help breast milk?"
+  ],
+  "tradition_says": "Moringa (drumstick tree) leaves are eaten across West Africa and the Caribbean and sold as powder and capsules for blood sugar, blood pressure, energy and breast milk.",
+  "layer1": {
+    "plain_answer": "Moringa leaf is a nutritious food, but a 2025 review of nine trials found no consistent benefit for blood sugar, weight or cholesterol, and rated the evidence very low certainty. A small trial in Nigerian adults with type 2 diabetes found no difference in blood sugar after two weeks. Do not swap it for medicine.",
+    "do": [
+      {
+        "text": "Treat it as a food or an add-on: the review found no consistent benefit.",
+        "basis": "tested",
+        "source": "crisan-2025"
+      },
+      {
+        "text": "Check first with a pharmacist before taking moringa capsules or powder if you take other medicine, including diabetes or blood pressure tablets.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any herbal product you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Stopping or skipping prescribed medicine for moringa: trials show no consistent benefit.",
+        "basis": "tested",
+        "source": "crisan-2025"
+      },
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, or have kidney or liver problems, without a pharmacist check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You take diabetes or blood pressure medicine and want to add moringa (pharmacist or doctor).",
+      "You have high blood sugar symptoms such as thirst, passing a lot of urine or tiredness (doctor).",
+      "A rash, swelling or tummy pain after taking it (doctor; 999 in the UK, or your local emergency number for swelling of the face or throat or trouble breathing)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults in 9 randomised trials of Moringa oleifera (12 arms); countries not listed in the abstract",
+      "design": "Systematic review and meta-analysis of RCTs with GRADE",
+      "n": "9 trials (341 intervention, 308 control)",
+      "finding": "Moringa showed no significant effects on most outcomes (weight, lipids, glycaemic indices). A modest fall in diastolic blood pressure was not robust in sensitivity analyses. The authors rated the certainty of evidence very low for all outcomes and say current evidence does not support consistent cardiometabolic benefits.",
+      "source": {
+        "authors": "Crisan D, Gavrilas L, Paltinean R, Frumuzachi O et al",
+        "year": 2025,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41305552/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Participants' ancestry not stated; authors report no conflicts of interest.",
+      "id": "crisan-2025"
+    },
+    {
+      "population": "40 adults with type 2 diabetes in a rural Nigerian community",
+      "design": "Parallel-group randomised trial: 0, 20, 40 or 60 g of moringa leaves a day for 14 days",
+      "n": "40",
+      "finding": "Fasting blood glucose did not differ between groups. The 40 g group had lower systolic pressure and higher triglycerides after the intervention, but after adjusting for baseline values there was no significant difference in any measure. The authors call the improvements marginal and not dose-dependent.",
+      "source": {
+        "authors": "Afiaenyi IC, Ngwu EK, Okafor AM, Ayogu RN",
+        "year": 2025,
+        "journal": "Nutrition and Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37229639/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Ten people a group, two weeks; in people of African descent but too small to rule a benefit in or out.",
+      "id": "afiaenyi-2025"
+    },
+    {
+      "population": "Saharawi people living in refugee camps (diabetic and healthy volunteers; numbers not in my copy of the abstract)",
+      "design": "Randomised crossover test meal with and without 20 g moringa leaf powder, glucose measured for 3 hours",
+      "n": "not shown in the abstract copy read",
+      "finding": "In the diabetic volunteers the glucose rise peaked earlier and was lower at 90, 120 and 150 minutes with moringa, and the mean meal response was lower. Healthy volunteers showed no difference. The authors say the 20 g dose tasted poor and lower doses should be tested, and that trials of longer-term effects are needed.",
+      "source": {
+        "authors": "Leone A, Bertoli S, Di Lello S, Bassoli A et al",
+        "year": 2018,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30322091/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A single test meal, not a treatment trial. Saharawi people are from North-West Africa; I did not treat them as a match for the question, so the line stays B.",
+      "id": "leone-2018"
+    },
+    {
+      "population": "Diabetic rodent models (349 treated, 350 controls)",
+      "design": "Systematic review and meta-analysis of animal studies",
+      "n": "44 animal studies",
+      "finding": "Extracts of Moringa oleifera lowered blood glucose in diabetic rodents (pooled effect size -3.92) with substantial heterogeneity, and improved triglycerides and cholesterol.",
+      "source": {
+        "authors": "Watanabe S, Okoshi H, Yamabe S, Shimada M",
+        "year": 2021,
+        "journal": "Molecules",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34207664/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "Animals only; large effects in rodents are common and have not carried over to people in the human trials above.",
+      "id": "watanabe-2021"
+    },
+    {
+      "population": "Humans and animals (narrative safety and efficacy review)",
+      "design": "Narrative review",
+      "n": "five human studies of leaf powder",
+      "finding": "Animal safety studies of aqueous leaf extract indicate a high degree of safety, and the authors say no adverse effects were reported in human studies. They describe the five human studies as showing anti-hyperglycaemic and anti-dyslipidaemic activity, and call for human studies with standardised extracts.",
+      "source": {
+        "authors": "Stohs SJ, Hartman MJ",
+        "year": 2015,
+        "journal": "Phytotherapy Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25808883/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Older, narrative and more favourable than the 2025 meta-analysis; the five human studies were small.",
+      "id": "stohs-2015"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That moringa lowers blood sugar or improves heart risk factors: a 2025 meta-analysis of nine trials found no consistent benefit and rated the certainty very low; one small Nigerian trial found no adjusted difference.",
+  "tier_note": "Thin because the review rates its own evidence very low certainty and the one trial in people of African descent had 40 people for two weeks. Marked B because the review pools trials in mixed populations; it would move to A with a trial in Black adults large enough to detect a difference.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the abstracts read; Stohs 2015 reports none in human studies. Moringa may lower blood sugar in some people (Leone 2018), so it could add to diabetes medicines (inferred from the effect, not from an interaction source). I did not open a review of interactions or pregnancy safety.",
+  "founder_flag": false,
+  "evidence_summary": "A 2025 meta-analysis of nine randomised trials found no consistent effect of moringa on blood sugar, lipids or weight and rated all outcomes very low certainty. A 14-day trial in 40 Nigerian adults with type 2 diabetes found no adjusted difference in blood sugar, and one test-meal study in Saharawi volunteers found a lower glucose rise in diabetic volunteers at 20 g. Rodent studies show large effects that the human trials have not repeated.",
+  "measured_variables": [
+    "Fasting glucose, post-meal glucose, HbA1c, blood pressure, lipids",
+    "Dose of leaf powder (20 to 60 g in the two African studies)",
+    "Ancestry not a measured variable in the pooled review"
+  ],
+  "gaps": "Untested or not opened: moringa as a tea (the trials used leaf or powder); long-term safety and interactions with diabetes or blood pressure medicines; moringa for breast milk (a 2025 galactagogue systematic review, PMID 40724308, was found but not opened); seed and root products; trials longer than 12 weeks in people of African descent. No ClinicalTrials.gov search was needed beyond the review, which lists the trials it pooled.",
+  "related": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "black-seed-oil-nigella-sativa",
+    "type-2-diabetes-risk",
+    "hibiscus-sorrel-blood-pressure"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Crisan D, Gavrilas L, Paltinean R, Frumuzachi O et al",
+      "year": 2025,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41305552/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Afiaenyi IC, Ngwu EK, Okafor AM, Ayogu RN",
+      "year": 2025,
+      "journal": "Nutrition and Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37229639/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Leone A, Bertoli S, Di Lello S, Bassoli A et al",
+      "year": 2018,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30322091/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Watanabe S, Okoshi H, Yamabe S, Shimada M",
+      "year": 2021,
+      "journal": "Molecules",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34207664/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Stohs SJ, Hartman MJ",
+      "year": 2015,
+      "journal": "Phytotherapy Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25808883/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

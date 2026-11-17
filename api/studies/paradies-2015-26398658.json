@@ -1,0 +1,47 @@
+{
+  "pmid": "26398658",
+  "slug": "paradies-2015-26398658",
+  "citation": {
+    "authors": "Paradies Y, Ben J, Denson N et al",
+    "year": 2015,
+    "journal": "PLoS One"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26398658/",
+  "page": "https://vilivity.com/studies/paradies-2015-26398658/",
+  "cited_by": [
+    {
+      "entry": "anxiety-depression-and-what-helps",
+      "title": "Anxiety, depression and what helps",
+      "module": "mind",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/mind/anxiety-depression-and-what-helps/",
+      "record": {
+        "id": "paradies-2015",
+        "population": "293 studies (333 articles), mainly US",
+        "n": "293 studies",
+        "design": "Systematic review and meta-analysis of reported racism and health",
+        "finding": "Reported racism was linked to poorer mental health (negative mental health r = -0.23, 95% CI -0.24 to -0.21, 227 studies), including depression, anxiety and psychological stress, and to poorer general (r = -0.13) and physical health (r = -0.09). Effects were stronger in cross-sectional than longitudinal data. Ethnicity moderated some effects; the abstract text I read was cut off before the Black-specific comparison.",
+        "line_tier": "B",
+        "note": "Association, mostly cross-sectional, so it does not prove cause. Abstract read; the sentence on which groups showed stronger effects was truncated in my copy (UNVERIFIED for Black adults specifically).",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "racism-and-mental-health",
+      "title": "Racism, racial stress and mental health",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/racism-and-mental-health/",
+      "record": {
+        "id": "paradies-2015",
+        "population": "293 studies (333 articles), mainly US",
+        "n": "293 studies",
+        "design": "Systematic review and meta-analysis of reported racism and health",
+        "finding": "Reported racism was linked to poorer mental health (negative mental health r = -0.23, 95% CI -0.24 to -0.21, 227 studies), including depression, anxiety and psychological stress, and to poorer general (r = -0.13) and physical health (r = -0.09). Effects were stronger in cross-sectional than longitudinal data. Ethnicity moderated some effects; the abstract text I read was cut off before the Black-specific comparison.",
+        "line_tier": "B",
+        "note": "Association, mostly cross-sectional, so it does not prove cause. Abstract read; the sentence on which groups showed stronger effects was truncated in my copy (UNVERIFIED for Black adults specifically).",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

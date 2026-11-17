@@ -1,0 +1,30 @@
+{
+  "pmid": "21445965",
+  "slug": "jack-2012-21445965",
+  "citation": {
+    "authors": "Jack RH, Davies EA, Moller H",
+    "year": 2012,
+    "journal": "International Journal of Cancer"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21445965/",
+  "page": "https://vilivity.com/studies/jack-2012-21445965/",
+  "cited_by": [
+    {
+      "entry": "breast-cancer-and-cancer-screening",
+      "title": "Breast cancer, triple-negative disease and screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/breast-cancer-and-cancer-screening/",
+      "record": {
+        "id": "jack-2012",
+        "population": "Breast cancer cases among White, Black Caribbean and Black African women in South East England, 1998-2003",
+        "n": "not stated in the abstract",
+        "design": "Registry analysis of age-specific incidence rates",
+        "finding": "Black women had lower age-standardised incidence than White women. Under age 50 rates were similar across groups, and over 50 White women had higher rates. The younger age of Black patients reflects the younger age of the Black population, not a higher risk at younger ages.",
+        "line_tier": "B",
+        "note": "A direct counter to the \"younger onset\" reading of Bowen 2008.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

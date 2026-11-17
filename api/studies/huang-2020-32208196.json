@@ -1,0 +1,30 @@
+{
+  "pmid": "32208196",
+  "slug": "huang-2020-32208196",
+  "citation": {
+    "authors": "Huang et al",
+    "year": 2020,
+    "journal": "Journal of Surgical Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32208196/",
+  "page": "https://vilivity.com/studies/huang-2020-32208196/",
+  "cited_by": [
+    {
+      "entry": "skin-cancer-and-moles-on-dark-skin",
+      "title": "Skin cancer and moles on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-cancer-and-moles-on-dark-skin/",
+      "record": {
+        "id": "huang-2020",
+        "population": "Black and non-Hispanic White patients with melanoma, SEER 2006-2015",
+        "n": "not stated here",
+        "design": "Registry cohort",
+        "finding": "Five-year melanoma-specific survival was 66.9% in Black patients against 84.3% in non-Hispanic White patients; Black patients had thicker, more ulcerated tumours and acral melanoma was 32.6% of Black cases.",
+        "line_tier": "B",
+        "note": "From the research file; author list not re-checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "37212612",
+  "slug": "gaines-2023-37212612",
+  "citation": {
+    "authors": "Gaines et al",
+    "year": 2023,
+    "journal": "Accounts of Chemical Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37212612/",
+  "page": "https://vilivity.com/studies/gaines-2023-37212612/",
+  "cited_by": [
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "gaines-2023",
+        "population": "Review of hair classification, including the Walker system",
+        "n": "not stated",
+        "design": "Review",
+        "finding": "The Walker 1 to 4C system is described as the existing gold standard in practice but \"relies upon qualitative classification measures, making the system vague and ambiguous\".",
+        "line_tier": "C",
+        "note": "From the 12 Nov baseline file; origin story of the system unverified.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

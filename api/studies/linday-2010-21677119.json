@@ -1,0 +1,30 @@
+{
+  "pmid": "21677119",
+  "slug": "linday-2010-21677119",
+  "citation": {
+    "authors": "Linday LA",
+    "year": 2010,
+    "journal": "Journal of the American College of Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21677119/",
+  "page": "https://vilivity.com/studies/linday-2010-21677119/",
+  "cited_by": [
+    {
+      "entry": "cod-liver-oil",
+      "title": "Cod liver oil: vitamin D, vitamin A and colds",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/cod-liver-oil/",
+      "record": {
+        "id": "linday-2010",
+        "population": "Young children (US, low-income; details not given in the abstract)",
+        "n": "not stated",
+        "design": "Commentary summarising the author's own cluster-randomised study of cod liver oil plus a multivitamin",
+        "finding": "The author reports that these supplements cut winter and spring visits for upper respiratory illness by 36% to 58%. The paper notes cod liver oil is culturally valued and has been a folk remedy among many low-income minorities in the United States.",
+        "line_tier": "B",
+        "note": "Author's own work, with a multivitamin as well; details of the original study not in the abstract; advocacy for Medicaid coverage. Conflicts with the Norwegian trial.",
+        "tag": "[commentary]"
+      }
+    }
+  ]
+}

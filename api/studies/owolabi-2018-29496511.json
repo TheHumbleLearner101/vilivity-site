@@ -1,0 +1,30 @@
+{
+  "pmid": "29496511",
+  "slug": "owolabi-2018-29496511",
+  "citation": {
+    "authors": "Owolabi MO, Sarfo F, Akinyemi R, Gebregziabher M et al",
+    "year": 2018,
+    "journal": "Lancet Global Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29496511/",
+  "page": "https://vilivity.com/studies/owolabi-2018-29496511/",
+  "cited_by": [
+    {
+      "entry": "stroke-signs-and-risk",
+      "title": "Stroke: signs to act on and what raises the risk",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/stroke-signs-and-risk/",
+      "record": {
+        "id": "owolabi-2018",
+        "population": "2,118 adults with stroke confirmed by CT or MRI and 2,118 age- and gender-matched stroke-free controls at 15 sites in Nigeria and Ghana, 2014 to 2017",
+        "n": 4236,
+        "design": "Multicentre case-control study (SIREN)",
+        "finding": "Eleven modifiable risk factors accounted for 98.2% of stroke risk. Hypertension had odds ratio 19.36 (95% CI 12.11 to 30.93) and a population-attributable risk of 90.8%. Dyslipidaemia (1.85), regular meat consumption (1.59), a raised waist-to-hip ratio (1.48), diabetes (2.58), low green leafy vegetable intake (2.43), stress (1.89), added salt at the table (2.14), cardiac disease (1.65), physical inactivity (2.13) and current smoking (4.42) followed. Of the cases, 68% had ischaemic and 32% haemorrhagic stroke.",
+        "line_tier": "B",
+        "note": "West African adults; case-control, so recall and survivor bias are possible; abstract read in full.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

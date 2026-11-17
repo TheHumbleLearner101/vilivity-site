@@ -1,0 +1,30 @@
+{
+  "pmid": "36624160",
+  "slug": "fincham-2023-36624160",
+  "citation": {
+    "authors": "Fincham GW, Strauss C, Montero-Marin J, Cavanagh K",
+    "year": 2023,
+    "journal": "Scientific Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36624160/",
+  "page": "https://vilivity.com/studies/fincham-2023-36624160/",
+  "cited_by": [
+    {
+      "entry": "breathwork",
+      "title": "Breathwork and slow breathing",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/breathwork/",
+      "record": {
+        "id": "fincham-2023",
+        "population": "785 adults in 12 randomised trials (various countries; ethnicity not given in the abstract)",
+        "n": 785,
+        "design": "Meta-analysis of randomised controlled trials of breathwork against non-breathwork controls, subjective stress",
+        "finding": "Breathwork was associated with lower stress than control conditions (effect size g = -0.35, 95% CI -0.55 to -0.14). For anxiety (20 trials) g was -0.32 and for depressive symptoms (18 trials) -0.40. The authors urge caution to avoid a miscalibration between hype and evidence.",
+        "line_tier": "B",
+        "note": "tier_variant trial-other-population. Small-to-medium effect; most studies at moderate risk of bias.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

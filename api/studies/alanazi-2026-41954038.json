@@ -1,0 +1,30 @@
+{
+  "pmid": "41954038",
+  "slug": "alanazi-2026-41954038",
+  "citation": {
+    "authors": "Alanazi et al",
+    "year": 2026,
+    "journal": "Journal of Cosmetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41954038/",
+  "page": "https://vilivity.com/studies/alanazi-2026-41954038/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "alanazi-2026",
+        "population": "967 adults with alopecia or hair thinning, 14 studies",
+        "n": 967,
+        "design": "Systematic review and meta-analysis of commercial oral supplements",
+        "finding": "Branded supplements (such as Nutrafol and Viviscal) improved anagen hair density against placebo, but total hair count showed no significant difference (p=0.06). The authors say more rigorous, independent research is needed.",
+        "line_tier": "B",
+        "note": "Branded products; participants not selected for afro hair; independence of trials not checked.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

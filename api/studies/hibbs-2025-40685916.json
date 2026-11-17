@@ -1,0 +1,30 @@
+{
+  "pmid": "40685916",
+  "slug": "hibbs-2025-40685916",
+  "citation": {
+    "authors": "Hibbs SP, Jones J, Hantel A, Merz LE",
+    "year": 2025,
+    "journal": "British Journal of Haematology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40685916/",
+  "page": "https://vilivity.com/studies/hibbs-2025-40685916/",
+  "cited_by": [
+    {
+      "entry": "low-white-cell-count-duffy-null",
+      "title": "A low white cell count that may be Duffy-null (neutrophil count)",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/low-white-cell-count-duffy-null/",
+      "record": {
+        "id": "hibbs-2025",
+        "population": "Narrative review",
+        "n": "not stated",
+        "design": "Review of Duffy antigen testing, epidemiology, neutrophil counts and clinical consequences",
+        "finding": "The Duffy null variant is a non-pathological mutation that is partly protective against Plasmodium vivax and gives a lower neutrophil count without increasing infection risk. In many regions neutropenia has been defined by the counts of Duffy-positive people, which may be unsuitable for decisions in Duffy-null people.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

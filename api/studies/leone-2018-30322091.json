@@ -1,0 +1,30 @@
+{
+  "pmid": "30322091",
+  "slug": "leone-2018-30322091",
+  "citation": {
+    "authors": "Leone A, Bertoli S, Di Lello S, Bassoli A et al",
+    "year": 2018,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30322091/",
+  "page": "https://vilivity.com/studies/leone-2018-30322091/",
+  "cited_by": [
+    {
+      "entry": "moringa-leaf-and-blood-sugar",
+      "title": "Moringa: blood sugar, blood pressure and general health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/moringa-leaf-and-blood-sugar/",
+      "record": {
+        "id": "leone-2018",
+        "population": "Saharawi people living in refugee camps (diabetic and healthy volunteers; numbers not in my copy of the abstract)",
+        "n": "not shown in the abstract copy read",
+        "design": "Randomised crossover test meal with and without 20 g moringa leaf powder, glucose measured for 3 hours",
+        "finding": "In the diabetic volunteers the glucose rise peaked earlier and was lower at 90, 120 and 150 minutes with moringa, and the mean meal response was lower. Healthy volunteers showed no difference. The authors say the 20 g dose tasted poor and lower doses should be tested, and that trials of longer-term effects are needed.",
+        "line_tier": "B",
+        "note": "A single test meal, not a treatment trial. Saharawi people are from North-West Africa; I did not treat them as a match for the question, so the line stays B.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "30028039",
+  "slug": "young-2019-30028039",
+  "citation": {
+    "authors": "Young MM, Franken A, du Plessis JL",
+    "year": 2019,
+    "journal": "Skin Research and Technology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30028039/",
+  "page": "https://vilivity.com/studies/young-2019-30028039/",
+  "cited_by": [
+    {
+      "entry": "moisturising-and-ashy-skin",
+      "title": "Moisturising and 'ashy' skin",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/moisturising-and-ashy-skin/",
+      "record": {
+        "id": "young-2019",
+        "population": "19 African and 31 Caucasian female South African nursing students",
+        "n": 50,
+        "design": "Measurement of water loss, stratum corneum hydration and skin surface pH",
+        "finding": "No difference in water loss between groups. Stratum corneum hydration was lower (P<=0.05) and surface pH higher (P<=0.0001) in the African students. The authors suggest a higher risk of occupational skin disease.",
+        "line_tier": "B",
+        "note": "The abstract says conflicting evidence exists on barrier function between groups; this is one small study.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

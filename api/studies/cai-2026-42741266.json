@@ -1,0 +1,30 @@
+{
+  "pmid": "42741266",
+  "slug": "cai-2026-42741266",
+  "citation": {
+    "authors": "Cai X, Canaday F, Gao S, Merrell E et al",
+    "year": 2026,
+    "journal": "ERJ Open Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42741266/",
+  "page": "https://vilivity.com/studies/cai-2026-42741266/",
+  "cited_by": [
+    {
+      "entry": "lung-function-tests-and-race-correction-in-spirometry",
+      "title": "Lung function tests and race correction in spirometry",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lung-function-tests-and-race-correction-in-spirometry/",
+      "record": {
+        "id": "cai-2026",
+        "population": "6,107 spirometry tests in a 2010 to 2020 retrospective cohort, self-identified Black and White patients",
+        "n": 6107,
+        "design": "Retrospective cohort comparing race-specific and GLI-Global interpretation with one-year outcomes",
+        "finding": "Switching to the race-neutral approach reclassified 530 results (9%) for FEV1 and 595 (10%) for FVC. Black patients reclassified as abnormal had higher healthcare use and worse outcomes, including hospitalisation, than those consistently normal; White patients reclassified as normal also had worse outcomes, including higher mortality. The authors say clinical judgment is needed for results near the cut-off.",
+        "line_tier": "B",
+        "note": "Single health system, US; the abstract text was cut off before the final limits sentence.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

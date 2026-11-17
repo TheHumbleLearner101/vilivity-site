@@ -1,0 +1,30 @@
+{
+  "pmid": "30096883",
+  "slug": "juhl-2018-30096883",
+  "citation": {
+    "authors": "Juhl CR, Bergholdt HKM, Miller IM, Jemec GBE et al",
+    "year": 2018,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30096883/",
+  "page": "https://vilivity.com/studies/juhl-2018-30096883/",
+  "cited_by": [
+    {
+      "entry": "diet-and-acne-on-dark-skin",
+      "title": "Does diet cause acne? Sugar, dairy and foods linked to spots",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/diet-and-acne-on-dark-skin/",
+      "record": {
+        "id": "juhl-2018",
+        "population": "78,529 children, adolescents and young adults aged 7 to 30 in 14 observational studies",
+        "n": "14 studies (78,529 people)",
+        "design": "Meta-analysis of dairy intake and acne",
+        "finding": "Any dairy, milk, yogurt and cheese were each associated with higher odds of acne (for example any dairy OR 1.25, 95% CI 1.15 to 1.36). Adjusted results were smaller, there was publication bias and heterogeneity, and the authors say results should be read with caution.",
+        "line_tier": "B",
+        "note": "Observational; some authors disclose pharmaceutical honoraria in the abstract record.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

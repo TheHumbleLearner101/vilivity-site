@@ -1,0 +1,30 @@
+{
+  "pmid": "33355689",
+  "slug": "evang-2021-33355689",
+  "citation": {
+    "authors": "Evang EC, Habte TY, Owino WO, Krawinkel MB",
+    "year": 2021,
+    "journal": "European Journal of Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33355689/",
+  "page": "https://vilivity.com/studies/evang-2021-33355689/",
+  "cited_by": [
+    {
+      "entry": "baobab-fruit",
+      "title": "Baobab fruit: blood sugar, iron and vitamin C",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/baobab-fruit/",
+      "record": {
+        "id": "evang-2021",
+        "population": "58 Kenyan schoolchildren aged 6 to 12 with haemoglobin below 12.2 g/dl",
+        "n": "58 (29 per group)",
+        "design": "Single-blind randomised trial: a drink with baobab fruit pulp or an equal-energy drink daily for 12 weeks",
+        "finding": "Haemoglobin, ferritin and soluble transferrin receptor did not differ significantly between the groups. Haemoglobin rose 2.2% with baobab and fell 1.2% in the control group, a difference the authors did not find significant.",
+        "line_tier": "A",
+        "note": "Small, in children, for iron status; the authors suggest the pulp's vitamin C could still help iron absorption.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

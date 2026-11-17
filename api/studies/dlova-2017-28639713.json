@@ -1,0 +1,30 @@
+{
+  "pmid": "28639713",
+  "slug": "dlova-2017-28639713",
+  "citation": {
+    "authors": "Dlova NC, Mosam A",
+    "year": 2017,
+    "journal": "Clinical and Experimental Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28639713/",
+  "page": "https://vilivity.com/studies/dlova-2017-28639713/",
+  "cited_by": [
+    {
+      "entry": "conditions-look-different-on-dark-skin",
+      "title": "How skin conditions look on dark skin (redness, rashes, rosacea, sunburn)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/conditions-look-different-on-dark-skin/",
+      "record": {
+        "id": "dlova-2017",
+        "population": "15 Black South Africans (phototypes V and VI) diagnosed with rosacea among 6,700 patients over 8 years",
+        "n": 15,
+        "design": "Retrospective chart review",
+        "finding": "Rosacea was rare in this clinic (0.2% of patients). Those with phototype VI mostly had skin-coloured papules; those with phototype V had erythema, telangiectasia and red papules; 10 of 15 (67%) had granulomatous rosacea on histology and 5 (33%) declined a facial biopsy. 5 (33%) were HIV positive and 5 (33%) had used topical steroids, so the group is not a clean picture of rosacea alone. The authors say a high index of suspicion is needed because classic erythema and telangiectasia are hard to discern.",
+        "line_tier": "B",
+        "note": "Small case series; one clinic; 5 of 15 were HIV positive and 5 had used topical steroids.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

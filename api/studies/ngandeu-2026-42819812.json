@@ -1,0 +1,30 @@
+{
+  "pmid": "42819812",
+  "slug": "ngandeu-2026-42819812",
+  "citation": {
+    "authors": "Ngandeu Schepanski S, Batta F, Schroter M, Ngoumou GB et al",
+    "year": 2026,
+    "journal": "Frontiers in Physiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42819812/",
+  "page": "https://vilivity.com/studies/ngandeu-2026-42819812/",
+  "cited_by": [
+    {
+      "entry": "ice-baths-and-cold-exposure",
+      "title": "Ice baths and cold exposure",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/ice-baths-and-cold-exposure/",
+      "record": {
+        "id": "ngandeu-2026",
+        "population": "13 studies, 4,105 adults (cold showers, immersion, winter swimming)",
+        "n": 4105,
+        "design": "Systematic review and meta-analysis of randomised, non-randomised and single-group studies of psychological outcomes",
+        "finding": "Pooled estimates generally favoured cold exposure for depressive symptoms, perceived stress, wellbeing and mood, but confidence intervals were wide, several estimates shrank in controlled-only analyses, and most studies had serious or critical risk of bias. The authors state the evidence does not establish that cold-water exposure improves mood or stress and that it should not be regarded as a standalone psychological treatment. Anxiety showed little consistent benefit.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

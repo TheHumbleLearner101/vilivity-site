@@ -1,0 +1,30 @@
+{
+  "pmid": "38211547",
+  "slug": "barwood-2024-38211547",
+  "citation": {
+    "authors": "Barwood MJ, Eglin C, Hills SP, Johnston N et al",
+    "year": 2024,
+    "journal": "Journal of Thermal Biology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38211547/",
+  "page": "https://vilivity.com/studies/barwood-2024-38211547/",
+  "cited_by": [
+    {
+      "entry": "ice-baths-and-cold-exposure",
+      "title": "Ice baths and cold exposure",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/ice-baths-and-cold-exposure/",
+      "record": {
+        "id": "barwood-2024",
+        "population": "17 groups, 145 participants in cold-shock response analyses",
+        "n": 145,
+        "design": "Systematic review and meta-analysis of the cold shock response",
+        "finding": "Cold-water immersion triggers a reflex cold shock response with hyperventilation, increased cardiac arrhythmias and increased drowning risk. Repeated immersions reduced these responses after about four immersions.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

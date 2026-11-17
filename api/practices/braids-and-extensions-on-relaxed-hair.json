@@ -1,0 +1,75 @@
+{
+  "slug": "braids-and-extensions-on-relaxed-hair",
+  "name": "Tight braids, weaves and extensions on relaxed hair",
+  "regions": [
+    "West Africa",
+    "East and Southern Africa",
+    "African American",
+    "Black British"
+  ],
+  "module": "hair",
+  "what_people_do": "Put in tight cornrows, braids or extensions as a protective, low-maintenance style for weeks at a time.",
+  "why_they_say_it_works": "Protects the ends, saves daily styling and keeps hair \"tucked away\".",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Hairdressing and scalp disease in African adults (Cape Town, n=874), 2007, Br J Dermatol, PMID 17725667",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17725667/",
+      "quote_or_summary": "Cape Town adults, 874: women's traction alopecia was 31.7% and was 48% when the usual style was extensions attached to relaxed hair."
+    },
+    {
+      "source": "Hairdressing and scalp disease in African schoolchildren (n=1042), 2007, Br J Dermatol, PMID 17553035",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17553035/",
+      "quote_or_summary": "Cape Town schoolchildren: traction alopecia 9.4% overall, 17.1% in girls, higher with relaxed than natural hair."
+    },
+    {
+      "source": "Hair grooming practices of women of African descent in London, 2016, J Eur Acad Dermatol Venereol, PMID 27038251",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27038251/",
+      "quote_or_summary": "London: hair was washed on average every 17.9 days, rising to 32.8 days when braided or in a weave; only 46.3% avoided braiding relaxed hair."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Traction alopecia risk",
+      "population": "1,178 girls and women",
+      "finding": "Highest risk when traction added to relaxed hair (OR 3.47); only 18.9% of women with TA had never noticed hairdressing symptoms.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Determinants of marginal traction alopecia in African girls and women, 2008, J Am Acad Dermatol, PMID 18694677",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      }
+    },
+    {
+      "tested": "Risk grading of styles",
+      "population": "Review",
+      "finding": "High-, moderate- and low-risk styles; limited literature.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Haskin A, Aguh C 2016, J Am Acad Dermatol, PMID 27114262",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27114262/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "Traction alopecia can become permanent scarring hair loss; tightness and hairline pain are the early signs.",
+  "links_to_entries": [
+    "traction-alopecia-and-protective-styles",
+    "braids-twists-and-extensions",
+    "children-and-babies-hair"
+  ],
+  "gaps": [
+    "Cross-sectional, no trial of loosening styles."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/braids-and-extensions-on-relaxed-hair/"
+}

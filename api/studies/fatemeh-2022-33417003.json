@@ -1,0 +1,30 @@
+{
+  "pmid": "33417003",
+  "slug": "fatemeh-2022-33417003",
+  "citation": {
+    "authors": "Fatemeh G, Sajjad M, Niloufar R, Neda S",
+    "year": 2022,
+    "journal": "Journal of Neurology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33417003/",
+  "page": "https://vilivity.com/studies/fatemeh-2022-33417003/",
+  "cited_by": [
+    {
+      "entry": "melatonin-for-sleep",
+      "title": "Melatonin for sleep: what it does, dose and rules by country",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/melatonin-for-sleep/",
+      "record": {
+        "id": "fatemeh-2022",
+        "population": "Adults with various conditions in 23 randomised trials",
+        "n": "not stated in the abstract",
+        "design": "Systematic review and meta-analysis of melatonin and sleep quality on the Pittsburgh Sleep Quality Index",
+        "finding": "Melatonin improved Pittsburgh Sleep Quality Index scores by 1.24 points (95% CI 0.71 to 1.77), with large differences between studies (I2 80.7 per cent). Gains were larger in people with respiratory diseases and metabolic disorders than in people with sleep disorders (0.67 points).",
+        "line_tier": "B",
+        "note": "Disagrees in tone with Choi 2022. Self-rated sleep quality in mixed groups.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

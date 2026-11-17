@@ -1,0 +1,46 @@
+{
+  "slug": "postpartum-abdominal-binding",
+  "name": "Tying cloth tightly around the abdomen after birth",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Tie a wrapper or cloth tight across the belly after delivery, for days or weeks.",
+  "why_they_say_it_works": "To \"close\" the body, flatten the stomach and support the womb.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Udigwe GO, Emelumadu OF, Udigwe IB 2013, West Afr J Med, PMID 24488282",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24488282/",
+      "quote_or_summary": "Nnewi, 330 mothers: 66.1% tied cloth across the abdomen after delivery."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Abdominal binder after caesarean delivery",
+      "population": "Meta-analysis of 4 RCTs, 601 women (not vaginal births, not Black women specifically)",
+      "finding": "No difference in pain score at 24 or 48 hours; significantly less post-operative distress.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Abdominal binders after caesarean, meta-analysis of 4 RCTs, 2021, PMID 33993065",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33993065/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "harm_flag": "possible",
+  "harm_note": "Evidence is for caesarean recovery only. Very tight binding after vaginal birth has no source I opened for or against.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "No trial of binding after vaginal birth read.",
+    "Diastasis recti rehabilitation systematic review (PMID 41224804) seen as a title only."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/postpartum-abdominal-binding/"
+}

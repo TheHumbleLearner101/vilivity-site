@@ -1,0 +1,277 @@
+{
+  "slug": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+  "title": "Fasting in Ramadan with diabetes or sickle cell",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Can I fast in Ramadan with type 2 diabetes?",
+    "Is fasting safe with sickle cell disease or trait?",
+    "What do I do about my medicines in Ramadan?",
+    "Does religious fasting help blood sugar?"
+  ],
+  "tradition_says": "Fasting in Ramadan is a religious duty and a spiritual discipline, and many Muslims with diabetes or sickle cell still choose to fast, often without telling their doctors. Other fasts, such as the Ethiopian Orthodox fasts, are also observed.",
+  "layer1": {
+    "plain_answer": "With diabetes, fasting in Ramadan can cause low blood sugar and dehydration, and the evidence on sickle cell disease is small and mixed. None of the studies was of Black Muslims as a group. Diabetes UK says do not fast if your diabetes is poorly controlled. Agree a plan with your diabetes or sickle cell team before Ramadan.",
+    "do": [
+      {
+        "text": "Talk to your diabetes team before Ramadan about your medicines and a plan: they may change the type, dose or timing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Test your blood sugar more often during the fast, and break the fast if it falls below 4 mmol/l.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Carry hypo treatment and water with you.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you have sickle cell disease, drink plenty of fluids when you can: not drinking enough is a listed trigger for a crisis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease: living with\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/living-with/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Speak to an Imam about alternatives to fasting if you are advised not to fast for health reasons.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Fasting if your diabetes was not well controlled before Ramadan: Diabetes UK says it would not be a safe option.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Pre-mixed insulin during fasting: it is not recommended.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Changing your diabetes medicines yourself, or fasting when you cannot reach your doctor or diabetes team.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Diabetes UK, \"Ramadan and diabetes\"",
+          "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Before Ramadan, if you take insulin or tablets for diabetes (doctor or diabetes team, with time to adjust).",
+      "Before Ramadan, if you have sickle cell disease, or sickle cell trait and are not sure how to fast safely (haematology team or doctor).",
+      "During the fast: blood sugar below 4 mmol/l, or above your team's limit (break the fast, then get advice).",
+      "Severe pain, trouble breathing, being sick, or a high temperature with sickle cell disease (999 in the UK, or your local emergency number)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "5,554 adults with type 2 diabetes in 12 observational studies from Middle Eastern and Asian countries",
+      "design": "Systematic review and meta-analysis of before-and-after studies of Ramadan fasting",
+      "n": "12 studies (5,554 people)",
+      "finding": "HbA1c and fasting blood glucose were significantly lower after Ramadan than before it (heterogeneity high, about 93% and 81%); body weight did not change. The authors call the outcomes favourable and say effects of diet, activity and sleep need study. No study looked only at young adults.",
+      "source": {
+        "authors": "Elmajnoun HK, Faris ME, Abdelrahim DN, Haris PI et al",
+        "year": 2023,
+        "journal": "Diabetes Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36725794/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "No control group of non-fasters; people who choose to fast may be healthier. The studies were not in Black populations.",
+      "id": "elmajnoun-2023"
+    },
+    {
+      "population": "5,359 Muslims with type 2 diabetes fasting in Ramadan, in 17 randomised trials of drugs or education",
+      "design": "Cochrane systematic review of randomised trials, GRADE",
+      "n": "17 trials (5,359 people)",
+      "finding": "Every trial had at least one high-risk domain for bias. Dipeptidyl-peptidase-4 inhibitors may cause less hypoglycaemia than sulphonylureas (low-certainty evidence). The evidence on serious hypoglycaemia, other harms and HbA1c was very uncertain, and no deaths were reported. Trials compared medicines; none tested whether fasting itself is safe.",
+      "source": {
+        "authors": "Lee SWH, Chen WS, Sellappans R, Md Sharif SB et al",
+        "year": 2023,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37435938/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "My copy of the abstract is cut before the education and insulin results and does not list the countries; strength is therefore taken at the lower reading.",
+      "id": "lee-2023"
+    },
+    {
+      "population": "52 adult Muslims with sickle cell disease in Qatar (about 70% Arab, the rest African or Asian; 90% HbSS) who fasted in Ramadan 2019 to 2021",
+      "design": "Retrospective record review comparing one month before, during and after Ramadan",
+      "n": "52",
+      "finding": "The numbers of severe vaso-occlusive crises and haemolytic crises did not differ significantly before, during or after Ramadan. Platelet count, reticulocyte count and creatinine did differ. The authors call it preliminary and say larger studies are needed.",
+      "source": {
+        "authors": "Ahmed K, Abdu Y, Khasawneh S, Shukri A et al",
+        "year": 2023,
+        "journal": "Frontiers in Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36895718/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, retrospective, patients who chose to fast; mostly Arab, so a mixed match for Black Muslims.",
+      "id": "ahmed-2023"
+    },
+    {
+      "population": "320 adult Muslims with sickle cell disease in Saudi Arabia (67% fasted)",
+      "design": "Cross-sectional interview study",
+      "n": "320",
+      "finding": "A history of crises, emergency visits, acute chest syndrome or intensive care admission made fasting the whole month less likely. People with more than four episodes or more than four emergency visits in a year had higher odds of complications in the 30 days after Ramadan. The authors say effects are subtle during the month and larger afterwards.",
+      "source": {
+        "authors": "Alsalman MH, Alsalman Z, Alshams MM, Aljasem JM et al",
+        "year": 2025,
+        "journal": "Frontiers in Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40510850/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Self-reported by interview; association only; not a Black population.",
+      "id": "alsalman-2025"
+    },
+    {
+      "population": "20 African male students in Senegal: 10 with sickle cell trait and 10 with normal haemoglobin",
+      "design": "Measurements on day 14 of Ramadan and 6 weeks after",
+      "n": "20",
+      "finding": "Blood viscosity rose markedly in the evening in the people with sickle cell trait during Ramadan, and not in the normal-haemoglobin group, which the authors say indicates higher risk of impaired blood flow in small vessels. Plasma glucose was lower in both groups during Ramadan. They call for specific medical recommendations for trait carriers who fast.",
+      "source": {
+        "authors": "Diaw M, Connes P, Samb A, Sow AK et al",
+        "year": 2013,
+        "journal": "Chronobiology International",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23915011/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Ten people with trait; a measurement of blood thickness, not of illness.",
+      "id": "diaw-2013"
+    },
+    {
+      "population": "68 Ethiopian Orthodox Christians with type 2 diabetes, fasting the Assumption Fast in Addis Ababa",
+      "design": "Prospective observational before-and-after study",
+      "n": "68",
+      "finding": "Mean fasting blood glucose fell by 19.56 mg/dL and systolic and diastolic blood pressure by about 9 mmHg; the share in the glucose target range rose from 67.6% to 91.2%. The authors say larger trials with follow-up are needed.",
+      "source": {
+        "authors": "Gichamo FG, Mulisa MD, Regasa ND, Dadi MA et al",
+        "year": 2026,
+        "journal": "BMC Endocrine Disorders",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41618296/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A different fast (Orthodox Christian, no animal products), in a Black population; no control group; included to show what has been measured, not as evidence about Ramadan.",
+      "id": "gichamo-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That fasting can be done safely with diabetes if it is planned with a team: a Cochrane review of 17 drug trials (all at risk of bias) and a meta-analysis of before-and-after studies, none in Black populations; evidence on sickle cell is two small studies.",
+  "tier_note": "Thin because the Cochrane review found high risk of bias in every trial and no trial tested fasting itself, the pooled studies had no control group, and the sickle cell studies were 52 and 320 people. Marked B because the trials were in other populations; it would move toward A with a trial or cohort of Black Muslims with diabetes or sickle cell.",
+  "harm_flag": true,
+  "harm_note": "Diabetes UK warns that fasting raises the risk of hypoglycaemia (more so on insulin or sulphonylureas) and high sugar leading to dehydration and ketoacidosis. In sickle cell disease, a Saudi study found more complications in the 30 days after Ramadan in people with frequent episodes, and a Senegal study found evening blood thickening in sickle cell trait. A Qatar record review found no difference in crisis numbers. NHS lists dehydration as a crisis trigger.",
+  "founder_flag": false,
+  "evidence_summary": "Pooled before-and-after studies in 12 mostly Middle Eastern and Asian studies found lower HbA1c and fasting glucose after Ramadan, while the Cochrane review of 17 randomised trials of medicines (all at risk of bias) found that one drug class may cause less hypoglycaemia than sulphonylureas. For sickle cell disease, 52 patients in Qatar showed no change in crisis numbers, while 320 patients in Saudi Arabia showed more complications afterwards in those with frequent episodes. In 10 Senegalese people with sickle cell trait, evening blood viscosity rose during Ramadan. Diabetes UK gives the practical advice.",
+  "measured_variables": [
+    "HbA1c, fasting glucose, hypoglycaemia",
+    "Crises, acute chest syndrome, emergency visits, blood viscosity",
+    "Sickle cell genotype (HbSS, HbAS)",
+    "Ancestry mostly not reported; none of the Ramadan studies was selected as Black Muslims"
+  ],
+  "gaps": "Untested: Ramadan fasting outcomes in Black Muslims (Somali, West African, Caribbean or Black British) with diabetes or sickle cell; fasting and sickle cell trait beyond one 20-person study; Ramadan and kidney disease or hypertension in this group. Not opened: the full Cochrane results on insulin and education, a Ramadan-focused education meta-analysis (PMID 32194217) and the IDF-DAR guidelines; the Sickle Cell Society and NHS pages on fasting were not found (the NHS living-with page does not mention fasting). My PubMed searches for Ramadan with African countries returned unrelated records, so my search found no Ramadan study in a named Black population.",
+  "related": [
+    "type-2-diabetes-risk",
+    "sickle-cell-disease-trait-and-pregnancy",
+    "sickle-cell-trait-and-hard-exercise",
+    "heat-and-hydration"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Elmajnoun HK, Faris ME, Abdelrahim DN, Haris PI et al",
+      "year": 2023,
+      "journal": "Diabetes Therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36725794/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Lee SWH, Chen WS, Sellappans R, Md Sharif SB et al",
+      "year": 2023,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37435938/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Ahmed K, Abdu Y, Khasawneh S, Shukri A et al",
+      "year": 2023,
+      "journal": "Frontiers in Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36895718/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Alsalman MH, Alsalman Z, Alshams MM, Aljasem JM et al",
+      "year": 2025,
+      "journal": "Frontiers in Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40510850/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Diaw M, Connes P, Samb A, Sow AK et al",
+      "year": 2013,
+      "journal": "Chronobiology International",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23915011/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Gichamo FG, Mulisa MD, Regasa ND, Dadi MA et al",
+      "year": 2026,
+      "journal": "BMC Endocrine Disorders",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41618296/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "Diabetes UK, \"Ramadan and diabetes\"",
+      "url": "https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/ramadan",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Sickle cell disease: living with\"",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/living-with/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

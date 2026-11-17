@@ -1,0 +1,30 @@
+{
+  "pmid": "40324552",
+  "slug": "myung-2025-40324552",
+  "citation": {
+    "authors": "Myung SK, Park Y",
+    "year": 2025,
+    "journal": "American Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40324552/",
+  "page": "https://vilivity.com/studies/myung-2025-40324552/",
+  "cited_by": [
+    {
+      "entry": "collagen-supplements",
+      "title": "Collagen supplements for skin and joints",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/collagen-supplements/",
+      "record": {
+        "id": "myung-2025",
+        "population": "Adults in 23 randomised trials of collagen supplements for skin ageing",
+        "n": 1474,
+        "design": "Systematic review and meta-analysis split by funding source and study quality",
+        "finding": "Across all trials, collagen improved hydration, elasticity and wrinkles. Trials not funded by pharmaceutical companies found no effect, as did high-quality trials, while industry-funded and low-quality trials found benefit. The authors conclude there is currently no clinical evidence to support collagen supplements to prevent or treat skin ageing.",
+        "line_tier": "B",
+        "note": "The most careful reading of the evidence found. Skin type not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "mens-hair-loss-and-hair-transplants",
+  "title": "Receding hairline and hair transplants in Black men",
+  "category": "hair",
+  "kind": "condition",
+  "question_forms": [
+    "Why is my hairline receding, and what works for Black men?"
+  ],
+  "tradition_says": "A receding hairline in Black men is blamed on tight styles, hats or hair products, and transplants are thought not to work on tightly curled hair.",
+  "layer1": {
+    "plain_answer": "Receding hairlines have several causes: inherited pattern baldness, pulling from tight styles, or scarring conditions such as CCCA, which men can get. Minoxidil and finasteride are the standard treatments but I found no trial in Black men. Transplants can be done on curly hair but need a specialist and are private in the UK.",
+    "do": [
+      {
+        "text": "See a doctor if your hairline is receding; diagnosis is by pattern, history and family history.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Male pattern hair loss\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/male-pattern-hair-loss/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use minoxidil 5% if you choose treatment; it takes 6 to 12 months and works only while you use it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Male pattern hair loss\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/male-pattern-hair-loss/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know finasteride can take up to 14 months and about 2% report libido or erection problems.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Male pattern hair loss\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/male-pattern-hair-loss/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you have a tight style, wig or head wrap, loosen it: tight hairstyles are the commonest cause of traction alopecia.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a specialist experienced in curly hair if you consider a transplant.",
+        "basis": "tested",
+        "source": "rogers-2014"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Ignoring itch, tenderness or a shiny scalp: it may be a scarring condition.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming a genetic baldness test from European studies applies to you: it predicted baldness poorly in African men.",
+        "basis": "tested",
+        "source": "janivara-2025"
+      },
+      {
+        "text": "Expecting regrowth after stopping treatment: hair loss resumes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Male pattern hair loss\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/male-pattern-hair-loss/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hairline or crown thinning (doctor).",
+      "Itch, burning, tenderness or a shiny scalp with the loss (dermatologist; CCCA is reported in men).",
+      "Bumps or pus at the hairline or nape (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "2,136 men from Ghana, Nigeria, Senegal and South Africa",
+      "design": "Genotyping and genome-wide association for self-reported baldness at age 45",
+      "n": 2136,
+      "finding": "Polygenic scores from European studies predicted baldness poorly in these men (AUC 0.513 to 0.546); 51 independent associations were found.",
+      "source": {
+        "authors": "Janivara R, Hazra et al",
+        "year": 2025,
+        "journal": "HGG Advances",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40134218/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Genetic prediction, not a treatment study.",
+      "id": "janivara-2025"
+    },
+    {
+      "population": "Review of hair restoration surgery in curly Afrocentric hair",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Hair structure differs between groups, and curly hair poses specific challenges and special considerations when surgery is considered, including curvature, grooming techniques, instruments and complications. The abstract gives no success rates.",
+      "source": {
+        "authors": "Rogers N, Callender V",
+        "year": 2014,
+        "journal": "Dermatologic Clinics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24680003/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only.",
+      "id": "rogers-2014"
+    },
+    {
+      "population": "17 men with biopsy-confirmed CCCA, one US academic centre, 2012 to 2022",
+      "design": "Case series",
+      "n": 17,
+      "finding": "Average age 43; 88.2% identified as Black. Scalp itch was the commonest symptom; few reported high-risk hair practices; none had type 2 diabetes. The authors say CCCA should be considered in adult Black men with hair loss.",
+      "source": {
+        "authors": "Jackson et al",
+        "year": 2023,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37495175/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single-centre, retrospective, small.",
+      "id": "jackson-2023"
+    },
+    {
+      "population": "Minoxidil, finasteride and transplants in Black men",
+      "design": "PubMed search run 12 Nov 2026, exact string: (finasteride OR minoxidil OR \"hair transplant\") AND (African American men OR Black men OR \"men of African descent\" OR \"Afro-textured\") (result count 21).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 21 results: I read all 21 titles: most are prostate cancer or other papers; the on-topic ones are a baseline trichoscopy study in South Africans (PMID 39775520), a follicular unit extraction tool comparison for afro-textured hair (PMID 27757365) and an acne keloidalis nuchae surgery paper (PMID 37621307), none a trial or outcome study of finasteride, minoxidil or transplant in Black men. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no trial or outcome study specific to Black men; one review of restoration in curly Afrocentric hair (Rogers 2014) gives no success rates in its abstract.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28finasteride+OR+minoxidil+OR+%22hair+transplant%22%29+AND+%28African+American+men+OR+Black+men+OR+%22men+of+African+descent%22+OR+%22Afro-textured%22%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "mphl-trials"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a given treatment or transplant works for Black men: no trial or outcome study found.",
+  "tier_note": "D because the claim (treatments and transplants work on Black men) has no study in this group; the guidance is from the BAD leaflet and genetic work shows European predictions generalise poorly. A trial in men of African descent would move it.",
+  "harm_flag": false,
+  "harm_note": "Finasteride side effects (decreased libido or erectile problems, about 2%, per the BAD leaflet) are stated as guidance. No harm signal found otherwise.",
+  "founder_flag": false,
+  "evidence_summary": "The BAD leaflet lists minoxidil 5% (not on NHS prescription, benefit after 6 to 12 months, only while used) and finasteride (up to 14 months; about 2% report decreased libido or erectile problems) for male pattern hair loss, and says transplants are private only. In 2,136 men from Ghana, Nigeria, Senegal and South Africa, genetic scores from European studies predicted baldness poorly (AUC 0.513 to 0.546; Janivara 2025). A review of hair restoration in curly Afrocentric hair says curly hair poses specific challenges (Rogers 2014; abstract only, no success rates). A case series of 17 men reports CCCA can occur in Black men (Jackson 2023).",
+  "measured_variables": [
+    "Hair shaft curvature affecting graft handling",
+    "Androgen-related genotype"
+  ],
+  "gaps": "Untested: treatment response and transplant results in Black men; hairline recession by styling alone in men; no source for UK private transplant clinics. 12 Nov: transplants in afro-textured hair now have their own entry (hair-transplants-in-afro-textured-hair): technique case series only, no outcomes.",
+  "related": [
+    "central-centrifugal-cicatricial-alopecia",
+    "edges-and-hairline",
+    "mens-hair-waves-fades-and-durags",
+    "hair-transplants-in-afro-textured-hair"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Janivara R et al",
+      "year": 2025,
+      "journal": "HGG Advances",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40134218/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rogers N et al",
+      "year": 2014,
+      "journal": "Dermatologic Clinics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24680003/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Jackson et al",
+      "year": 2023,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37495175/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Male pattern hair loss\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/male-pattern-hair-loss/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

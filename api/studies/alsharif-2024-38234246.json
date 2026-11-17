@@ -1,0 +1,30 @@
+{
+  "pmid": "38234246",
+  "slug": "alsharif-2024-38234246",
+  "citation": {
+    "authors": "Alsharif SA, Baradwan S, Alshahrani MS, Khadawardi K et al",
+    "year": 2024,
+    "journal": "Nutrition and Cancer"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38234246/",
+  "page": "https://vilivity.com/studies/alsharif-2024-38234246/",
+  "cited_by": [
+    {
+      "entry": "fibroids-and-diet",
+      "title": "Fibroids, food and supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/fibroids-and-diet/",
+      "record": {
+        "id": "alsharif-2024",
+        "population": "511 women with fibroids in 5 randomised trials of oral vitamin D (256 treated, 255 on placebo)",
+        "n": "5 trials (511 people)",
+        "design": "Systematic review and meta-analysis of randomised trials",
+        "finding": "Vitamin D supplementation significantly decreased fibroid size (standardised mean difference -0.48, 95% CI -0.66 to -0.31) and raised serum vitamin D, with a larger effect in trials lasting more than 8 weeks. The authors say larger well-designed trials are needed for other outcomes.",
+        "line_tier": "B",
+        "note": "Trials were not in Black women; I did not read which countries or whether low-certainty.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

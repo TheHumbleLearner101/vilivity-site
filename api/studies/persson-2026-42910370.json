@@ -1,0 +1,47 @@
+{
+  "pmid": "42910370",
+  "slug": "persson-2026-42910370",
+  "citation": {
+    "authors": "Persson et al",
+    "year": 2026,
+    "journal": "Cureus"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42910370/",
+  "page": "https://vilivity.com/studies/persson-2026-42910370/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "persson-2026",
+        "population": "Review of 15 primary studies, 2015 to 2025",
+        "n": 15,
+        "design": "Narrative literature review",
+        "finding": "CCCA mostly presents as progressive thinning of the central scalp, may resemble androgenetic alopecia or alopecia areata, and is underrecognised and often misdiagnosed. Dermoscopy and biopsy remain important.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "finding-a-hair-and-scalp-specialist",
+      "title": "Finding a stylist, trichologist or dermatologist who knows afro hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/finding-a-hair-and-scalp-specialist/",
+      "record": {
+        "id": "persson-2026",
+        "population": "Review of 15 primary studies, 2015 to 2025",
+        "n": 15,
+        "design": "Narrative literature review",
+        "finding": "CCCA mostly presents as progressive thinning of the central scalp, may resemble androgenetic alopecia or alopecia areata, and is underrecognised and often misdiagnosed. Dermoscopy and biopsy remain important.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

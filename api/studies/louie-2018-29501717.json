@@ -1,0 +1,47 @@
+{
+  "pmid": "29501717",
+  "slug": "louie-2018-29501717",
+  "citation": {
+    "authors": "Louie P, Wilkes R",
+    "year": 2018,
+    "journal": "Social Science and Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29501717/",
+  "page": "https://vilivity.com/studies/louie-2018-29501717/",
+  "cited_by": [
+    {
+      "entry": "finding-a-dermatologist-for-dark-skin",
+      "title": "Finding a dermatologist who knows dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/finding-a-dermatologist-for-dark-skin/",
+      "record": {
+        "id": "louie-2018-find",
+        "population": "4,146 images from four core US medical textbooks",
+        "n": 4146,
+        "design": "Image audit",
+        "finding": "74.5% of images showed light skin, 21% medium and 4.5% dark.",
+        "line_tier": "B",
+        "note": "General medical textbooks, not dermatology texts.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "conditions-look-different-on-dark-skin",
+      "title": "How skin conditions look on dark skin (redness, rashes, rosacea, sunburn)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/conditions-look-different-on-dark-skin/",
+      "record": {
+        "id": "louie-2018",
+        "population": "4,146 images from four core US medical textbooks",
+        "n": 4146,
+        "design": "Image audit",
+        "finding": "74.5% of images showed light skin, 21% medium and 4.5% dark.",
+        "line_tier": "B",
+        "note": "General medical textbooks, not dermatology texts; from the research file (abstract opened 12 Nov).",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

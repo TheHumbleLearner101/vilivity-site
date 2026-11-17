@@ -1,0 +1,30 @@
+{
+  "pmid": "34207664",
+  "slug": "watanabe-2021-34207664",
+  "citation": {
+    "authors": "Watanabe S, Okoshi H, Yamabe S, Shimada M",
+    "year": 2021,
+    "journal": "Molecules"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34207664/",
+  "page": "https://vilivity.com/studies/watanabe-2021-34207664/",
+  "cited_by": [
+    {
+      "entry": "moringa-leaf-and-blood-sugar",
+      "title": "Moringa: blood sugar, blood pressure and general health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/moringa-leaf-and-blood-sugar/",
+      "record": {
+        "id": "watanabe-2021",
+        "population": "Diabetic rodent models (349 treated, 350 controls)",
+        "n": "44 animal studies",
+        "design": "Systematic review and meta-analysis of animal studies",
+        "finding": "Extracts of Moringa oleifera lowered blood glucose in diabetic rodents (pooled effect size -3.92) with substantial heterogeneity, and improved triglycerides and cholesterol.",
+        "line_tier": "C",
+        "note": "Animals only; large effects in rodents are common and have not carried over to people in the human trials above.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

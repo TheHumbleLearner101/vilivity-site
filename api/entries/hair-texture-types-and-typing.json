@@ -1,0 +1,319 @@
+{
+  "slug": "hair-texture-types-and-typing",
+  "title": "Hair types 4a, 4b, 4c: what typing tells you",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "What is my hair type (4a, 4b, 4c) and does typing matter?",
+    "Which hairstyles suit 4c or afro hair?",
+    "Why has my hair texture changed (after pregnancy, with age or on a baby)?"
+  ],
+  "tradition_says": "Hair is sorted into types 1 to 4 with letters A to C, and 4c is the tightest. People pick products, routines and styles by their number and letter, and expect typing to predict how their hair behaves.",
+  "layer1": {
+    "plain_answer": "The 4a, 4b and 4c letters sort curl by eye and were not checked against measured hair. They do not predict which product or routine will work. Describe your hair instead by how tight the curl is, how wide the strand is and how dense it is. Why texture changes after pregnancy or with age is untested.",
+    "do": [
+      {
+        "text": "Describe your hair by curl tightness, strand width and how much hair you have, not only a letter.",
+        "basis": "tested",
+        "source": "callender-2026-class"
+      },
+      {
+        "text": "Describe your hair by shape (coil, curl, wave) when talking to a stylist or doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treat the letter as a label for how hair looks, not a guide to which product works.",
+        "basis": "tested",
+        "source": "gaines-2023"
+      },
+      {
+        "text": "Choose looser styles (loose plaits or twists), leave the hairline out of tight braids and take breaks between styles.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Judge a style by tightness and fit, not its name: a dermatologist says braids, twists and locs are not inherently bad, and some people are more prone to traction hair loss than others.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "BlackDoctor (a dermatologist is speaking; her name is not in the captions), YouTube, \"A Dermatologist Explains: How to Reverse Traction Alopecia\"",
+          "url": "https://youtu.be/0HEL_WF-HaQ",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Choosing products by letter: no study validates the letters against measured hair.",
+        "basis": "tested",
+        "source": "callender-2026-class"
+      },
+      {
+        "text": "Assuming two people with the same letter have the same strand width or density.",
+        "basis": "tested",
+        "source": "daniels-2023"
+      },
+      {
+        "text": "Expecting one style to suit every curl pattern: reviews sort styles by tension and risk, and I found no study matching styles to hair type.",
+        "basis": "tested",
+        "source": "haskin-2016"
+      }
+    ],
+    "see_someone_when": [
+      "A change in texture with thinning, shedding or scalp symptoms (doctor).",
+      "Hair texture or thickness changing suddenly in a child (doctor).",
+      "Thinning at the crown, hairline or part (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Review of hair classification, including the Walker system",
+      "design": "Review",
+      "n": "not stated",
+      "finding": "The Walker 1 to 4C system is described as the existing gold standard in practice but \"relies upon qualitative classification measures, making the system vague and ambiguous\".",
+      "source": {
+        "authors": "Gaines et al",
+        "year": 2023,
+        "journal": "Accounts of Chemical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37212612/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "From the 12 Nov baseline file; origin story of the system unverified.",
+      "id": "gaines-2023"
+    },
+    {
+      "population": "Systematic review of curl classification",
+      "design": "Systematic review",
+      "n": "not stated",
+      "finding": "Curl classification may have predictive value for scalp disease such as seborrhoeic dermatitis, but further validation is required.",
+      "source": {
+        "authors": "Callender VD, Burgess C et al",
+        "year": 2026,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928381/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "Unrestricted grant from CeraVe (L'Oreal group); authors paid consultants (baseline file).",
+      "id": "callender-2026-class"
+    },
+    {
+      "population": "1,442 people from 18 countries",
+      "design": "Measurement of curve diameter, curl index and number of waves; eight curl types",
+      "n": 1442,
+      "finding": "Eight curl types were defined from three measured descriptors, deliberately without reference to ethnicity.",
+      "source": {
+        "authors": "De la Mettrie R et al",
+        "year": 2007,
+        "journal": "Human Biology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18078200/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "L'Oreal authors. Daniels 2023 says it may be too complex to reproduce.",
+      "id": "de-la-mettrie-2007"
+    },
+    {
+      "population": "Review of hair-fibre studies across hair types",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Curlier hair has a smaller, elliptical cross-section. Fragility is attributed to knotting and cracking rather than to a structural weakness. Sources disagree on water uptake. The review calls the eight-type curl system possibly too complex to reproduce.",
+      "source": {
+        "authors": "Daniels G, Fraser A, Westgate G",
+        "year": 2023,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36374002/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "id": "daniels-2023"
+    },
+    {
+      "population": "200 women with postpartum hair loss, Egypt",
+      "design": "Clinical and dermoscopic evaluation",
+      "n": 200,
+      "finding": "Only 9.5% had telogen effluvium alone; 56.0% also had androgenetic alopecia, 6.5% also had traction alopecia and 28.0% had all three. The authors say postpartum telogen effluvium may be associated with other hair loss disorders.",
+      "source": {
+        "authors": "Galal et al",
+        "year": 2024,
+        "journal": "Journal of Clinical and Aesthetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38779373/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Egyptian clinic sample, not African American or British Black women.",
+      "id": "galal-2024"
+    },
+    {
+      "population": "Texture change",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"hair texture\" OR \"hair curl\") AND (pregnancy OR postpartum OR aging) AND (change OR changes) (result count 3).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 3 results: a menopause hair follicle review, a hair lipid electron microscopy paper and a mouse retina paper (PMIDs 38002043, 17707986, 11053297); none is a study of why hair texture changes. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no study of why hair texture changes after pregnancy, with age, or on a baby; one study of postpartum hair loss exists (Galal 2024) but does not report texture.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22hair+texture%22+OR+%22hair+curl%22%29+AND+%28pregnancy+OR+postpartum+OR+aging%29+AND+%28change+OR+changes%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "texture-change"
+    },
+    {
+      "population": "Black hairstyling practices and traction alopecia",
+      "design": "Narrative review (abstract read)",
+      "n": "not stated",
+      "finding": "The review stratifies hair care and styling practices into high-, moderate- and low-risk categories for traction alopecia, with a diagnostic approach and conservative management guidance.",
+      "source": {
+        "authors": "Haskin A et al",
+        "year": 2016,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27114262/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only: which style falls in which category was not read. Risk is by tension and practice, not by curl type.",
+      "id": "haskin-2016"
+    },
+    {
+      "population": "Women of African descent, hairstyling and hair damage",
+      "design": "Narrative review (abstract read)",
+      "n": "not stated",
+      "finding": "Highly textured hair is more susceptible to breakage because of an increased proportion of spirals and fewer elastic fibres anchoring follicles to the dermis; the review gives an overview of hairstyles so physicians can spot high-risk ones and suggest safer alternatives.",
+      "source": {
+        "authors": "Geisler AN et al",
+        "year": 2022,
+        "journal": "Cutis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35659800/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only; women only.",
+      "id": "geisler-2022"
+    },
+    {
+      "population": "Which hairstyles suit which hair type",
+      "design": "PubMed search run 12 Nov 2026, exact string: (hairstyle OR hairstyles) AND (afro-textured OR African hair) AND (damage OR traction) (result count 35).",
+      "n": 0,
+      "finding": "My search found nothing matching styles to hair type: of 35 results I read all titles; they are traction alopecia and CCCA papers, reviews of hairstyling risk (Haskin 2016, Geisler 2022) and clinic reports; none tests which style suits which curl pattern. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hairstyle+OR+hairstyles%29+AND+%28afro-textured+OR+African+hair%29+AND+%28damage+OR+traction%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "styles-search"
+    },
+    {
+      "population": "Texture change",
+      "design": "PubMed search run 12 Nov 2026, exact string: (hair texture change OR \"hair curl\") AND (pregnancy OR aging OR \"ageing\") AND hair (result count 14).",
+      "n": 0,
+      "finding": "My search found nothing on why texture changes: I read the first 8 of 14 titles (menopause and skin ageing, a collagen supplement trial, facial procedures, hair lipids, a hair-ageing review (Williams 2020, PMID 32358903, abstract not read)); none studies texture change in pregnancy or with age. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hair+texture+change+OR+%22hair+curl%22%29+AND+%28pregnancy+OR+aging+OR+%22ageing%22%29+AND+hair"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "texture-search-2"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That your hair letter tells you what your hair needs: no study validates the 4a to 4c letters against measured hair or product response.",
+  "tier_note": "D because the claim (typing predicts what works) has no human study; the systems and the measured alternative are C lines. A study linking letter to routine outcomes would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. A hidden harm: typing is used to rank hair (texturism), an argument, not a measured finding.",
+  "founder_flag": false,
+  "evidence_summary": "Gaines 2023 calls the Walker system the existing gold standard in practice but \"vague and ambiguous\" because it is qualitative. Callender 2026 says classification may predict scalp disease such as seborrhoeic dermatitis but needs validation (paid panel). The eight-type system from 1,442 people in 18 countries (De la Mettrie 2007, L'Oreal) was built on measured descriptors without reference to ethnicity; Daniels 2023 says it may be too complex to reproduce. LOIS and Fia are community vocabularies with no validation found. Nothing found on why texture changes in pregnancy, with age or in babies. Which hairstyles suit which letter has no source. Which hairstyles suit which hair: Haskin 2016 and Geisler 2022 (abstract-level reviews) sort styles by tension and risk, not by curl type, and highly textured hair breaks more easily (Geisler 2022). A dermatologist in a video says fit and tightness matter more than the style, and individuals differ. Creators disagree (flotje ranks back-to-back box braids as damaging; Seun Okimi says protective styling retains length); both untested.",
+  "measured_variables": [
+    "Curve diameter and curl index",
+    "Strand width (micrometres)",
+    "Hair density (hairs per cm squared)"
+  ],
+  "gaps": "Untested: any link from typing to routine outcome; why texture changes; which styles suit which hair (searched 12 Nov: nothing matches styles to curl type; only tension and risk guidance exists). The origin story of the Walker system is from web summaries only (unverified). Texture change: searched twice (12 Nov), nothing; web snippets of natural-hair and brand blogs (not opened) say curl pattern often loosens or tightens after pregnancy and usually returns within a year: UNVERIFIED, hormones named as the cause without a study.",
+  "related": [
+    "hair-porosity-and-moisture",
+    "wash-day-routine-for-4c-hair",
+    "children-and-babies-hair"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Gaines et al",
+      "year": 2023,
+      "journal": "Accounts of Chemical Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37212612/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Callender VD et al",
+      "year": 2026,
+      "journal": "Journal of Cosmetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41928381/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "De la Mettrie R et al",
+      "year": 2007,
+      "journal": "Human Biology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18078200/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Daniels G et al",
+      "year": 2023,
+      "journal": "International Journal of Cosmetic Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36374002/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Galal et al",
+      "year": 2024,
+      "journal": "Journal of Clinical and Aesthetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38779373/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "authors": "Haskin A et al",
+      "year": 2016,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27114262/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Geisler AN et al",
+      "year": 2022,
+      "journal": "Cutis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35659800/",
+      "tag": "[review]"
+    },
+    {
+      "name": "BlackDoctor (a dermatologist is speaking; her name is not in the captions), YouTube, \"A Dermatologist Explains: How to Reverse Traction Alopecia\"",
+      "url": "https://youtu.be/0HEL_WF-HaQ",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

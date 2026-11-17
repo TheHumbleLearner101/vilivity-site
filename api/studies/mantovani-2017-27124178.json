@@ -1,0 +1,30 @@
+{
+  "pmid": "27124178",
+  "slug": "mantovani-2017-27124178",
+  "citation": {
+    "authors": "Mantovani N, Pizzolati M, Edge D",
+    "year": 2017,
+    "journal": "Health Expectations"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27124178/",
+  "page": "https://vilivity.com/studies/mantovani-2017-27124178/",
+  "cited_by": [
+    {
+      "entry": "stigma-and-starting-therapy",
+      "title": "Stigma, talking to family and starting therapy",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/stigma-and-starting-therapy/",
+      "record": {
+        "id": "mantovani-2017",
+        "population": "26 men and women in Christian faith communities, south London",
+        "n": "26",
+        "design": "Qualitative interviews on stigma and help-seeking for mental illness",
+        "finding": "Help-seeking was shaped by beliefs about the causes of mental illness, silencing driven by stigma, and stigma kept up at community level. People with a diagnosis could face triple jeopardy in stigma. The authors say one-size-fits-all approaches will not meet diverse needs.",
+        "line_tier": "B",
+        "note": "Small qualitative study in one setting; shows themes, not how common they are.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "40696240",
+  "slug": "alexis-2025-40696240",
+  "citation": {
+    "authors": "Alexis AF, Kircik L, Chovatiya R et al",
+    "year": 2025,
+    "journal": "Dermatology and Therapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40696240/",
+  "page": "https://vilivity.com/studies/alexis-2025-40696240/",
+  "cited_by": [
+    {
+      "entry": "eczema-on-dark-skin",
+      "title": "Eczema on dark skin (atopic eczema, including babies)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/eczema-on-dark-skin/",
+      "record": {
+        "id": "alexis-2025",
+        "population": "Adults and children with atopic dermatitis in two US trials; about a quarter to a third Black or African American, over half Fitzpatrick IV-VI",
+        "n": 813,
+        "design": "Two 8-week randomised, vehicle-controlled phase 3 trials of tapinarof cream, analysis by race and skin type",
+        "finding": "In both trials more people on tapinarof than on vehicle reached clear or almost clear skin, in every race group. Black or African American: 43.1-47.0% on tapinarof against 17.5-24.1% on vehicle. White: 49.4-52.1% against 12.2-14.5%.",
+        "line_tier": "B",
+        "note": "Industry trial (several authors work for the manufacturer, Dermavant). Eight weeks only. A prescription cream, not the moisturising advice above.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

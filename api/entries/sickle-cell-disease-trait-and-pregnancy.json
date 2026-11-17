@@ -1,0 +1,161 @@
+{
+  "slug": "sickle-cell-disease-trait-and-pregnancy",
+  "title": "Sickle cell disease, trait and pregnancy",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "What is the difference between sickle cell trait and sickle cell disease?",
+    "How is sickle cell disease managed day to day (diet, pain, sport)?",
+    "Does sickle cell trait affect pregnancy or my baby?"
+  ],
+  "tradition_says": "Sickle cell is often thought of as a \"Black disease\" and trait as \"just the gene\". Many families hear little about what to do day to day or what happens if both parents carry it.",
+  "layer1": {
+    "plain_answer": "Sickle cell disease is a lifelong inherited blood condition; trait means you carry one copy of the gene and do not have the disease and cannot develop it. If both parents carry it, a child can have the disease. In pregnancy, carriers had low risks in a review, but more anaemia and bacteria in the urine, so ask about checks.",
+    "do": [
+      {
+        "text": "Drink plenty of fluids and avoid sudden temperature changes, including very cold water, to help prevent a crisis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Try gentle to moderate exercise such as walking or yoga; the UK's NHS says avoid high-intensity exercise for disease.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep up to date with vaccinations and go to your regular check-ups.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If pregnant, take the blood test your midwife offers before 10 weeks; anyone can ask a doctor for a carrier test at any time.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you carry the trait and are pregnant, tell your midwife and ask about checks for anaemia and urine infection.",
+        "basis": "tested",
+        "source": "jans-2010"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Alcohol and smoking: the UK's NHS says they can raise the risk of acute chest syndrome in sickle cell disease.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Driving yourself to A&E (UK) in a crisis: call your local emergency number (999 in the UK, 911 in the US and Canada, 112 in the EU) for severe pain, breathing difficulty or a high temperature.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Severe sudden pain, breathing difficulty or being sick with sickle cell disease (call 999 in the UK, or your local emergency number).",
+      "A high temperature, or a painful erection that will not go away, with sickle cell disease (call 999 in the UK, or your local emergency number).",
+      "You are not sure whether you carry the gene and are planning a pregnancy (doctor, for a blood test).",
+      "You carry the trait and have heavy exertion, heat or altitude planned (see the trait and hard exercise entry)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Pregnant women carrying haemoglobinopathies (sickle cell trait or thalassaemia minor); the abstract says 780 subjects were identified, of which nine (studies) were included",
+      "design": "Systematic review of cohort and case-control studies, searched to August 2008",
+      "n": "9 studies included (780 subjects identified)",
+      "finding": "A protective effect of sickle cell trait was found for premature birth, low Apgar score and perinatal mortality. No significant effect was found for low birth weight, growth retardation, urinary tract infection or high blood pressure. The risk of anaemia and bacteriuria was increased (urinary tract infection itself was not significant, though the authors still advise awareness of it). The authors conclude risks among pregnant carriers are low and midwives need to be aware of anaemia and urine infection.",
+      "source": {
+        "authors": "Jans SM, de Jonge A, Lagro-Janssen AL",
+        "year": 2010,
+        "journal": "International Journal of Clinical Practice",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20946275/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Small old review of nine studies; ethnicity of participants not given in the abstract.",
+      "id": "jans-2010"
+    },
+    {
+      "population": "62 studies of children and pregnant women in malaria regions",
+      "design": "Systematic review and meta-analysis of haemoglobinopathies and malaria",
+      "n": "62 studies",
+      "finding": "Haemoglobin AS (the trait) cut the risk of severe falciparum malaria (odds ratio 0.09, 95% CI 0.06-0.12) and was the only genotype consistently protective against uncomplicated malaria (incidence rate ratio 0.69, 95% CI 0.61-0.79).",
+      "source": {
+        "authors": "Taylor SM, Parobek CM, Fairhurst RM",
+        "year": 2012,
+        "journal": "Lancet Infectious Diseases",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22445352/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Explains why the gene is common where malaria is, not a benefit for people living elsewhere.",
+      "id": "taylor-2012"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "Day-to-day management of sickle cell disease: NHS guidance only; I opened no trial or cohort of sickle cell treatment or self-care. The pregnancy line rests on one small review.",
+  "tier_note": "D because the headline advice is guidance I did not find trial evidence for in my search; the pregnancy review (B, thin) and the malaria review sit on the page as their own lines. Would move with an opened trial of hydroxycarbamide or of self-care advice.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the advice on this card. Sickle cell crisis, infection and stroke are the risks of the disease itself (NHS in the UK).",
+  "founder_flag": false,
+  "evidence_summary": "Sickle cell disease and sickle cell trait are different: disease needs two copies of the gene and trait one. The NHS says people with African Caribbean, Mediterranean, South and Southeast Asian or Middle Eastern backgrounds are more likely to inherit it. A systematic review of pregnant carriers found low risks, with more anaemia and bacteriuria (urinary tract infection itself was not significant). The gene is common because the trait protects against severe malaria. Day-to-day advice (fluids, avoiding cold and stress, vaccinations, gentle exercise) is NHS guidance.",
+  "measured_variables": [
+    "Haemoglobin genotype: HbSS and related (disease), HbAS (trait), by blood test",
+    "Ethnic background as a rough guide to where the gene is common; the variable is the genotype"
+  ],
+  "gaps": "Untested or not opened: hydroxycarbamide, transfusion and gene therapy outcomes (the NHS names them; I read no trial); whether exercise advice differs between mild and severe disease; pregnancy outcomes in women with the disease (the review covered carriers only); NICE sickle cell guidelines and the Sickle Cell Society pages were not opened; UK newborn screening results not opened. The NHS \"avoid high-intensity exercise\" line is for the disease only and does not apply to carriers (see the trait entry).",
+  "related": [
+    "sickle-cell-trait-and-hard-exercise",
+    "being-believed-by-doctors-and-pain",
+    "pregnancy-and-maternity-care",
+    "heat-and-hydration"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Jans SM, de Jonge A, Lagro-Janssen AL",
+      "year": 2010,
+      "journal": "International Journal of Clinical Practice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20946275/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Taylor SM, Parobek CM, Fairhurst RM",
+      "year": 2012,
+      "journal": "Lancet Infectious Diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22445352/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Sickle cell disease\"",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "bush-teas-cerasee-bitter-leaf-and-medicines",
+  "title": "Bush teas and herbal remedies (cerasee, bitter leaf) with medicines",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Is cerasee tea safe with diabetes medicine?",
+    "Does bitter leaf lower blood sugar?",
+    "Is bush tea safe to drink every day?",
+    "Can I mix herbal teas with my tablets?"
+  ],
+  "tradition_says": "Bush teas such as cerasee (bitter melon), bitter leaf and \"blood cleansers\" are used across the Caribbean and West Africa for blood sugar, fevers, \"cleaning the blood\" and general health, and are seen as natural and safe.",
+  "layer1": {
+    "plain_answer": "Natural does not mean safe with medicine. A Cochrane review found insufficient evidence that bitter melon (cerasee) helps type 2 diabetes. Memorial Sloan Kettering warns it can add to diabetes medicines and reports case reports of serious harm. The UK's NHS says do not mix herbal medicines with certain medicines, and always check with a pharmacist.",
+    "do": [
+      {
+        "text": "Check first with a pharmacist before taking a herbal medicine if you already take other medicine, including over-the-counter medicine.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist about every tea or remedy you use.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Talk to your provider if you use bitter melon and take insulin or diabetes medicines: it may have additive effects.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Memorial Sloan Kettering Cancer Center, \"Bitter Melon\" (About Herbs, updated 23 May 2025)",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/bitter-melon",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Read the leaflet in your medicine packet for herbal warnings.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using cerasee in place of diabetes treatment: the Cochrane review found insufficient evidence.",
+        "basis": "tested",
+        "source": "ooi-2012-b"
+      },
+      {
+        "text": "Bitter melon if you are pregnant: animal studies suggest it may cause birth defects.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Memorial Sloan Kettering Cancer Center, \"Bitter Melon\" (About Herbs, updated 23 May 2025)",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/bitter-melon",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, have kidney or liver problems, or take statins, antidepressants, diabetes, blood pressure or blood-thinning medicines, or the combined pill, without a pharmacist check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You use bush tea and have diabetes, high blood pressure or take blood thinners (pharmacist or doctor).",
+      "Irregular heartbeat, severe tummy pain or vomiting after a herbal drink (urgent care or 999 in the UK, or your local emergency number).",
+      "Yellow skin or eyes, dark urine, or tummy swelling after months of a herbal tea (doctor urgently)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "479 adults with type 2 diabetes in four randomised trials of Momordica charantia (bitter gourd, cerasee)",
+      "design": "Cochrane systematic review of randomised trials, up to three months",
+      "n": "4 trials (479 people)",
+      "finding": "No significant difference in glycaemic control against placebo, and none against metformin or glibenclamide in reliable measures. Risk of bias was generally high. No serious adverse effects were reported in any trial. The authors conclude there is insufficient evidence.",
+      "source": {
+        "authors": "Ooi CP, Yassin Z, Hamid TA",
+        "year": 2012,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22895968/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Trials were of preparations of the plant in other populations; none was a tea made at home.",
+      "id": "ooi-2012-b"
+    },
+    {
+      "population": "Patients aged 12 and over with uncomplicated malaria, a traditional remedy trial in Africa",
+      "design": "Uncontrolled clinical trial of an infusion of fresh Vernonia amygdalina (bitter leaf)",
+      "n": "not stated in the abstract",
+      "finding": "An adequate clinical response at day 14 occurred in 67% of cases, but complete parasite clearance occurred in only 32% of those, and 71% of those had recrudescence. No significant side effects or toxicity were seen. The authors say more studies are needed.",
+      "source": {
+        "authors": "Challand S, Willcox M",
+        "year": 2009,
+        "journal": "Journal of Alternative and Complementary Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19922255/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Uncontrolled, in malaria; it says nothing about blood sugar. Not evidence that bitter leaf works.",
+      "id": "challand-2009"
+    },
+    {
+      "population": "One young woman in Britain with liver disease linked to a herbal tea",
+      "design": "Case report with liver biopsy and necropsy",
+      "n": "1 patient",
+      "finding": "Veno-occlusive disease of the liver, similar to the condition occurring in the Caribbean, was diagnosed. Small amounts of pyrrolizidine alkaloids were recovered from the mate tea she drank heavily for years, and it seems probable that this caused the disease.",
+      "source": {
+        "authors": "McGee J, Patrick RS, Wood CB, Blumgart LH",
+        "year": 1976,
+        "journal": "Journal of Clinical Pathology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/977780/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A case report about mate tea, not a Caribbean bush tea; it shows the mechanism, not a risk figure.",
+      "id": "mcgee-1976"
+    },
+    {
+      "population": "Diabetic rodents and cell and tissue models (preclinical review)",
+      "design": "Narrative review of preclinical studies of Vernonia amygdalina (bitter leaf) in diabetes",
+      "n": "not applicable",
+      "finding": "The review calls bitter leaf potently antidiabetic in preclinical work and appraises the evidence for future research. All the studies discussed are in animals and cells.",
+      "source": {
+        "authors": "Asante DB, Wiafe GA",
+        "year": 2023,
+        "journal": "Journal of Diabetes Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38033739/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "note": "Preclinical only. My PubMed search for bitter leaf and diabetes in humans returned no human trial. It says nothing about safe amounts or interactions in people.",
+      "id": "asante-2023"
+    },
+    {
+      "population": "Diabetic rats (4 groups of 6) and enzyme assays",
+      "design": "Single-dose experiment of bitter leaf aqueous leaf extract with metformin",
+      "n": "24 rats",
+      "finding": "Given with metformin, the extract changed metformin's pharmacokinetics (higher peak level, higher total exposure and longer half-life) and inhibited the liver enzymes CYP3A4 and CYP2C9 in the assay. The authors say this suggests potential herb-drug interactions.",
+      "source": {
+        "authors": "Akowuah GA, Sabbagh BA, Palanirajan VK, Chew YL et al",
+        "year": 2024,
+        "journal": "Journal of Complementary and Integrative Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39710889/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Rats only, one dose; a signal worth a pharmacist check, not a measured human risk.",
+      "id": "akowuah-2024"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "Whether cerasee lowers blood sugar: a Cochrane review of four small trials in other populations (insufficient evidence, high risk of bias); safety rests on MSK case reports and one liver case report.",
+  "tier_note": "Thin because the one review says insufficient evidence and the harm evidence is case reports; no trial of a home-made bush tea in Black adults was found.",
+  "harm_flag": true,
+  "harm_note": "Memorial Sloan Kettering lists case reports for bitter melon: irregular rapid heartbeat after juice, gastric ulcer after a homemade extract and severe kidney injury, and says it may add to diabetes medicines and to some drugs through P-gp and CYP450 effects. A 1976 case report links heavy daily use of a pyrrolizidine-containing herbal tea to liver veno-occlusive disease. The UK's NHS lists medicines that do not mix with herbal medicines. For bitter leaf, one rat study found it raised metformin exposure and inhibited liver enzymes CYP3A4 and CYP2C9 (Akowuah 2024); this is an animal signal, not a human finding.",
+  "founder_flag": false,
+  "evidence_summary": "A Cochrane review of four small trials found insufficient evidence that bitter melon improves blood sugar control in type 2 diabetes. Memorial Sloan Kettering lists case reports of heart rhythm problems, gastric ulcer and kidney injury, and warns of additive effects with insulin and diabetes drugs. A trial of bitter leaf was uncontrolled and in malaria. The UK's NHS says herbal medicines can stop medicines working or cause harm, and advises checking with a pharmacist. Bitter leaf (Vernonia amygdalina) has preclinical diabetes data and a rat study showing interaction with metformin, and no human trial for diabetes was found, so it stays on this card rather than a card of its own.",
+  "measured_variables": [
+    "Glycaemic control (HbA1c, glucose) in the cerasee trials",
+    "Liver veno-occlusive disease and alkaloid content in the case report",
+    "No genotype or ancestry variable in the trials"
+  ],
+  "gaps": "Untested or not opened: bitter leaf for diabetes in people (my PubMed search for bitter leaf and diabetes found no human trial; the preclinical review and a rat interaction study are now on the page as lab-level lines); cerasee as a tea (the trials used preparations); pennyroyal, comfrey and \"blood cleanser\" teas; pyrrolizidine alkaloids in Jamaican bush tea (earlier notes cite Bras 1954 and 1957 from search summaries; I did not open them, and the 1976 case I opened is about mate tea); kidney injury from traditional medicines in Africa (earlier notes cite a Cameroon study that I could not locate); how often people tell clinicians (an earlier note cites a systematic review I did not open). The NHS list of interacting medicines is a general warning, not a list for each herb.",
+  "related": [
+    "soursop-graviola",
+    "black-seed-oil-nigella-sativa",
+    "hibiscus-sorrel-blood-pressure",
+    "type-2-diabetes-risk"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Ooi CP, Yassin Z, Hamid TA",
+      "year": 2012,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22895968/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Challand S, Willcox M",
+      "year": 2009,
+      "journal": "Journal of Alternative and Complementary Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19922255/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "McGee J, Patrick RS, Wood CB, Blumgart LH",
+      "year": 1976,
+      "journal": "Journal of Clinical Pathology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/977780/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Akowuah GA, Sabbagh BA, Palanirajan VK, Chew YL et al",
+      "year": 2024,
+      "journal": "Journal of Complementary and Integrative Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39710889/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Asante DB, Wiafe GA",
+      "year": 2023,
+      "journal": "Journal of Diabetes Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38033739/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Memorial Sloan Kettering Cancer Center, \"Bitter Melon\" (About Herbs, updated 23 May 2025)",
+      "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/bitter-melon",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

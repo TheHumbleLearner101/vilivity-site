@@ -1,0 +1,170 @@
+{
+  "slug": "heat-and-hydration",
+  "title": "Heat, sweating and hydration",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "Do Black people handle heat better?",
+    "Do Black people sweat differently?",
+    "How do I stay safe training in hot weather?"
+  ],
+  "tradition_says": "It is widely said that Black people are built for the heat and need less water. Many people also assume that people with dark skin cannot get heatstroke.",
+  "layer1": {
+    "plain_answer": "I found no study that shows Black people tolerate heat better or sweat differently. What exists is old, small, and in men who were already acclimatised. Heat risk follows fitness, acclimatisation, body size and exposure. Follow the UK's NHS heat advice, and take extra care if you or your child has sickle cell disease or trait.",
+    "do": [
+      {
+        "text": "Drink extra fluids in hot weather, and have cold drinks and cold food.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heatwave: how to cope in hot weather\"",
+          "url": "https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Stay in the shade and avoid exercise or hard activity between 11am and 3pm.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heatwave: how to cope in hot weather\"",
+          "url": "https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If someone has heat exhaustion: move them somewhere cool, remove extra clothing and give plenty of water.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heat exhaustion and heatstroke\"",
+          "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you have sickle cell disease, avoid dehydration and sudden temperature changes: both can trigger a crisis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Alcohol, caffeine and hot drinks during a heatwave.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heatwave: how to cope in hot weather\"",
+          "url": "https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Relying on skin colour to spot heat exhaustion: the UK's NHS says a change in skin colour can be harder to see on brown or black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heat exhaustion and heatstroke\"",
+          "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hot skin without sweating, a very high temperature, fast breathing, confusion or a seizure (call 999 in the UK, or your local emergency number: heatstroke).",
+      "Heat exhaustion that has not eased after 30 minutes of cooling down (NHS 111 in the UK).",
+      "A child or older relative is unwell in the heat (NHS 111 in the UK, or 999, or your local emergency number if they are confused or unresponsive)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Groups of 10 highly acclimatised Bantu men resting in hot, humid rooms",
+      "design": "Laboratory exposure study at 96 to 104 degrees F wet bulb, with criteria for withdrawal",
+      "n": "groups of 10 men",
+      "finding": "Rectal temperature rose steadily at 102 and 104 F wet bulb and reached a plateau at lower temperatures. Sweat rate rose from 130 ml per hour at 96 F to 875 ml per hour at 104 F; water intake lagged behind sweating at the highest temperatures. There was no comparison group in the abstract.",
+      "source": {
+        "authors": "Wyndham CH, Williams CG, Morrison JF, Heyns AJ et al",
+        "year": 1968,
+        "journal": "British Journal of Industrial Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5642646/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "No comparison with other ancestry groups, so it does not show a difference; 1968.",
+      "id": "wyndham-1968"
+    },
+    {
+      "population": "Narrative review of ethnicity and temperature regulation",
+      "design": "Review",
+      "n": "not applicable",
+      "finding": "Phenotypic differences between groups living in different climates are very clear, but genotypic differences are less easy to discern because of the difficulty of controlling environmental and lifestyle factors. The authors say it is reasonable to assume more genetic differences will be found as data become available.",
+      "source": {
+        "authors": "Lambert MI, Mann T, Dugas JP",
+        "year": 2008,
+        "journal": "Medicine and Sport Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19209002/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Narrative review; supports \"not yet separated\", not a measured difference.",
+      "id": "lambert-2008"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That Black people tolerate heat better or sweat differently: my search found no controlled study comparing groups; advice is NHS guidance.",
+  "tier_note": "D because the claim people make has no comparison study in what I opened; the two lines are an uncontrolled lab study and a review saying the genetic part is not yet separated.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the advice on this card. The risk is the belief that dark skin protects against heat illness; the UK's NHS notes colour change is harder to see.",
+  "founder_flag": false,
+  "evidence_summary": "No study I opened compares heat tolerance or sweating between ancestry groups. A 1968 lab study measured sweating and temperature in acclimatised Bantu men but had no comparison group, and a 2008 review says group differences are clear but genetic causes are hard to separate from environment and lifestyle. Heat illness risk depends on fitness, acclimatisation, body size, exposure and, for sickle cell disease, dehydration and temperature changes.",
+  "measured_variables": [
+    "Core temperature, sweat rate, heart rate and fluid balance (measured in the lab study)",
+    "Acclimatisation, fitness, body size, exposure",
+    "Ancestry is a stand-in for factors not isolated in the review; sickle cell trait or disease is the measured trait with a heat link (separate entries)"
+  ],
+  "gaps": "Untested: any controlled comparison of sweat rate, sweat gland density or heat tolerance by ancestry or pigmentation (my search found nothing; PubMed queries on sweat rate and gland density by ethnicity returned nothing usable); how much of any difference acclimatisation explains. Not opened: UKHSA heat-health advice; trait-specific heat advice beyond the NCAA line in the trait entry.",
+  "related": [
+    "sickle-cell-trait-and-hard-exercise",
+    "sickle-cell-disease-trait-and-pregnancy",
+    "starting-training-rest-days-and-recovery",
+    "ice-baths-and-cold-exposure"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Wyndham CH, Williams CG, Morrison JF, Heyns AJ et al",
+      "year": 1968,
+      "journal": "British Journal of Industrial Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5642646/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Lambert MI, Mann T, Dugas JP",
+      "year": 2008,
+      "journal": "Medicine and Sport Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19209002/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Heatwave: how to cope in hot weather\"",
+      "url": "https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Heat exhaustion and heatstroke\"",
+      "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Sickle cell disease\"",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

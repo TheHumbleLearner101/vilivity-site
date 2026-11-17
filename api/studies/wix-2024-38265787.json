@@ -1,0 +1,30 @@
+{
+  "pmid": "38265787",
+  "slug": "wix-2024-38265787",
+  "citation": {
+    "authors": "Wix SN, Brown AB, Heberton M, Adamson AS et al",
+    "year": 2024,
+    "journal": "JAMA Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38265787/",
+  "page": "https://vilivity.com/studies/wix-2024-38265787/",
+  "cited_by": [
+    {
+      "entry": "sunscreen-on-dark-skin",
+      "title": "Sunscreen on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/sunscreen-on-dark-skin/",
+      "record": {
+        "id": "wix-2024",
+        "population": "48 Black patients with melanoma at two Dallas centres, 2006-2022",
+        "n": 48,
+        "design": "Case series",
+        "finding": "Of 40 primary cutaneous melanomas, 30 (75%) were on acral skin. 13 patients (27%) developed stage IV disease. Melanoma in Black individuals is about 1 in 100,000 a year.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

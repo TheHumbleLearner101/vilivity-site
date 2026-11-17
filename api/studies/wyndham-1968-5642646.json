@@ -1,0 +1,30 @@
+{
+  "pmid": "5642646",
+  "slug": "wyndham-1968-5642646",
+  "citation": {
+    "authors": "Wyndham CH, Williams CG, Morrison JF, Heyns AJ et al",
+    "year": 1968,
+    "journal": "British Journal of Industrial Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/5642646/",
+  "page": "https://vilivity.com/studies/wyndham-1968-5642646/",
+  "cited_by": [
+    {
+      "entry": "heat-and-hydration",
+      "title": "Heat, sweating and hydration",
+      "module": "body",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/body/heat-and-hydration/",
+      "record": {
+        "id": "wyndham-1968",
+        "population": "Groups of 10 highly acclimatised Bantu men resting in hot, humid rooms",
+        "n": "groups of 10 men",
+        "design": "Laboratory exposure study at 96 to 104 degrees F wet bulb, with criteria for withdrawal",
+        "finding": "Rectal temperature rose steadily at 102 and 104 F wet bulb and reached a plateau at lower temperatures. Sweat rate rose from 130 ml per hour at 96 F to 875 ml per hour at 104 F; water intake lagged behind sweating at the highest temperatures. There was no comparison group in the abstract.",
+        "line_tier": "B",
+        "note": "No comparison with other ancestry groups, so it does not show a difference; 1968.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

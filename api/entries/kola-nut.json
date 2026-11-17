@@ -1,0 +1,183 @@
+{
+  "slug": "kola-nut",
+  "title": "Kola nut: caffeine, the heart and health claims",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Is kola nut good or bad for you?",
+    "How much caffeine is in kola nut?",
+    "Is kola nut safe in pregnancy or with heart problems?"
+  ],
+  "tradition_says": "Kola nut is chewed and offered at gatherings and ceremonies across West Africa, and valued as a stimulant that wards off hunger and tiredness and is said to aid digestion.",
+  "layer1": {
+    "plain_answer": "Kola nut is a traditional stimulant chewed and shared across West Africa. My search found no human study of what it does to health. Its main active ingredient is caffeine, so normal caffeine cautions apply, including a daily limit in pregnancy. Lab and animal findings on the heart and on nitrosamines are untested in people.",
+    "do": [
+      {
+        "text": "If you are pregnant, keep total caffeine to 200mg a day or less: kola nut contains caffeine, but its amount per nut is not sourced here.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Foods to avoid in pregnancy\"",
+          "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any herbal product you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, or have kidney or liver problems, without a pharmacist check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Palpitations, a racing or irregular heartbeat after chewing kola nut (doctor; 999 in the UK, or your local emergency number with chest pain or collapse).",
+      "You are pregnant and chew or drink kola products often (midwife or doctor).",
+      "You take heart or blood pressure medicine and chew it daily (pharmacist or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "385 randomly chosen secondary school students in Osogbo, Nigeria",
+      "design": "Cross-sectional questionnaire survey of kola nut use",
+      "n": "385",
+      "finding": "Kola nut use was common: 11.2% in the past 30 days, 29.1% in the past year and 74.8% over a lifetime, most starting at 14 or younger. Use was associated with younger age and poor school attendance. The authors suggest awareness programmes about dangers.",
+      "source": {
+        "authors": "Erinfolami A, Eegunranti A, Ogunsemi O, Oguntuase A et al",
+        "year": 2011,
+        "journal": "Mental Illness",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25478098/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Measures how common chewing is and what it travels with; it tests no health effect, and the 'dangers' wording is the authors' view.",
+      "id": "erinfolami-2011"
+    },
+    {
+      "population": "Anaesthetised cats",
+      "design": "Laboratory observation of aqueous kola nut extract on blood pressure and heart",
+      "n": "not stated",
+      "finding": "Low doses raised blood pressure by 8 to 9% and high doses lowered it by 18 to 71%. With larger doses a slow heart rate developed and cardiac arrhythmias occurred as a terminal event. The authors say the effects are probably due to caffeine and that the role of habitual chewing in heart disease needs discussion.",
+      "source": {
+        "authors": "Agatha M, Breckenridge C, Soyemi EA",
+        "year": 1978,
+        "journal": "Nigerian Medical Journal",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/753053/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "A preliminary animal study from 1978; the doses are not comparable with chewing a nut.",
+      "id": "agatha-1978"
+    },
+    {
+      "population": "Kola nut samples of Nigerian origin (Cola acuminata, C. nitida, Garcinia cola)",
+      "design": "Laboratory analysis of amines and methylating potential after nitrosation",
+      "n": "not applicable",
+      "finding": "Primary and secondary amines were found in all varieties. Methylating activity after nitrosation was higher in kola nuts than ever reported for a fresh plant product, which the authors say suggests the possible role of kola nut chewing in human cancer causes should be explored in countries where it is widely used.",
+      "source": {
+        "authors": "Atawodi SE, Mende P, Pfundstein B, Preussmann R et al",
+        "year": 1995,
+        "journal": "Food and Chemical Toxicology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7672735/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "A chemistry finding that raises a question; no human cancer study was found or is claimed.",
+      "id": "atawodi-1995"
+    },
+    {
+      "population": "Laboratory models (cell-free assays and rat liver tissue)",
+      "design": "In vitro and ex vivo study of a caffeine-rich Cola nitida infusion",
+      "n": "not applicable",
+      "finding": "The concentrated infusion was 80.08% caffeine by HPLC, scavenged free radicals and inhibited carbohydrate-digesting enzymes (alpha-glucosidase and alpha-amylase) in the lab. The authors suggest antioxidative and antidiabetic properties, with caffeine the major constituent.",
+      "source": {
+        "authors": "Erukainure OL, Oyebode OA, Sokhela MK, Koorbanally NA et al",
+        "year": 2017,
+        "journal": "Biomedicine and Pharmacotherapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29223552/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "A concentrated infusion in the lab, not a nut; the 80% caffeine is for the concentrate and says nothing about caffeine per nut.",
+      "id": "erukainure-2017"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That kola nut has any health benefit or harm in people: my search found no human trial or cohort; the evidence is a usage survey, a 1978 cat study and lab chemistry.",
+  "tier_note": "D because the claims people make have no human evidence in what I opened. The animal and lab lines stay as C lines and the caffeine and animal signals are flagged separately. It would move if a study measured blood pressure, heart rhythm or cancer in regular chewers.",
+  "harm_flag": true,
+  "harm_note": "No human study of harm was found. The signals are indirect: kola nut contains caffeine, and the UK's NHS advises no more than 200mg a day in pregnancy; a 1978 cat study saw blood pressure swings and arrhythmias with large extract doses (Agatha 1978); and a 1995 lab analysis found high methylating potential from nitrosatable amines, which the authors say warrants exploring cancer risk (Atawodi 1995).",
+  "founder_flag": false,
+  "evidence_summary": "My search found no human study of kola nut for any health outcome. The opened sources are a survey of use among 385 Nigerian students (use is common, mostly occasional), a 1978 cat study of blood pressure and heart rhythm, a 1995 lab analysis of amines and a 2017 lab study of a caffeine-rich infusion. Caffeine is named by the authors as the main active ingredient. The NHS pregnancy caffeine limit is 200mg a day.",
+  "measured_variables": [
+    "Caffeine content (the infusion study gives 80% for a concentrate only)",
+    "Blood pressure and heart rhythm (cat study)",
+    "Methylating potential after nitrosation (lab)",
+    "No ancestry variable"
+  ],
+  "gaps": "Untested: any health effect of chewing kola nut in people; caffeine per nut (not sourced); interaction with medicines (a 2019 review of cola drinks, PMID 30782418, concerns soft drinks and was not opened); cancer risk; a 1979 study of cola nut chewing and antipyrine disposition (PMID 466922) has no abstract text beyond its title and was not used. ClinicalTrials.gov returned no kola nut trial (the 3 results were thermogenic or herbal blends).",
+  "related": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "black-seed-oil-nigella-sativa",
+    "caribbean-and-west-african-diet-and-health",
+    "high-blood-pressure-in-black-adults"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Erinfolami A, Eegunranti A, Ogunsemi O, Oguntuase A et al",
+      "year": 2011,
+      "journal": "Mental Illness",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25478098/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Agatha M, Breckenridge C, Soyemi EA",
+      "year": 1978,
+      "journal": "Nigerian Medical Journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/753053/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Atawodi SE, Mende P, Pfundstein B, Preussmann R et al",
+      "year": 1995,
+      "journal": "Food and Chemical Toxicology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7672735/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Erukainure OL, Oyebode OA, Sokhela MK, Koorbanally NA et al",
+      "year": 2017,
+      "journal": "Biomedicine and Pharmacotherapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29223552/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Foods to avoid in pregnancy\"",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

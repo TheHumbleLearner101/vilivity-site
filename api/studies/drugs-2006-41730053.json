@@ -1,0 +1,30 @@
+{
+  "pmid": "41730053",
+  "slug": "drugs-2006-41730053",
+  "citation": {
+    "authors": "Drugs and Lactation Database (LactMed)",
+    "year": 2006,
+    "journal": "LactMed, National Institute of Child Health and Human Development"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41730053/",
+  "page": "https://vilivity.com/studies/drugs-2006-41730053/",
+  "cited_by": [
+    {
+      "entry": "sea-moss-irish-moss",
+      "title": "Sea moss (Irish moss): health claims, iodine and heavy metals",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/sea-moss-irish-moss/",
+      "record": {
+        "id": "lactmed-2026",
+        "population": "Breastfeeding mothers and infants (database summary)",
+        "n": "not applicable",
+        "design": "LactMed database entry, National Institute of Child Health and Human Development (entry updated 15 Feb 2026; the database began in 2006)",
+        "finding": "Sea moss (Irish moss, Chondrus crispus) is used as food and medicine, although no medicinal value has been proven. It contains carrageenan and minerals including iodine, and some toxic heavy metals such as arsenic, lead, cadmium and mercury from the water. Excess iodine from seaweed in a mother's diet has caused thyroid suppression in breastfed infants, so it should be avoided while breastfeeding unless iodine and heavy metal levels are shown to be low enough.",
+        "line_tier": "D",
+        "note": "A database summary, not a trial. The statement that no medicinal value has been proven is the evidence for the headline tier.",
+        "tag": "[official]"
+      }
+    }
+  ]
+}

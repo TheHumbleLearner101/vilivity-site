@@ -1,0 +1,30 @@
+{
+  "pmid": "36179487",
+  "slug": "choi-2022-36179487",
+  "citation": {
+    "authors": "Choi K, Lee YJ, Park S, Je NK et al",
+    "year": 2022,
+    "journal": "Sleep Medicine Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36179487/",
+  "page": "https://vilivity.com/studies/choi-2022-36179487/",
+  "cited_by": [
+    {
+      "entry": "melatonin-for-sleep",
+      "title": "Melatonin for sleep: what it does, dose and rules by country",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/melatonin-for-sleep/",
+      "record": {
+        "id": "choi-2022",
+        "population": "People with chronic insomnia in 24 randomised placebo-controlled trials, analysed by age group",
+        "n": "not stated in the abstract",
+        "design": "Systematic review and meta-analysis of melatonin for sleep onset, total sleep time and efficiency",
+        "finding": "In adults with chronic insomnia melatonin did not significantly improve sleep onset, total sleep time or sleep efficiency. In children and adolescents it did, for sleep onset and total sleep time. The authors say further studies by age are needed.",
+        "line_tier": "B",
+        "note": "Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

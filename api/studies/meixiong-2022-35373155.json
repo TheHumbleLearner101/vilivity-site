@@ -1,0 +1,30 @@
+{
+  "pmid": "35373155",
+  "slug": "meixiong-2022-35373155",
+  "citation": {
+    "authors": "Meixiong J, Ricco C, Vasavda C, Ho BK",
+    "year": 2022,
+    "journal": "JAAD International"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35373155/",
+  "page": "https://vilivity.com/studies/meixiong-2022-35373155/",
+  "cited_by": [
+    {
+      "entry": "diet-and-acne-on-dark-skin",
+      "title": "Does diet cause acne? Sugar, dairy and foods linked to spots",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/diet-and-acne-on-dark-skin/",
+      "record": {
+        "id": "meixiong-2022",
+        "population": "Mixed populations in 34 included studies (Ottawa quality scale)",
+        "n": "34 articles",
+        "design": "Systematic review of diet and acne",
+        "finding": "High glycaemic index and glycaemic load and carbohydrate intake were positively associated with acne and its severity, and this was supported by randomised trials. The dairy literature is mixed and may depend on sex, ethnicity and cultural dietary habits. The authors call the effect modest and say further trials are needed.",
+        "line_tier": "B",
+        "note": "Authors disclose no conflicts; the review does not report a certainty grade.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

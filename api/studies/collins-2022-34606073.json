@@ -1,0 +1,47 @@
+{
+  "pmid": "34606073",
+  "slug": "collins-2022-34606073",
+  "citation": {
+    "authors": "Collins SV, Hines AL",
+    "year": 2022,
+    "journal": "Journal of Racial and Ethnic Health Disparities"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34606073/",
+  "page": "https://vilivity.com/studies/collins-2022-34606073/",
+  "cited_by": [
+    {
+      "entry": "meditation",
+      "title": "Meditation",
+      "module": "mind",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/mind/meditation/",
+      "record": {
+        "id": "collins-2022",
+        "population": "Black women with hypertension (6 studies)",
+        "n": "6 studies",
+        "design": "Scoping review of stress-reduction trials",
+        "finding": "The authors report stronger evidence from one randomised trial of transcendental meditation, with reductions in systolic and diastolic blood pressure up to 7 mmHg, and describe non-randomised pilots with reductions up to 9 mmHg systolic.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "stress-burnout-and-blood-pressure",
+      "title": "Stress, burnout and blood pressure",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/stress-burnout-and-blood-pressure/",
+      "record": {
+        "id": "collins-2022",
+        "population": "Black women with hypertension (6 studies)",
+        "n": "6 studies",
+        "design": "Scoping review of stress-reduction trials",
+        "finding": "The authors report stronger evidence from one randomised trial of transcendental meditation, with reductions in systolic and diastolic blood pressure up to 7 mmHg, and describe non-randomised pilots with reductions up to 9 mmHg systolic.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

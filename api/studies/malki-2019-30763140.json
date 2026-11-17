@@ -1,0 +1,30 @@
+{
+  "pmid": "30763140",
+  "slug": "malki-2019-30763140",
+  "citation": {
+    "authors": "Malki L et al",
+    "year": 2019,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30763140/",
+  "page": "https://vilivity.com/studies/malki-2019-30763140/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "malki-2019",
+        "population": "Patients with CCCA, two sets",
+        "n": "not stated",
+        "design": "Exome sequencing and replication",
+        "finding": "PADI3 variants were found in 5 of 16 patients (31%) in the discovery set and in 9 of 42 in the replication set. Disease prevalence is given as up to 5.6%.",
+        "line_tier": "B",
+        "note": "Funded by the Ram Family Foundation and others (per the 12 Nov baseline file).",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

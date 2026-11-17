@@ -1,0 +1,30 @@
+{
+  "pmid": "20857772",
+  "slug": "jefferson-2010-20857772",
+  "citation": {
+    "authors": "Jefferson LL",
+    "year": 2010,
+    "journal": "Journal of the National Black Nurses Association"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20857772/",
+  "page": "https://vilivity.com/studies/jefferson-2010-20857772/",
+  "cited_by": [
+    {
+      "entry": "breathwork",
+      "title": "Breathwork and slow breathing",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/breathwork/",
+      "record": {
+        "id": "jefferson-2010",
+        "population": "African American women with hypertension",
+        "n": "not stated",
+        "design": "Intervention study of therapeutic massage and teaching diaphragmatic breathing over one or six weeks",
+        "finding": "Systolic and diastolic pressure and an anxiety score fell significantly in the group one week after the massage intervention (P between .01 and .03). The abstract does not state randomisation or a comparison group.",
+        "line_tier": "B",
+        "note": "Design unclear from the abstract; massage and breathing teaching were combined.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

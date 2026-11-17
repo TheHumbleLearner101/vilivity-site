@@ -1,0 +1,30 @@
+{
+  "pmid": "43009060",
+  "slug": "ajmani-2026-43009060",
+  "citation": {
+    "authors": "Ajmani S, Klufas D et al",
+    "year": 2026,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/43009060/",
+  "page": "https://vilivity.com/studies/ajmani-2026-43009060/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "ajmani-2026",
+        "population": "Review of scarring alopecias",
+        "n": "not stated",
+        "design": "Narrative review of treatments",
+        "finding": "There are no FDA-approved therapies for primary scarring alopecias; all treatments are off label. Lymphocytic types including CCCA may respond to immunomodulatory agents, and the aims are to halt inflammation, relieve symptoms and preserve follicles. Minoxidil and similar agents are used as camouflage.",
+        "line_tier": "B",
+        "note": "Review of treatments used; the abstract does not report a randomised trial for CCCA.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

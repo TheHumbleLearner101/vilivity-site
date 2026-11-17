@@ -1,0 +1,30 @@
+{
+  "pmid": "31587390",
+  "slug": "dorgham-2020-31587390",
+  "citation": {
+    "authors": "Dorgham NA, Dorgham DA",
+    "year": 2020,
+    "journal": "Journal of the European Academy of Dermatology and Venereology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31587390/",
+  "page": "https://vilivity.com/studies/dorgham-2020-31587390/",
+  "cited_by": [
+    {
+      "entry": "laser-hair-removal-on-dark-skin",
+      "title": "Laser hair removal on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/laser-hair-removal-on-dark-skin/",
+      "record": {
+        "id": "dorgham-2020",
+        "population": "Participants with Fitzpatrick skin types III-VI in 12 comparative trials (9 randomised)",
+        "n": "12 trials",
+        "design": "Systematic review and meta-analysis of lasers and IPL for hair reduction",
+        "finding": "Alexandrite laser was superior to IPL for hair count; Nd:YAG and diode were not significantly different from IPL for hair count. Nd:YAG had fewer dark marks than IPL (OR 0.26). Diode and alexandrite had comparable safety to IPL, with more pain.",
+        "line_tier": "B",
+        "note": "III-VI covers medium to dark skin; Black participants are not separated.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

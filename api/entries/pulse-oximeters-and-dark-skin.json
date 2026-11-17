@@ -1,0 +1,138 @@
+{
+  "slug": "pulse-oximeters-and-dark-skin",
+  "title": "Pulse oximeters and dark skin",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Do pulse oximeters work on dark skin?",
+    "Can a pulse oximeter miss low oxygen in Black patients?",
+    "Should I trust my oximeter reading?"
+  ],
+  "tradition_says": "A reading of 95 or more on a finger clip is treated as safe, by patients and often by staff.",
+  "layer1": {
+    "plain_answer": "Pulse oximeters shine light through the skin, and melanin changes how that light behaves. In a large US hospital study, readings that looked safe hid low blood oxygen more often in Black patients. A UK review says the devices are valuable and should not be dropped, but need to be tested on darker skin tones.",
+    "what_it_is": [
+      {
+        "text": "A device that estimates oxygen in the blood by sending light through the skin; the light reacts differently with different levels of melanin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "GOV.UK, \"Equity in medical devices: independent review, summary report\" (March 2024)",
+          "url": "https://gov.uk/government/publications/equity-in-medical-devices-independent-review-final-report/equity-in-medical-devices-independent-review-summary-report",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Devices were commonly tested on people with light skin, so those readings were taken as the norm.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "GOV.UK, \"Equity in medical devices: independent review, summary report\" (March 2024)",
+          "url": "https://gov.uk/government/publications/equity-in-medical-devices-independent-review-final-report/equity-in-medical-devices-independent-review-summary-report",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "You cannot check it at home: the study compared finger readings with arterial blood gas tests taken within 10 minutes in hospital.",
+        "basis": "tested",
+        "source": "valbuena-2022"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Among readings of 92% or more, about 1 in 5 hid dangerously low blood oxygen in Black patients (19.6%), against about 1 in 6 in White patients (15.6%).",
+        "basis": "tested",
+        "source": "valbuena-2022"
+      },
+      {
+        "text": "An inaccurate reading could delay finding dangerously low oxygen levels and so referral for more intensive care.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "GOV.UK, \"Equity in medical devices: independent review, summary report\" (March 2024)",
+          "url": "https://gov.uk/government/publications/equity-in-medical-devices-independent-review-final-report/equity-in-medical-devices-independent-review-summary-report",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "The review says pulse oximeters are valuable and does not advise curtailing their use in patients with darker skin tones.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "GOV.UK, \"Equity in medical devices: independent review, summary report\" (March 2024)",
+          "url": "https://gov.uk/government/publications/equity-in-medical-devices-independent-review-final-report/equity-in-medical-devices-independent-review-summary-report",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "The evidence of harm to care is so far only from the US healthcare system.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "GOV.UK, \"Equity in medical devices: independent review, summary report\" (March 2024)",
+          "url": "https://gov.uk/government/publications/equity-in-medical-devices-independent-review-final-report/equity-in-medical-devices-independent-review-summary-report",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You are breathless at rest, your chest is tight, or you feel very unwell, whatever the reading says (NHS 111 in the UK, or 999, or your local emergency number if severe).",
+      "Your lips, tongue or skin turn blue, grey or pale; on black or brown skin this may be easier to see on the palms or soles (999 in the UK, or your local emergency number).",
+      "A clinician is relying on an oximeter reading and you feel worse than it suggests: say so and ask what else they can check."
+    ]
+  },
+  "tested": [
+    {
+      "population": "30,039 paired readings in general-care inpatients, Veterans Health Administration, 2013-2019 (21.6% from non-Hispanic Black patients)",
+      "design": "Multicentre retrospective cohort comparing pulse oximetry (SpO2) with arterial blood gas (SaO2) within 10 minutes",
+      "n": 30039,
+      "finding": "Among SpO2 readings of 92% or more, the unadjusted probability of occult hypoxaemia (SaO2 below 88%) was 15.6% in white patients and 19.6% in black patients (P<0.001, similar in adjusted models). The authors say this could limit access to oxygen and other treatment for black patients.",
+      "source": {
+        "authors": "Valbuena VSM, Seelye S, Sjoding MW, Valley TS et al",
+        "year": 2022,
+        "journal": "BMJ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35793817/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US veterans, mostly white; race from records; skin tone itself was not measured.",
+      "id": "valbuena-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That oximeters miss low oxygen more often in Black patients: one VHA cohort of 30,039 paired readings, consistent with other US cohorts I did not open and with the UK equity review.",
+  "tier_note": "Large retrospective cohort in US hospitals; the size of the gap varies between studies and skin tone itself was not measured; no study I opened shows an effect on UK outcomes.",
+  "harm_flag": true,
+  "harm_note": "Occult hypoxaemia was more frequent in Black patients (19.6% against 15.6%), which the authors say could limit access to oxygen and treatment (Valbuena 2022). The UK review reports adverse clinical impact only from the US.",
+  "founder_flag": false,
+  "evidence_summary": "In 30,039 paired readings in US hospitals, a finger oximeter reading of 92% or more hid blood oxygen below 88% in 19.6% of Black patients and 15.6% of White patients. The 2024 UK independent review of equity in medical devices says the cause is the optics (melanin), that devices were tested on light skin, and that use should continue while mitigations and better testing are introduced. The variable is skin pigmentation; race was the recorded stand-in.",
+  "measured_variables": [
+    "Occult hypoxaemia: arterial oxygen saturation below 88% with oximeter reading 92% or more",
+    "Skin pigmentation (melanin), which the review identifies as the mechanism, though Valbuena recorded race not skin tone",
+    "Self-identified race in the cohort, a stand-in"
+  ],
+  "gaps": "Not opened: the Sjoding 2020 NEJM letter (no abstract) and other cohorts whose sizes differ (earlier notes give gaps of 3.6 against 11.7% in one and 17.2 against 28.5% in COVID patients, which I did not verify); newborn and wearable-device studies; current MHRA or NHS England guidance (GOV.UK guesses did not open, and a search found no newer UK guidance); the FDA 2025 draft guidance status. The \"see someone\" lines are general safety advice, not drawn from the review; the colour-change wording comes from an NHS allergy page.",
+  "related": [
+    "being-believed-by-doctors-and-pain",
+    "kidney-disease-apol1-and-egfr",
+    "skin-cancer-and-moles-on-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Valbuena VSM, Seelye S, Sjoding MW, Valley TS et al",
+      "year": 2022,
+      "journal": "BMJ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35793817/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "GOV.UK, \"Equity in medical devices: independent review, summary report\" (March 2024)",
+      "url": "https://gov.uk/government/publications/equity-in-medical-devices-independent-review-final-report/equity-in-medical-devices-independent-review-summary-report",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

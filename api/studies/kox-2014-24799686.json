@@ -1,0 +1,21 @@
+{
+  "pmid": "24799686",
+  "slug": "kox-2014-24799686",
+  "citation": {
+    "authors": "Kox M et al",
+    "year": 2014,
+    "journal": "Proc Natl Acad Sci U S A"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24799686/",
+  "page": "https://vilivity.com/studies/kox-2014-24799686/",
+  "cited_by": [
+    {
+      "entry": "breathwork",
+      "title": "Breathwork and slow breathing",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/breathwork/",
+      "record": null
+    }
+  ]
+}

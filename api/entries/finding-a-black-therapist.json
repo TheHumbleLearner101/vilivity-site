@@ -1,0 +1,178 @@
+{
+  "slug": "finding-a-black-therapist",
+  "title": "Finding a Black therapist or one who understands being Black",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do I find a Black therapist?",
+    "Where can I find a Black therapist in the UK?",
+    "Does it matter if my therapist is Black?",
+    "Are there directories of Black therapists?"
+  ],
+  "tradition_says": "Many people feel a therapist who shares their background will understand racism and family expectations without having to be taught, and word of mouth or a community directory is the usual route.",
+  "layer1": {
+    "plain_answer": "Directories in the UK and US list Black or culturally aware therapists. Research finds people moderately strongly prefer a therapist of their own background, but matching made almost no difference to how well treatment worked on average. The gaps were widest in studies of African American clients. A good fit matters more than the label alone.",
+    "do": [
+      {
+        "text": "In the UK, search BAATN, a network of Black, African and Asian therapists with a searchable directory.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+          "url": "https://www.baatn.org.uk/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "In the UK, look at Black Minds Matter UK, which points to a Black therapist finder and has its own therapy service (free places are limited at present).",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Black Minds Matter UK, homepage",
+          "url": "https://www.blackmindsmatteruk.com/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "In the US, search Inclusive Therapists, a directory that says applicants submit proof of identity and qualifications and which can be filtered by cultural knowledge, fees and language.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Inclusive Therapists, homepage",
+          "url": "https://www.inclusivetherapists.com/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "In the UK you can refer yourself to NHS talking therapies for anxiety and depression without seeing a GP first; ask whether you can state a preference.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask any therapist how they work with racism and identity; do not wait for a perfect match, as matching changed outcomes very little on average.",
+        "basis": "tested",
+        "source": "cabral-2011"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating a directory listing as a recommendation: these are lists, not endorsements, and fit is judged in the first session.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Inclusive Therapists, homepage",
+          "url": "https://www.inclusivetherapists.com/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Booking a private therapist who is not registered with a Professional Standards Authority accredited body.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Talking therapies\"",
+          "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Putting therapy off until you find a match: the average outcome benefit of matching was close to zero.",
+        "basis": "tested",
+        "source": "cabral-2011"
+      }
+    ],
+    "see_someone_when": [
+      "Low mood, anxiety or trauma is stopping you working, studying or looking after yourself (doctor or NHS in the UK talking therapies self-referral).",
+      "A therapist dismisses your experience of racism or you feel worse after several sessions (change therapist; tell your doctor if you were referred).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Clients and therapists across 52 to 81 studies per question; countries not stated in the abstract",
+      "design": "Meta-analysis of racial/ethnic matching: preferences, perceptions and outcomes",
+      "n": "52 preference, 81 perception, 53 outcome studies",
+      "finding": "People preferred a therapist of their own race or ethnicity (d 0.63, moderately strong) and rated them somewhat more positively (d 0.32), but matching made almost no difference to treatment outcomes on average (d 0.09). Effects varied a lot between studies, and studies with African American participants had the highest effect sizes on all three.",
+      "source": {
+        "authors": "Cabral RR, Smith TB",
+        "year": 2011,
+        "journal": "Journal of Counseling Psychology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21875181/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract read in full. Mostly US data; the abstract does not say how many studies were UK (UNVERIFIED).",
+      "id": "cabral-2011"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_driver": "Whether a Black therapist works better for Black clients: a meta-analysis of 52 to 81 studies finds a moderately strong preference (d 0.63) but almost no average outcome benefit (d 0.09); studies with African American participants had the highest effect sizes across preferences, perceptions and outcomes.",
+  "tier_note": "Fact-check 12 Nov: 'strong' preference corrected to 'moderately strong' (d 0.63) and the African American wording tightened to the abstract; tier unchanged. Tier B because the evidence is a review of mixed-population studies whose countries the abstract does not give, with substantial heterogeneity. Directory listings are facts about services, not evidence of quality; no directory was found with published outcome data in my search.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. The risk is a poor fit or an unregistered practitioner; registration is checked through the professional bodies, not the directory.",
+  "founder_flag": false,
+  "evidence_summary": "Cabral and Smith (2011) pooled studies of racial matching: people show a moderately strong preference (d 0.63) for a therapist of their own race, but average outcome gains were almost nil (d 0.09); studies with African American participants had the highest effect sizes across preferences, perceptions and outcomes. So choosing a Black therapist is a reasonable preference, not a proven treatment advantage. Directories opened today (12 Nov 2026), what they are and who runs them: BAATN (baatn.org.uk) is the Black, African and Asian Therapy Network, a UK network whose homepage advertises 1300+ therapists, online and in person, and a directory by location; Black Minds Matter UK (blackmindsmatteruk.com) is a UK mental health organisation for Black communities with a therapist finder and its own therapy service, saying free places are restricted at present; Therapy for Black Girls (therapyforblackgirls.com) is an online space for Black women and girls with a Find a Therapist page; the page also promotes a podcast and a book by Dr Joy Harden Bradford; Inclusive Therapists (inclusivetherapists.com) is a US directory of verified providers for BIPOC, LGBTQ+ and marginalised people, with a sibling non-profit that runs a fund for therapy; the Association of Black Psychologists (abpsi.org), founded in 1968, is a professional body whose site lists a Professional Service Directory and a Black Wellness Directory (I did not open the directory page itself). Therapy for Black Men (therapyforblackmen.org) returned HTTP 402 DEPLOYMENT_DISABLED when I tried it on 12 Nov, so it is not listed as live; I did not reach the other pages that mention it. These are directories, not endorsements.",
+  "measured_variables": [
+    "Preference for a same-race therapist",
+    "Perception of the therapist",
+    "Treatment outcome"
+  ],
+  "gaps": "Untested or not found: outcomes for Black clients in UK services by therapist ethnicity; whether directory-listed therapists have better results; cost and waiting times for the UK directories; how ABPsi's directory works for the public.",
+  "related": [
+    "racism-and-mental-health",
+    "stigma-and-starting-therapy",
+    "mens-mental-health-and-depression"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Cabral RR et al",
+      "year": 2011,
+      "journal": "Journal of Counseling Psychology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21875181/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Talking therapies\"",
+      "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/nhs-talking-therapies/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "BAATN (Black, African and Asian Therapy Network), homepage",
+      "url": "https://www.baatn.org.uk/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Black Minds Matter UK, homepage",
+      "url": "https://www.blackmindsmatteruk.com/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Inclusive Therapists, homepage",
+      "url": "https://www.inclusivetherapists.com/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Therapy for Black Girls, homepage",
+      "url": "https://www.therapyforblackgirls.com/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Association of Black Psychologists (ABPsi), homepage",
+      "url": "https://www.abpsi.org/",
+      "tag": "[official]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

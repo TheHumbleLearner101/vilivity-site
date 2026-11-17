@@ -1,0 +1,164 @@
+{
+  "slug": "finding-a-dermatologist-for-dark-skin",
+  "title": "Finding a dermatologist who knows dark skin",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "How do I find a dermatologist who knows dark skin?",
+    "Do I need a Black dermatologist?",
+    "What should I ask a dermatologist about dark skin?"
+  ],
+  "tradition_says": "Many Black people have been told they were seen by someone who had never learned to read their skin, and pass on the names of doctors who do.",
+  "layer1": {
+    "plain_answer": "Dark skin is under-represented in textbooks, and in one test dermatologists and AI both did worse on dark-skin photos, so it is fair to ask a clinician about their experience. In the UK a GP referral is the route; the BAD hub shows how common conditions look on black and brown skin.",
+    "do": [
+      {
+        "text": "Ask your doctor for a referral if treatment is not helping; the UK's NHS may refer you to a dermatologist.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Read the BAD hub on how common conditions look on black and brown skin before the appointment.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask what share of their patients have skin of colour and where they trained for it.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Black Health (blackhealth.org), \"How to find a Black dermatologist\", updated Sep 2026",
+          "url": "https://www.blackhealth.org/articles/how-to-find-a-black-dermatologist/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Photograph the area in bright natural light on a neutral background and take close-ups.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Black Health (blackhealth.org), \"How to find a Black dermatologist\", updated Sep 2026",
+          "url": "https://www.blackhealth.org/articles/how-to-find-a-black-dermatologist/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming a specialist will recognise your condition from a textbook picture: the dark-skin share of images in medical textbooks is small.",
+        "basis": "tested",
+        "source": "louie-2018-find"
+      },
+      {
+        "text": "Treating a US directory as a UK guide: the Black Health article is about US clinics and insurance.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Black Health (blackhealth.org), \"How to find a Black dermatologist\", updated Sep 2026",
+          "url": "https://www.blackhealth.org/articles/how-to-find-a-black-dermatologist/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A skin problem is not improving with treatment (doctor).",
+      "A mole or mark is changing (doctor, soon).",
+      "You were told \"it is nothing\" and the area is still changing (ask for a second opinion)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "656 skin images (207 Fitzpatrick V-VI) in the Diverse Dermatology Images dataset; dermatologists and AI",
+      "design": "Test of AI models and dermatologists on skin images by skin tone",
+      "n": "656",
+      "finding": "AI models did worse on Fitzpatrick V-VI than I-II (for example ROC-AUC 0.55 against 0.64 for ModelDerm, with overlapping 95% intervals of 0.46 to 0.64 and 0.55 to 0.70; DeepDerm 0.50 against 0.61, HAM10000 0.57 against 0.72; figures from the full text, PMC9374341, opened 12 Nov 2026); dermatologists were also worse on dark skin; fine-tuning on the dataset closed the AI gap.",
+      "source": {
+        "authors": "Daneshjou R, Vodrahalli K, Novoa RA et al",
+        "year": 2022,
+        "journal": "Science Advances",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35960806/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "From the research file (full text read 12 Nov 2026). Photos, not live clinic visits.",
+      "id": "daneshjou-2022"
+    },
+    {
+      "population": "4,146 images from four core US medical textbooks",
+      "design": "Image audit",
+      "n": 4146,
+      "finding": "74.5% of images showed light skin, 21% medium and 4.5% dark.",
+      "source": {
+        "authors": "Louie P, Wilkes R",
+        "year": 2018,
+        "journal": "Social Science and Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29501717/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "General medical textbooks, not dermatology texts.",
+      "id": "louie-2018-find"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That clinicians and algorithms do worse on dark-skin photos and that teaching images are mostly light-skinned: one image-based experiment and one audit. Whether seeing a dermatologist with dark-skin training improves outcomes is untested.",
+  "tier_note": "Observational image studies; no patient-outcome study. Directory advice comes from a US advocacy-style source and is labelled common advice.",
+  "harm_flag": false,
+  "harm_note": "The harm is a missed or late diagnosis.",
+  "founder_flag": false,
+  "evidence_summary": "In an experiment with 656 photos, 207 in Fitzpatrick V-VI, an AI model performed worse on dark skin and dermatologists did too. Medical textbooks showed 4.5% dark skin in one audit. The Black Health article lists directories and questions to ask, with a US focus. For UK use, the GP route and the BAD hub are the opened sources; I did not find a UK directory by skin of colour.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick V-VI)",
+    "Image representation in training material"
+  ],
+  "gaps": "Untested: whether seeing a dark-skin-experienced dermatologist improves outcomes; no UK directory of dermatologists by experience with skin of colour was found. The Black & Brown Skin handbook (blackandbrownskin.co.uk) loaded but showed only a tagline and a link to the handbook; its contents were not read, so it is named here but not cited as evidence.",
+  "related": [
+    "conditions-look-different-on-dark-skin",
+    "skin-cancer-and-moles-on-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Daneshjou R et al",
+      "year": 2022,
+      "journal": "Science Advances",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35960806/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Louie P et al",
+      "year": 2018,
+      "journal": "Social Science and Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29501717/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+      "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+      "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Black Health (blackhealth.org), \"How to find a Black dermatologist\", updated Sep 2026",
+      "url": "https://www.blackhealth.org/articles/how-to-find-a-black-dermatologist/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

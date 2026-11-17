@@ -1,0 +1,30 @@
+{
+  "pmid": "37431305",
+  "slug": "obi-2023-37431305",
+  "citation": {
+    "authors": "Obi ON",
+    "year": 2023,
+    "journal": "Current Opinion in Pulmonary Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37431305/",
+  "page": "https://vilivity.com/studies/obi-2023-37431305/",
+  "cited_by": [
+    {
+      "entry": "sarcoidosis-in-black-adults",
+      "title": "Sarcoidosis: symptoms, risk and follow-up",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sarcoidosis-in-black-adults/",
+      "record": {
+        "id": "obi-2023",
+        "population": "Published literature on sarcoidosis by race, sex and place",
+        "n": "not applicable",
+        "design": "Review (Current Opinion in Pulmonary Medicine)",
+        "finding": "African Americans and women have the highest incidence, more advanced presentations and higher death rates, and African American women have the highest mortality. The author says the differences may reflect healthcare disparities and income more than genetics or biology alone: patients in the lowest income strata present with the most severe disease and report more barriers to care.",
+        "line_tier": "B",
+        "note": "A narrative review, abstract read; mostly US evidence.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

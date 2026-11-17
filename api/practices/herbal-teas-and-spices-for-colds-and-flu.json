@@ -1,0 +1,100 @@
+{
+  "slug": "herbal-teas-and-spices-for-colds-and-flu",
+  "name": "Herbal teas, ginger, lime and spices for colds and flu",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Drink hot infusions, decoctions and \"punch\" made from local herbs (mint family especially), often with ginger, lime or honey, at the first sign of a cold; Haitian families did this in the COVID period.",
+  "why_they_say_it_works": "Heat, sweating and the plant itself are believed to \"break\" the cold.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Thesnor V et al 2024, PMID 39273867 (TRAMIL-style survey, Haiti)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39273867/",
+      "quote_or_summary": "120 Haitians interviewed with the TRAMIL questionnaire: 75 plants from 43 families for COVID-19, influenza and respiratory illness; Lamiaceae the commonest family; infusion, decoction and punch the usual methods."
+    },
+    {
+      "source": "Homemade plant-based foods and beverages as community responses to COVID-19 (rapid survey incl. Jamaica), 2020, J Ethnobiol Ethnomed, PMID 33298108",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33298108/",
+      "quote_or_summary": "Rapid survey (Jamaica among 17 case studies): people relied mainly on teas and spices, repurposing everyday homemade remedies for flu."
+    },
+    {
+      "source": "Clement YN et al 2015, J Ethnobiol Ethnomed, PMID 26369926 (TRAMIL survey, Trinidad)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26369926/",
+      "quote_or_summary": "Trinidad: Leonotis nepetifolia was the plant reaching 20% citation for cough and common cold."
+    },
+    {
+      "source": "Reddit, r/blackladies (raw pull: _reddit/r6_blackladies_family_remedies_thread.json)",
+      "type": "forum",
+      "url": "https://www.reddit.com/r/blackladies/comments/qp1wpd/what_are_some_home_remedies_passed_down_in_your/",
+      "quote_or_summary": "4 users describe family remedies for colds and coughs: (1) an Afro-Barbadian user, black tea with lime and rum for a cold or sore throat; (2) hot water with lemon, honey, garlic, ginger, cayenne and cinnamon for congestion; (3) crushed garlic in warm milk with honey; (4) chewing cloves for a cough. Only the first states a Caribbean origin; the others do not state a region. Forum evidence documents use only; the tier is unchanged."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Garlic for the common cold",
+      "population": "Cochrane: one trial, 146 adults",
+      "finding": "Fewer colds on garlic supplement (24 vs 65), but \"insufficient clinical trial evidence\"; claims rely largely on poor-quality evidence.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Garlic for the common cold, Cochrane 2014, PMID 25386977",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25386977/"
+      }
+    },
+    {
+      "tested": "Honey for acute cough in children",
+      "population": "Cochrane: 6 RCTs, 899 children",
+      "finding": "Honey probably reduces cough frequency vs no treatment or placebo (moderate certainty).",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Honey for acute cough in children, Cochrane 2018, PMID 29633783",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29633783/"
+      }
+    },
+    {
+      "tested": "Steam (heated humidified air) for the common cold",
+      "population": "Cochrane: 6 trials, 387 people",
+      "finding": "Uncertain whether it relieves symptoms; fixed and random-effects analyses disagree.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Heated, humidified air for the common cold, Cochrane 2017, PMID 28849871",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28849871/"
+      }
+    },
+    {
+      "tested": "The Caribbean herbs themselves (Leonotis, Lamiaceae teas)",
+      "population": "n/a",
+      "finding": "No human trial retrieved for the plants actually cited. Thesnor's authors say many are \"scientifically validated\" but name Samyda rosea as unresearched; I did not check the validation claim.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "low",
+  "harm_note": "Hot drinks are low risk; the harm is delay when a child or older person has breathing difficulty (general advice, not from these sources).",
+  "links_to_entries": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines"
+  ],
+  "gaps": [
+    "No source opened tests hot water and lime specifically.",
+    "Honey is not safe under 12 months (general guidance, not in the Cochrane abstract read).",
+    "Tier D is for the herbs cited; honey and garlic are separate lines."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/herbal-teas-and-spices-for-colds-and-flu/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "40835838",
+  "slug": "greene-2025-40835838",
+  "citation": {
+    "authors": "Greene CA, Hampton G, Jaworski J, Shuey MM et al",
+    "year": 2025,
+    "journal": "Nature Communications"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40835838/",
+  "page": "https://vilivity.com/studies/greene-2025-40835838/",
+  "cited_by": [
+    {
+      "entry": "keloids-and-piercings",
+      "title": "Keloids and piercings",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/keloids-and-piercings/",
+      "record": {
+        "id": "greene-2025",
+        "population": "7,837 keloid cases and 1,593,009 controls across continental ancestry groups",
+        "n": 7837,
+        "design": "Multi-ancestry genome-wide association meta-analysis",
+        "finding": "26 genetic loci were found, 12 replicated. Estimated heritability was 6% in European, 21% in East Asian and 34% in African ancestry analyses. The authors state keloids are more likely in darker-skinned people of African and Asian descent than in Europeans.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "postpartum-hot-water-hot-food-and-pepper",
+  "name": "Hot water, hot food and pepper soup after birth",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "For weeks after birth the mother drinks hot water, eats hot (temperature) and very peppery food and bathes in hot water.",
+  "why_they_say_it_works": "Birth is believed to leave the body \"cold\" and \"open\"; heat restores it and helps the milk.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Udigwe GO, Emelumadu OF, Udigwe IB 2013, West Afr J Med, PMID 24488282",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24488282/",
+      "quote_or_summary": "Nnewi, 330 Igbo mothers: 81.8% regularly drank hot water, 85.5% bathed in hot water, 81.8% took hot food and 75.8% took very peppery food."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Hot postpartum regimen",
+      "population": "n/a",
+      "finding": "My search found no study of the regimen as a whole.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "The Nnewi authors judged some of the practices in their list to be dangerous; the abstract does not say which, and I did not read the full text.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "gaps": [
+    "\"Omugwo\" (the Igbo postpartum care custom) not searched by name."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/postpartum-hot-water-hot-food-and-pepper/"
+}

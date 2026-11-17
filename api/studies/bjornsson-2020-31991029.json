@@ -1,0 +1,30 @@
+{
+  "pmid": "31991029",
+  "slug": "bjornsson-2020-31991029",
+  "citation": {
+    "authors": "Bjornsson HK, Bjornsson ES, Avula B, Khan IA et al",
+    "year": 2020,
+    "journal": "Liver International"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31991029/",
+  "page": "https://vilivity.com/studies/bjornsson-2020-31991029/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha",
+      "title": "Ashwagandha: stress, sleep, thyroid and liver cautions",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha/",
+      "record": {
+        "id": "bjornsson-2020",
+        "population": "Five adults (mean age 43, three men) with liver injury attributed to ashwagandha supplements, from Iceland and the US Drug-Induced Liver Injury Network",
+        "n": 5,
+        "design": "Case series with structured expert causality assessment",
+        "finding": "All five became jaundiced with nausea, lethargy, itching or abdominal discomfort after 2 to 12 weeks. The injury was cholestatic or mixed. Itching and raised bilirubin lasted 5 to 20 weeks, no one developed liver failure, and liver tests returned to normal within 1 to 5 months in four of the five.",
+        "line_tier": "B",
+        "note": "A harm signal from five cases. It cannot say how often this happens. Not a trial.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

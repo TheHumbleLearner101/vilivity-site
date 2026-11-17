@@ -1,0 +1,214 @@
+{
+  "slug": "breathwork",
+  "title": "Breathwork and slow breathing",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "Does breathwork reduce stress?",
+    "Can breathing exercises lower blood pressure?",
+    "Does breathwork work for Black people?",
+    "Which breathing technique should I use?"
+  ],
+  "tradition_says": "Breath practices appear in many traditions, and slow, controlled breathing is widely believed to calm the body, lower stress and ease high blood pressure.",
+  "layer1": {
+    "plain_answer": "Slow breathing practice lowers stress and blood pressure a little in trials of adults generally. In the few small studies of African American adults the results were mixed, and one found breathing alone did nothing straight away. It is an extra, not a replacement for treatment.",
+    "do": [
+      {
+        "text": "Sit or lie comfortably, breathe gently into your belly: in through the nose, out through the mouth, counting to five.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Breathing exercises for stress\"",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep going for at least five minutes, ideally as a daily habit.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Breathing exercises for stress\"",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Notice whether it helps you: effects in trials were small.",
+        "basis": "tested",
+        "source": "fincham-2023"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating it as a cure for high blood pressure or anxiety.",
+        "basis": "tested",
+        "source": "fincham-2023"
+      },
+      {
+        "text": "Expecting breathing alone to lower blood pressure straight away: in one tiny crossover trial it did not.",
+        "basis": "tested",
+        "source": "park-2014"
+      }
+    ],
+    "see_someone_when": [
+      "Your blood pressure stays high despite practice (doctor).",
+      "Anxiety or low mood is stopping you functioning (doctor or talking therapy service).",
+      "Breathing practice makes you dizzy, faint or gives chest pain (stop, and see a doctor).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "785 adults in 12 randomised trials (various countries; ethnicity not given in the abstract)",
+      "design": "Meta-analysis of randomised controlled trials of breathwork against non-breathwork controls, subjective stress",
+      "n": 785,
+      "finding": "Breathwork was associated with lower stress than control conditions (effect size g = -0.35, 95% CI -0.55 to -0.14). For anxiety (20 trials) g was -0.32 and for depressive symptoms (18 trials) -0.40. The authors urge caution to avoid a miscalibration between hype and evidence.",
+      "source": {
+        "authors": "Fincham GW, Strauss C, Montero-Marin J, Cavanagh K",
+        "year": 2023,
+        "journal": "Scientific Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36624160/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "tier_variant trial-other-population. Small-to-medium effect; most studies at moderate risk of bias.",
+      "id": "fincham-2023"
+    },
+    {
+      "population": "15 randomised trials (hypertension and cardiovascular settings)",
+      "design": "Systematic review and meta-analysis of breathing exercises on blood pressure and heart rate",
+      "n": "15 trials",
+      "finding": "Breathing exercises lowered systolic pressure by 7.06 mmHg (95% CI -10.20 to -3.92) and diastolic by 3.43 (-4.89 to -1.97), with a small fall in heart rate. The authors note the studies are not free of bias.",
+      "source": {
+        "authors": "Garg P, Mendiratta A, Banga A, Bucharles A et al",
+        "year": 2024,
+        "journal": "International Journal of Cardiology: Cardiovascular Risk and Prevention",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38179185/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "garg-2024"
+    },
+    {
+      "population": "African American older adults with mild cognitive impairment and hypertension (pilot, US community centre)",
+      "design": "Cluster randomised pilot of Mindfulness in Motion plus DASH diet (includes breathing exercises, mindful movement and guided meditation) against attention-only and control groups, 3 months",
+      "n": "not stated in the abstract",
+      "finding": "Feasible and culturally acceptable. Systolic blood pressure fell 7.2 mmHg in the intervention group against 0.7 in the attention-only group, but there was no difference from the true control group, and no changes in diet or mindfulness.",
+      "source": {
+        "authors": "Wright KD, Klatt MD, Adams IR, Nguyen CM et al",
+        "year": 2021,
+        "journal": "Journal of the American Geriatrics Society",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33227157/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A mixed package, not breathwork alone, and a feasibility pilot. Counts toward 'a trial in African Americans exists' only.",
+      "id": "wright-2021"
+    },
+    {
+      "population": "African American women with hypertension",
+      "design": "Intervention study of therapeutic massage and teaching diaphragmatic breathing over one or six weeks",
+      "n": "not stated",
+      "finding": "Systolic and diastolic pressure and an anxiety score fell significantly in the group one week after the massage intervention (P between .01 and .03). The abstract does not state randomisation or a comparison group.",
+      "source": {
+        "authors": "Jefferson LL",
+        "year": 2010,
+        "journal": "Journal of the National Black Nurses Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20857772/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Design unclear from the abstract; massage and breathing teaching were combined.",
+      "id": "jefferson-2010"
+    },
+    {
+      "population": "15 hypertensive African American men with chronic kidney disease",
+      "design": "Randomised crossover: 14 minutes of mindfulness meditation against blood-pressure education; a subset also did controlled breathing",
+      "n": 15,
+      "finding": "Mindfulness meditation lowered blood pressure, heart rate and muscle sympathetic nerve activity. Controlled breathing alone did not reduce blood pressure, heart rate or nerve activity in this study.",
+      "source": {
+        "authors": "Park J, Lyles RH, Bauer-Wu S",
+        "year": 2014,
+        "journal": "American Journal of Physiology: Regulatory, Integrative and Comparative Physiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24829497/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Tiny, acute, crossover; the controlled-breathing arm was a subset. This is a counter-signal to the breathing meta-analysis in this population.",
+      "id": "park-2014"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "Slow breathing lowers stress and blood pressure a little: randomised trials in adults generally, not in people of African descent.",
+  "tier_note": "Randomised trials support small effects on stress and blood pressure in general adult populations; the few trials in African Americans are pilots of mixed packages, and one tiny one found controlled breathing alone did nothing acutely.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for slow breathing in what I read. Fast, forceful breathing styles (hyperventilation) were not studied here; Kox 2014 describes intermittent respiratory alkalosis and hypoxia from them. This is a gap, not a finding of harm.",
+  "founder_flag": true,
+  "founder_note": "founder's own practice",
+  "evidence_summary": "Slow breathing practice lowered stress and blood pressure by a small to moderate amount in trials of adults overall, and the authors of the stress review warn against hype. In the few trials in African Americans, results are small pilots or mixed packages, and one tiny crossover found controlled breathing alone did not change blood pressure. Whether breathwork works the same in people of African descent is untested at proper scale.",
+  "measured_variables": [
+    "Blood pressure, heart rate",
+    "Self-reported stress and anxiety scores",
+    "Muscle sympathetic nerve activity (one small study)"
+  ],
+  "gaps": "Untested: breathwork in large trials of Black adults; which technique (the trials mix many); long-term benefit; fast hyperventilation-style breathing in this population; effect in people on blood-pressure drugs. Not verified: effect sizes for Black participants specifically (not reported in the abstracts).",
+  "related": [
+    "meditation",
+    "ice-baths-and-cold-exposure",
+    "stress-burnout-and-blood-pressure",
+    "sleep-and-sleep-apnoea"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Fincham GW et al",
+      "year": 2023,
+      "journal": "Sci Rep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36624160/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Garg P et al",
+      "year": 2024,
+      "journal": "Int J Cardiol Cardiovasc Risk Prev",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38179185/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Wright KD et al",
+      "year": 2021,
+      "journal": "J Am Geriatr Soc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33227157/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Jefferson LL",
+      "year": 2010,
+      "journal": "J Natl Black Nurses Assoc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20857772/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Park J et al",
+      "year": 2014,
+      "journal": "Am J Physiol Regul Integr Comp Physiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24829497/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kox M et al",
+      "year": 2014,
+      "journal": "Proc Natl Acad Sci U S A",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24799686/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Breathing exercises for stress\"",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

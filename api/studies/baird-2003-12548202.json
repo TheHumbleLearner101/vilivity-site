@@ -1,0 +1,47 @@
+{
+  "pmid": "12548202",
+  "slug": "baird-2003-12548202",
+  "citation": {
+    "authors": "Baird DD, Dunson DB, Hill MC, Cousins D et al",
+    "year": 2003,
+    "journal": "American Journal of Obstetrics and Gynecology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/12548202/",
+  "page": "https://vilivity.com/studies/baird-2003-12548202/",
+  "cited_by": [
+    {
+      "entry": "fibroids-symptoms-treatment-and-pregnancy",
+      "title": "Fibroids: symptoms, treatment and pregnancy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/fibroids-symptoms-treatment-and-pregnancy/",
+      "record": {
+        "id": "baird-2003",
+        "population": "1,364 randomly selected women aged 35-49 in a US urban health plan (Black and White)",
+        "n": 1364,
+        "design": "Ultrasound screening plus records, estimating cumulative incidence of fibroids by age",
+        "finding": "By age 50, cumulative incidence of fibroids was above 80% for Black women and nearly 70% for White women (odds ratio 2.9, 95% CI 2.5-3.4). Fibroids developed at earlier ages in Black women. Fifty-one percent of premenopausal women with no previous diagnosis had ultrasound evidence of fibroids.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "iron-and-fibroids",
+      "title": "Iron, heavy periods and fibroids",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/iron-and-fibroids/",
+      "record": {
+        "id": "baird-2003",
+        "population": "1,364 randomly selected women aged 35-49 in a US urban health plan (Black and White)",
+        "n": 1364,
+        "design": "Ultrasound screening plus records, estimating cumulative incidence of fibroids by age",
+        "finding": "By age 50, cumulative incidence of fibroids was above 80% for Black women and nearly 70% for White women (odds ratio 2.9, 95% CI 2.5-3.4). Fibroids developed at earlier ages in Black women. Fifty-one percent of premenopausal women with no previous diagnosis had ultrasound evidence of fibroids.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

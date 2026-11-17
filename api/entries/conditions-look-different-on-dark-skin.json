@@ -1,0 +1,236 @@
+{
+  "slug": "conditions-look-different-on-dark-skin",
+  "title": "How skin conditions look on dark skin (redness, rashes, rosacea, sunburn)",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "How do skin conditions and rashes look on dark skin compared with textbook photos?",
+    "Can Black people get freckles, shingles, poison ivy, rosacea or tattoos like anyone else?",
+    "Can Black people get rosacea?",
+    "Can Black people get sunburned or tan?",
+    "What does redness look like on dark skin?",
+    "Does shingles look different on Black skin?"
+  ],
+  "tradition_says": "Rashes, sunburn and redness are described as \"red\", so people with dark skin are told they cannot burn or get certain conditions; textbooks show mostly light skin.",
+  "layer1": {
+    "plain_answer": "Redness on dark skin can look pink, purple, brown, grey or just a subtle darkening, so it is easy to miss. Eczema, rosacea and sunburn all happen on dark skin and are often under-diagnosed. Compare the affected area with your unaffected skin, and tell your doctor what changed.",
+    "do": [
+      {
+        "text": "Look for colour change, comparing the affected area with unaffected skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Remember that sunburn can happen on dark skin even if it is uncommon, and may not look red.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Look for infection signs such as hot, swollen skin: redness can be harder to see on brown and black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne\"",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Look at the UK's NHS eczema gallery, which shows dark brown skin as well as light, so you know the range of appearance.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For shingles, look for blotches on one side of the body that become itchy blisters: the UK's NHS says the redness can be harder to see on brown and black skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Shingles\"",
+          "url": "https://www.nhs.uk/conditions/shingles/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming no redness means no inflammation: in Black patients with rosacea, many had skin-coloured papules rather than classic redness.",
+        "basis": "tested",
+        "source": "dlova-2017"
+      },
+      {
+        "text": "Relying on textbook photos to judge your own skin: the dark-skin share of images in four core medical textbooks was 4.5%.",
+        "basis": "tested",
+        "source": "louie-2018"
+      },
+      {
+        "text": "Assuming you cannot burn: the BAD says it can happen.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+          "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Redness-free but warm, swollen, painful or spreading skin (doctor or NHS 111 in the UK).",
+      "A rash that has not settled in two weeks or keeps coming back (doctor).",
+      "A facial rash with bumps and no obvious cause (doctor, then dermatologist: rosacea can be missed)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "15 Black South Africans (phototypes V and VI) diagnosed with rosacea among 6,700 patients over 8 years",
+      "design": "Retrospective chart review",
+      "n": 15,
+      "finding": "Rosacea was rare in this clinic (0.2% of patients). Those with phototype VI mostly had skin-coloured papules; those with phototype V had erythema, telangiectasia and red papules; 10 of 15 (67%) had granulomatous rosacea on histology and 5 (33%) declined a facial biopsy. 5 (33%) were HIV positive and 5 (33%) had used topical steroids, so the group is not a clean picture of rosacea alone. The authors say a high index of suspicion is needed because classic erythema and telangiectasia are hard to discern.",
+      "source": {
+        "authors": "Dlova NC, Mosam A",
+        "year": 2017,
+        "journal": "Clinical and Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28639713/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small case series; one clinic; 5 of 15 were HIV positive and 5 had used topical steroids.",
+      "id": "dlova-2017"
+    },
+    {
+      "population": "US national ambulatory care survey 1993-2010",
+      "design": "Survey of rosacea diagnosis by race",
+      "n": "not stated",
+      "finding": "2.0% of patients with a rosacea diagnosis were Black. When Black patients attended with \"other diseases of the skin\", rosacea was the diagnosis for 2.2% against 8.3% of White patients; the authors suggest underdiagnosis in skin of colour.",
+      "source": {
+        "authors": "Al-Dabagh A, Davis SA, McMichael AJ, Feldman SR",
+        "year": 2014,
+        "journal": "Dermatology Online Journal",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25526008/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cannot separate lower rates from underdiagnosis.",
+      "id": "aldabagh-2014"
+    },
+    {
+      "population": "4,146 images from four core US medical textbooks",
+      "design": "Image audit",
+      "n": 4146,
+      "finding": "74.5% of images showed light skin, 21% medium and 4.5% dark.",
+      "source": {
+        "authors": "Louie P, Wilkes R",
+        "year": 2018,
+        "journal": "Social Science and Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29501717/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "General medical textbooks, not dermatology texts; from the research file (abstract opened 12 Nov).",
+      "id": "louie-2018"
+    },
+    {
+      "population": "Dermatology textbooks (machine-learning audit)",
+      "design": "Image audit",
+      "n": "not stated",
+      "finding": "Fitzpatrick V-VI images made up only 10.5% of all skin images.",
+      "source": {
+        "authors": "Tadesse GA et al",
+        "year": 2023,
+        "journal": "npj Digital Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37596324/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "From the research file.",
+      "id": "tadesse-2023"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That redness is harder to see and some conditions are under-diagnosed on dark skin: a small chart review, a survey with a plausible but unproven explanation, and two audits of textbook images. No study measured how much clinicians miss by skin tone (my search found nothing).",
+  "tier_note": "Observational and small; consensus and the BAD hub support the main message. The effect of skin tone on clinician grading is untested.",
+  "harm_flag": false,
+  "harm_note": "The harm is a missed or late diagnosis, covered by see someone.",
+  "founder_flag": false,
+  "evidence_summary": "The BAD says erythema can appear pink, red, purple or only as a subtle darkening on darker skin, and sunburn, though uncommon, can happen and may not look red. Rosacea was documented in 15 Black South African patients where classic redness was hard to see, and a US survey suggested it is under-recognised. Textbook images are mostly light skin: 4.5% dark in four medical textbooks and 10.5% Fitzpatrick V-VI in a dermatology audit. The freckles, shingles, poison ivy and tattoo parts of the question have no source in this entry.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick V-VI)",
+    "Erythema colour",
+    "Image representation in teaching material"
+  ],
+  "gaps": "Untested or not covered: how much clinician grading changes with skin tone; freckles, shingles, poison ivy and tattoos on dark skin (no source opened, so answered here only as \"no source\"); psoriasis and lupus appearance. The 2026 international consensus on knowledge gaps (Lim et al., PMID 41195756) is in the research file but was not opened for this entry. 12 Nov: shingles added from the UK's NHS page (opened). Freckles, poison ivy and tattoos on dark skin: no source opened.",
+  "related": [
+    "eczema-on-dark-skin",
+    "sunscreen-on-dark-skin",
+    "finding-a-dermatologist-for-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Dlova NC et al",
+      "year": 2017,
+      "journal": "Clinical and Experimental Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28639713/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Al-Dabagh A et al",
+      "year": 2014,
+      "journal": "Dermatology Online Journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25526008/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Louie P et al",
+      "year": 2018,
+      "journal": "Social Science and Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29501717/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Tadesse GA et al",
+      "year": 2023,
+      "journal": "npj Digital Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37596324/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+      "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Acne\"",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Atopic eczema\"",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Shingles\"",
+      "url": "https://www.nhs.uk/conditions/shingles/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

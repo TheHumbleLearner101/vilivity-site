@@ -1,0 +1,30 @@
+{
+  "pmid": "41199218",
+  "slug": "naeini-2025-41199218",
+  "citation": {
+    "authors": "Naeini EK, Eskandari M, Mortazavi M, Gholaminejad A et al",
+    "year": 2025,
+    "journal": "BMC Nephrology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41199218/",
+  "page": "https://vilivity.com/studies/naeini-2025-41199218/",
+  "cited_by": [
+    {
+      "entry": "creatine-supplements",
+      "title": "Creatine supplements: strength, kidneys and your kidney test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/creatine-supplements/",
+      "record": {
+        "id": "naeini-2025",
+        "population": "Adults in 21 studies (12 in the creatinine meta-analysis: 177 on creatine, 263 controls)",
+        "n": 440,
+        "design": "Systematic review and meta-analysis of creatine and kidney function",
+        "finding": "Creatine produced a small, statistically significant rise in serum creatinine, with no significant change in glomerular filtration rate (GFR). The authors call the creatinine rise modest and probably due to metabolic turnover with no sign of kidney impairment.",
+        "line_tier": "B",
+        "note": "Mostly healthy adults. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

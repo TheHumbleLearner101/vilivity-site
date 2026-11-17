@@ -1,0 +1,50 @@
+{
+  "slug": "sorrel-drink",
+  "name": "Sorrel (hibiscus) drink",
+  "regions": [
+    "Caribbean",
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Steep dried sorrel calyces (Hibiscus sabdariffa) with ginger and cloves, sweeten and chill; a Christmas staple in Jamaica and drunk through the year; known as zobo or sobolo in West Africa.",
+  "why_they_say_it_works": "It is said to be cooling, good for the heart and \"pressure\", and rich in vitamin C.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "'Sorrel, both delicious and nutritious', Jamaica Gleaner, 22 Dec 2014 (opened 12 Nov 2026)",
+      "type": "article",
+      "url": "https://past.jamaica-gleaner.com/article/health/20141224/sorrel-both-delicious-and-nutritious",
+      "quote_or_summary": "Jamaica Gleaner health column: popular year-round, made by steeping the whole calyx; traditional uses listed as diuretic, tonic, cough remedy; says it is said to lower blood pressure, but cites no study."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Hibiscus (sorrel) for blood pressure",
+      "population": "Umbrella review and meta-analysis of 26 RCTs, 1,797 adults (Iran, Mexico, Egypt, Nigeria and others, not diaspora-specific)",
+      "finding": "Dose-dependent fall in systolic and diastolic pressure vs placebo; no significant difference vs antihypertensive drugs; moderate credibility for a fall of more than 10 mmHg.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Norouzzadeh M et al 2025, Complement Ther Med, PMID 39870328",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39870328/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "low",
+  "harm_note": "Can add to blood pressure drugs; sweetened versions add sugar; a minor, clinically insignificant rise in AST was noted in one analysis. The Gleaner claims about cancer are uncited.",
+  "links_to_entries": [
+    "hibiscus-sorrel-blood-pressure",
+    "high-blood-pressure-in-black-adults"
+  ],
+  "gaps": [
+    "Home sorrel drinks are heavily sweetened; trial doses are unsweetened tea or extract.",
+    "No trial in Black populations.",
+    "Zobo/sobolo preparation documentation not opened."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/sorrel-drink/"
+}

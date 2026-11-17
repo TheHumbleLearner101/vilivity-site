@@ -1,0 +1,47 @@
+{
+  "pmid": "42429484",
+  "slug": "hussain-2026-42429484",
+  "citation": {
+    "authors": "Hussain T, Juraschek SP, Miller ER 3rd, Sacks FM et al",
+    "year": 2026,
+    "journal": "American Journal of Hypertension"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42429484/",
+  "page": "https://vilivity.com/studies/hussain-2026-42429484/",
+  "cited_by": [
+    {
+      "entry": "caribbean-and-west-african-diet-and-health",
+      "title": "Caribbean and West African diets and health",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/caribbean-and-west-african-diet-and-health/",
+      "record": {
+        "id": "hussain-2026-d",
+        "population": "335 adults with ambulatory blood pressure data in the DASH-Sodium trial, 58% self-reported Black",
+        "n": 335,
+        "design": "Randomised controlled feeding trial of a control diet and DASH diet at three sodium levels",
+        "finding": "Reducing sodium and consuming the DASH diet, alone or combined, significantly lowered 24-hour, awake and asleep blood pressure in Black and non-Black participants.",
+        "line_tier": "A",
+        "note": "DASH is a US-designed pattern, not a Caribbean or West African one.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "salt-and-blood-pressure",
+      "title": "Salt and blood pressure",
+      "module": "food",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/food/salt-and-blood-pressure/",
+      "record": {
+        "id": "hussain-2026",
+        "population": "335 adults with ambulatory blood pressure data in the DASH-Sodium feeding trial, 58% self-reported Black",
+        "n": 335,
+        "design": "Randomised controlled feeding trial: control or DASH diet, each at low, intermediate and high sodium for 30 days in random order",
+        "finding": "Compared with the control diet at high sodium, reducing sodium and eating the DASH diet, alone or combined, significantly lowered 24-hour, awake and asleep blood pressure in Black and non-Black participants. The DASH diet with low sodium cut awake systolic pressure by 9.0 mmHg in Black and 7.5 in non-Black participants. Racial differences in achieved levels of asleep pressure persisted.",
+        "line_tier": "A",
+        "note": "Food was supplied in a feeding trial, so it shows what the diet can do, not what people do at home.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

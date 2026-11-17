@@ -1,0 +1,155 @@
+{
+  "slug": "choosing-a-stylist-braider-or-loctician",
+  "title": "Choosing a stylist, braider or loctician",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I find a stylist, braider or loctician who knows my hair?",
+    "What should I ask a stylist or loctician before booking?"
+  ],
+  "tradition_says": "Find someone who specialises in natural hair, ideally recommended by people whose hair you admire; a stylist who knows textured hair will look after your scalp and hair better.",
+  "layer1": {
+    "plain_answer": "No study shows that a stylist's training or specialism gives better hair or scalp outcomes. In one small US survey, most Black cosmetologists had never heard of two scarring hair-loss conditions. Book a consultation or a simple wash first, watch how they handle your hair, and tell them when a style hurts.",
+    "do": [
+      {
+        "text": "Book a consultation or a simple wash and condition first, to see how they handle your hair before a long service.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Going Natural, \"How to select a natural hairstylist\" (a natural-hair blog)",
+          "url": "https://going-natural.com/how-to-select-a-natural-hairstylist/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about their experience with your hair type, the products they use and the price before you book.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Going Natural, \"How to select a natural hairstylist\" (a natural-hair blog)",
+          "url": "https://going-natural.com/how-to-select-a-natural-hairstylist/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Have braids put in by a trained, qualified professional, and relaxers by a trained, experienced one.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Say so if it hurts: scalp pain after installation means braids are probably too tight.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "For locs, ask a loctician how often to retwist: one booking site says about every 4 weeks for starter locs and every 8 to 12 weeks or more for mature locs, and that retwisting too often can cause thinning and breakage.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "StyleSeat (a booking platform), \"How often should you retwist locs\" (loctician tips credited to Tara Cline; no qualifications listed)",
+          "url": "https://www.styleseat.com/blog/how-often-should-you-retwist-locs/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Expecting your stylist to spot scalp disease: in one survey most cosmetologists had not heard of lichen planopilaris or CCCA.",
+        "basis": "tested",
+        "source": "onamusi-2025"
+      }
+    ],
+    "see_someone_when": [
+      "Hair loss, bald patches, or a scalp that is sore, itchy or scaly: a doctor, for a dermatology referral, not a stylist.",
+      "A stylist or braider tells you to see a doctor about your scalp (doctor or dermatologist).",
+      "A hairline that keeps moving back (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "19 African-American cosmetologists, US",
+      "design": "Anonymous online survey",
+      "n": "19",
+      "finding": "78.9% had never heard of lichen planopilaris and 57.9% had never heard of CCCA. All reported avoiding or limiting tight braids or locs and tight ponytails or buns; 89.5% avoided tight weaves. 94.7% (18 of 19) had referred a client to a dermatologist in the past year. The authors say there are gaps in knowledge of hair loss risk factors.",
+      "source": {
+        "authors": "Onamusi T et al",
+        "year": 2025,
+        "journal": "International Journal of Trichology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40654542/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Tiny self-selected survey; says nothing about outcomes of using a trained stylist.",
+      "id": "onamusi-2025"
+    },
+    {
+      "population": "Stylist or loctician training and client outcomes",
+      "design": "PubMed search run 12 Nov 2026, exact string: (hairdresser OR stylist OR cosmetologist OR loctician) AND (\"natural hair\" OR afro-textured OR \"African American\") AND (training OR knowledge OR referral) (result count 25).",
+      "n": 0,
+      "finding": "My search found nothing on outcomes: of 25 results I read the first 8 titles; one is the cosmetologist survey above (PMID 40654542), one a knowledge-gaps paper (Douglas 2024, PMID 38197981, title read, abstract empty in PubMed), the rest salon-based health-promotion or unrelated. None compares hair or scalp outcomes by stylist training. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hairdresser+OR+stylist+OR+cosmetologist+OR+loctician%29+AND+%28%22natural+hair%22+OR+afro-textured+OR+%22African+American%22%29+AND+%28training+OR+knowledge+OR+referral%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "stylist-search"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a stylist, braider or loctician who specialises in afro hair gives better hair and scalp results: no study of outcomes by stylist found.",
+  "tier_note": "D because the claim has no outcome study; the cosmetologist survey is a B line about knowledge, not results. A trial or cohort comparing outcomes by stylist training would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. Hidden risk: tight installation by any stylist is a traction risk (BAD, other entries).",
+  "founder_flag": false,
+  "evidence_summary": "The guidance is general. The BAD leaflet asks for trained, qualified or experienced professionals for braids and relaxers but gives no criteria for choosing one. A natural-hair blog suggests asking for recommendations, booking a consultation or a wash first, checking how the stylist handles your hair, and asking about experience with your hair type, products and cost. The only study found is a 19-person survey of Black cosmetologists: they avoided tight styles, nearly all had referred a client to a dermatologist, but most did not know two scarring conditions.",
+  "measured_variables": [
+    "Stylist training (not measured)"
+  ],
+  "gaps": "Untested: outcomes by stylist training; a reliable directory; how to judge a loctician or braider for scalp safety. I opened one loctician-specific page (StyleSeat, a booking platform, with no author credentials and a single quoted loctician; it is added as common advice) but no clinical, training-body or outcome source; earlier I did not open a loctician-specific source (a YouTube search found loctician advice videos but the caption download was rate-limited, so none was read). Reddit not read (snippets only). Closes the 12 Nov partial as \"common advice from one blog; no outcome study\".",
+  "related": [
+    "finding-a-hair-and-scalp-specialist",
+    "braids-twists-and-extensions",
+    "locs-starting-washing-and-maintenance",
+    "finding-a-dermatologist-for-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Onamusi T et al",
+      "year": 2025,
+      "journal": "International Journal of Trichology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40654542/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Going Natural, \"How to select a natural hairstylist\" (a natural-hair blog)",
+      "url": "https://going-natural.com/how-to-select-a-natural-hairstylist/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "StyleSeat (a booking platform), \"How often should you retwist locs\" (loctician tips credited to Tara Cline; no qualifications listed)",
+      "url": "https://www.styleseat.com/blog/how-often-should-you-retwist-locs/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "22302233",
+  "slug": "palta-2012-22302233",
+  "citation": {
+    "authors": "Palta P, Page G, Piferi RL, Gill JM et al",
+    "year": 2012,
+    "journal": "Journal of Urban Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22302233/",
+  "page": "https://vilivity.com/studies/palta-2012-22302233/",
+  "cited_by": [
+    {
+      "entry": "meditation",
+      "title": "Meditation",
+      "module": "mind",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/mind/meditation/",
+      "record": {
+        "id": "palta-2012",
+        "population": "20 low-income African American older adults in a residence (pilot)",
+        "n": 20,
+        "design": "Randomised mindfulness-based intervention against social support control, 8 weeks",
+        "finding": "Feasible and acceptable with high attendance. Average systolic pressure fell in both groups; the intervention group had a 21.92 mmHg lower systolic pressure than the social support group afterwards (p=0.020) and a 16.70 mmHg lower diastolic (p=0.003). The authors call the results preliminary and call for larger trials.",
+        "line_tier": "A",
+        "note": "Pilot, 20 people; the primary aim was feasibility. The very large differences are likely to be unreliable at this size; the authors call them preliminary.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "26224061",
+  "slug": "lloyd-2015-26224061",
+  "citation": {
+    "authors": "Lloyd T, Hounsome L, Mehay A, Mee S et al",
+    "year": 2015,
+    "journal": "BMC Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26224061/",
+  "page": "https://vilivity.com/studies/lloyd-2015-26224061/",
+  "cited_by": [
+    {
+      "entry": "prostate-cancer-and-psa-testing",
+      "title": "Prostate cancer risk and PSA testing",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/prostate-cancer-and-psa-testing/",
+      "record": {
+        "id": "lloyd-2015",
+        "population": "Prostate cancer registrations and deaths in England 2008-2010 by ethnic group, from Public Health England",
+        "n": "not stated",
+        "design": "Registry analysis of lifetime risk of diagnosis and death using DevCan, with adjustments for incomplete ethnicity data",
+        "finding": "Lifetime risk of diagnosis was about 1 in 8 (13.3%) for White men, 1 in 4 (29.3%, range 23.5-37.2%) for Black men and 1 in 13 (7.9%) for Asian men. Lifetime risk of death was about 1 in 24 (4.2%) for White, 1 in 12 (8.7%) for Black and 1 in 44 (2.3%) for Asian men. The authors say Black men are at twice the risk of being diagnosed with and dying from the disease.",
+        "line_tier": "B",
+        "note": "Ethnicity and mortality data were incomplete and needed assumptions. Authors are from Prostate Cancer UK and Public Health England.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "herbal-concoctions-in-pregnancy-and-to-start-labour",
+  "name": "Herbal concoctions in pregnancy and to start labour",
+  "regions": [
+    "West Africa",
+    "East and Southern Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Women drink herbal mixtures through pregnancy, to induce labour or to boost health, often from family or friends, and often without telling the clinic.",
+  "why_they_say_it_works": "To keep the pregnancy \"strong\", ease labour and avoid medicines.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Herbal concoction usage before labor, urban Ghana, 2026, BMC Complement Med Ther, PMID 42928208",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928208/",
+      "quote_or_summary": "Kumasi, 376 mothers: 95.6% knew of herbal concoctions, 17.9% used them; of users 34.3% used it to induce labour and 95.5% said it worked."
+    },
+    {
+      "source": "Mothupi MC 2014, BMC Complement Altern Med, PMID 25370478",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25370478/",
+      "quote_or_summary": "Nairobi, 333 women: about 12% used herbal medicine in pregnancy; only 12.5% of users told health workers; used for back pain, toothache, indigestion and infections."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Castor oil (a traditional labour inducer) by mouth",
+      "population": "Cochrane: 3 small trials, 233 women",
+      "finding": "No clear evidence of difference in caesarean rates; all who took it felt nauseous; trials too small to detect all but large differences.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Castor oil, bath and/or enema for induction of labour, Cochrane 2013, PMID 23881775",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23881775/"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "headline_tier_note": "Tier D for the concoctions as a group; the castor oil line is a separate herb.",
+  "harm_flag": "possible",
+  "harm_note": "Non-disclosure to clinicians means reactions are missed. The Cochrane castor oil review is a different herb from the concoctions studied.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Ingredients of Kumasi concoctions not extracted.",
+    "Maternal outcomes association in the Ghana paper not read."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/herbal-concoctions-in-pregnancy-and-to-start-labour/"
+}

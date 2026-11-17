@@ -1,0 +1,30 @@
+{
+  "pmid": "21464886",
+  "slug": "feng-2011-21464886",
+  "citation": {
+    "authors": "Feng L, Hawkins S",
+    "year": 2011,
+    "journal": "Journal of Clinical and Aesthetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21464886/",
+  "page": "https://vilivity.com/studies/feng-2011-21464886/",
+  "cited_by": [
+    {
+      "entry": "moisturising-and-ashy-skin",
+      "title": "Moisturising and 'ashy' skin",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/moisturising-and-ashy-skin/",
+      "record": {
+        "id": "feng-2011",
+        "population": "55 healthy women with skin types IV-VI and visible ashiness, Dallas",
+        "n": 55,
+        "design": "Randomised, double-blind, 3 weeks: a moisturising body wash (marketed product) against a marketed syndet bar",
+        "finding": "The body wash improved transepidermal water loss and expert- and self-assessed dryness; participants reported reduced ashiness at all sites. Similar results were seen with the syndet bar. The authors concluded that regular use of mild cleansers that support the barrier was associated with reduced ashiness.",
+        "line_tier": "A",
+        "note": "Marketed products; funding not stated in the abstract, funding not checked. No untreated group, and both products improved ashiness, so it does not isolate a moisturiser.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

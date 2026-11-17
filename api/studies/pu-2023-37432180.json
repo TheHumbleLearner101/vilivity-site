@@ -1,0 +1,30 @@
+{
+  "pmid": "37432180",
+  "slug": "pu-2023-37432180",
+  "citation": {
+    "authors": "Pu SY, Huang YL, Pu CM, Kang YN et al",
+    "year": 2023,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/37432180/",
+  "page": "https://vilivity.com/studies/pu-2023-37432180/",
+  "cited_by": [
+    {
+      "entry": "collagen-supplements",
+      "title": "Collagen supplements for skin and joints",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/collagen-supplements/",
+      "record": {
+        "id": "pu-2023",
+        "population": "Adults in 26 randomised trials of hydrolysed collagen for skin",
+        "n": 1721,
+        "design": "Systematic review and meta-analysis of skin hydration and elasticity",
+        "finding": "Collagen supplements improved skin hydration and elasticity compared with placebo. Effects on hydration varied by collagen source and length of use. The authors note several biases in the included trials and call for larger trials.",
+        "line_tier": "B",
+        "note": "Skin type and ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

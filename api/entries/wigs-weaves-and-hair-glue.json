@@ -1,0 +1,187 @@
+{
+  "slug": "wigs-weaves-and-hair-glue",
+  "title": "Wigs, weaves and lace glue",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Do wigs, weaves and extensions damage my hair and edges?"
+  ],
+  "tradition_says": "Wigs, weaves and lace fronts are called a break for your own hair and a safe way to change style. Glue is said to be fine if you wash it off well; the hairline is where it is applied.",
+  "layer1": {
+    "plain_answer": "No study has tested whether wigs protect your own hair. Dermatologists advise keeping your own hair clean and moisturised underneath, sewing in loosely, wearing a satin wig cap, and putting glue just in front of the hairline, not on it. Adhesives and synthetic hair can cause an itchy allergic rash, and removal can pull out edges.",
+    "do": [
+      {
+        "text": "Keep your own hair cleansed and moisturised under the wig.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Sew-ins should not be tight; do not braid underneath too tightly.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Apply adhesive just in front of the hairline, not on it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wear a satin wig cap rather than cotton or nylon.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do not leave extensions in for more than 8 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Glue or gel on the hairline itself: removal can pull edges out.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ignoring an itchy, eczema-like rash at the glue line: synthetic hair and adhesives can cause contact allergy.",
+        "basis": "tested",
+        "source": "collins-2025"
+      },
+      {
+        "text": "Leaving a tight sew-in or wig in while the scalp aches.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A dry, itchy, red rash at the glue line or under the wig (doctor).",
+      "Edges thinning or receding (doctor, then dermatologist).",
+      "Pain, bumps or pus at the hairline (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Review of documented cases of contact dermatitis from synthetic hair and related practices",
+      "design": "Review of case reports",
+      "n": "not stated",
+      "finding": "Synthetic hair extensions are known to cause contact dermatitis through allergens such as acrylates and disperse dyes. Scalp contact dermatitis can show up as itch, thinning or an eczema-like rash and is easily misdiagnosed. Braiding, wigs and the products used to maintain them are discussed.",
+      "source": {
+        "authors": "Collins M, Yu J et al",
+        "year": 2025,
+        "journal": "Dermatitis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39936215/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Case reports, not a prevalence study; the abstract does not name which glues or products.",
+      "id": "collins-2025"
+    },
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; logistic regression",
+      "n": 1178,
+      "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional: association, not cause.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "Wigs and lace glue",
+      "design": "PubMed search run 12 Nov 2026, exact string: (wig OR \"hair weave\" OR \"hair extensions\" OR \"lace front\") AND (adhesive[Title/Abstract] OR glue[Title/Abstract]) AND hair[Title/Abstract] (result count 3).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 3 results: two case reports of anaphylaxis, to hair glue (PMID 25453858) and to natural rubber latex used as an adhesive for hair extensions (PMID 11903260), and a facial prosthetics paper; no cohort or trial of lace glue and hair loss. A second search, '(wig OR \"hair weave\" OR \"hair extensions\") AND (alopecia OR \"hair loss\") AND (African American OR Black OR afro)', returned 7 results (hair care practice studies and a camouflage review, PMID 37799136), none testing whether wigs protect or damage hair. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no study of lace glue or wigs and hair loss; the Collins 2025 review covers synthetic hair and related practices from case reports.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28wig+OR+%22hair+weave%22+OR+%22hair+extensions%22+OR+%22lace+front%22%29+AND+%28adhesive%5BTitle%2FAbstract%5D+OR+glue%5BTitle%2FAbstract%5D%29+AND+hair%5BTitle%2FAbstract%5D"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "wig-glue"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That wigs or weaves protect or damage your own hair and edges: no study found; allergy to synthetic hair is documented in case reports.",
+  "tier_note": "D because the claim people make (wigs protect hair) has no human study; Collins 2025 case reports and BAD guidance are B lines on harm. A study of hair loss by wig or glue use would move it.",
+  "harm_flag": true,
+  "harm_note": "Contact dermatitis from synthetic hair allergens such as acrylates and disperse dyes (Collins 2025, case reports); adhesives can irritate the scalp and pull edges out (BAD leaflet).",
+  "founder_flag": false,
+  "evidence_summary": "A 2025 review of documented cases of contact dermatitis from synthetic hair says extensions can cause scalp contact dermatitis with allergens such as acrylates and disperse dyes, that it is easily misdiagnosed, and that wigs and the products used to maintain them are among the practices involved (Collins). The British leaflet advises satin caps, loose sew-ins, adhesive in front of the hairline and a maximum 8 weeks for extensions. Traction from sew-ins and weaves is in the braids and traction entries.",
+  "measured_variables": [
+    "Adhesive and hair allergens (case reports)"
+  ],
+  "gaps": "Untested: whether wigs or lace protect hair; which glues are safe; how often to remove. My search for adhesive allergy returned nothing in the first query; the review was found through a synthetic hair query.",
+  "related": [
+    "braids-twists-and-extensions",
+    "edges-and-hairline",
+    "traction-alopecia-and-protective-styles"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Collins M et al",
+      "year": 2025,
+      "journal": "Dermatitis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39936215/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

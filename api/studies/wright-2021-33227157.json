@@ -1,0 +1,30 @@
+{
+  "pmid": "33227157",
+  "slug": "wright-2021-33227157",
+  "citation": {
+    "authors": "Wright KD, Klatt MD, Adams IR, Nguyen CM et al",
+    "year": 2021,
+    "journal": "Journal of the American Geriatrics Society"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33227157/",
+  "page": "https://vilivity.com/studies/wright-2021-33227157/",
+  "cited_by": [
+    {
+      "entry": "breathwork",
+      "title": "Breathwork and slow breathing",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/breathwork/",
+      "record": {
+        "id": "wright-2021",
+        "population": "African American older adults with mild cognitive impairment and hypertension (pilot, US community centre)",
+        "n": "not stated in the abstract",
+        "design": "Cluster randomised pilot of Mindfulness in Motion plus DASH diet (includes breathing exercises, mindful movement and guided meditation) against attention-only and control groups, 3 months",
+        "finding": "Feasible and culturally acceptable. Systolic blood pressure fell 7.2 mmHg in the intervention group against 0.7 in the attention-only group, but there was no difference from the true control group, and no changes in diet or mindfulness.",
+        "line_tier": "B",
+        "note": "A mixed package, not breathwork alone, and a feasibility pilot. Counts toward 'a trial in African Americans exists' only.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

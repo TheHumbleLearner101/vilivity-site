@@ -1,0 +1,30 @@
+{
+  "pmid": "43006003",
+  "slug": "lakdim-2026-43006003",
+  "citation": {
+    "authors": "Lakdim L, Naitlhou A, Carroll R",
+    "year": 2026,
+    "journal": "Cureus"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/43006003/",
+  "page": "https://vilivity.com/studies/lakdim-2026-43006003/",
+  "cited_by": [
+    {
+      "entry": "lupus-in-black-women",
+      "title": "Lupus: symptoms, risk and getting diagnosed early",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lupus-in-black-women/",
+      "record": {
+        "id": "lakdim-2026",
+        "population": "61 people with lupus at one internal medicine department in Casablanca, Morocco, 2017 to 2022",
+        "n": 61,
+        "design": "Retrospective descriptive study",
+        "finding": "90.2% were women, mean age at diagnosis 40.3 years. Fatigue (82.0%), joint pain (70.5%) and malar rash (59.0%) were most common; anaemia affected 47.5% and renal involvement 16.4%. The authors note restricted access to advanced targeted treatments.",
+        "line_tier": "B",
+        "note": "North African single centre; descriptive, no comparison group.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

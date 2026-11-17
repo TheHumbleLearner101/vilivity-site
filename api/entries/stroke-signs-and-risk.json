@@ -1,0 +1,203 @@
+{
+  "slug": "stroke-signs-and-risk",
+  "title": "Stroke: signs to act on and what raises the risk",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "What are the signs of a stroke?",
+    "Are Black people more likely to have a stroke?",
+    "What is FAST for stroke?",
+    "How do I lower my stroke risk?",
+    "Why do strokes happen younger in Black adults?"
+  ],
+  "tradition_says": "Sudden weakness or a twisted face is sometimes put down to bad luck, spiritual causes or being tired, and people wait to see if it passes. My search found no study of what families pass down about stroke.",
+  "layer1": {
+    "plain_answer": "A stroke is an emergency: a drooping face, a weak arm, slurred speech, then call emergency services at once, even if it passes. Black adults have strokes more often and younger in the studies we found, and high blood pressure is the biggest risk. Having your blood pressure checked and treated is the most useful step.",
+    "do": [
+      {
+        "text": "Learn FAST: Face drooping, Arm weakness, Speech problems, Time to call the emergency number.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of a stroke\"",
+          "url": "https://www.nhs.uk/conditions/stroke/symptoms/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Call straight away even if the signs stop: symptoms can pass after a short time, and a mini-stroke still needs urgent care.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of a stroke\"",
+          "url": "https://www.nhs.uk/conditions/stroke/symptoms/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Get your blood pressure checked, and treat high blood pressure, diabetes, high cholesterol and an irregular heartbeat, all of which raise stroke risk.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Causes of a stroke\"",
+          "url": "https://www.nhs.uk/conditions/stroke/causes/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Quit smoking, eat a balanced diet, be active and cut down on alcohol; take medicines for underlying conditions every day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Causes of a stroke\"",
+          "url": "https://www.nhs.uk/conditions/stroke/causes/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Do not wait for symptoms to check your risk: in one South London register, 12% of strokes in Black African participants, at a median age of 59, came with no earlier risk factor diagnosis.",
+        "basis": "tested",
+        "source": "emmett-2026"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting to see if the signs pass, or driving yourself to hospital: the emergency call handler gives advice on what to do.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of a stroke\"",
+          "url": "https://www.nhs.uk/conditions/stroke/symptoms/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Adding salt at the table: in a West African study it was linked to about double the odds of stroke.",
+        "basis": "tested",
+        "source": "owolabi-2018"
+      },
+      {
+        "text": "Smoking: in the same study current smokers had over four times the odds of stroke.",
+        "basis": "tested",
+        "source": "owolabi-2018"
+      },
+      {
+        "text": "Leaving a diagnosed risk factor untreated: in South London 36% of strokes happened in people with diagnosed but untreated risk factors.",
+        "basis": "tested",
+        "source": "emmett-2026"
+      }
+    ],
+    "see_someone_when": [
+      "Any sign of a stroke, even one that passes: call your emergency number now. UK 999, US and Canada 911, Australia 000; elsewhere your local emergency number.",
+      "Sudden weakness or numbness down one side, blurred vision or loss of sight, trouble finding words, confusion, dizziness, or a sudden severe headache (emergency number).",
+      "High blood pressure readings, diabetes or an irregular heartbeat with no regular review in the last year (doctor or local clinic).",
+      "A child with sickle cell disease who has any stroke sign (emergency number; sickle cell stroke risk is not covered in this card)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "2,118 adults with stroke confirmed by CT or MRI and 2,118 age- and gender-matched stroke-free controls at 15 sites in Nigeria and Ghana, 2014 to 2017",
+      "design": "Multicentre case-control study (SIREN)",
+      "n": 4236,
+      "finding": "Eleven modifiable risk factors accounted for 98.2% of stroke risk. Hypertension had odds ratio 19.36 (95% CI 12.11 to 30.93) and a population-attributable risk of 90.8%. Dyslipidaemia (1.85), regular meat consumption (1.59), a raised waist-to-hip ratio (1.48), diabetes (2.58), low green leafy vegetable intake (2.43), stress (1.89), added salt at the table (2.14), cardiac disease (1.65), physical inactivity (2.13) and current smoking (4.42) followed. Of the cases, 68% had ischaemic and 32% haemorrhagic stroke.",
+      "source": {
+        "authors": "Owolabi MO, Sarfo F, Akinyemi R, Gebregziabher M et al",
+        "year": 2018,
+        "journal": "Lancet Global Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29496511/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "West African adults; case-control, so recall and survivor bias are possible; abstract read in full.",
+      "id": "owolabi-2018"
+    },
+    {
+      "population": "8,515 participants with first stroke in the South London Stroke Register, 1995 to 2024 (62.4% White, 15.5% Black Caribbean, 13.3% Black African)",
+      "design": "Population-based cohort with Poisson regression",
+      "n": 8515,
+      "finding": "12.0% of strokes in Black African participants (median age 59.0) occurred without any pre-stroke risk factor diagnosis, against 6.3% in White participants (median age 74.1). Black participants had more hypertension (adjusted prevalence ratio 1.29 for Black Caribbean, 1.47 for Black African) and diabetes (2.23 and 1.92) but less atrial fibrillation. Inequalities widened for hypertension and diabetes over time. 36% of strokes occurred in people with diagnosed but untreated risk factors; Black participants had higher treatment rates for hypertension and diabetes.",
+      "source": {
+        "authors": "Emmett ES, Pantoja-Ruiz C, Lim E, Khanolkar AR et al",
+        "year": 2026,
+        "journal": "EClinicalMedicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472283/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "South London only; the abstract text was cut off after the hypertension prevalence sentence.",
+      "id": "emmett-2026"
+    },
+    {
+      "population": "3,088 first ischaemic stroke patients in the South London Stroke Register, 2000 to 2015",
+      "design": "Prospective population-based study, trends in incidence",
+      "n": 3088,
+      "finding": "Age-adjusted ischaemic stroke incidence fell 43% (137.3 to 78.4 per 100,000 per year) across the period, in both White and Black groups, though the fall in the Black group was not significant (144.6 to 116.2; P=0.31). Statin use before stroke rose four-fold while preventive blood pressure and antiplatelet use fell, despite more hypertension.",
+      "source": {
+        "authors": "Wafa HA, Wolfe CDA, Rudd A, Wang Y",
+        "year": 2018,
+        "journal": "PLoS Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30289919/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Smaller Black subgroups limited the power to detect trends; the abstract states this.",
+      "id": "wafa-2018"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That high blood pressure is the biggest modifiable stroke risk in Black populations, and that strokes strike earlier in Black Africans: a 4,236-person West African study and an 8,515-person London register.",
+  "tier_note": "Observational and case-control; hypertension findings agree across a West African and a London population. The recognised-signs advice is clinical guidance, not a study of Black patients; no trial of a Black-specific prevention programme was opened.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. The risk is delay: waiting for symptoms to pass costs brain tissue, and the London data show many strokes happen in people whose risk factors were diagnosed but untreated.",
+  "founder_flag": false,
+  "evidence_summary": "In Nigeria and Ghana, hypertension carried an odds ratio of 19.4 and accounted for 90.8% of stroke risk in a 4,236-person case-control study. In South London, 12.0% of strokes in Black African participants occurred with no prior risk diagnosis, at a median age of 59 against 74 in White participants, and over a third of strokes happened in people with diagnosed but untreated risk factors. The signs, FAST, are clinical guidance and the same for every skin tone. The variables are blood pressure, diabetes, lipids, smoking and treatment, not race. It is not on you: untreated risk factors are a gap in care.",
+  "measured_variables": [
+    "Blood pressure and hypertension diagnosis",
+    "Diabetes, lipids and atrial fibrillation",
+    "Smoking, salt, activity and diet",
+    "Treatment of diagnosed risk factors",
+    "Self-identified ethnicity in London, a stand-in for exposures and access"
+  ],
+  "gaps": "Not found or not opened: stroke rates in the Caribbean and Brazil; sickle cell stroke in children (separate topic); stroke signs on dark skin specifically (FAST is facial and motor, so skin tone should not matter, but I found no study); the CDC stroke page and stroke.org (blocked or not opened); emergency numbers beyond the UK, US, Canada and Australia (for example Nigeria, Jamaica, South Africa and Kenya were not opened).",
+  "related": [
+    "high-blood-pressure-in-black-adults",
+    "type-2-diabetes-risk",
+    "salt-and-blood-pressure",
+    "sickle-cell-disease-trait-and-pregnancy"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Owolabi MO, Sarfo F, Akinyemi R, Gebregziabher M et al",
+      "year": 2018,
+      "journal": "Lancet Global Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29496511/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Emmett ES, Pantoja-Ruiz C, Lim E, Khanolkar AR et al",
+      "year": 2026,
+      "journal": "EClinicalMedicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472283/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wafa HA, Wolfe CDA, Rudd A, Wang Y",
+      "year": 2018,
+      "journal": "PLoS Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30289919/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Symptoms of a stroke\"",
+      "url": "https://www.nhs.uk/conditions/stroke/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Causes of a stroke\"",
+      "url": "https://www.nhs.uk/conditions/stroke/causes/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

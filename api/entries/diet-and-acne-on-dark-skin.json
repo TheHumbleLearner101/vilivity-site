@@ -1,0 +1,217 @@
+{
+  "slug": "diet-and-acne-on-dark-skin",
+  "title": "Does diet cause acne? Sugar, dairy and foods linked to spots",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Do foods cause acne?",
+    "Does sugar or dairy make acne worse?",
+    "Does chocolate or fried food cause pimples?",
+    "What should I eat for clear skin?"
+  ],
+  "tradition_says": "Acne is often blamed on greasy food, chocolate or sweets, and many families advise cutting certain foods or 'cleansing' the blood to clear the skin.",
+  "layer1": {
+    "plain_answer": "No diet is proven to treat acne, and the British Association of Dermatologists says a healthy, balanced diet is all it advises. Some studies link sugary, refined foods and dairy to more spots. A 12-week trial in 43 Australian men found a low-glycaemic diet reduced spots. In Nigerian teenagers, milk, fried beef and cake were linked to more acne.",
+    "do": [
+      {
+        "text": "Eat a healthy, well-balanced diet: there is not enough evidence to support specific diets for acne.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Acne\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check hair and skin products first: the UK's NHS says products that make skin greasy can cause acne.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Acne: causes\"",
+          "url": "https://www.nhs.uk/conditions/acne/causes/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you try cutting back on sugary, refined foods, give it about 12 weeks: that was the length of the one trial.",
+        "basis": "tested",
+        "source": "smith-2007"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Strict or cut-everything diets for acne: the BAD says there is not enough evidence for specific diets.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, Patient Hub, \"Acne\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/acne/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming milk causes your acne: the dairy evidence is observational and mixed.",
+        "basis": "tested",
+        "source": "meixiong-2022"
+      }
+    ],
+    "see_someone_when": [
+      "Spots are deep, painful, many, or leaving scars or dark marks (doctor, then dermatologist).",
+      "Acne is affecting your mood or confidence (doctor).",
+      "You are thinking of cutting out whole food groups because of acne (doctor or dietitian)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "464 adolescents (mean age 13.6) in schools in Ibadan, southwest Nigeria; 64.4% had acne",
+      "design": "Cross-sectional survey with examination for facial acne and food-frequency questions",
+      "n": "464",
+      "finding": "Acne was more common in students who reported at least daily milk as a drink (72.6% vs 62.0%), corn (76.6% vs 62.3%), fried beef (75.0% vs 62.1%) and cake (77.8% vs 62.3%), and less common with daily bananas (55.3% vs 67.6%). The authors say an interventional dietary study is needed.",
+      "source": {
+        "authors": "Okoro EO, Ogunbiyi AO, George AO, Subulade MO",
+        "year": 2016,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26749364/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A cross-sectional snapshot: it cannot show that food caused acne. Funding not checked.",
+      "id": "okoro-2016"
+    },
+    {
+      "population": "Mixed populations in 34 included studies (Ottawa quality scale)",
+      "design": "Systematic review of diet and acne",
+      "n": "34 articles",
+      "finding": "High glycaemic index and glycaemic load and carbohydrate intake were positively associated with acne and its severity, and this was supported by randomised trials. The dairy literature is mixed and may depend on sex, ethnicity and cultural dietary habits. The authors call the effect modest and say further trials are needed.",
+      "source": {
+        "authors": "Meixiong J, Ricco C, Vasavda C, Ho BK",
+        "year": 2022,
+        "journal": "JAAD International",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35373155/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Authors disclose no conflicts; the review does not report a certainty grade.",
+      "id": "meixiong-2022"
+    },
+    {
+      "population": "43 male acne patients aged 15 to 25 in Australia",
+      "design": "Randomised controlled trial, 12 weeks: low-glycaemic-load diet against a carbohydrate-dense control diet",
+      "n": "43",
+      "finding": "Total lesion counts fell more with the low-glycaemic-load diet (-23.5 vs -12.0, P=0.03). Weight and insulin sensitivity also improved more, so the authors say weight loss and diet effects cannot be separated.",
+      "source": {
+        "authors": "Smith RN, Mann NJ, Braue A, Makelainen H et al",
+        "year": 2007,
+        "journal": "American Journal of Clinical Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17616769/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Young men only; not a trial in Black participants; 43 people.",
+      "id": "smith-2007"
+    },
+    {
+      "population": "78,529 children, adolescents and young adults aged 7 to 30 in 14 observational studies",
+      "design": "Meta-analysis of dairy intake and acne",
+      "n": "14 studies (78,529 people)",
+      "finding": "Any dairy, milk, yogurt and cheese were each associated with higher odds of acne (for example any dairy OR 1.25, 95% CI 1.15 to 1.36). Adjusted results were smaller, there was publication bias and heterogeneity, and the authors say results should be read with caution.",
+      "source": {
+        "authors": "Juhl CR, Bergholdt HKM, Miller IM, Jemec GBE et al",
+        "year": 2018,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30096883/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Observational; some authors disclose pharmaceutical honoraria in the abstract record.",
+      "id": "juhl-2018"
+    },
+    {
+      "population": "765 participants in five case-control studies",
+      "design": "Meta-analysis of Mediterranean diet and acne, GRADE",
+      "n": "5 studies (765 people)",
+      "finding": "Closer adherence to the Mediterranean diet was linked to less severe acne but not significantly to lower odds of developing acne, and quality of evidence was low. More vegetables were linked to lower odds of acne.",
+      "source": {
+        "authors": "Taha S, Shakhshir M, Zyoud SH",
+        "year": 2025,
+        "journal": "Nutrition and Metabolism",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41194132/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Low-quality, small; no Black population identified.",
+      "id": "taha-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That high-glycaemic foods and dairy may worsen acne while no diet is proven to treat it: a systematic review of 34 studies, one small 12-week trial in Australian men, and one Nigerian cross-sectional survey.",
+  "tier_note": "Thin because the trial had 43 young men, the dairy data are observational with publication bias, and the only Black population study (464 Nigerian students) is a snapshot. Marked B because the only randomised evidence is in another population; it would move to A with a trial in teenagers or adults of African descent.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the sources opened. I did not search for harm from restrictive diets.",
+  "founder_flag": false,
+  "evidence_summary": "A 2022 systematic review of 34 studies found high glycaemic index and load linked to acne, supported by trials, and mixed results for dairy. A 12-week trial in 43 Australian men found a low-glycaemic diet reduced lesions more than a control. A meta-analysis of 14 observational studies linked dairy to higher odds of acne with signs of bias. In 464 Nigerian students, acne was more common with daily milk, corn, fried beef and cake. The BAD says there is not enough evidence to support specific diets, and the NHS causes page lists greasy products, not food.",
+  "measured_variables": [
+    "Glycaemic index and load, dairy intake",
+    "Acne lesion counts and severity",
+    "Skin pigmentation not measured in any diet study"
+  ],
+  "gaps": "Untested: any dietary trial in Black participants; whether diet changes dark marks after acne; whiteners and home 'blood cleansers'. The UK's NHS acne causes page does not mention diet. Studies were not checked for funding except where the abstract states it. Acne treatment and hair-oil advice sit in the acne entry.",
+  "related": [
+    "acne-on-dark-skin",
+    "dark-marks-after-acne",
+    "skincare-routine-basics",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Okoro EO, Ogunbiyi AO, George AO, Subulade MO",
+      "year": 2016,
+      "journal": "International Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26749364/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Meixiong J, Ricco C, Vasavda C, Ho BK",
+      "year": 2022,
+      "journal": "JAAD International",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35373155/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Smith RN, Mann NJ, Braue A, Makelainen H et al",
+      "year": 2007,
+      "journal": "American Journal of Clinical Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17616769/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Juhl CR, Bergholdt HKM, Miller IM, Jemec GBE et al",
+      "year": 2018,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30096883/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Taha S, Shakhshir M, Zyoud SH",
+      "year": 2025,
+      "journal": "Nutrition and Metabolism",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41194132/",
+      "tag": "[review]"
+    },
+    {
+      "name": "British Association of Dermatologists, Patient Hub, \"Acne\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/acne/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Acne: causes\"",
+      "url": "https://www.nhs.uk/conditions/acne/causes/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

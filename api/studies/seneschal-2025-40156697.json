@@ -1,0 +1,30 @@
+{
+  "pmid": "40156697",
+  "slug": "seneschal-2025-40156697",
+  "citation": {
+    "authors": "Seneschal J, Wolkerstorfer A, Desai SR et al",
+    "year": 2025,
+    "journal": "Dermatology and Therapy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40156697/",
+  "page": "https://vilivity.com/studies/seneschal-2025-40156697/",
+  "cited_by": [
+    {
+      "entry": "vitiligo",
+      "title": "Vitiligo",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/vitiligo/",
+      "record": {
+        "id": "seneschal-2025",
+        "population": "The same 674 patients, pooled post hoc",
+        "n": 674,
+        "design": "Subgroup analysis by age, sex, Fitzpatrick skin type and other traits",
+        "finding": "At week 52, 50.3% of those applying ruxolitinib cream throughout reached the facial score target; responses were seen across subgroups including Fitzpatrick skin type. The abstract gives no numbers for dark skin types.",
+        "line_tier": "B",
+        "note": "Descriptive, post hoc; not a Black-population analysis.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

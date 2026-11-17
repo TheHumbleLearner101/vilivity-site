@@ -1,0 +1,30 @@
+{
+  "pmid": "35377477",
+  "slug": "kaushik-2022-35377477",
+  "citation": {
+    "authors": "Kaushik V, Kumar A, Gosvami NN, Gode V et al",
+    "year": 2022,
+    "journal": "International Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35377477/",
+  "page": "https://vilivity.com/studies/kaushik-2022-35377477/",
+  "cited_by": [
+    {
+      "entry": "scalp-oiling-and-greasing",
+      "title": "Scalp oiling and greasing",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/scalp-oiling-and-greasing/",
+      "record": {
+        "id": "kaushik-2022",
+        "population": "Hair fibres (laboratory)",
+        "n": "not stated",
+        "design": "Nitrogen sorption and tensile testing of hair washed with and without coconut-based hair oil",
+        "finding": "Coconut-based oil prevented the rise in hair porosity caused by surfactant washing and reversed the fall in break stress in lab testing.",
+        "line_tier": "C",
+        "note": "Lab test; funding not checked; hair type not stated in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

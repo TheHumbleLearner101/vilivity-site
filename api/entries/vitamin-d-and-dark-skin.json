@@ -1,0 +1,250 @@
+{
+  "slug": "vitamin-d-and-dark-skin",
+  "title": "Vitamin D and dark skin",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Do Black people need vitamin D supplements?",
+    "Why is my vitamin D low?",
+    "Does dark skin make less vitamin D?",
+    "Should I take vitamin D in the UK winter?"
+  ],
+  "tradition_says": "It is widely believed that dark skin makes less vitamin D from sunlight, so Black people living away from the equator are deficient and should supplement.",
+  "layer1": {
+    "plain_answer": "Total vitamin D in the blood is lower in Black Americans, but so is the protein that carries it, and one study found the usable amount similar. Two trials in older Black American women found supplements did not slow bone loss. UK advice still says dark-skinned people should consider a daily supplement. They disagree.",
+    "what_it_is": [
+      {
+        "text": "The blood measure is 25-hydroxyvitamin D. Total levels were lower in Black than White adults in Baltimore, as was the vitamin D-binding protein.",
+        "basis": "tested",
+        "source": "powe-2013"
+      },
+      {
+        "text": "Skin makes vitamin D from sunlight; the NHS says dark skin may not make enough in the UK.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A blood test measures it: ask your doctor if you are concerned. The UK's NHS lists no routine symptom check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Interpret a total result with care: binding protein differed too.",
+        "basis": "tested",
+        "source": "powe-2013"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "The NHS advises people of African, African-Caribbean or South Asian backgrounds to consider a 10 microgram supplement all year.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "In 260 older Black American women, supplements did not slow bone loss.",
+        "basis": "tested",
+        "source": "aloia-2018"
+      },
+      {
+        "text": "A 208-woman trial also found no bone-density benefit.",
+        "basis": "tested",
+        "source": "aloia-2005"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "A low total result does not on its own show too little usable vitamin D.",
+        "basis": "tested",
+        "source": "powe-2013"
+      },
+      {
+        "text": "It does not make a high dose safe: the UK's NHS says not to exceed 100 micrograms a day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist if you take other medicines or calcium: supplements are not tested with other medicines.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Taking bendroflumethiazide with other medicines and herbal remedies\" (the herbal-remedy wording applies generally)",
+          "url": "https://www.nhs.uk/medicines/bendroflumethiazide/taking-bendroflumethiazide-with-other-medicines-and-herbal-remedies",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You have a long-term condition or take regular medicines and are unsure whether to supplement (pharmacist or doctor).",
+      "A very low result on a blood test (doctor: follow the lab's and doctor's advice).",
+      "A child or pregnant woman and you are unsure what to take (doctor, midwife, health visitor in the UK)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "2,085 Black and White adults in Baltimore (Healthy Aging in Neighborhoods of Diversity across the Life Span)",
+      "design": "Cohort with genotyping of vitamin D-binding protein variants",
+      "n": 2085,
+      "finding": "Total 25-hydroxyvitamin D was 15.6 ng/ml in Black participants against 25.8 in White. Vitamin D-binding protein was also lower (168 against 337 ug/ml). In people homozygous for the same genotype, bioavailable 25(OH)D was similar (2.9 against 3.1 ng/ml). Bone mineral density was higher in Black participants (1.05 against 0.94 g/cm2).",
+      "source": {
+        "authors": "Powe CE, Evans MK, Wenger J, Zonderman AB et al",
+        "year": 2013,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24256378/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Observational. Whether 'bioavailable' levels are the right measure is contested; NEJM published correspondence (the 12 Nov research file cites PMID 24571762, not re-opened).",
+      "id": "powe-2013"
+    },
+    {
+      "population": "208 healthy Black postmenopausal American women aged 50-75",
+      "design": "Randomised, double-blind, placebo-controlled, 3 years, vitamin D3 at two doses with calcium given to all",
+      "n": 208,
+      "finding": "No significant difference in bone mineral density between vitamin D and placebo groups at any point; no relationship between blood level reached and bone loss. No significant adverse events were attributed to vitamin D.",
+      "source": {
+        "authors": "Aloia JF, Talwar SA, Pollack S, Yeh J",
+        "year": 2005,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16043680/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "id": "aloia-2005"
+    },
+    {
+      "population": "260 healthy Black American women aged 60 or over",
+      "design": "Randomised, double-dummy, placebo-controlled, 3 years, vitamin D3 dose adjusted to keep blood level above 75 nmol/L",
+      "n": 260,
+      "finding": "No bone-loss benefit of vitamin D over placebo; the groups were equivalent. Baseline 25(OH)D was 54.8 nmol/L. The authors concluded that Black Americans should have the same vitamin D exposure as White Americans.",
+      "source": {
+        "authors": "Aloia J, Fazzari M, Islam S, Mikhail M et al",
+        "year": 2018,
+        "journal": "Journal of Bone and Mineral Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29905969/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "id": "aloia-2018"
+    },
+    {
+      "population": "12 trials, 8,023 non-White adults (Black African, South Asian, South Korean, Chinese)",
+      "design": "Systematic review and meta-analysis of vitamin D supplementation and bone health",
+      "n": 8023,
+      "finding": "Of 8 trials measuring bone density, one in South Asians found a benefit. A meta-analysis showed a higher bone-specific alkaline phosphatase marker (SMD 0.96, 95% CI 0.09-1.83), which lost significance after excluding one clinically distinct study. One fracture study (n=5,106) found no difference. The authors conclude evidence supporting supplementation for bone health in non-White adults remains limited.",
+      "source": {
+        "authors": "Dong H, Shardow JY, Mulligan K, Oyibo P et al",
+        "year": 2026,
+        "journal": "American Journal of Clinical Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42815577/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Mixed non-White populations; the Black African subgroup is not separated in the abstract.",
+      "id": "dong-2026"
+    },
+    {
+      "population": "UK public advice",
+      "design": "NHS guidance",
+      "n": "not applicable",
+      "finding": "The NHS says people with dark skin, for example African, African-Caribbean or South Asian backgrounds, may not make enough vitamin D from sunlight and should consider taking a daily supplement containing 10 micrograms of vitamin D throughout the year.",
+      "source": {
+        "authors": "NHS",
+        "year": 2026,
+        "journal": "NHS website, Vitamin D",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "Public-health guidance, not a trial. Page opened 12 Nov 2026. The 10 microgram figure is the NHS's, for the general population, and an over-the-counter supplement.",
+      "id": "nhs-2026"
+    }
+  ],
+  "tier": "A",
+  "strength": "moderate",
+  "tier_driver": "Whether supplements help bone density in Black women: two randomised trials (208 and 260). Contested against NHS advice.",
+  "tier_note": "Two randomised trials in 208 and 260 Black American women (bone density as the outcome); contested, because UK guidance and US trial authors reach opposite conclusions on whether to supplement, and bone density is only one outcome.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for standard-dose supplementation in the abstracts I read (Aloia 2005: no adverse events attributed). High doses were not studied here.",
+  "founder_flag": false,
+  "evidence_summary": "Total vitamin D levels in the blood are lower in Black Americans, but so is the protein that carries it, and one study found the usable amount similar. Two trials in older Black American women found vitamin D did not slow bone loss. UK health advice, however, still says people with dark skin should consider a daily supplement all year, so the two positions disagree.",
+  "measured_variables": [
+    "Total 25(OH)D, vitamin D-binding protein, bioavailable 25(OH)D (blood)",
+    "Vitamin D-binding protein genotype (rs7041, rs4588)",
+    "Skin pigmentation is not measured in these studies; self-identified race is a stand-in"
+  ],
+  "gaps": "Untested: outcomes other than bone density (falls were studied by the same group, not opened here); children and young adults; UK-living Black populations in a trial; whether a threshold for 'sufficient' differs by binding protein status; whether the NHS year-round advice improves any health outcome in Black people. Not opened: the SACN report behind the NHS advice.",
+  "related": [
+    "sunscreen-on-dark-skin",
+    "iron-and-fibroids",
+    "keloids-and-piercings"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Powe CE et al",
+      "year": 2013,
+      "journal": "N Engl J Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24256378/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Aloia JF et al",
+      "year": 2005,
+      "journal": "Arch Intern Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16043680/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Aloia J et al",
+      "year": 2018,
+      "journal": "J Bone Miner Res",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29905969/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Dong H et al",
+      "year": 2026,
+      "journal": "Am J Clin Nutr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815577/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "NHS",
+      "year": 2026,
+      "journal": "NHS website",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "tag": "[official]"
+    },
+    {
+      "name": "NHS, \"Vitamin D\"",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Taking bendroflumethiazide with other medicines and herbal remedies\" (the herbal-remedy wording applies generally)",
+      "url": "https://www.nhs.uk/medicines/bendroflumethiazide/taking-bendroflumethiazide-with-other-medicines-and-herbal-remedies",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

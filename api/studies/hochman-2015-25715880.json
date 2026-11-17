@@ -1,0 +1,30 @@
+{
+  "pmid": "25715880",
+  "slug": "hochman-2015-25715880",
+  "citation": {
+    "authors": "Hochman B, Isoldi FC, Silveira TS, Borba GC et al",
+    "year": 2015,
+    "journal": "Australasian Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25715880/",
+  "page": "https://vilivity.com/studies/hochman-2015-25715880/",
+  "cited_by": [
+    {
+      "entry": "keloids-and-piercings",
+      "title": "Keloids and piercings",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/keloids-and-piercings/",
+      "record": {
+        "id": "hochman-2015",
+        "population": "141 ear keloids, Brazil",
+        "n": 141,
+        "design": "Case series on jewellery type",
+        "finding": "Most keloids sat on the back of the earlobe and most earrings had metallic backs. The authors suggest the back of the earring may worsen local neurogenic inflammation.",
+        "line_tier": "B",
+        "note": "Hypothesis only; no comparison with other jewellery.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

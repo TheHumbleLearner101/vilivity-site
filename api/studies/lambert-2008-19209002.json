@@ -1,0 +1,30 @@
+{
+  "pmid": "19209002",
+  "slug": "lambert-2008-19209002",
+  "citation": {
+    "authors": "Lambert MI, Mann T, Dugas JP",
+    "year": 2008,
+    "journal": "Medicine and Sport Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19209002/",
+  "page": "https://vilivity.com/studies/lambert-2008-19209002/",
+  "cited_by": [
+    {
+      "entry": "heat-and-hydration",
+      "title": "Heat, sweating and hydration",
+      "module": "body",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/body/heat-and-hydration/",
+      "record": {
+        "id": "lambert-2008",
+        "population": "Narrative review of ethnicity and temperature regulation",
+        "n": "not applicable",
+        "design": "Review",
+        "finding": "Phenotypic differences between groups living in different climates are very clear, but genotypic differences are less easy to discern because of the difficulty of controlling environmental and lifestyle factors. The authors say it is reasonable to assume more genetic differences will be found as data become available.",
+        "line_tier": "B",
+        "note": "Narrative review; supports \"not yet separated\", not a measured difference.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

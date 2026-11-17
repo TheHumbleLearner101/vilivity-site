@@ -1,0 +1,193 @@
+{
+  "slug": "sarcoidosis-in-black-adults",
+  "title": "Sarcoidosis: symptoms, risk and follow-up",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "Is sarcoidosis more common in Black people?",
+    "What are the symptoms of sarcoidosis?",
+    "Is sarcoidosis serious?",
+    "Why is my cough not going away?"
+  ],
+  "tradition_says": "A long dry cough, breathlessness or tender lumps on the shins are often put down to a chest infection, asthma or just being tired. My search found no study of what families pass down about sarcoidosis.",
+  "layer1": {
+    "plain_answer": "Sarcoidosis is a rare condition where small patches of swollen tissue form, most often in the lungs, skin and lymph nodes. In studies it is more common, and in some studies more severe, in Black adults. Many cases settle without treatment, but a lasting cough, breathlessness or sore red eyes need a doctor.",
+    "do": [
+      {
+        "text": "See a doctor about a persistent dry cough, breathlessness, tender bumps on the skin or red, sore eyes. Symptoms depend on which organs are affected.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Keep monitoring appointments: X-rays, breathing tests and blood tests show whether it is settling or getting worse.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "If treatment is recommended, expect steroid tablets first and ask about side effects such as weight gain, mood changes and bone thinning.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "If other organs may be involved, ask about scans or examinations of the skin, heart and eyes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Taking calcium or vitamin D supplements on your own: take them only if a doctor advises, because sarcoidosis can raise the risk of kidney stones.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Assuming it is only a lung problem: it can also affect skin, glands, joints, eyes and the heart.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Waiting years with symptoms because many cases clear on their own: a few people become severely affected, so follow-up matters.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sarcoidosis\"",
+          "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A dry cough or breathlessness lasting more than a few weeks (doctor; ask whether a chest X-ray is needed).",
+      "A red, painful eye or a change in vision (same-day eye care or urgent doctor).",
+      "Palpitations, an irregular heartbeat or fainting (urgent medical care; NHS in the UK lists abnormal heart rhythm as a possible sarcoidosis symptom).",
+      "Kidney-stone pain or tender lumps on the legs and arms with feeling unwell (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,071 adults with confirmed pulmonary sarcoidosis in the British Thoracic Society ILD Registry, 2013 to 2024 (ethnicity recorded for 918: 55.4% white, 14.2% non-white including Black, South Asian and mixed)",
+      "design": "Retrospective registry study with multivariable logistic regression",
+      "n": 1071,
+      "finding": "Non-white patients presented younger (52 against 54 years) with more breathlessness (46% against 33%) and cough (44% against 27%), more CT nodularity (54% against 36%) and abnormal liver tests (16% against 9%), and more comorbidity. Lung physiology was comparable. Immunosuppression was more likely with non-white ethnicity (odds ratio 3.20) and male sex (2.34). The authors say treatment decisions were more influenced by sex and ethnicity than by lung function or imaging.",
+      "source": {
+        "authors": "Bączek KK, Leng Cheng S, Amanda G, Achaiah A et al",
+        "year": 2025,
+        "journal": "BMJ Open Respiratory Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41253405/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "UK registry; non-white is a pooled group, so Black adults alone are not separated in the abstract. Abstract read.",
+      "id": "baczek-2025"
+    },
+    {
+      "population": "619 patients with cardiac sarcoidosis (362 White, 193 Black, 64 other) in an international registry of over 25 centres",
+      "design": "Registry cohort comparing race groups",
+      "n": 619,
+      "finding": "Black patients were diagnosed younger (50.5 against 53.7 years) with lower left ventricular ejection fraction (44.6 against 48.3) and more lung (80.3% against 72.7%), skin (22.8% against 12.4%) and eye (13.5% against 5.5%) involvement, and more hypertension, diabetes and kidney disease. Treatment patterns were similar and the combined outcome (death, assist device, transplant or defibrillator therapy) did not differ (29.5% against 28.5%).",
+      "source": {
+        "authors": "Trongtorsak A, De La Rosa Martinez J, Crawford TC, Bogun FM et al",
+        "year": 2025,
+        "journal": "Circulation: Arrhythmia and Electrophysiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40557494/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "People with heart sarcoidosis only, mostly from specialist centres; not all patients with sarcoidosis.",
+      "id": "trongtorsak-2025"
+    },
+    {
+      "population": "Published literature on sarcoidosis by race, sex and place",
+      "design": "Review (Current Opinion in Pulmonary Medicine)",
+      "n": "not applicable",
+      "finding": "African Americans and women have the highest incidence, more advanced presentations and higher death rates, and African American women have the highest mortality. The author says the differences may reflect healthcare disparities and income more than genetics or biology alone: patients in the lowest income strata present with the most severe disease and report more barriers to care.",
+      "source": {
+        "authors": "Obi ON",
+        "year": 2023,
+        "journal": "Current Opinion in Pulmonary Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37431305/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A narrative review, abstract read; mostly US evidence.",
+      "id": "obi-2023"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That sarcoidosis is more common and often more severe at presentation in Black adults, and that access and income may explain part of it: two registries of 1,071 and 619 and a narrative review.",
+  "tier_note": "Observational, registry and review evidence only; the UK registry pools non-white groups and the heart registry is a sub-population. By the take-the-lower rule this is thin even though the registries are large. No trial tested here.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The risk is delay and unequal care: in a UK registry treatment decisions were more influenced by sex and ethnicity than by lung function or imaging (Baczek 2025).",
+  "founder_flag": false,
+  "evidence_summary": "The NHS says sarcoidosis is more common in some groups, such as African Americans, and that its cause is not known. A UK registry of 1,071 people found non-white patients presented younger with more symptoms and were more likely to be given immunosuppression; a heart-sarcoidosis registry of 619 found Black patients were diagnosed younger with more skin and eye involvement but had the same combined outcome as White patients. A review argues the differences may come in part from income and access to care. The variable is the disease and its organs, not race. It is not on you.",
+  "measured_variables": [
+    "Sarcoidosis diagnosis (biopsy, imaging)",
+    "Organs involved (lungs, skin, eyes, heart)",
+    "Lung function (FVC)",
+    "Income and access to care",
+    "Self-identified race or ethnicity in registries, a stand-in for genes, exposures and access"
+  ],
+  "gaps": "Not found or not opened: rates in Africa, the Caribbean and Latin America; whether the skin signs look different on dark skin (the NHS says the bumps can be reddish-brown or purple depending on skin colour, which is not graded here); trials of treatment in Black patients; why treatment choices differ by ethnicity; Black-only figures from the UK registry; non-US guidance such as national sarcoidosis charities.",
+  "related": [
+    "lung-function-tests-and-race-correction-in-spirometry",
+    "conditions-look-different-on-dark-skin",
+    "being-believed-by-doctors-and-pain",
+    "vitamin-d-and-dark-skin"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Bączek KK, Leng Cheng S, Amanda G, Achaiah A et al",
+      "year": 2025,
+      "journal": "BMJ Open Respiratory Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41253405/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Trongtorsak A, De La Rosa Martinez J, Crawford TC, Bogun FM et al",
+      "year": 2025,
+      "journal": "Circulation: Arrhythmia and Electrophysiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40557494/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Obi ON",
+      "year": 2023,
+      "journal": "Current Opinion in Pulmonary Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37431305/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Sarcoidosis\"",
+      "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

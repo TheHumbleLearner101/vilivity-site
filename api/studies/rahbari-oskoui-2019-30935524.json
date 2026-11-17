@@ -1,0 +1,30 @@
+{
+  "pmid": "30935524",
+  "slug": "rahbari-oskoui-2019-30935524",
+  "citation": {
+    "authors": "Rahbari-Oskoui FF, Abramson JL, Bruckman AM, Chapman AB et al",
+    "year": 2019,
+    "journal": "Complementary Therapies in Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30935524/",
+  "page": "https://vilivity.com/studies/rahbari-oskoui-2019-30935524/",
+  "cited_by": [
+    {
+      "entry": "melatonin-for-sleep",
+      "title": "Melatonin for sleep: what it does, dose and rules by country",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/melatonin-for-sleep/",
+      "record": {
+        "id": "rahbari-oskoui-2019",
+        "population": "Self-defined African American patients with essential hypertension, urban academic medical centre, United States",
+        "n": 40,
+        "design": "Randomised, placebo-controlled crossover pilot: 24 mg sustained-release melatonin at night against placebo, 4 weeks each",
+        "finding": "Night-time and daytime blood pressure on 24-hour monitoring did not differ between melatonin and placebo. The authors note this contrasts with studies in other populations.",
+        "line_tier": "A",
+        "note": "A trial in Black participants, but its outcome was blood pressure, with sleep unmeasured, at a dose far above the usual one. The registry lists a second 8 mg study (NCT01114360, 37 people, results posted) that I did not read.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

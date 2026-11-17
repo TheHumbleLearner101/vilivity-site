@@ -1,0 +1,238 @@
+{
+  "slug": "plantain-yam-and-cassava-and-blood-sugar",
+  "title": "Plantain, yam and cassava: blood sugar and safety",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Is plantain good or bad for diabetes?",
+    "Which African and Caribbean staples raise blood sugar most?",
+    "Is cassava or yam safe to eat every day?",
+    "Is pounded yam or fufu bad for blood sugar?"
+  ],
+  "tradition_says": "Plantain, yam, cassava, cocoyam and breadfruit are the starchy base of West African and Caribbean cooking, and are often seen as natural and healthy; many families worry about them once someone has diabetes.",
+  "layer1": {
+    "plain_answer": "In glucose tests, cassava, pounded yam and several West African staples raised blood sugar quickly, while breadfruit, white yam, eddoes and tannia were in the middle. Plantain results vary by ripeness and cooking. Cassava must be fully processed, since undercooked bitter cassava has caused paralysis. No trial shows that swapping staples prevents diabetes.",
+    "do": [
+      {
+        "text": "Try intermediate staples such as white yam, eddoes, tannia or breadfruit more often: the Trinidad authors say a swap may bring health benefits.",
+        "basis": "tested",
+        "source": "ramdath-2004"
+      },
+      {
+        "text": "Choose higher-fibre cereal foods: more cereal fibre was linked to lower diabetes rates in US Black women.",
+        "basis": "tested",
+        "source": "krishnan-2007"
+      },
+      {
+        "text": "Process cassava fully, by grating, soaking and cooking as taught: processing methods prevented cyanide poisoning.",
+        "basis": "tested",
+        "source": "cliff-2011"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating pounded yam, cassava or white rice as low-sugar: most staples tested had a high glycaemic index.",
+        "basis": "tested",
+        "source": "kouame-2015"
+      },
+      {
+        "text": "Ready-to-eat cassava chips or under-processed bitter cassava as a daily food: cyanide levels can be high.",
+        "basis": "tested",
+        "source": "quinn-2022"
+      }
+    ],
+    "see_someone_when": [
+      "Constant thirst, passing a lot of urine, tiredness or blurred vision (doctor, for a blood sugar test).",
+      "Sudden weakness or stiffness in the legs after a diet heavy in cassava (urgent doctor or A&E in the UK).",
+      "You have diabetes and want to change your staples (diabetes team or dietitian)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Healthy adults in Abidjan, Cote d'Ivoire (numbers not in the abstract)",
+      "design": "Glycaemic index tests to the ISO protocol: 50 g carbohydrate servings against glucose",
+      "n": "not stated in the abstract",
+      "finding": "Most of the five staples tested had a high glycaemic index above 70; attieke was lower at 63. Attieke had a high glycaemic load (29), placali and maize stiff porridge a medium one (17 and 16), and pounded cassava-plantain and pounded yam 26 and 22.",
+      "source": {
+        "authors": "Kouame AC, Kouassi KN, N'dri YD, Amani NG",
+        "year": 2015,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25690417/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Measured in healthy people, not people with diabetes; numbers of volunteers not in the abstract.",
+      "id": "kouame-2015"
+    },
+    {
+      "population": "Healthy volunteers in Trinidad and Tobago, groups of 8 to 10 across three studies",
+      "design": "Glycaemic index tests of eight Caribbean staples against white bread",
+      "n": "about 8 to 10 per study",
+      "finding": "Cassava (glycaemic index 94) and dasheen (about 76) were high. Breadfruit (60), green banana (65), sadha roti (65), white yam (62), eddoes (61) and tannia (55 to 60) were intermediate, and Irish potato about 70. Crushing did not change the index. The authors say replacing high-glycaemic staples with intermediate ones may bring health benefits.",
+      "source": {
+        "authors": "Ramdath DD, Isaacs RL, Teelucksingh S, Wolever TM",
+        "year": 2004,
+        "journal": "British Journal of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15182400/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Small groups; the suggested benefit of swapping is the authors' speculation, not a trial result.",
+      "id": "ramdath-2004"
+    },
+    {
+      "population": "Ten healthy volunteers (UK study with Nigerian plantain products)",
+      "design": "Test meals of boiled unripe plantain, plantain crisps and ripe plantain against white bread",
+      "n": "10",
+      "finding": "Mean glycaemic index was 44.9 for boiled unripe plantain, 55.0 for the crisps and 38 for ripe raw plantain, lower than the Nigerian review's reported plantain values. The authors say the link with resistant starch is confounded by other constituents.",
+      "source": {
+        "authors": "Oladele EO, Williamson G",
+        "year": 2016,
+        "journal": "European Journal of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25542206/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Ten people; ancestry not stated; one plantain variety and 25 g carbohydrate portions.",
+      "id": "oladele-2016"
+    },
+    {
+      "population": "Nigerian staples (literature overview)",
+      "design": "Narrative review of published glycaemic index values of foods in Nigeria",
+      "n": "not applicable",
+      "finding": "Many staples (tuwo, amala, fufu, garri, pounded yam, rice, beans and plantain) were reported as high glycaemic index (75 to 97). Less common foods such as maize pudding, moi-moi, fonio and dambu showed lower values (14 to 53). The authors say the lower-index foods may need certification before people with diabetes rely on them.",
+      "source": {
+        "authors": "Okoduwa SIR, Abdulwaliyu I",
+        "year": 2023,
+        "journal": "Diabetes and Metabolic Syndrome",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36584553/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A non-systematic overview; it conflicts with Oladele 2016 on plantain, so values depend on variety, ripeness and cooking.",
+      "id": "okoduwa-2023"
+    },
+    {
+      "population": "About 59,000 US Black women in the Black Women's Health Study, 8 years' follow-up, 1,938 new cases of diabetes",
+      "design": "Prospective cohort study with food-frequency questionnaire",
+      "n": "about 59,000",
+      "finding": "Women in the highest fifth for dietary glycaemic index had 23% higher diabetes rates than the lowest fifth (IRR 1.23, 95% CI 1.05 to 1.44), and women in the highest fifth for cereal fibre had 18% lower (IRR 0.82). Associations were stronger in women with a BMI under 25.",
+      "source": {
+        "authors": "Krishnan S, Rosenberg L, Singer M, Hu FB et al",
+        "year": 2007,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18039988/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Observational, self-reported diet; one cohort; it does not say which individual staples drive the result.",
+      "id": "krishnan-2007"
+    },
+    {
+      "population": "Communities in Mozambique with epidemics of konzo, a paralysis linked to cassava",
+      "design": "Review of epidemics and cyanide measurements",
+      "n": "over 1,800 cases across epidemics",
+      "finding": "Konzo epidemics came at times of drought, war or crisis when people depended on insufficiently processed bitter cassava; mostly women of child-bearing age and children were affected, with high thiocyanate in blood or urine. Prevention focused on less toxic cassava varieties and processing methods such as grating and flour wetting.",
+      "source": {
+        "authors": "Cliff J, Muquingue H, Nhassico D, Nzwalo H et al",
+        "year": 2011,
+        "journal": "Food and Chemical Toxicology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20654676/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "About bitter cassava in food-insecure settings; it is not about sweet cassava cooked normally.",
+      "id": "cliff-2011"
+    },
+    {
+      "population": "Cassava products sold in Melbourne, Australia",
+      "design": "Laboratory cyanide measurement of ready-to-eat, frozen grated and frozen whole root products",
+      "n": "not stated",
+      "finding": "Cyanide was highest in ready-to-eat cassava chips (mean 48.4 ppm), higher in imported products (95.9 ppm) than Australian-made (1.0 ppm), against Australia's limit of 10 ppm. Frozen products were significantly reduced by processing as directed on the packet.",
+      "source": {
+        "authors": "Quinn AA, Myrans H, Gleadow RM",
+        "year": 2022,
+        "journal": "Foods",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35626954/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Product testing in Australia; no people. The 10 ppm limit is Australian, not a UK rule.",
+      "id": "quinn-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "Which staples raise blood sugar fastest and whether that matters: small glucose tests in healthy volunteers in Cote d'Ivoire, Trinidad and Nigeria plus one large cohort of US Black women linking glycaemic index to diabetes; swapping staples is untested.",
+  "tier_note": "Thin because the glucose tests used 8 to 10 healthy volunteers and the cohort is one study with self-reported diet. Marked B observational because the main link to diabetes risk is a cohort in Black women; the glucose tests are tier A in type (people of African descent) but too small and in healthy people. It would move up with a trial of swapping staples in adults with prediabetes.",
+  "harm_flag": true,
+  "harm_note": "Cyanide from cassava: konzo epidemics in Mozambique followed dependence on insufficiently processed bitter cassava (Cliff 2011), and imported ready-to-eat cassava chips in Australia averaged 95.9 ppm cyanide against a 10 ppm limit (Quinn 2022). This applies to bitter cassava or under-processed products, not to sweet cassava cooked normally, for which I found no harm report.",
+  "founder_flag": false,
+  "evidence_summary": "In tests in healthy volunteers, cassava (glycaemic index 94 in Trinidad), pounded yam and pounded cassava-plantain (Cote d'Ivoire) were high, while breadfruit, white yam, eddoes, tannia and green banana were intermediate. Nigerian values for plantain conflict: a review reports high values while a small Leeds study of Nigerian plantain products found 38 to 55. A cohort of about 59,000 US Black women linked higher dietary glycaemic index to more diabetes and higher cereal fibre to less. Whether changing staples lowers risk has not been tested.",
+  "measured_variables": [
+    "Glycaemic index and load (glucose rise against a reference)",
+    "Incident type 2 diabetes in the cohort",
+    "Cyanide content and urinary thiocyanate",
+    "Ripeness, preparation and portion size of each staple"
+  ],
+  "gaps": "Untested: swapping staples in people with diabetes or prediabetes; glycaemic index in people with diabetes; fufu, eba and amala in people (reviewed, not trialled here); whole-diet patterns (see the Caribbean and West African diet entry). Not opened: a 2019 plantain review (PMID 31622319), a 2024 fufu study (PMID 38328775), and 'Walker 1984' on South African foods. ClinicalTrials.gov was not searched for this entry beyond the glycaemic studies above.",
+  "related": [
+    "caribbean-and-west-african-diet-and-health",
+    "type-2-diabetes-risk",
+    "weight-bmi-and-ethnicity",
+    "salt-and-blood-pressure"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Kouame AC, Kouassi KN, N'dri YD, Amani NG",
+      "year": 2015,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25690417/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ramdath DD, Isaacs RL, Teelucksingh S, Wolever TM",
+      "year": 2004,
+      "journal": "British Journal of Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15182400/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Oladele EO, Williamson G",
+      "year": 2016,
+      "journal": "European Journal of Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25542206/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Okoduwa SIR, Abdulwaliyu I",
+      "year": 2023,
+      "journal": "Diabetes and Metabolic Syndrome",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36584553/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Krishnan S, Rosenberg L, Singer M, Hu FB et al",
+      "year": 2007,
+      "journal": "Archives of Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18039988/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Cliff J, Muquingue H, Nhassico D, Nzwalo H et al",
+      "year": 2011,
+      "journal": "Food and Chemical Toxicology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20654676/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Quinn AA, Myrans H, Gleadow RM",
+      "year": 2022,
+      "journal": "Foods",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35626954/",
+      "tag": "[primary]"
+    }
+  ]
+}

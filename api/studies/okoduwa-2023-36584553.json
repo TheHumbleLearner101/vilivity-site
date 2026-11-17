@@ -1,0 +1,30 @@
+{
+  "pmid": "36584553",
+  "slug": "okoduwa-2023-36584553",
+  "citation": {
+    "authors": "Okoduwa SIR, Abdulwaliyu I",
+    "year": 2023,
+    "journal": "Diabetes and Metabolic Syndrome"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36584553/",
+  "page": "https://vilivity.com/studies/okoduwa-2023-36584553/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "okoduwa-2023",
+        "population": "Nigerian staples (literature overview)",
+        "n": "not applicable",
+        "design": "Narrative review of published glycaemic index values of foods in Nigeria",
+        "finding": "Many staples (tuwo, amala, fufu, garri, pounded yam, rice, beans and plantain) were reported as high glycaemic index (75 to 97). Less common foods such as maize pudding, moi-moi, fonio and dambu showed lower values (14 to 53). The authors say the lower-index foods may need certification before people with diabetes rely on them.",
+        "line_tier": "B",
+        "note": "A non-systematic overview; it conflicts with Oladele 2016 on plantain, so values depend on variety, ripeness and cooking.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

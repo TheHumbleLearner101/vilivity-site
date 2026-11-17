@@ -1,0 +1,30 @@
+{
+  "pmid": "25068544",
+  "slug": "gold-2014-25068544",
+  "citation": {
+    "authors": "Gold MH, McGuire M, Mustoe TA, Pusic A et al",
+    "year": 2014,
+    "journal": "Dermatologic Surgery"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25068544/",
+  "page": "https://vilivity.com/studies/gold-2014-25068544/",
+  "cited_by": [
+    {
+      "entry": "keloids-and-piercings",
+      "title": "Keloids and piercings",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/keloids-and-piercings/",
+      "record": {
+        "id": "gold-2014",
+        "population": "International advisory panel",
+        "n": "panel",
+        "design": "Updated clinical recommendations from literature review and consensus on scar management",
+        "finding": "A combination of multiple treatments gives the best chance of success for hypertrophic scars and keloids. The panel advocates earlier, more aggressive initial management of keloids, including earlier 5-fluorouracil.",
+        "line_tier": "B",
+        "note": "Expert consensus plus literature; not specific to Black skin.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

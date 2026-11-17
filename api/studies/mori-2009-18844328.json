@@ -1,0 +1,30 @@
+{
+  "pmid": "18844328",
+  "slug": "mori-2009-18844328",
+  "citation": {
+    "authors": "Mori K, Inatomi S, Ouchi K, Azumi Y et al",
+    "year": 2009,
+    "journal": "Phytotherapy Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18844328/",
+  "page": "https://vilivity.com/studies/mori-2009-18844328/",
+  "cited_by": [
+    {
+      "entry": "lions-mane-and-reishi-mushroom-supplements",
+      "title": "Lion's mane and reishi mushroom supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/lions-mane-and-reishi-mushroom-supplements/",
+      "record": {
+        "id": "mori-2009",
+        "population": "Japanese men and women aged 50 to 80 with mild cognitive impairment",
+        "n": 30,
+        "design": "Randomised, double-blind, placebo-controlled trial of lion's mane (Yamabushitake) tablets, 3 g a day for 16 weeks, with 4 weeks of follow-up",
+        "finding": "Cognitive scores rose more in the lion's mane group at weeks 8, 12 and 16, then fell back four weeks after stopping. Laboratory tests showed no adverse effect.",
+        "line_tier": "B",
+        "note": "15 people per group. Older Japanese adults with a diagnosed condition, so it says little about healthy people or Black adults.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "21881618",
+  "slug": "agyemang-2012-21881618",
+  "citation": {
+    "authors": "Agyemang C, Humphry RW, Bhopal R",
+    "year": 2012,
+    "journal": "American Journal of Hypertension"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21881618/",
+  "page": "https://vilivity.com/studies/agyemang-2012-21881618/",
+  "cited_by": [
+    {
+      "entry": "high-blood-pressure-in-black-adults",
+      "title": "High blood pressure in Black adults",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/high-blood-pressure-in-black-adults/",
+      "record": {
+        "id": "agyemang-2012",
+        "population": "22,723 adults in the Health Surveys for England (1,379 African-Caribbean, 21,344 White)",
+        "n": 22723,
+        "design": "Secondary analysis of repeated cross-sectional surveys, age-specific blood pressure curves",
+        "finding": "African-Caribbean blood pressure crossed above White at about 30-40 years. At 20-29 African-Caribbean men were advantaged, but not after that. African-Caribbean women had higher BMI than White women; men did not differ much. The authors advise extra vigilance in screening African-Caribbean patients from age 30 and call the mechanism \"still mysterious\".",
+        "line_tier": "B",
+        "note": "Cross-sectional, so it compares different people at different ages, not the same people over time.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "weight-bmi-and-ethnicity",
+      "title": "Weight, BMI and losing weight safely",
+      "module": "body",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/body/weight-bmi-and-ethnicity/",
+      "record": {
+        "id": "agyemang-2012-bmi",
+        "population": "22,723 adults in the Health Surveys for England (1,379 African-Caribbean)",
+        "n": 22723,
+        "design": "Secondary analysis of cross-sectional surveys of blood pressure and BMI",
+        "finding": "African-Caribbean women had higher BMI than white women; there was little difference in BMI in men.",
+        "line_tier": "B",
+        "note": "Included only for the BMI pattern; this paper does not test the NHS BMI cut-offs.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

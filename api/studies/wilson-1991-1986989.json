@@ -1,0 +1,30 @@
+{
+  "pmid": "1986989",
+  "slug": "wilson-1991-1986989",
+  "citation": {
+    "authors": "Wilson TW, Grim CE",
+    "year": 1991,
+    "journal": "Hypertension"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/1986989/",
+  "page": "https://vilivity.com/studies/wilson-1991-1986989/",
+  "cited_by": [
+    {
+      "entry": "salt-and-blood-pressure",
+      "title": "Salt and blood pressure",
+      "module": "food",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/food/salt-and-blood-pressure/",
+      "record": {
+        "id": "wilson-grim-1991",
+        "population": "Historical argument about the slave trade and blood pressure in Black Americans",
+        "n": "not applicable",
+        "design": "Hypothesis paper",
+        "finding": "The authors argue that salt-depleting diseases such as diarrhoea during the slave trade and slavery favoured people who could conserve salt, so that Black Americans carry more salt-conserving genes than African Black people. It is a prediction, not a measurement.",
+        "line_tier": "D",
+        "note": "A hypothesis. No gene was identified in the abstract.",
+        "tag": "[commentary]"
+      }
+    }
+  ]
+}

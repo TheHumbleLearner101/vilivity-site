@@ -1,0 +1,30 @@
+{
+  "pmid": "32740208",
+  "slug": "michelle-2021-32740208",
+  "citation": {
+    "authors": "Michelle L, Pouldar Foulad D, Ekelem C et al",
+    "year": 2021,
+    "journal": "Dermatologic Surgery"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32740208/",
+  "page": "https://vilivity.com/studies/michelle-2021-32740208/",
+  "cited_by": [
+    {
+      "entry": "dark-circles-under-the-eyes",
+      "title": "Dark circles under the eyes",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/dark-circles-under-the-eyes/",
+      "record": {
+        "id": "michelle-2021",
+        "population": "Participants in 39 studies of periorbital hyperpigmentation; groups not stated in the abstract",
+        "n": 39,
+        "design": "Systematic review of treatments",
+        "finding": "Fillers and fat grafting work best for dark circles from volume loss; blepharoplasty for loose skin; creams and peels for pigment; lasers mildly to moderately for vascular and pigment types. The authors note the scarcity of high-quality evidence and ask for more randomised trials.",
+        "line_tier": "B",
+        "note": "Not specific to Black skin.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "41789013",
+  "slug": "bmj-2025-41789013",
+  "citation": {
+    "authors": "BMJ Nutrition, Prevention and Health (retraction notice)",
+    "year": 2025,
+    "journal": "BMJ Nutrition, Prevention and Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41789013/",
+  "page": "https://vilivity.com/studies/bmj-2025-41789013/",
+  "cited_by": [
+    {
+      "entry": "apple-cider-vinegar",
+      "title": "Apple cider vinegar: weight, blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/apple-cider-vinegar/",
+      "record": {
+        "id": "bmjnph-retraction-2025",
+        "population": "Lebanese adolescents and young adults with overweight and obesity (a 2024 randomised trial of apple cider vinegar for weight)",
+        "n": "not applicable",
+        "design": "Retraction notice for the 2024 randomised, double-blind trial in BMJ Nutrition, Prevention and Health",
+        "finding": "BMJ Nutrition, Prevention and Health retracted its 2024 trial of apple cider vinegar for weight management in Lebanese young people. The notice I opened gives the DOI of the retracted article and no reasons in the part I read.",
+        "line_tier": "B",
+        "note": "Included so no one quotes that trial as evidence. The original trial (PMID 38966098) is not counted in this entry.",
+        "tag": "[official]"
+      }
+    }
+  ]
+}

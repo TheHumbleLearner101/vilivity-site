@@ -1,0 +1,30 @@
+{
+  "pmid": "39462180",
+  "slug": "hirose-2024-39462180",
+  "citation": {
+    "authors": "Hirose et al",
+    "year": 2024,
+    "journal": "Journal of Obstetrics and Gynaecology Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39462180/",
+  "page": "https://vilivity.com/studies/hirose-2024-39462180/",
+  "cited_by": [
+    {
+      "entry": "hair-shedding-and-thinning-after-pregnancy-or-stress",
+      "title": "Hair shedding after pregnancy, illness or stress",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-shedding-and-thinning-after-pregnancy-or-stress/",
+      "record": {
+        "id": "hirose-2024",
+        "population": "Postpartum women, Japan",
+        "n": "not stated",
+        "design": "Questionnaire study 10 to 18 months after delivery",
+        "finding": "Postpartum hair loss was associated with anxiety symptoms.",
+        "line_tier": "B",
+        "note": "Association only; Japanese sample.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

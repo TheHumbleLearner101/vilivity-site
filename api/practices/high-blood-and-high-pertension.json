@@ -1,0 +1,53 @@
+{
+  "slug": "high-blood-and-high-pertension",
+  "name": "Treating \"high blood\" by how you feel",
+  "regions": [
+    "African American"
+  ],
+  "module": "body",
+  "what_people_do": "Older Black women describe \"high blood\" or \"high-pertension\" as something felt in the blood and nerves, and manage medication by those symptoms.",
+  "why_they_say_it_works": "The illness is understood through symptoms and life stress rather than a number on a cuff.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Heurtin-Roberts S 1993, Soc Sci Med, PMID 8356478",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8356478/",
+      "quote_or_summary": "60 older African American women in New Orleans: \"high-pertension\" is a chronic folk illness involving blood and \"nerves\", and a way of adapting to life."
+    },
+    {
+      "source": "Heurtin-Roberts S, Reisin E 1992, Am J Hypertens, PMID 1457078",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1457078/",
+      "quote_or_summary": "60 black hypertensive women at Charity Hospital: 53% held a \"high blood\" or \"high-pertension\" model; the model was significantly related to compliance with treatment (P<0.01 to 0.001) and compliance to blood pressure control (P=0.05)."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Folk models and treatment adherence",
+      "population": "60 women, 2-month follow-up",
+      "finding": "Illness model related to compliance, and compliance to BP control; small clinic sample.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Heurtin-Roberts S, Reisin E 1992, Am J Hypertens, PMID 1457078",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1457078/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "possible",
+  "harm_note": "Adjusting tablets by symptoms rather than by readings is unsafe for a condition that is often silent.",
+  "links_to_entries": [
+    "high-blood-pressure-in-black-adults",
+    "salt-and-blood-pressure"
+  ],
+  "gaps": [
+    "1992 and 1993, one city; current prevalence unknown."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/high-blood-and-high-pertension/"
+}

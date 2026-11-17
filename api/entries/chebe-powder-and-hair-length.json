@@ -1,0 +1,92 @@
+{
+  "slug": "chebe-powder-and-hair-length",
+  "title": "Chebe powder: length retention, growth claims and safety",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Does chebe powder grow hair?",
+    "Is chebe powder safe?",
+    "How do I use chebe powder?",
+    "Does chebe powder really work?"
+  ],
+  "tradition_says": "Chebe powder is said to stop breakage so hair grows very long, and is applied to the hair lengths under braids; families and online communities swear by it.",
+  "layer1": {
+    "plain_answer": "Chebe is a traditional herbal hair powder, mixed with oil or butter and coated on the lengths. My search found no study of it on hair or in people. A doctor quoted by PureWow says it does not grow hair. Any benefit is untested, so patch test first and avoid heavy coating on thin strands.",
+    "do": [
+      {
+        "text": "Patch test first, since its side effects are unknown.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "PureWow, \"Chebe powder for hair\" (quotes Dr Sunitha Posina, an internist, and two hair professionals)",
+          "url": "https://purewow.com/beauty/chebe-powder-for-hair",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use it as a conditioning treatment on the lengths: a stylist suggests a weekly treatment left on for at least an hour.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "PureWow, \"Chebe powder for hair\" (quotes Dr Sunitha Posina, an internist, and two hair professionals)",
+          "url": "https://purewow.com/beauty/chebe-powder-for-hair",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Heavy application on thin or fine strands: a stylist warns it is heavy and can cause breakage.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "PureWow, \"Chebe powder for hair\" (quotes Dr Sunitha Posina, an internist, and two hair professionals)",
+          "url": "https://purewow.com/beauty/chebe-powder-for-hair",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Expecting hair growth: Dr Sunitha Posina says there is no evidence it grows hair.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "PureWow, \"Chebe powder for hair\" (quotes Dr Sunitha Posina, an internist, and two hair professionals)",
+          "url": "https://purewow.com/beauty/chebe-powder-for-hair",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Itching, a rash or burning on your scalp after using it (doctor or dermatologist).",
+      "Thinning at the hairline or temples, whatever you use (doctor or dermatologist; ask about traction).",
+      "Hair breaking despite careful care (doctor or a hair and scalp specialist)."
+    ]
+  },
+  "tested": [],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That chebe stops breakage or grows hair: my search found no study in people or on hair; one internist quoted by a magazine says it has no evidence behind it.",
+  "tier_note": "D because the claim people make has no human or lab evidence in what I opened. It would move if a study measured breakage or length on afro-textured hair with and without chebe.",
+  "harm_flag": false,
+  "harm_note": "No harm study found. PureWow quotes a doctor saying its side effects are unknown and advising a patch test, and a stylist warning it is heavy on thin strands. A Reddit thread reviewed by the practices layer reports an itchy rash when it touched the scalp (forum report only, not counted as evidence).",
+  "founder_flag": false,
+  "evidence_summary": "My searches found no study of chebe powder. PubMed returned 7 records for the bare word 'chebe' (none about hair) and none for Croton or Basara hair; the positive control 'Khumalo NP AND hair' returned 71 results, so the search works. ClinicalTrials.gov returned no chebe study. A PureWow article quotes an internist who says chebe does not grow hair and that there are no peer-reviewed studies, and a cosmetologist who lists its ingredients as local tree resin, cherry seeds, lavender and cloves.",
+  "measured_variables": [
+    "Hair breakage and length retained (untested for chebe)",
+    "Scalp reaction",
+    "Heaviness on fine strands"
+  ],
+  "gaps": "Untested: everything. No study of chebe on hair strength, breakage, length or growth, in afro-textured hair or any hair; no analysis of what is in commercial chebe products; allergy rates. The only source is one magazine article, not a clinical source. Origin (Basara women in Chad) is described in the practices layer only from a search summary and is not used here. The ingredient question (a herb or food) sits with Food's herbal entries; this entry is in Hair because the use is on hair.",
+  "related": [
+    "hair-breakage-and-length-retention",
+    "hair-growth-oils-and-supplements",
+    "scalp-oiling-and-greasing",
+    "traction-alopecia-and-protective-styles"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "name": "PureWow, \"Chebe powder for hair\" (quotes Dr Sunitha Posina, an internist, and two hair professionals)",
+      "url": "https://purewow.com/beauty/chebe-powder-for-hair",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

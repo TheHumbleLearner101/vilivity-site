@@ -1,0 +1,164 @@
+{
+  "slug": "pregnancy-and-maternity-care",
+  "title": "Pregnancy risk and safe maternity care for Black women",
+  "category": "body",
+  "kind": "condition",
+  "question_forms": [
+    "How do I get safe maternity care as a Black woman?",
+    "Are Black women more likely to die in pregnancy in England or the UK?",
+    "What pregnancy warning signs should I act on?"
+  ],
+  "tradition_says": "Many Black women are told to put up with pain, swelling or tiredness in pregnancy, and some say they were not listened to when they raised a concern.",
+  "layer1": {
+    "plain_answer": "In England, Black women are nearly three times as likely to die during pregnancy or within six weeks of it as White women, in the latest national report. A confidential enquiry found bias in the care some received. Go to every antenatal check, learn the warning signs, and call your maternity unit straight away if one appears.",
+    "do": [
+      {
+        "text": "Go to your routine antenatal appointments: blood pressure and pee checks are how pre-eclampsia is picked up.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Pre-eclampsia\"",
+          "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know the warning signs: a severe headache that does not go, vision problems, pain below the ribs, sudden swelling of face, hands or feet.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Pre-eclampsia\"",
+          "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Call your maternity unit if you have the number, or 111 (UK), if you have symptoms in pregnancy or in the weeks after birth.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Pre-eclampsia\"",
+          "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take up the blood test for sickle cell offered by your midwife before 10 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sickle cell disease\"",
+          "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting to see if a severe headache or vision change settles: the UK's NHS says any of these need checking immediately.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Pre-eclampsia\"",
+          "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming it is over after birth: pre-eclampsia can develop in the days or weeks after your baby is born.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Pre-eclampsia\"",
+          "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Severe headache, blurred vision or flashing lights, pain below the ribs, or sudden swelling in pregnancy or soon after birth (call your maternity unit or 111 in the UK straight away).",
+      "You were not listened to and a symptom is getting worse (ask for the duty midwife or another doctor, or call 111 in the UK).",
+      "Low mood, anxiety or thoughts of harm in pregnancy or the year after (doctor, midwife or NHS 111 in the UK mental health option; 999, or your local emergency number if in danger)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "All maternal deaths in the UK, 2022-24: 252 deaths among 1,969,321 maternities",
+      "design": "National confidential surveillance report (UK-wide deaths; the ethnicity rate ratios are England only)",
+      "n": "1,969,321 maternities",
+      "finding": "The UK maternal death rate (during pregnancy or within 42 days) was 12.80 per 100,000 maternities. In England only, because denominators by ethnicity exist only there, women from Black ethnic backgrounds had nearly three times the risk of maternal death of White women (rate ratio 2.72, 95% CI 1.80-4.00, P<0.001). Asian women had a non-significantly higher risk. Thrombosis and thromboembolism were the leading cause of death, then cardiac disease; psychiatric causes accounted for 33% of late maternal deaths (six weeks to one year after pregnancy). Women in the most deprived areas had twice the rate of those in the least deprived.",
+      "source": {
+        "authors": "MBRRACE-UK",
+        "year": "2022-24 triennium (data brief)",
+        "journal": "Maternal mortality 2022-2024, NPEU, University of Oxford",
+        "url": "https://www.npeu.ox.ac.uk/mbrrace-uk/data-brief/maternal-mortality-2022-2024"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "The ratio varied between reports; the previous report had a smaller gap because White rates rose. Published pages give rate ratios, not the absolute Black and White rates, which I did not extract.",
+      "id": "mbrrace-2022-24"
+    },
+    {
+      "population": "1,894 women who died during or up to a year after pregnancy in the UK, 2009-18; care of 54 re-examined (18 Black, 19 Asian, 17 White)",
+      "design": "National cohort and confidential enquiry into quality of care and bias",
+      "n": "1,894 deaths; 54 re-examined",
+      "finding": "Causes of death did not differ greatly by ethnic group; cardiovascular disease was the leading cause in all. Multiple areas of bias were found in care, including lack of nuanced care (notable among Black women who died) and microaggressions (most prominent among Asian women). The authors conclude that multiple structural and other biases exist in UK maternity care.",
+      "source": {
+        "authors": "Knight M, Bunch K, Vousden N, Banerjee A et al",
+        "year": 2022,
+        "journal": "EClinicalMedicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34977514/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Qualitative review of 54 women; funded by the NIHR.",
+      "id": "knight-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That Black women in England have about three times the maternal death risk of White women (within six weeks of pregnancy): UK national surveillance of 252 deaths in 2022-24 and earlier periods.",
+  "tier_note": "Fact-check 12 Nov corrected England-only and late-death wording; tier unchanged. National surveillance data with a hard outcome, but the ratio varies between reports and the \"why\" rests on a 54-woman qualitative review; no trial of any intervention.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the advice on this card. The risk described is in the care system and in pregnancy complications, not in these steps.",
+  "founder_flag": false,
+  "evidence_summary": "The MBRRACE-UK 2022-24 report found a nearly three-fold higher maternal death rate for Black women in England than for White women (rate ratio 2.72), and a doubling in the most deprived areas. The leading causes of death within six weeks are thrombosis and thromboembolism, then cardiac disease; psychiatric causes were 33% of late deaths (six weeks to a year). The 2.72 ratio is for England only, where ethnicity denominators exist. A confidential enquiry of women who died in 2009-18 found bias in care, including lack of nuanced care for Black women. The card gives NHS warning signs for pre-eclampsia and the offer of sickle cell screening.",
+  "measured_variables": [
+    "Maternal death within 42 days (or up to a year) of pregnancy, by recorded ethnic group",
+    "Deprivation and age, which also raise risk",
+    "Recorded ethnic group, a stand-in; the enquiry points to care quality and bias rather than biology"
+  ],
+  "gaps": "Not opened: absolute Black and White rates (the page gives rate ratios); stillbirth, preterm birth and near-miss data by ethnic group (a PubMed search returned papers I did not open); the NHS England maternity equity plans; Five X More and similar charities; whether any programme closed the gap. The \"you were not listened to\" trigger is general advice with no source, and I wrote no do-line about advocating for yourself because nothing opened gives that advice. The new report was in the 2022-24 data brief page; its publication date was not stated in the part I read.",
+  "related": [
+    "sickle-cell-disease-trait-and-pregnancy",
+    "being-believed-by-doctors-and-pain",
+    "high-blood-pressure-in-black-adults",
+    "racism-and-mental-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "MBRRACE-UK",
+      "year": "2022-24 triennium (data brief)",
+      "journal": "Maternal mortality 2022-2024, NPEU, University of Oxford",
+      "url": "https://www.npeu.ox.ac.uk/mbrrace-uk/data-brief/maternal-mortality-2022-2024",
+      "tag": "[official]"
+    },
+    {
+      "authors": "Knight M, Bunch K, Vousden N, Banerjee A et al",
+      "year": 2022,
+      "journal": "EClinicalMedicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34977514/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Pre-eclampsia\"",
+      "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Sickle cell disease\"",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

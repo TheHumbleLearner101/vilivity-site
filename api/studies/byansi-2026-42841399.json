@@ -1,0 +1,30 @@
+{
+  "pmid": "42841399",
+  "slug": "byansi-2026-42841399",
+  "citation": {
+    "authors": "Byansi W, Williamson E, Peoples JE, Motley RO et al",
+    "year": 2026,
+    "journal": "Journal of Community Psychology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42841399/",
+  "page": "https://vilivity.com/studies/byansi-2026-42841399/",
+  "cited_by": [
+    {
+      "entry": "childhood-trauma-and-where-to-start",
+      "title": "Childhood trauma and where to start",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/childhood-trauma-and-where-to-start/",
+      "record": {
+        "id": "byansi-2026",
+        "population": "537 African-origin emerging adults aged 18 to 29 in the United States (first- and second-generation)",
+        "n": 537,
+        "design": "Cross-sectional online panel with multivariable regression",
+        "finding": "Higher ACE scores were associated with more anxiety and depressive symptoms and higher odds of lifetime suicidal ideation and suicide attempt. Associations were stronger for suicidal ideation and attempt in first-generation participants. The authors support culturally responsive, trauma-informed assessment and intervention.",
+        "line_tier": "B",
+        "note": "Non-probability online panel; association only.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

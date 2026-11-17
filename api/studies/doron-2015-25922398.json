@@ -1,0 +1,30 @@
+{
+  "pmid": "25922398",
+  "slug": "doron-2015-25922398",
+  "citation": {
+    "authors": "Doron S, Snydman DR",
+    "year": 2015,
+    "journal": "Clinical Infectious Diseases"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25922398/",
+  "page": "https://vilivity.com/studies/doron-2015-25922398/",
+  "cited_by": [
+    {
+      "entry": "probiotics-and-gut-health",
+      "title": "Probiotics and gut health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/probiotics-and-gut-health/",
+      "record": {
+        "id": "doron-2015",
+        "population": "General population (review of probiotic safety)",
+        "n": "not applicable",
+        "design": "Narrative review of the risk and safety of probiotics",
+        "finding": "Probiotics have been used safely for years, but safety outcomes are inconsistently reported. Theoretical risks include systemic infections, harmful metabolic activity and excess immune stimulation in susceptible people. The authors say more research is needed on how often and how severe adverse events are.",
+        "line_tier": "B",
+        "note": "A review, not a trial.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

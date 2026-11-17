@@ -1,0 +1,30 @@
+{
+  "pmid": "3726995",
+  "slug": "chunge-1986-3726995",
+  "citation": {
+    "authors": "Chunge RN et al",
+    "year": 1986,
+    "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/3726995/",
+  "page": "https://vilivity.com/studies/chunge-1986-3726995/",
+  "cited_by": [
+    {
+      "entry": "head-lice-in-afro-hair-and-locs",
+      "title": "Head lice in afro-textured hair and locs",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/head-lice-in-afro-hair-and-locs/",
+      "record": {
+        "id": "chunge-1986",
+        "population": "1,270 schoolchildren, 33 urban and rural primary schools, Kenya",
+        "n": "1270",
+        "design": "Cross-sectional survey of head lice",
+        "finding": "17.1% were infested (8% with living lice or nits). Negroid children had lower infestation rates than non-Negroid children, and the authors say the criterion seems to be hair type. Infestation was higher in older children, in children with longer hair and in those who washed less; most had one or two lice.",
+        "line_tier": "B",
+        "note": "Old; the paper's own terms; hair type not measured.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

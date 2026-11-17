@@ -1,0 +1,30 @@
+{
+  "pmid": "42112722",
+  "slug": "mathenge-2026-42112722",
+  "citation": {
+    "authors": "Mathenge et al",
+    "year": 2026,
+    "journal": "BioMed Research International"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42112722/",
+  "page": "https://vilivity.com/studies/mathenge-2026-42112722/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "mathenge-2026",
+        "population": "15 mice",
+        "n": 15,
+        "design": "Preclinical pilot: rosemary oil, castor oil, combination, minoxidil",
+        "finding": "A combination of rosemary and castor oils was tested for hair growth in mice (three animals per group).",
+        "line_tier": "C",
+        "note": "Animal pilot.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

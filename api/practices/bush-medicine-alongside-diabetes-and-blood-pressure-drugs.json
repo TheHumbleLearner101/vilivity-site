@@ -1,0 +1,53 @@
+{
+  "slug": "bush-medicine-alongside-diabetes-and-blood-pressure-drugs",
+  "name": "Bush medicine taken alongside diabetes and blood pressure tablets",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Take bush teas or herbal remedies for \"sugar\" and \"pressure\" in addition to, or sometimes instead of, prescribed medicines; about a third of Barbadian church-goers use herbal remedies.",
+  "why_they_say_it_works": "Plants are \"natural\", familiar, cheap and passed on by older relatives.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Cohall DH et al 2012, West Indian Med J, PMID 23155984",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23155984/",
+      "quote_or_summary": "Barbados: about 33% of Christian church-goers surveyed used herbal remedies, including for chronic conditions; health insurance made no difference to use."
+    },
+    {
+      "source": "Mahabir D, Gulliford MC 1997, Rev Panam Salud Publica, PMID 9128111",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9128111/",
+      "quote_or_summary": "Trinidad: 42% of 622 diabetes patients used bush medicine; 81% of users gathered the plants themselves; insulin users were less frequent users."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Drug-herb interactions: 11 popular Barbadian plants against the commonest antihypertensives",
+      "population": "In silico docking only",
+      "finding": "27 of 30 compounds showed strong binding to drug targets; Catharanthus roseus, Phyllanthus niruri, Petroselinum crispum and Lantana involucrata flagged. Predicts possible interactions, not proven ones.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Barbadian botanicals and antihypertensive drugs, in silico, 2022, ACS Omega, PMID 36530331",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36530331/"
+      }
+    }
+  ],
+  "headline_tier": "C",
+  "headline_strength": "thin",
+  "harm_flag": "possible",
+  "harm_note": "Interaction risk is predicted (computer modelling), not observed in patients. The practical point: tell the doctor or pharmacist what you are drinking.",
+  "links_to_entries": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "high-blood-pressure-in-black-adults",
+    "type-2-diabetes-risk"
+  ],
+  "gaps": [
+    "No clinical study of an actual interaction found.",
+    "Non-disclosure rate in Caribbean patients not found (African figure: James 2018, 55.8 to 100% do not disclose)."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/bush-medicine-alongside-diabetes-and-blood-pressure-drugs/"
+}

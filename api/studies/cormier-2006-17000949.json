@@ -1,0 +1,47 @@
+{
+  "pmid": "17000949",
+  "slug": "cormier-2006-17000949",
+  "citation": {
+    "authors": "Cormier JN, Xing Y, Ding M, Lee JE et al",
+    "year": 2006,
+    "journal": "Archives of Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17000949/",
+  "page": "https://vilivity.com/studies/cormier-2006-17000949/",
+  "cited_by": [
+    {
+      "entry": "skin-cancer-and-moles-on-dark-skin",
+      "title": "Skin cancer and moles on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-cancer-and-moles-on-dark-skin/",
+      "record": {
+        "id": "cormier-2006",
+        "population": "251 African Americans and 48,143 White patients with melanoma, SEER registry, 1992-2002",
+        "n": 251,
+        "design": "Registry cohort",
+        "finding": "Melanoma incidence was 0.8 per 100,000 in African Americans against 18.4 in White people. African Americans were 4.2 times as likely to present at stage IV. Overall 5-year survival was 72.2% to 81.1% for minorities against 89.6% for White patients.",
+        "line_tier": "B",
+        "note": "Registry data.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "sunscreen-on-dark-skin",
+      "title": "Sunscreen on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/sunscreen-on-dark-skin/",
+      "record": {
+        "id": "cormier-2006",
+        "population": "251 African Americans and 48,143 White patients with melanoma in the US cancer registry (SEER), 1992-2002",
+        "n": 251,
+        "design": "Registry cohort",
+        "finding": "Melanoma incidence was 0.8 per 100,000 in African Americans against 18.4 in White people. African Americans were 4.2 times as likely to present at stage IV, and had a 1.48-fold higher risk-adjusted, stage-specific mortality. Overall 5-year survival was 72.2% to 81.1% for minorities against 89.6% for White patients.",
+        "line_tier": "B",
+        "note": "Registry data; melanoma is rare in Black people, but is found later. This study does not say sunscreen prevents melanoma in Black people, and it does not test sun exposure as a cause.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

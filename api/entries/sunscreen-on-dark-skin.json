@@ -1,0 +1,269 @@
+{
+  "slug": "sunscreen-on-dark-skin",
+  "title": "Sunscreen on dark skin",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Do Black people need sunscreen?",
+    "Can dark skin burn?",
+    "Does sunscreen leave a white cast and does it matter?",
+    "Does sun make dark marks darker?",
+    "Can Black people get sunburned or tan?",
+    "Which sunscreens leave no white cast on dark skin?",
+    "Should Black children wear sunscreen?",
+    "Which SPF should I use on dark skin (30 or 50)?"
+  ],
+  "tradition_says": "Dark skin is widely believed to be naturally protected, so sunscreen is unnecessary. Sunscreen is also often disliked for the white cast it leaves.",
+  "layer1": {
+    "plain_answer": "Dark skin burns less easily and melanoma is rarer, but when it happens it is found later and survival is worse. In a small test on normal skin, visible light left darker, longer-lasting pigment than long-wave UVA. A broad-spectrum sunscreen is reasonable; whether sunscreen prevents melanoma in Black skin is untested.",
+    "do": [
+      {
+        "text": "Wear a broad-spectrum SPF 30 or higher daily; a tint with iron oxide blends in and guards against visible light.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "The UK's NHS advises at least SPF 30 and 4-star UVA, applied generously and reapplied every two hours in strong sun.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sunscreen and sun safety\"",
+          "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check palms, soles, nails and under the nails now and then for new or changing marks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Melanoma skin cancer: symptoms\"",
+          "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wear a wide-brimmed hat and avoid the midday sun when you can.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming a new dark mark on a palm, sole or under a nail is a bruise: if it has not gone in a few weeks, see a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Melanoma skin cancer: symptoms\"",
+          "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming dark skin cannot get skin cancer: the UK's NHS says people of all skin tones can.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Sunscreen and sun safety\"",
+          "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treating the SPF test rule as proof that sunscreen does not work on you.",
+        "basis": "tested",
+        "source": "us-2026"
+      }
+    ],
+    "see_someone_when": [
+      "A dark streak under or around a nail, or a new or changing dark spot on a palm, sole, finger or toe (dermatologist, promptly).",
+      "A mole or mark that is growing, changing colour, bleeding or not healing (doctor, then dermatologist).",
+      "Any wound on the foot that does not heal (doctor): acral melanoma is commonly found late."
+    ]
+  },
+  "tested": [
+    {
+      "population": "251 African Americans and 48,143 White patients with melanoma in the US cancer registry (SEER), 1992-2002",
+      "design": "Registry cohort",
+      "n": 251,
+      "finding": "Melanoma incidence was 0.8 per 100,000 in African Americans against 18.4 in White people. African Americans were 4.2 times as likely to present at stage IV, and had a 1.48-fold higher risk-adjusted, stage-specific mortality. Overall 5-year survival was 72.2% to 81.1% for minorities against 89.6% for White patients.",
+      "source": {
+        "authors": "Cormier JN, Xing Y, Ding M, Lee JE et al",
+        "year": 2006,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17000949/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Registry data; melanoma is rare in Black people, but is found later. This study does not say sunscreen prevents melanoma in Black people, and it does not test sun exposure as a cause.",
+      "id": "cormier-2006"
+    },
+    {
+      "population": "48 Black patients with melanoma at two Dallas centres, 2006-2022",
+      "design": "Case series",
+      "n": 48,
+      "finding": "Of 40 primary cutaneous melanomas, 30 (75%) were on acral skin. 13 patients (27%) developed stage IV disease. Melanoma in Black individuals is about 1 in 100,000 a year.",
+      "source": {
+        "authors": "Wix SN, Brown AB, Heberton M, Adamson AS et al",
+        "year": 2024,
+        "journal": "JAMA Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38265787/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "wix-2024"
+    },
+    {
+      "population": "20 volunteers with skin types IV-VI, plus skin type II for comparison",
+      "design": "Controlled irradiation of the lower back with long-wave UVA1 or visible light, 7 time points over two weeks",
+      "n": 20,
+      "finding": "Both UVA1 and visible light induced pigmentation in skin types IV-VI. Pigmentation from visible light was darker and more sustained. No pigmentation was seen in skin type II.",
+      "source": {
+        "authors": "Mahmoud BH, Ruvolo E, Hexsel CL, Liu Y et al",
+        "year": 2010,
+        "journal": "Journal of Investigative Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20410914/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Funding not stated in the abstract; funding not checked. Normal skin, not existing marks (fact-check 12 Nov). Tests what light does to skin; it does not test whether any sunscreen prevents it.",
+      "id": "mahmoud-2010"
+    },
+    {
+      "population": "Dermatologists and photobiologists (expert panel)",
+      "design": "Modified Delphi consensus on photoprotection for all skin colours",
+      "n": "panel",
+      "finding": "The panel states that visible light can induce hyperpigmentation in people with dark skin types (Fitzpatrick IV-VI) and exacerbate melasma. The specific product recommendations are in the full text, which I did not open.",
+      "source": {
+        "authors": "Rigel DS, Taylor SC, Lim HW, Alexis AF et al",
+        "year": 2022,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34942296/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Expert opinion, not a trial.",
+      "id": "rigel-2022"
+    },
+    {
+      "population": "Review",
+      "design": "Review of photoprotection misconceptions in skin of colour",
+      "n": "not stated",
+      "finding": "The authors report that misconceptions about the benefits of photoprotection, particularly among people with Fitzpatrick V-VI skin, are still common among clinicians and patients, and that use of photoprotection in skin of colour is low.",
+      "source": {
+        "authors": "Taylor SC, Alexis AF, Armstrong AW, Chiesa Fuxench ZC et al",
+        "year": 2022,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34942293/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "taylor-2022"
+    },
+    {
+      "population": "People used to calibrate sunscreen SPF labels",
+      "design": "US federal regulation on SPF testing",
+      "n": "not applicable",
+      "finding": "US regulation 21 CFR 201.327 requires SPF test subjects to be skin type I, II or III. This is a testing rule for burning in fair skin; it is not evidence that sunscreen is unsafe or useless on dark skin.",
+      "source": {
+        "authors": "US Food and Drug Administration / eCFR",
+        "year": 2026,
+        "journal": "21 CFR 201.327",
+        "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-C/section-201.327"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "Opened by the 12 Nov research worker (agent2); I did not re-open it.",
+      "id": "us-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That melanoma is rarer but found later in Black patients (registry and clinic series), and that visible light induced darker, more sustained pigmentation than UVA1 in the normal back skin of 20 volunteers with skin types IV-VI (not existing marks). Whether any sunscreen prevents melanoma in Black skin is untested.",
+  "tier_note": "Melanoma outcome data are observational in Black patients; the one controlled experiment (n=20) shows visible light pigments normal dark skin more than UVA1 but does not test sunscreen or existing dark marks; no trial of any sunscreen in Black skin was found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for sunscreen use found in my search. The harm in this entry is late diagnosis of melanoma, covered under see a specialist.",
+  "founder_flag": false,
+  "evidence_summary": "Burns mainly affect lighter skin types (Taylor 2022), and melanoma is far rarer in Black people (about 1 in 100,000 a year), but when it happens it is found later and survival is worse. In a 20-person experiment on normal lower-back skin, visible light induced darker, more sustained pigmentation than UVA1 in skin types IV-VI, which the authors say may matter for photoaggravated pigmentary disorders; whether it darkens existing marks was not tested there. A broad-spectrum sunscreen is reasonable for general protection; whether any sunscreen prevents melanoma in Black skin has not been tested.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick IV-VI in the light study)",
+    "Melanoma site (acral skin) and stage at diagnosis"
+  ],
+  "gaps": "Untested: whether visible light darkens existing marks (Mahmoud 2010 irradiated normal skin only); whether any sunscreen reduces melanoma, sunburn or dark marks in Fitzpatrick V-VI skin in a trial; whether iron-oxide tinted sunscreen reduces dark marks (my search found reviews, which I did not open; no trial identified from titles); whether brands' dark-skin testing is published (the 12 Nov research found no Fitzpatrick V-VI trial data from any skincare brand); UV against visible light shares. UNVERIFIED: ACS survival figures by race. V2: the UK's NHS melanoma symptoms page opened says its images and wording do not address dark skin; the palm/sole/nail checks cited from it are general, and the dark-skin presentation rests on the clinic series above.",
+  "related": [
+    "dark-marks-after-acne",
+    "vitamin-d-and-dark-skin",
+    "skin-lightening-creams"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Cormier JN et al",
+      "year": 2006,
+      "journal": "Arch Intern Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17000949/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wix SN et al",
+      "year": 2024,
+      "journal": "JAMA Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38265787/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Mahmoud BH et al",
+      "year": 2010,
+      "journal": "J Invest Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20410914/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rigel DS et al",
+      "year": 2022,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34942296/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Taylor SC et al",
+      "year": 2022,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34942293/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "FDA / eCFR",
+      "year": 2026,
+      "journal": "21 CFR 201.327",
+      "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-C/section-201.327",
+      "tag": "[official]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Sunscreen and sun safety\"",
+      "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Melanoma skin cancer: symptoms\"",
+      "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

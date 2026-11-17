@@ -1,0 +1,161 @@
+{
+  "slug": "magnesium-supplements-for-sleep-and-cramps",
+  "title": "Magnesium supplements for sleep and cramps",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "Does magnesium help you sleep?",
+    "Does magnesium stop leg cramps?",
+    "How much magnesium is safe to take?",
+    "Do Black people need more magnesium, and has it been tested?"
+  ],
+  "tradition_says": "Magnesium is a mineral in leafy greens, nuts, beans and whole grains. Magnesium tablets, powders and sprays are widely promoted for sleep, cramps, stress and muscle recovery.",
+  "layer1": {
+    "plain_answer": "Magnesium tablets did not clearly prevent leg cramps in older adults, and for sleep three small, low-quality trials in older adults hint at falling asleep a little faster. Our search found no supplement trial in Black participants. Up to four hundred milligrams a day from supplements is unlikely to harm; more can cause diarrhoea.",
+    "do": [
+      {
+        "text": "Get magnesium from food first: the UK's NHS says a varied, balanced diet should give you all you need.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamins and minerals: Others\" (magnesium)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "If you try a supplement, keep it to 400 mg a day or less: the UK's NHS says that is unlikely to cause harm.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamins and minerals: Others\" (magnesium)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "More than 400 mg a day from supplements: the UK's NHS says high doses can cause diarrhoea, and long-term effects are not known.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamins and minerals: Others\" (magnesium)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Relying on magnesium tablets to stop night leg cramps: in older adults the Cochrane review found no clear effect.",
+        "basis": "tested",
+        "source": "garrison-2020"
+      }
+    ],
+    "see_someone_when": [
+      "Cramps that are frequent, severe, or come with weakness or swelling (doctor).",
+      "Trouble sleeping most nights for more than a few weeks (doctor; see sleep and sleep apnoea).",
+      "You have kidney disease or take regular medicines and want to start a magnesium supplement (pharmacist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "People with skeletal muscle cramps in 11 randomised trials (five in pregnancy, five idiopathic, one cirrhosis)",
+      "design": "Cochrane systematic review of magnesium supplements for cramp prevention",
+      "n": 735,
+      "finding": "For idiopathic cramps, largely in older adults (mean age about 62 to 69), cramp frequency differences between magnesium and placebo were small and statistically non-significant (moderate-certainty evidence). The pregnancy and cirrhosis trials were at high risk of bias.",
+      "source": {
+        "authors": "Garrison SR, Korownyk CS, Kolber MR, Allan GM et al",
+        "year": 2020,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32956536/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Ethnicity not reported in the abstract.",
+      "id": "garrison-2020"
+    },
+    {
+      "population": "Older adults with insomnia in three randomised trials, in three countries",
+      "design": "Systematic review and meta-analysis of oral magnesium against placebo for sleep",
+      "n": 151,
+      "finding": "Sleep onset latency was 17 minutes shorter with magnesium (95% CI 7 to 27 minutes). Total sleep time improved by 16 minutes, which was not significant. All trials were at moderate to high risk of bias and the evidence was rated low to very low quality.",
+      "source": {
+        "authors": "Mah J, Pitre T",
+        "year": 2021,
+        "journal": "BMC Complementary Medicine and Therapies",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33865376/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Older adults only, three small trials. Ethnicity not reported in the abstract.",
+      "id": "mah-2021"
+    },
+    {
+      "population": "African Americans (narrative review of observational evidence on magnesium status)",
+      "design": "Narrative review",
+      "n": "not applicable",
+      "finding": "The authors report that lower dietary and serum magnesium go with hypertension, insulin resistance and diabetes, and that occult magnesium deficiency may be more prevalent in African Americans than in other groups. They say trials that correct magnesium status in African Americans still need to be done.",
+      "source": {
+        "authors": "Fox CH, Mahoney MC, Ramsoomair D, Carter CA",
+        "year": 2003,
+        "journal": "Journal of the National Medical Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12749615/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Review from 2003 and an association, not a trial. It is a reason to ask for a trial in Black participants, and it does not show that a supplement helps.",
+      "id": "fox-2003"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That magnesium helps sleep and cramps: a Cochrane review found no clear cramp benefit in older adults, and three small low-quality trials (151 older adults) hint at faster sleep onset; none in Black participants.",
+  "tier_note": "Randomised trials exist but the sleep trials are three small, high-risk-of-bias studies rated low to very low quality, so thin. It stays B, short of A, because no supplement trial in people of African descent was found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal at up to 400 mg a day. The UK's NHS says higher doses can cause diarrhoea and long-term effects are unknown. I did not open a source on kidney disease or medicine interactions (the NIH Office of Dietary Supplements page was blocked), so none is claimed.",
+  "founder_flag": false,
+  "evidence_summary": "The Cochrane review of 11 trials with 735 people found magnesium made little difference to cramps in older adults with idiopathic cramps, with moderate-certainty evidence; pregnancy cramp trials were at high risk of bias. A review of three trials in 151 older adults found sleep onset about 17 minutes faster with magnesium, rated low to very low quality. A 2003 review reports that low magnesium status may be more common in African Americans and calls for trials; the supplement trials I found did not report ethnicity.",
+  "measured_variables": [
+    "Cramp frequency (per week)",
+    "Sleep onset latency and total sleep time",
+    "Dietary and serum magnesium (measured in the observational work)",
+    "No ancestry variable in the supplement trials"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 38 records for magnesium supplementation; the relevant ones were observational (a 2003 review, intake surveys), and none was a magnesium supplement trial for sleep or cramps in Black participants. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 32 records matched (titles read only; most unrelated). The NIH Office of Dietary Supplements pages returned a security check and could not be opened. Untested: sleep or cramp benefit in Black participants; whether any low magnesium status in Black adults is corrected by supplements.",
+  "related": [
+    "sleep-and-sleep-apnoea",
+    "high-blood-pressure-in-black-adults",
+    "type-2-diabetes-risk",
+    "vitamins-and-supplements-basics",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Garrison SR, Korownyk CS, Kolber MR, Allan GM et al",
+      "year": 2020,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32956536/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Mah J, Pitre T",
+      "year": 2021,
+      "journal": "BMC Complementary Medicine and Therapies",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33865376/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Fox CH, Mahoney MC, Ramsoomair D, Carter CA",
+      "year": 2003,
+      "journal": "Journal of the National Medical Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12749615/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Vitamins and minerals: Others\" (magnesium)",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

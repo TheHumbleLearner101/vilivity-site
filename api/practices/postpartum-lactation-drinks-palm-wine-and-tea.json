@@ -1,0 +1,63 @@
+{
+  "slug": "postpartum-lactation-drinks-palm-wine-and-tea",
+  "name": "Palm wine, alcohol and tea to bring in milk",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Mothers drink tea, hot water, palm wine or other alcoholic drinks to \"improve the flow\" of breast milk.",
+  "why_they_say_it_works": "Warm or fermented drinks are believed to open the milk.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Udigwe GO, Emelumadu OF, Udigwe IB 2013, West Afr J Med, PMID 24488282",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24488282/",
+      "quote_or_summary": "Nnewi: 53.3% took tea, 30.3% palm wine and 19.4% hot water to improve milk flow."
+    },
+    {
+      "source": "Okeke T et al 2013, Ann Med Health Sci Res, PMID 23634329",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23634329/",
+      "quote_or_summary": "Enugu: 25.2% drank various alcoholic beverages to induce lactation."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Oral galactagogues for milk volume",
+      "population": "Cochrane: 41 RCTs, 3,005 mothers of term infants",
+      "finding": "Overall certainty low to very low; evidence for natural galactagogues is weak (alcohol and palm wine are not among the interventions I read).",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Oral galactagogues for increasing breast milk, Cochrane 2020, PMID 32421208",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32421208/"
+      }
+    },
+    {
+      "tested": "Palm wine or alcohol for lactation",
+      "population": "n/a",
+      "finding": "My search found no trial.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Alcohol passes into breast milk (general pharmacology, not from these sources). The Nnewi authors flagged dangerous practices without detail in the abstract.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "Alcohol-in-breast-milk guidance not opened.",
+    "Moringa as a galactagogue has systematic-review evidence (PMID 40724308) I did not read."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/postpartum-lactation-drinks-palm-wine-and-tea/"
+}

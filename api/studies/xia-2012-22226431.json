@@ -1,0 +1,30 @@
+{
+  "pmid": "22226431",
+  "slug": "xia-2012-22226431",
+  "citation": {
+    "authors": "Xia Y, Cho S, Howard RS, Maggio KL",
+    "year": 2012,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22226431/",
+  "page": "https://vilivity.com/studies/xia-2012-22226431/",
+  "cited_by": [
+    {
+      "entry": "shaving-and-razor-bumps",
+      "title": "Shaving and razor bumps (pseudofolliculitis barbae)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/shaving-and-razor-bumps/",
+      "record": {
+        "id": "xia-2012",
+        "population": "27 men with PFB in a military population",
+        "n": 27,
+        "design": "Randomised, double-blind, paired right-neck/left-neck trial of laser hair removal plus eflornithine cream against laser plus placebo, 16 weeks",
+        "finding": "The eflornithine side had a median hair reduction of 99.5% against 85.0% on the placebo side, with fewer inflammatory papules. Follow-up ended at 16 weeks.",
+        "line_tier": "B",
+        "note": "Participants' ethnicity is not stated in the abstract. Eflornithine and laser are clinic or prescription treatments.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

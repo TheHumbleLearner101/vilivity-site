@@ -1,0 +1,30 @@
+{
+  "pmid": "25478098",
+  "slug": "erinfolami-2011-25478098",
+  "citation": {
+    "authors": "Erinfolami A, Eegunranti A, Ogunsemi O, Oguntuase A et al",
+    "year": 2011,
+    "journal": "Mental Illness"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25478098/",
+  "page": "https://vilivity.com/studies/erinfolami-2011-25478098/",
+  "cited_by": [
+    {
+      "entry": "kola-nut",
+      "title": "Kola nut: caffeine, the heart and health claims",
+      "module": "food",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/food/kola-nut/",
+      "record": {
+        "id": "erinfolami-2011",
+        "population": "385 randomly chosen secondary school students in Osogbo, Nigeria",
+        "n": "385",
+        "design": "Cross-sectional questionnaire survey of kola nut use",
+        "finding": "Kola nut use was common: 11.2% in the past 30 days, 29.1% in the past year and 74.8% over a lifetime, most starting at 14 or younger. Use was associated with younger age and poor school attendance. The authors suggest awareness programmes about dangers.",
+        "line_tier": "B",
+        "note": "Measures how common chewing is and what it travels with; it tests no health effect, and the 'dangers' wording is the authors' view.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

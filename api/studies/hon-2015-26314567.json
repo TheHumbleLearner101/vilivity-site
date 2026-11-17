@@ -1,0 +1,30 @@
+{
+  "pmid": "26314567",
+  "slug": "hon-2015-26314567",
+  "citation": {
+    "authors": "Hon KL, Tsang YC, Pong NH, Lee VW et al",
+    "year": 2015,
+    "journal": "Hong Kong Medical Journal"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26314567/",
+  "page": "https://vilivity.com/studies/hon-2015-26314567/",
+  "cited_by": [
+    {
+      "entry": "shea-butter",
+      "title": "Shea butter",
+      "module": "skin",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/skin/shea-butter/",
+      "record": {
+        "id": "hon-2015",
+        "population": "34 children with atopic dermatitis, Hong Kong (not people of African descent)",
+        "n": 34,
+        "design": "Uncontrolled before-and-after use of a cream and cleanser containing a lipid complex with shea butter extract (a branded product, not plain shea butter)",
+        "finding": "After 4 weeks, itch score fell from 6.7 to 6.0 and the children's dermatology quality-of-life score improved from 10.0 to 8.0, in the group who rated the product good or very good. No control group, so this cannot show the shea did anything.",
+        "line_tier": "C",
+        "note": "Combination product, so shea cannot be isolated as the active. Human data, but it does not test plain shea butter, so it is not counted as evidence for the claim.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

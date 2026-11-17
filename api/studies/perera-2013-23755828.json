@@ -1,0 +1,30 @@
+{
+  "pmid": "23755828",
+  "slug": "perera-2013-23755828",
+  "citation": {
+    "authors": "Perera MA, Cavallari LH, Limdi NA, Gamazon ER et al",
+    "year": 2013,
+    "journal": "Lancet"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23755828/",
+  "page": "https://vilivity.com/studies/perera-2013-23755828/",
+  "cited_by": [
+    {
+      "entry": "how-some-medicines-work-differently-by-gene",
+      "title": "How some medicines work differently by gene",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/how-some-medicines-work-differently-by-gene/",
+      "record": {
+        "id": "perera-2013",
+        "population": "533 African American adults on stable warfarin (discovery) and 432 (replication)",
+        "n": 965,
+        "design": "Genome-wide association study",
+        "finding": "VKORC1 and CYP2C9 explain less dose variation in people of African descent than in Europeans or Asians. A novel variant in the CYP2C cluster (rs12777823) reached genome-wide significance in the discovery cohort and was confirmed in the replication cohort.",
+        "line_tier": "B",
+        "note": "African American adults; a genetic association, not a trial. The abstract was cut before the effect size on dose.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

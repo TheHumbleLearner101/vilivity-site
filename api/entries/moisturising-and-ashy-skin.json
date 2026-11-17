@@ -1,0 +1,251 @@
+{
+  "slug": "moisturising-and-ashy-skin",
+  "title": "Moisturising and 'ashy' skin",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Why is my skin ashy?",
+    "Does Black skin need more moisturiser?",
+    "What is the best moisturiser for dark skin?",
+    "Is Black skin naturally drier?",
+    "How do I moisturise dry skin on Black skin?",
+    "Why does dark skin look ashy and how do I fix it?"
+  ],
+  "tradition_says": "Ashiness, a grey-white look on dark skin, is widely understood as a sign skin needs oil or lotion, and families teach moisturising straight after bathing. It is often believed that Black skin is naturally drier.",
+  "layer1": {
+    "plain_answer": "Ashiness is dry skin showing as a grey-white look on dark skin. In a small trial of women with darker skin types, a moisturising body wash or mild bar used regularly reduced dryness and ashiness, with no untreated comparison group. Whether Black skin is naturally drier is contested.",
+    "do": [
+      {
+        "text": "Moisturise straight after bathing, once you have patted the skin dry.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Emollients\"",
+          "url": "https://www.nhs.uk/conditions/emollients/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Smooth moisturiser on; do not rub it in hard.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Emollients\"",
+          "url": "https://www.nhs.uk/conditions/emollients/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a mild or moisturising cleanser regularly.",
+        "basis": "tested",
+        "source": "feng-2011"
+      },
+      {
+        "text": "Choose fragrance-free or sensitive-skin products if your skin is easily irritated.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, skin care for skin of colour",
+          "url": "https://www.aad.org/public/skin-hair-nails/skin-care/skin-of-color",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take moisturiser from a tub with a clean spoon, or use a pump.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Emollients\"",
+          "url": "https://www.nhs.uk/conditions/emollients/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Any product that stings or burns: stop using it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, skin care for skin of colour",
+          "url": "https://www.aad.org/public/skin-hair-nails/skin-care/skin-of-color",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Believing ashiness is dirt or illness: in the trial it behaved as dryness.",
+        "basis": "tested",
+        "source": "feng-2011"
+      },
+      {
+        "text": "Ordinary soap on very dry skin: the UK's NHS suggests an emollient soap substitute for washing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Emollients\"",
+          "url": "https://www.nhs.uk/conditions/emollients/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Naked flames or smoking near thick emollient on skin or clothes: it is a fire risk.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Emollients\"",
+          "url": "https://www.nhs.uk/conditions/emollients/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Dry patches are cracked, red, weeping or itch badly or keep returning (doctor or dermatologist).",
+      "Dryness spreads, thickens or leaves darker patches (dermatologist).",
+      "A rash covers large areas or a child has persistent itchy, dry skin (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "55 healthy women with skin types IV-VI and visible ashiness, Dallas",
+      "design": "Randomised, double-blind, 3 weeks: a moisturising body wash (marketed product) against a marketed syndet bar",
+      "n": 55,
+      "finding": "The body wash improved transepidermal water loss and expert- and self-assessed dryness; participants reported reduced ashiness at all sites. Similar results were seen with the syndet bar. The authors concluded that regular use of mild cleansers that support the barrier was associated with reduced ashiness.",
+      "source": {
+        "authors": "Feng L, Hawkins S",
+        "year": 2011,
+        "journal": "Journal of Clinical and Aesthetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21464886/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Marketed products; funding not stated in the abstract, funding not checked. No untreated group, and both products improved ashiness, so it does not isolate a moisturiser.",
+      "id": "feng-2011"
+    },
+    {
+      "population": "22-38 year-old White (8), Asian (6) adults; skin type II/III (14) against skin type V/VI (7)",
+      "design": "Laboratory comparison of barrier strength (tape strips to disrupt barrier) and recovery",
+      "n": 21,
+      "finding": "Barrier function did not differ by race or sex. Skin type II/III needed 29.6 tape strips to disrupt the barrier against 66.7 for skin type V/VI, and V/VI recovered faster (43% against about 20% at 6 hours). The authors conclude skin type, not race, influences barrier function.",
+      "source": {
+        "authors": "Reed JT, Ghadially R, Elias PM",
+        "year": 1995,
+        "journal": "Archives of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7574829/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Very small. The abstract lists White and Asian groups for race comparisons; the V/VI group's ancestry is not given. This is the example for the measured-variable rule.",
+      "id": "reed-1995"
+    },
+    {
+      "population": "African American, Caucasian and East Asian volunteers",
+      "design": "Objective stratum corneum measurements (water loss, tape-stripped ceramides, protein cohesion)",
+      "n": "not stated",
+      "finding": "African American skin showed low ceramide levels and high protein cohesion in the upper layers. The authors interpret this as consistent with the high prevalence of xerosis in black skin.",
+      "source": {
+        "authors": "Muizzuddin N, Hellemans L, Van Overloop L, Corstjens H et al",
+        "year": 2010,
+        "journal": "Journal of Dermatological Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20654785/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Funding and author affiliations not checked. Laboratory measurement of skin layers.",
+      "id": "muizzuddin-2010"
+    },
+    {
+      "population": "19 African and 31 Caucasian female South African nursing students",
+      "design": "Measurement of water loss, stratum corneum hydration and skin surface pH",
+      "n": 50,
+      "finding": "No difference in water loss between groups. Stratum corneum hydration was lower (P<=0.05) and surface pH higher (P<=0.0001) in the African students. The authors suggest a higher risk of occupational skin disease.",
+      "source": {
+        "authors": "Young MM, Franken A, du Plessis JL",
+        "year": 2019,
+        "journal": "Skin Research and Technology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30028039/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "The abstract says conflicting evidence exists on barrier function between groups; this is one small study.",
+      "id": "young-2019"
+    },
+    {
+      "population": "Narrative review",
+      "design": "Review of ethnic skin differences in structure and function",
+      "n": "not stated",
+      "finding": "Studies have mostly been small, and in some interindividual differences in skin quality overwhelm racial differences. The authors call for studies that address genetic as well as phenotypic differences.",
+      "source": {
+        "authors": "Rawlings AV",
+        "year": 2006,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18492142/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "id": "rawlings-2006"
+    }
+  ],
+  "tier": "A",
+  "strength": "thin",
+  "tier_driver": "Whether regular moisturising washing reduces ashiness: one 3-week trial in 55 women with skin types IV-VI, no untreated group.",
+  "tier_note": "One 3-week randomised trial in 55 women with skin types IV-VI shows regular barrier-supporting washing improved ashiness, but with no untreated group, marketed products and no moisturiser trial found; the 'drier skin' claim rests on small lab studies that conflict.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the sources read.",
+  "founder_flag": false,
+  "evidence_summary": "Ashiness is dry skin showing as a grey-white look on dark skin. In a small randomised trial in women with skin types IV to VI, regular use of a moisturising body wash or a mild syndet bar reduced dryness and ashiness. Whether Black skin is inherently drier is contested: lab studies conflict, and one found skin type, not race, tracked barrier strength.",
+  "measured_variables": [
+    "Skin type V/VI (Fitzpatrick) for barrier strength (Reed 1995)",
+    "Transepidermal water loss, stratum corneum hydration, ceramide levels, skin surface pH"
+  ],
+  "gaps": "Untested: moisturisers against no treatment for ashiness in dark skin; ceramide-containing against plain moisturisers; oils and butters (see shea butter and scalp oiling entries); whether lower hydration or ceramide levels cause visible ashiness; larger studies. Some do/avoid lines (scrubbing, hot water) are general dermatology advice, not drawn from these abstracts: a reviewer should source them.",
+  "related": [
+    "shea-butter",
+    "black-soap-and-african-black-soap",
+    "scalp-oiling-and-greasing"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Feng L, Hawkins S",
+      "year": 2011,
+      "journal": "J Clin Aesthet Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21464886/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Reed JT et al",
+      "year": 1995,
+      "journal": "Arch Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7574829/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Muizzuddin N et al",
+      "year": 2010,
+      "journal": "J Dermatol Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20654785/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Young MM et al",
+      "year": 2019,
+      "journal": "Skin Res Technol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30028039/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rawlings AV",
+      "year": 2006,
+      "journal": "Int J Cosmet Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18492142/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Emollients\"",
+      "url": "https://www.nhs.uk/conditions/emollients/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, skin care for skin of colour",
+      "url": "https://www.aad.org/public/skin-hair-nails/skin-care/skin-of-color",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "traction-alopecia-and-protective-styles",
+  "title": "Traction alopecia and 'protective' styles",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Do braids cause hair loss?",
+    "Are protective styles really protective?",
+    "Why are my edges thinning?",
+    "How long can I keep braids or a weave in?",
+    "What is traction alopecia and can it grow back?",
+    "Do braids and protective styles damage your hair?"
+  ],
+  "tradition_says": "Braids, twists, weaves and wigs are called 'protective styles' because they tuck the hair away and are believed to let it grow and rest. Tight styles are often thought to look neater and last longer.",
+  "layer1": {
+    "plain_answer": "Tight braids, weaves and ponytails can cause traction alopecia, hair loss from pulling, and the risk is highest when tension is added to relaxed hair. Caught early it can recover; left, it can become permanent. \"Protective\" describes the intention: tension is what matters.",
+    "do": [
+      {
+        "text": "Ask your stylist to keep styles loose, especially at the hairline.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do not keep braids in longer than 6 to 8 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Rotate styles and give your hair breaks from tight ones.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take a style out straight away if your scalp stings, aches or crusts.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Under a head covering, pull hair back loosely; silk or satin is gentler.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Tight styles on chemically relaxed hair: the highest-risk combination in the South African study.",
+        "basis": "tested",
+        "source": "khumalo-2008"
+      },
+      {
+        "text": "Glued-in weaves: sewn-in is the dermatologists' advice.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ignoring thinning at the edges or temples: see a dermatologist as soon as you notice it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Sleeping in rollers most nights.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+          "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hair at the edges or temples is thinning or receding (doctor, then dermatologist).",
+      "The scalp is shiny, scarred or has no hair follicles visible (dermatologist soon: scarring can be permanent).",
+      "There is pain, pus-filled bumps or itch that does not settle (doctor).",
+      "Hair is thinning at the crown and spreading outwards (dermatologist; this can be a different, scarring condition)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; clinical assessment of traction alopecia (TA) with a severity score; logistic regression",
+      "n": 1178,
+      "finding": "TA was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20). Odds were higher with braiding-related than chemical-related symptoms. Only 18.9% of people with TA had never had hairdressing-related symptoms.",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional, so it shows association not cause; the authors suggest avoiding hairdressing symptoms and added traction, especially on chemically processed hair.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "Women of African descent (clinical review)",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Traction alopecia is described as affecting one in three women of African descent who wear traumatic styles for long periods. Risk rises with the extent of pulling, the duration, and chemical relaxation. Tight buns and ponytails, attached weaves or extensions and tight braids are believed to be highest risk. In late stages it can become permanent scarring. The authors state there is currently no cure.",
+      "source": {
+        "authors": "Billero V, Miteva M",
+        "year": 2018,
+        "journal": "Clinical, Cosmetic and Investigational Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29670386/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "B",
+      "note": "The one-in-three figure is the authors' summary; the primary basis is Khumalo's 31.7% in adult women in one South African sample.",
+      "id": "billero-2018"
+    },
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US dermatology and non-dermatology clinics",
+      "design": "Questionnaire, multivariate analysis",
+      "n": 201,
+      "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). 99% used hair oils or grease, 80% hot combs and 42% chemical relaxers.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, caregiver-reported conditions. Wide confidence interval.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "326 African American women at churches and a health fair, Cleveland",
+      "design": "Cross-sectional survey with clinical scoring",
+      "n": 326,
+      "finding": "28% scored as clinically evident central hair loss. Traction-associated hairstyles (braids and weaves) were associated with central scarring hair loss (P=.02), as were bacterial scalp infections and type 2 diabetes.",
+      "source": {
+        "authors": "Kyei A, Bergfeld WF, Piliang M, Summers P",
+        "year": 2011,
+        "journal": "Archives of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21482861/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "kyei-2011"
+    },
+    {
+      "population": "Treatment trials",
+      "design": "PubMed search 'traction alopecia treatment randomized'",
+      "n": 0,
+      "finding": "My search found no randomised trial of a treatment for traction alopecia. A 2018 review says there is no cure.",
+      "source": {
+        "authors": "Billero V, Miteva M",
+        "year": 2018,
+        "journal": "Clin Cosmet Investig Dermatol",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29670386/"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "billero-2018b"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That tight styles are associated with traction alopecia and scarring hair loss: cross-sectional studies in Black girls and women.",
+  "tier_note": "Observational studies in Black populations, none randomised; would move to A only if a trial compared styles or rest periods.",
+  "harm_flag": true,
+  "harm_note": "Traction alopecia is common (17% of schoolgirls and 32% of women in one South African sample, Khumalo 2008) and can become permanent scarring if the pulling continues (Billero 2018).",
+  "founder_flag": false,
+  "evidence_summary": "Tight braids, weaves and ponytails can cause traction alopecia, and in studies of Black girls and women the risk is highest when tension is added to relaxed hair. If the pulling continues it can progress to permanent scarring (Billero 2018). 'Protective' describes the intention: whether a particular style protects your hair has not been tested, and the tension is what matters.",
+  "measured_variables": [
+    "Hairstyle tension and duration (self-reported)",
+    "Hair shaft shape (tightly curled hair) is the usual setting, but no study here measured it"
+  ],
+  "gaps": "Untested: which styles and how long; whether 'protective' styles done loose protect against breakage; whether rest periods reverse early loss; any treatment in a trial. Not measured: tension. No RCT found in my search.",
+  "related": [
+    "chemical-relaxers",
+    "scalp-oiling-and-greasing",
+    "hair-porosity-and-moisture"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Billero V, Miteva M",
+      "year": 2018,
+      "journal": "Clin Cosmet Investig Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29670386/",
+      "tag": "[commentary]"
+    },
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kyei A et al",
+      "year": 2011,
+      "journal": "Arch Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21482861/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "American Academy of Dermatology, hairstyles that cause hair loss / traction alopecia",
+      "url": "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

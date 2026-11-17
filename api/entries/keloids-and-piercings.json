@@ -1,0 +1,257 @@
+{
+  "slug": "keloids-and-piercings",
+  "title": "Keloids and piercings",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "Will my piercing keloid?",
+    "Why do I get keloids?",
+    "Are keloids genetic?",
+    "How do I get rid of a keloid?",
+    "How are keloids treated, and does steroid injection or laser work?",
+    "What is a keloid, and what causes one?",
+    "How do I stop keloids forming after piercings or surgery?",
+    "What is the difference between a keloid and a hypertrophic scar?"
+  ],
+  "tradition_says": "Keloids run in families and are believed to be more likely in dark skin, so many Black families avoid piercings, tattoos and unnecessary surgery. Home remedies are widely tried on them.",
+  "layer1": {
+    "plain_answer": "Keloids run in families and are much more common in people of African ancestry. Nobody has tested whether avoiding piercings prevents them, but the UK's NHS advises prone people to avoid piercings and tattoos. If one forms, early treatment is the advice.",
+    "do": [
+      {
+        "text": "If you are prone to keloids, avoid piercings and tattoos.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treat acne early to reduce scarring.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor early about a raised scar: treatment started early may stop it growing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Think before elective surgery: any skin injury can trigger one.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask what the UK's NHS lists as options: steroid injections or cream, silicone dressings or gels, cryotherapy or laser. None removes a keloid; they improve how it looks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Expecting any treatment to remove a keloid: the UK's NHS says treatments only improve appearance.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Surgery to cut out a keloid on its own: the UK's NHS says it is likely to grow back bigger.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Keloid scars\"",
+          "url": "https://www.nhs.uk/conditions/keloid-scars/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Metal-backed earrings on a piercing that has already formed a lump: one series linked the metal backs to the site.",
+        "basis": "tested",
+        "source": "hochman-2015"
+      }
+    ],
+    "see_someone_when": [
+      "A scar is raised, growing beyond the original wound, itchy or painful (dermatologist or doctor, early).",
+      "An earlobe lump follows a piercing and keeps growing (dermatologist).",
+      "A keloid returns after removal (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "7,837 keloid cases and 1,593,009 controls across continental ancestry groups",
+      "design": "Multi-ancestry genome-wide association meta-analysis",
+      "n": 7837,
+      "finding": "26 genetic loci were found, 12 replicated. Estimated heritability was 6% in European, 21% in East Asian and 34% in African ancestry analyses. The authors state keloids are more likely in darker-skinned people of African and Asian descent than in Europeans.",
+      "source": {
+        "authors": "Greene CA, Hampton G, Jaworski J, Shuey MM et al",
+        "year": 2025,
+        "journal": "Nature Communications",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40835838/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "greene-2025"
+    },
+    {
+      "population": "478 African Americans (122 keloid cases, 356 controls)",
+      "design": "Admixture mapping and exome association",
+      "n": 478,
+      "finding": "A region on chromosome 15 and variants in two myosin genes were associated with keloid risk. The authors give the figure that keloids occur about 20 times more often in people of African than of European descent.",
+      "source": {
+        "authors": "Velez Edwards DR, Tsosie KS, Williams SM, Edwards TL et al",
+        "year": 2014,
+        "journal": "Human Genetics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25280642/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "The 20-fold figure is quoted from the paper's introduction and is the authors' background statement, not their finding.",
+      "id": "velez-2014"
+    },
+    {
+      "population": "32 patients with keloids resulting from ear piercing",
+      "design": "Survey of consecutive patients, Fisher's exact test",
+      "n": 32,
+      "finding": "Of those who had piercings at age 11 or older, 80% developed keloids against 23.5% of those pierced before 11. Half developed a keloid after their first piercing. The authors advise people with a family history to consider avoiding ear piercing.",
+      "source": {
+        "authors": "Lane JE, Waller JL, Davis LS",
+        "year": 2005,
+        "journal": "Pediatrics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15867040/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Only people who already had keloids were surveyed, so it cannot give the risk of piercing; it compares age among those affected. Tiny sample.",
+      "id": "lane-2005"
+    },
+    {
+      "population": "141 ear keloids, Brazil",
+      "design": "Case series on jewellery type",
+      "n": 141,
+      "finding": "Most keloids sat on the back of the earlobe and most earrings had metallic backs. The authors suggest the back of the earring may worsen local neurogenic inflammation.",
+      "source": {
+        "authors": "Hochman B, Isoldi FC, Silveira TS, Borba GC et al",
+        "year": 2015,
+        "journal": "Australasian Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25715880/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Hypothesis only; no comparison with other jewellery.",
+      "id": "hochman-2015"
+    },
+    {
+      "population": "International advisory panel",
+      "design": "Updated clinical recommendations from literature review and consensus on scar management",
+      "n": "panel",
+      "finding": "A combination of multiple treatments gives the best chance of success for hypertrophic scars and keloids. The panel advocates earlier, more aggressive initial management of keloids, including earlier 5-fluorouracil.",
+      "source": {
+        "authors": "Gold MH, McGuire M, Mustoe TA, Pusic A et al",
+        "year": 2014,
+        "journal": "Dermatologic Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25068544/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Expert consensus plus literature; not specific to Black skin.",
+      "id": "gold-2014"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That keloids are heritable and commoner in African-ancestry populations: large genetic studies. Whether avoiding piercings prevents them is untested.",
+  "tier_note": "Strong genetic and observational data that keloids cluster in people of African ancestry, but nothing that tests whether avoiding piercing prevents them, and treatment guidance is consensus.",
+  "harm_flag": false,
+  "harm_note": "No harm signal in the sources for avoiding piercing. The harm is the keloid itself, which can be disfiguring and treatment-resistant (Ung 2023, UK Biobank, abstract: 'high treatment resistance').",
+  "founder_flag": false,
+  "evidence_summary": "Keloids are strongly genetic and much more common in people of African ancestry. Most piercing keloids in one small survey came from piercings after age 11, and people with a family history were advised to think carefully before piercing. Nobody has tested whether avoiding piercing prevents keloids; if one forms, early treatment is the consensus advice. The BAD patient hub adds that a keloid spreads beyond the original area of skin damage and can follow very minor damage such as an acne spot, which is how it differs from a thickened scar that stays within the wound.",
+  "measured_variables": [
+    "Family history of keloids",
+    "Genetic ancestry (admixture mapping used local ancestry)",
+    "Age at piercing"
+  ],
+  "gaps": "Untested: whether avoiding piercing, or piercing at a younger age, prevents keloids (the age finding is from people who already had keloids); which jewellery is safest; which treatment works best in Black patients specifically (the 2014 consensus is not specific to Black skin); home remedies. Not opened: Jacobs 2023 on clinical trial participation in keloid. 12 Nov (NHS page re-opened): the UK's NHS lists steroid injections, silicone, cryotherapy and laser but does not compare them, and does not mention hypertrophic scars, so keloid against hypertrophic scar rests on the BAD wording (a keloid grows beyond the original wound) alone; no source opened compares steroid injection with laser.",
+  "related": [
+    "shaving-and-razor-bumps",
+    "dark-marks-after-acne",
+    "iron-and-fibroids"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Greene CA et al",
+      "year": 2025,
+      "journal": "Nat Commun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40835838/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Velez Edwards DR et al",
+      "year": 2014,
+      "journal": "Hum Genet",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25280642/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Lane JE et al",
+      "year": 2005,
+      "journal": "Pediatrics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15867040/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Hochman B et al",
+      "year": 2015,
+      "journal": "Australas J Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25715880/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Gold MH et al",
+      "year": 2014,
+      "journal": "Dermatol Surg",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25068544/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Ung CY et al",
+      "year": 2023,
+      "journal": "JAMA Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36598763/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Keloid scars\"",
+      "url": "https://www.nhs.uk/conditions/keloid-scars/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, Patient Hub, \"Skin of Colour\"",
+      "url": "https://www.skinhealthinfo.org.uk/support-resources/skin-of-colour/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

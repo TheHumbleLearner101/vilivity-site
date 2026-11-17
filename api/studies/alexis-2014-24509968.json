@@ -1,0 +1,30 @@
+{
+  "pmid": "24509968",
+  "slug": "alexis-2014-24509968",
+  "citation": {
+    "authors": "Alexis AF, Johnson LA, Kerrouche N, Callender VD",
+    "year": 2014,
+    "journal": "Journal of Drugs in Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24509968/",
+  "page": "https://vilivity.com/studies/alexis-2014-24509968/",
+  "cited_by": [
+    {
+      "entry": "acne-on-dark-skin",
+      "title": "Acne on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/acne-on-dark-skin/",
+      "record": {
+        "id": "alexis-2014",
+        "population": "Black subjects with moderate acne, pooled from three randomised trials (3,855 people in total)",
+        "n": "subgroup size not in abstract",
+        "design": "Post hoc subgroup analysis of three 12-week double-blind placebo-controlled trials of adapalene-benzoyl peroxide gel",
+        "finding": "More Black participants had treatment success with adapalene-benzoyl peroxide than with vehicle at week 12, with lower lesion counts from week 1. It was well tolerated and no treatment-related dark marks were seen.",
+        "line_tier": "A",
+        "note": "Subgroup of industry-type trials; funding not stated in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

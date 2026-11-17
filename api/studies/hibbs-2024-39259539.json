@@ -1,0 +1,30 @@
+{
+  "pmid": "39259539",
+  "slug": "hibbs-2024-39259539",
+  "citation": {
+    "authors": "Hibbs SP, Aiken L, Vora K, Mowete C et al",
+    "year": 2024,
+    "journal": "JAMA Network Open"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39259539/",
+  "page": "https://vilivity.com/studies/hibbs-2024-39259539/",
+  "cited_by": [
+    {
+      "entry": "low-white-cell-count-duffy-null",
+      "title": "A low white cell count that may be Duffy-null (neutrophil count)",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/low-white-cell-count-duffy-null/",
+      "record": {
+        "id": "hibbs-2024",
+        "population": "Phase 3 cancer trials for prostate, breast, melanoma, colorectal and lung cancers, 2021-2023",
+        "n": 382,
+        "design": "Cross-sectional analysis of trial exclusion criteria and chemotherapy dose-modification rules",
+        "finding": "Of 289 eligible trials, 221 (76.5%, 95% CI 71.1-81.2) excluded patients whose neutrophil counts were within the Duffy-null reference range. Colorectal trials had the highest exclusion proportion (86.4%), prostate the lowest (47.8%).",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[bibliometric]"
+      }
+    }
+  ]
+}

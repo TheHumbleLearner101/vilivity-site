@@ -1,0 +1,30 @@
+{
+  "pmid": "38179185",
+  "slug": "garg-2024-38179185",
+  "citation": {
+    "authors": "Garg P, Mendiratta A, Banga A, Bucharles A et al",
+    "year": 2024,
+    "journal": "International Journal of Cardiology: Cardiovascular Risk and Prevention"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38179185/",
+  "page": "https://vilivity.com/studies/garg-2024-38179185/",
+  "cited_by": [
+    {
+      "entry": "breathwork",
+      "title": "Breathwork and slow breathing",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/breathwork/",
+      "record": {
+        "id": "garg-2024",
+        "population": "15 randomised trials (hypertension and cardiovascular settings)",
+        "n": "15 trials",
+        "design": "Systematic review and meta-analysis of breathing exercises on blood pressure and heart rate",
+        "finding": "Breathing exercises lowered systolic pressure by 7.06 mmHg (95% CI -10.20 to -3.92) and diastolic by 3.43 (-4.89 to -1.97), with a small fall in heart rate. The authors note the studies are not free of bias.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

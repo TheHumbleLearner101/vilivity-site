@@ -1,0 +1,30 @@
+{
+  "pmid": "35960806",
+  "slug": "daneshjou-2022-35960806",
+  "citation": {
+    "authors": "Daneshjou R, Vodrahalli K, Novoa RA et al",
+    "year": 2022,
+    "journal": "Science Advances"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35960806/",
+  "page": "https://vilivity.com/studies/daneshjou-2022-35960806/",
+  "cited_by": [
+    {
+      "entry": "finding-a-dermatologist-for-dark-skin",
+      "title": "Finding a dermatologist who knows dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/finding-a-dermatologist-for-dark-skin/",
+      "record": {
+        "id": "daneshjou-2022",
+        "population": "656 skin images (207 Fitzpatrick V-VI) in the Diverse Dermatology Images dataset; dermatologists and AI",
+        "n": "656",
+        "design": "Test of AI models and dermatologists on skin images by skin tone",
+        "finding": "AI models did worse on Fitzpatrick V-VI than I-II (for example ROC-AUC 0.55 against 0.64 for ModelDerm, with overlapping 95% intervals of 0.46 to 0.64 and 0.55 to 0.70; DeepDerm 0.50 against 0.61, HAM10000 0.57 against 0.72; figures from the full text, PMC9374341, opened 12 Nov 2026); dermatologists were also worse on dark skin; fine-tuning on the dataset closed the AI gap.",
+        "line_tier": "B",
+        "note": "From the research file (full text read 12 Nov 2026). Photos, not live clinic visits.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "12715094",
+  "slug": "rele-2003-12715094",
+  "citation": {
+    "authors": "Rele AS, Mohile RB",
+    "year": 2003,
+    "journal": "Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/12715094/",
+  "page": "https://vilivity.com/studies/rele-2003-12715094/",
+  "cited_by": [
+    {
+      "entry": "scalp-oiling-and-greasing",
+      "title": "Scalp oiling and greasing",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/scalp-oiling-and-greasing/",
+      "record": {
+        "id": "rele-2003",
+        "population": "Hair fibres of several types (an industry combing study)",
+        "n": "not stated",
+        "design": "Laboratory and in-vivo combing damage tests of coconut, mineral and sunflower oils",
+        "finding": "Coconut oil was the only one of the three oils found to reduce protein loss in undamaged and damaged hair when used before or after washing. Sunflower and mineral oils did not reduce protein loss.",
+        "line_tier": "C",
+        "note": "Described in the 12 Nov research file (agent4) as an industry study from an Indian hair oil company; the abstract does not say, funding not checked here. Tests the hair fibre, not the scalp, and not afro-textured hair specifically.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

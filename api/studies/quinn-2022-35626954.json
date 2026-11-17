@@ -1,0 +1,30 @@
+{
+  "pmid": "35626954",
+  "slug": "quinn-2022-35626954",
+  "citation": {
+    "authors": "Quinn AA, Myrans H, Gleadow RM",
+    "year": 2022,
+    "journal": "Foods"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35626954/",
+  "page": "https://vilivity.com/studies/quinn-2022-35626954/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "quinn-2022",
+        "population": "Cassava products sold in Melbourne, Australia",
+        "n": "not stated",
+        "design": "Laboratory cyanide measurement of ready-to-eat, frozen grated and frozen whole root products",
+        "finding": "Cyanide was highest in ready-to-eat cassava chips (mean 48.4 ppm), higher in imported products (95.9 ppm) than Australian-made (1.0 ppm), against Australia's limit of 10 ppm. Frozen products were significantly reduced by processing as directed on the packet.",
+        "line_tier": "C",
+        "note": "Product testing in Australia; no people. The 10 ppm limit is Australian, not a UK rule.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

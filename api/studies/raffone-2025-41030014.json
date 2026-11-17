@@ -1,0 +1,30 @@
+{
+  "pmid": "41030014",
+  "slug": "raffone-2025-41030014",
+  "citation": {
+    "authors": "Raffone A, Doglioli M, Aguzzi A, Girardi L et al",
+    "year": 2025,
+    "journal": "Facts, Views and Vision in ObGyn"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41030014/",
+  "page": "https://vilivity.com/studies/raffone-2025-41030014/",
+  "cited_by": [
+    {
+      "entry": "pcos-endometriosis-and-heavy-periods",
+      "title": "PCOS, endometriosis and heavy periods",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/pcos-endometriosis-and-heavy-periods/",
+      "record": {
+        "id": "raffone-2025",
+        "population": "648 endometriosis studies published in 2022",
+        "n": "648",
+        "design": "Systematic review of how race and ethnicity are reported",
+        "finding": "Only 65 studies (10.0%) reported participants' race or ethnicity, and the quality of that reporting was poor. The authors call for improved documentation.",
+        "line_tier": "B",
+        "note": "Explains why endometriosis findings by ancestry are thin.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

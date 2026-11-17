@@ -1,0 +1,47 @@
+{
+  "pmid": "35994632",
+  "slug": "merz-2023-35994632",
+  "citation": {
+    "authors": "Merz LE, Story CM, Osei MA, Jolley K et al",
+    "year": 2023,
+    "journal": "Blood Advances"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35994632/",
+  "page": "https://vilivity.com/studies/merz-2023-35994632/",
+  "cited_by": [
+    {
+      "entry": "low-white-cell-count-duffy-null",
+      "title": "A low white cell count that may be Duffy-null (neutrophil count)",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/low-white-cell-count-duffy-null/",
+      "record": {
+        "id": "merz-2023",
+        "population": "120 healthy self-identified Black and African American adults at one US primary care centre",
+        "n": 120,
+        "design": "Cross-sectional comparison of neutrophil counts by Duffy phenotype, with Duffy testing",
+        "finding": "66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 cells per microlitre in Duffy-null people against 5,005 in Duffy non-null (P<.001). 23.8% (19 of 80) of Duffy-null people had a count below 2,000, against none of the non-null. The authors state the Duffy-null phenotype is clinically insignificant and advocate Duffy-null-specific reference ranges.",
+        "line_tier": "B",
+        "note": "Single centre, n=120; whether the 'clinically insignificant' conclusion holds for all settings is the authors' claim.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "haemoglobin-and-white-cell-reference-ranges",
+      "title": "Haemoglobin and white cell ranges on your blood test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/haemoglobin-and-white-cell-reference-ranges/",
+      "record": {
+        "id": "merz-2023",
+        "population": "120 healthy self-identified Black adults at one primary care centre",
+        "n": 120,
+        "design": "Cross-sectional comparison of neutrophil counts by Duffy phenotype",
+        "finding": "66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 per microlitre in Duffy-null and 5,005 in Duffy non-null (P under .001); 19 of 80 Duffy-null adults had counts under 2,000 and none of the others did. The authors call the Duffy-null phenotype clinically insignificant and advocate Duffy-null-specific ranges and replacing the term benign ethnic neutropenia.",
+        "line_tier": "B",
+        "note": "Single centre, small sample, US. Abstract read in full.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

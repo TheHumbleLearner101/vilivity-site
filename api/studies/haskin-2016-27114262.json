@@ -1,0 +1,30 @@
+{
+  "pmid": "27114262",
+  "slug": "haskin-2016-27114262",
+  "citation": {
+    "authors": "Haskin A et al",
+    "year": 2016,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27114262/",
+  "page": "https://vilivity.com/studies/haskin-2016-27114262/",
+  "cited_by": [
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "haskin-2016",
+        "population": "Black hairstyling practices and traction alopecia",
+        "n": "not stated",
+        "design": "Narrative review (abstract read)",
+        "finding": "The review stratifies hair care and styling practices into high-, moderate- and low-risk categories for traction alopecia, with a diagnostic approach and conservative management guidance.",
+        "line_tier": "B",
+        "note": "Abstract only: which style falls in which category was not read. Risk is by tension and practice, not by curl type.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "slug": "head-lice-in-afro-hair-and-locs",
+  "title": "Head lice in afro-textured hair and locs",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Can Black people get lice, including in locs?",
+    "How do I treat head lice in tightly coiled hair, locs or braids?"
+  ],
+  "tradition_says": "Black hair does not get head lice, because of its texture or the oils in it; and lice in locs or braids cannot be treated without cutting them.",
+  "layer1": {
+    "plain_answer": "Anyone with hair can get head lice. Old school surveys found fewer cases in children with African hair, but they conflict and none looked at locs. Treatment in locs and braids is untested. The UK's NHS advises wet combing or a medicated lotion and does not mention locs; a nit comb may not pass through tight coils.",
+    "do": [
+      {
+        "text": "Treat only when you find a live louse, by wet combing with conditioner and a fine-toothed comb, or a medicated lotion if combing does not work.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treat everyone in close contact on the same day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "With long, frizzy or curly hair, allow 20 to 30 minutes to comb through, after plenty of conditioner.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "In tightly coiled hair, ask a pharmacist about applying the lotion and skipping the nit comb.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Shea, Journal of the American Pharmacists Association 2023 (a pharmacy commentary, not a trial)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36241488/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming afro hair or oils make lice impossible: one US school study found 15% of African American pupils infested.",
+        "basis": "tested",
+        "source": "estrada-2000"
+      },
+      {
+        "text": "Plant oils (tea tree, eucalyptus, lavender), repellents or electric combs: the UK's NHS does not recommend them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Using lotions to prevent lice rather than treat them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Head lice and nits\"",
+          "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Lice still present after the full treatment course (pharmacist, then doctor).",
+      "A scalp that is sore, crusted or weeping after scratching (doctor).",
+      "You cannot treat lice through locs or braids: ask a pharmacist before cutting anything."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,270 schoolchildren, 33 urban and rural primary schools, Kenya",
+      "design": "Cross-sectional survey of head lice",
+      "n": "1270",
+      "finding": "17.1% were infested (8% with living lice or nits). Negroid children had lower infestation rates than non-Negroid children, and the authors say the criterion seems to be hair type. Infestation was higher in older children, in children with longer hair and in those who washed less; most had one or two lice.",
+      "source": {
+        "authors": "Chunge RN et al",
+        "year": 1986,
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3726995/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Old; the paper's own terms; hair type not measured.",
+      "id": "chunge-1986"
+    },
+    {
+      "population": "School pupils in Buffalo, New York, 1972 to 1973",
+      "design": "Prevalence survey of head lice",
+      "n": "not stated",
+      "finding": "In one elementary school 20% of white pupils and no Black pupils were infested; city-wide 7.2% of pupils were infested. Hair length was apparently not a factor.",
+      "source": {
+        "authors": "Slonka GF, Fleissner ML et al",
+        "year": 1977,
+        "journal": "Journal of Parasitology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/870674/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Old study; one city.",
+      "id": "slonka-1977"
+    },
+    {
+      "population": "School children, elementary to high school (US)",
+      "design": "Retrospective prevalence study of head lice",
+      "n": "not stated",
+      "finding": "Hispanic children had the highest rate of infestation, then Caucasian children. African American children showed a 15% infestation rate, which the authors say is not supported by other studies.",
+      "source": {
+        "authors": "Estrada B, Morris R",
+        "year": 2000,
+        "journal": "Journal of School Nursing",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11885087/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Conflicts with the 1977 study; unclear counting.",
+      "id": "estrada-2000"
+    },
+    {
+      "population": "310 schoolchildren aged 1 to 13, Paraná, Brazil",
+      "design": "Cross-sectional school study; logistic regression",
+      "n": "310",
+      "finding": "Prevalence of head lice was 49.35%. Longer and thicker hair raised the risk; hair colour, shape and scale type also changed the risk when added to the model.",
+      "source": {
+        "authors": "Valero MA et al",
+        "year": 2024,
+        "journal": "Acta Tropica",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37967666/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Brazil; not specific to afro hair.",
+      "id": "valero-2024"
+    },
+    {
+      "population": "US over-the-counter head lice products",
+      "design": "Commentary on product instructions",
+      "n": "not stated",
+      "finding": "The authors say the nit comb would not suit an individual with African hair, yet all OTC product instructions require it and do not address African hair. They suggest pharmacists counsel applying the active formulation and not using the nit comb afterwards.",
+      "source": {
+        "authors": "Shea LA et al",
+        "year": 2023,
+        "journal": "Journal of the American Pharmacists Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36241488/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "C",
+      "note": "Opinion from pharmacy authors; no treatment was tested in afro hair.",
+      "id": "shea-2023"
+    },
+    {
+      "population": "Treating head lice in locs or braids",
+      "design": "PubMed search run 12 Nov 2026, exact string: (dreadlocks OR dreadlock) AND (lice OR pediculus OR pediculosis) (result count 1).",
+      "n": 0,
+      "finding": "My search found nothing I could read: the 1 result is a 2015 Cutis item titled \"Dreadlocks\" (PMID 26057511) with no abstract, not opened. No treatment trial in locs, braids or afro hair was found. A second string, \"head lice\" AND (African OR Black OR Negroid) AND hair, returned 9 results, which are the Kenya survey, the pharmacy commentary above and unrelated items. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28dreadlocks+OR+dreadlock%29+AND+%28lice+OR+pediculus+OR+pediculosis%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "locs-lice-search"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_driver": "That Black children get fewer head lice: old, conflicting school surveys point both ways, and none looked at locs.",
+  "tier_note": "B because the headline claim (some surveys found fewer cases) is observational; thin because the surveys are old, small or conflicting. Treatment of lice in locs and braids is untested (D lines). A recent prevalence survey recording hair type, and a treatment comparison in locs, would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal in the evidence found. Hidden cost: cutting locs is sometimes advised by lice-treatment businesses; that is a commercial view, not a finding.",
+  "founder_flag": false,
+  "evidence_summary": "The NHS advises wet combing (days 1, 5, 9 and 13) or a medicated lotion, treats all contacts, and does not recommend plant oils, repellents or electric combs; it does not mention afro hair or locs. DermNet does not mention race, hair type or locs as factors, and says metal combs suit thick hair. Surveys disagree: Kenya (Chunge 1986) and one US school (Slonka 1977) found lower rates in children with African hair; another US study (Estrada 2000) found 15% of African American pupils infested; a Brazilian study found longer and thicker hair raised risk. A lice-treatment company (LiceDoctors) says lice in locs are hard to treat, that no shampoo clears them and that cutting is the fastest route, and that oils slow lice; this is a commercial source and the oil claim is untested (the NHS does not recommend plant oils).",
+  "measured_variables": [
+    "Hair length and thickness (Valero 2024)",
+    "Hair type (Chunge 1986, not measured)"
+  ],
+  "gaps": "Untested: any lice treatment in locs, braids or afro hair; whether skipping the nit comb works; whether oil changes risk. Closes the 12 Nov partial on lice in locs as \"treatment untested; surveys conflict\". Reddit snippets only (one r/Dreadlocks thread: not used as a source).",
+  "related": [
+    "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+    "locs-starting-washing-and-maintenance",
+    "braids-twists-and-extensions",
+    "children-and-babies-hair"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Chunge RN et al",
+      "year": 1986,
+      "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3726995/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Slonka GF et al",
+      "year": 1977,
+      "journal": "Journal of Parasitology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/870674/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Estrada B et al",
+      "year": 2000,
+      "journal": "Journal of School Nursing",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11885087/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Valero MA et al",
+      "year": 2024,
+      "journal": "Acta Tropica",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37967666/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "Shea, Journal of the American Pharmacists Association 2023 (a pharmacy commentary, not a trial)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36241488/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Head lice and nits\"",
+      "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "DermNet, \"Head lice\"",
+      "url": "https://dermnetnz.org/topics/head-lice",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "LiceDoctors, \"Head lice and hair extensions and dreadlocks\" (a commercial lice-treatment business)",
+      "url": "https://licedoctors.com/blog/head-lice-and-hair-extensions-and-dreadlocks",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

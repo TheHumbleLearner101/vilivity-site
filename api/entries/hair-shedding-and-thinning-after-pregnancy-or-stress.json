@@ -1,0 +1,197 @@
+{
+  "slug": "hair-shedding-and-thinning-after-pregnancy-or-stress",
+  "title": "Hair shedding after pregnancy, illness or stress",
+  "category": "hair",
+  "kind": "condition",
+  "question_forms": [
+    "Why is my hair thinning or falling out, and what can I do?"
+  ],
+  "tradition_says": "Shedding after a baby, a bad illness or a stressful time is common and said to be only temporary; many people take vitamins and hope for the best.",
+  "layer1": {
+    "plain_answer": "A sudden all-over shed, usually three months after a trigger such as childbirth, illness, stress or crash dieting, is called telogen effluvium. It usually gets better on its own within months. But thinning at the crown, part or hairline can be a different condition, and some women have both. Ask a doctor to check iron and thyroid if it persists.",
+    "do": [
+      {
+        "text": "See a doctor if shedding does not improve, to rule out other causes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Accept that telogen effluvium usually recovers without treatment, over many months.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about blood tests for thyroid and iron.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Avoid harsh brushing, heat tools, harsh chemicals and tight hairstyles while it recovers.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Camouflage fibres or volumising shampoos can help for severe thinning.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming all post-baby shedding is temporary: look at the crown, part and edges.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming it is only stress: in 200 women with postpartum loss most also had another hair loss disorder.",
+        "basis": "tested",
+        "source": "galal-2024"
+      },
+      {
+        "text": "Buying quick-fix supplements for a scarring or patchy loss before a diagnosis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Shedding that has gone on for more than 6 months (doctor).",
+      "Thinning at the crown, part or hairline, or a shiny scalp (dermatologist).",
+      "Burning, itching or pain with the hair loss (doctor or dermatologist).",
+      "Hair loss with fatigue, heavy periods, weight change or other symptoms (doctor: iron, thyroid)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "200 women with postpartum hair loss, Egypt",
+      "design": "Clinical and dermoscopic evaluation",
+      "n": 200,
+      "finding": "Only 9.5% had telogen effluvium alone; 56.0% also had androgenetic alopecia, 6.5% also had traction alopecia and 28.0% had all three. The authors say postpartum telogen effluvium may be associated with other hair loss disorders.",
+      "source": {
+        "authors": "Galal et al",
+        "year": 2024,
+        "journal": "Journal of Clinical and Aesthetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38779373/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Egyptian clinic sample, not African American or British Black women.",
+      "id": "galal-2024"
+    },
+    {
+      "population": "Postpartum women, Japan",
+      "design": "Questionnaire study 10 to 18 months after delivery",
+      "n": "not stated",
+      "finding": "Postpartum hair loss was associated with anxiety symptoms.",
+      "source": {
+        "authors": "Hirose et al",
+        "year": 2024,
+        "journal": "Journal of Obstetrics and Gynaecology Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39462180/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Association only; Japanese sample.",
+      "id": "hirose-2024"
+    },
+    {
+      "population": "Texture and shedding in Black women after pregnancy",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"postpartum hair loss\" OR \"telogen effluvium\") AND (Black women OR African American OR \"afro-textured\") (result count 6).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 6 results: a thyrotropin study in nonscarring alopecia, a tenofovir case report, a pull test update, a skin of colour hair loss review (PMID 26176285), a TrichoScan paper and a CCCA review; none studies postpartum shedding in Black women. The Egypt and Japan studies named in the earlier line do not appear among the six titles of this string. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no study of postpartum shedding in Black women; the two studies found were in Egypt and Japan.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22postpartum+hair+loss%22+OR+%22telogen+effluvium%22%29+AND+%28Black+women+OR+African+American+OR+%22afro-textured%22%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "texture-pregnancy"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That your shedding is temporary and will recover on its own: guidance only; no study in Black women found.",
+  "tier_note": "D because the claim people make (it is only temporary) has no study in Black women. The Egyptian clinic sample (Galal 2024) and the Japanese questionnaire (Hirose 2024) are B lines in other populations. A study in Black women would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal; the signal is missed diagnosis of a scarring or pattern condition under the label of stress.",
+  "founder_flag": false,
+  "evidence_summary": "In 200 Egyptian women with postpartum hair loss, 9.5% had telogen effluvium alone, 56.0% also had androgenetic alopecia, 6.5% also had traction alopecia and 28.0% had all three (Galal 2024). Postpartum hair loss was associated with anxiety in Japanese women (Hirose 2024). The BAD leaflet says shedding starts about 3 months after a trigger, lasts 3 to 6 months, usually recovers without treatment, and in about 1 in 3 no cause is found; it lists iron and thyroid checks. The UK's NHS lists illness, stress, weight loss and iron deficiency as temporary causes. My search found no study of postpartum shedding or texture change in Black women.",
+  "measured_variables": [
+    "Time since trigger",
+    "Hair pull test (clinic)"
+  ],
+  "gaps": "Untested: postpartum shedding in Black women; whether iron or other supplements help in a trial (the BAD leaflet says medication does not speed regrowth); texture change afterwards.",
+  "related": [
+    "central-centrifugal-cicatricial-alopecia",
+    "traction-alopecia-and-protective-styles",
+    "hair-growth-oils-and-supplements",
+    "hair-texture-types-and-typing"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Galal et al",
+      "year": 2024,
+      "journal": "Journal of Clinical and Aesthetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38779373/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Hirose et al",
+      "year": 2024,
+      "journal": "Journal of Obstetrics and Gynaecology Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39462180/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Telogen effluvium\" (updated Oct 2025)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/telogen-effluvium/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Hair loss\"",
+      "url": "https://www.nhs.uk/conditions/hair-loss/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

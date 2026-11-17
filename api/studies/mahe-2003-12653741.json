@@ -1,0 +1,30 @@
+{
+  "pmid": "12653741",
+  "slug": "mahe-2003-12653741",
+  "citation": {
+    "authors": "Mahe A, Ly F, Aymard G, Dangou JM",
+    "year": 2003,
+    "journal": "British Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/12653741/",
+  "page": "https://vilivity.com/studies/mahe-2003-12653741/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": {
+        "id": "mahe-2003",
+        "population": "425 women who used bleaching products, plus 368 women screened, in Dakar, Senegal",
+        "n": 425,
+        "design": "Cross-sectional clinic study with examination and analysis of product samples",
+        "finding": "52.7% of 368 women questioned were current users. Users reported hydroquinone (89%), glucocorticoids (70%), mercury iodide (10%) and caustic agents (17%). Hydroquinone in analysed samples was 4% to 8.7%. The main skin problems in users included dermatophyte infections (105 women) and scabies (69).",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

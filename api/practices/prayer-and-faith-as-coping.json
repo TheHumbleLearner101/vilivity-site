@@ -1,0 +1,51 @@
+{
+  "slug": "prayer-and-faith-as-coping",
+  "name": "Prayer and the church as mental health support",
+  "regions": [
+    "African American",
+    "Caribbean",
+    "Black British"
+  ],
+  "module": "mind",
+  "what_people_do": "Turn to prayer, scripture, the pastor or the congregation when distressed, instead of or before therapy.",
+  "why_they_say_it_works": "God is a source of strength; church is trusted, free and close.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Taylor RJ et al 2021, Soc Work Public Health, PMID 33378231 (National Survey of American Life)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33378231/",
+      "quote_or_summary": "National Survey of American Life: three in four African Americans and Black Caribbeans with a 12-month psychiatric disorder used prayer to cope; prayer especially important with generalised anxiety."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Religious interventions for depression",
+      "population": "Meta-analysis of 8 RCTs (not Black-specific)",
+      "finding": "Religious-based interventions gave superior effects to usual therapies; trials varied widely.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Religious-based interventions for depression, meta-analysis of RCTs, 2022, J Affect Disord, PMID 35500682",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35500682/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "low",
+  "harm_note": "Positive as support; risk is when prayer replaces treatment for severe illness.",
+  "links_to_entries": [
+    "racism-and-mental-health",
+    "stigma-and-starting-therapy",
+    "finding-a-black-therapist"
+  ],
+  "gaps": [
+    "Trials not in Black populations.",
+    "Black British data not opened."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/prayer-and-faith-as-coping/"
+}

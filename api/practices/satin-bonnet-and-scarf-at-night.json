@@ -1,0 +1,48 @@
+{
+  "slug": "satin-bonnet-and-scarf-at-night",
+  "name": "Satin bonnet, scarf or pillowcase at night",
+  "regions": [
+    "African American",
+    "Caribbean",
+    "Black British",
+    "West Africa"
+  ],
+  "module": "hair",
+  "what_people_do": "Cover the hair with a satin or silk bonnet or scarf, or sleep on a satin pillowcase.",
+  "why_they_say_it_works": "Cotton \"steals moisture\" and rubs hair, causing breakage; a cover keeps a style and edges neat.",
+  "documentation_status": "partial",
+  "documented_by": [
+    {
+      "source": "Dawson S, 'Why do Black people wear bonnets', Madame Noire, 6 Nov 2025 (opened 12 Nov 2026)",
+      "type": "article",
+      "url": "https://madamenoire.com/1541769/why-do-black-people-wear-bonnets",
+      "quote_or_summary": "Madame Noire, 6 Nov 2025: bonnets and scarves keep pressed or curled styles, reduce friction breakage and keep moisture; framed as cultural pride."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Satin vs cotton for breakage",
+      "population": "n/a",
+      "finding": "My search (PubMed \"satin bonnet scarf hair\") found nothing; no trial read.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "none",
+  "harm_note": "No harm identified.",
+  "links_to_entries": [
+    "hair-breakage-and-length-retention",
+    "edges-and-hairline"
+  ],
+  "gaps": [
+    "Lifestyle media, not an ethnography; forum threads not opened."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/satin-bonnet-and-scarf-at-night/"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "garlic-and-ginger-for-blood-pressure",
+  "name": "Garlic and ginger for high blood pressure",
+  "regions": [
+    "West Africa"
+  ],
+  "module": "food",
+  "what_people_do": "People with hypertension take raw garlic or ginger, in food or water, alongside or instead of tablets.",
+  "why_they_say_it_works": "Garlic is believed to thin the blood and lower pressure; ginger to warm and open the vessels.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Amira OC, Okubadejo NU 2007, BMC Complement Altern Med, PMID 17903257",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17903257/",
+      "quote_or_summary": "Lagos tertiary hypertension clinic: of 88 CAM users, garlic was the most common product (69.3%), then native herbs 25%, ginger 23.9%, bitter leaf 9.1%."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Garlic for the common cold (the one garlic claim I could grade)",
+      "population": "Cochrane, one trial of 146 adults",
+      "finding": "Insufficient evidence; I did not search garlic for blood pressure.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "thin",
+      "source": {
+        "name": "Garlic for the common cold, Cochrane 2014, PMID 25386977",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25386977/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "trial-other-population",
+  "harm_flag": "possible",
+  "harm_note": "Authors advise clinicians to ask about and counsel on CAM use; garlic and ginger effects on BP tablets not read.",
+  "links_to_entries": [
+    "high-blood-pressure-in-black-adults"
+  ],
+  "gaps": [
+    "Garlic and ginger for blood pressure not searched (to-do)."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/garlic-and-ginger-for-blood-pressure/"
+}

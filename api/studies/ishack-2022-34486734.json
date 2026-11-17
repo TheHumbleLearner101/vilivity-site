@@ -1,0 +1,30 @@
+{
+  "pmid": "34486734",
+  "slug": "ishack-2022-34486734",
+  "citation": {
+    "authors": "Ishack S, Lipner SR",
+    "year": 2022,
+    "journal": "International Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34486734/",
+  "page": "https://vilivity.com/studies/ishack-2022-34486734/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": {
+        "id": "ishack-2022",
+        "population": "126 patients with hydroquinone-associated ochronosis in 56 case reports",
+        "n": 126,
+        "design": "Systematic review of case reports",
+        "finding": "Of cases, 55.5% were reported as Black and 52.4% were Fitzpatrick V-VI. Median use was 5 years; four cases came after 3 months or less and eight after a year or less. Concentrations above 4% were most often implicated. All had blue-black or grey-blue lace-like marks on the face; treatment is often unsatisfactory.",
+        "line_tier": "B",
+        "note": "Case reports cannot give a risk rate; they show the harm exists and who it is reported in.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

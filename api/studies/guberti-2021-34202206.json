@@ -1,0 +1,30 @@
+{
+  "pmid": "34202206",
+  "slug": "guberti-2021-34202206",
+  "citation": {
+    "authors": "Guberti M, Botti S, Capuzzo MT, Nardozi S et al",
+    "year": 2021,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34202206/",
+  "page": "https://vilivity.com/studies/guberti-2021-34202206/",
+  "cited_by": [
+    {
+      "entry": "bovine-colostrum-supplements",
+      "title": "Bovine colostrum supplements for immunity and gut health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bovine-colostrum-supplements/",
+      "record": {
+        "id": "guberti-2021",
+        "population": "Healthy and sick people in 28 papers (reviews, randomised trials, observational studies and case series)",
+        "n": 28,
+        "design": "Systematic review of bovine colostrum by every route of use",
+        "finding": "Studies were highly varied in people, doses and risk of bias. As a supplement it showed \"interesting effects\" on upper respiratory illness in sportsmen, immune response and intestinal permeability. Results in children were conflicting, and there is little evidence in older adults.",
+        "line_tier": "B",
+        "note": "A mixed bag by design, so it maps the field and tests no single claim.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

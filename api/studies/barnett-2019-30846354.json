@@ -1,0 +1,30 @@
+{
+  "pmid": "30846354",
+  "slug": "barnett-2019-30846354",
+  "citation": {
+    "authors": "Barnett P, Mackay E, Matthews H et al",
+    "year": 2019,
+    "journal": "Lancet Psychiatry"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30846354/",
+  "page": "https://vilivity.com/studies/barnett-2019-30846354/",
+  "cited_by": [
+    {
+      "entry": "mental-health-act-psychosis-and-misdiagnosis",
+      "title": "Psychosis, sectioning and misdiagnosis in the UK",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/mental-health-act-psychosis-and-misdiagnosis/",
+      "record": {
+        "id": "barnett-2019",
+        "population": "71 studies, about 1.95 million participants, UK and international",
+        "n": "71 studies",
+        "design": "Systematic review and meta-analysis of compulsory detention by ethnicity",
+        "finding": "Black Caribbean patients were more likely to be compulsorily admitted than white patients (odds ratio 2.53, 95% CI 2.03 to 3.16), as were Black African patients (2.27, 1.62 to 3.19). Black Caribbean patients were also more likely to be readmitted (2.30). Explanations offered included higher prevalence of psychosis, perceived risk of violence, police contact, mistrust of GPs and ethnic disadvantage; the authors say these need culturally specific study.",
+        "line_tier": "B",
+        "note": "Abstract read. The review says it cannot settle which explanation is right.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

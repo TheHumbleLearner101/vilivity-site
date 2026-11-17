@@ -1,0 +1,30 @@
+{
+  "pmid": "31186154",
+  "slug": "lee-2019-31186154",
+  "citation": {
+    "authors": "Lee P, Le Saux M, Siegel R et al",
+    "year": 2019,
+    "journal": "American Journal of Emergency Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31186154/",
+  "page": "https://vilivity.com/studies/lee-2019-31186154/",
+  "cited_by": [
+    {
+      "entry": "being-believed-by-doctors-and-pain",
+      "title": "Being believed by doctors, and pain",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/being-believed-by-doctors-and-pain/",
+      "record": {
+        "id": "lee-2019",
+        "population": "7,070 white, 3,125 Black, 1,538 Hispanic patients across 14 US emergency department studies",
+        "n": "14 studies",
+        "design": "Systematic review and meta-analysis of analgesia for acute pain",
+        "finding": "Black patients were less likely than white patients to receive analgesia for acute pain (odds ratio 0.60, 95% CI 0.43 to 0.83).",
+        "line_tier": "B",
+        "note": "US emergency departments only; observational studies.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

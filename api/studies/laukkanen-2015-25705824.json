@@ -1,0 +1,30 @@
+{
+  "pmid": "25705824",
+  "slug": "laukkanen-2015-25705824",
+  "citation": {
+    "authors": "Laukkanen T, Khan H, Zaccardi F, Laukkanen JA",
+    "year": 2015,
+    "journal": "JAMA Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25705824/",
+  "page": "https://vilivity.com/studies/laukkanen-2015-25705824/",
+  "cited_by": [
+    {
+      "entry": "sauna-and-heat-bathing",
+      "title": "Sauna and heat bathing: heart health, recovery and risks",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sauna-and-heat-bathing/",
+      "record": {
+        "id": "laukkanen-2015",
+        "population": "Middle-aged men (42 to 60) in eastern Finland, Kuopio Ischaemic Heart Disease cohort",
+        "n": 2315,
+        "design": "Prospective cohort, median follow-up 20.7 years; sauna frequency and duration at baseline",
+        "finding": "Compared with one session a week, men using a sauna 4 to 7 times a week had about two-thirds lower risk of sudden cardiac death (hazard ratio 0.37, 95% CI 0.18 to 0.75), and lower fatal heart and all-cause mortality. Sessions over 19 minutes were linked to lower risk than sessions under 11 minutes.",
+        "line_tier": "B",
+        "note": "Observational, Finnish men, dry sauna habits. It cannot show that sauna caused the lower risk.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "21482861",
+  "slug": "kyei-2011-21482861",
+  "citation": {
+    "authors": "Kyei A, Bergfeld WF, Piliang M, Summers P",
+    "year": 2011,
+    "journal": "Archives of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/21482861/",
+  "page": "https://vilivity.com/studies/kyei-2011-21482861/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "kyei-2011",
+        "population": "326 African American women at churches and a health fair, Cleveland",
+        "n": 326,
+        "design": "Cross-sectional survey with clinical scoring",
+        "finding": "28% scored as clinically evident central hair loss. Traction-associated hairstyles (braids and weaves) were associated with central scarring hair loss (P=.02), as were bacterial scalp infections and type 2 diabetes.",
+        "line_tier": "B",
+        "note": "Survey at two churches and a health fair: not a population prevalence.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "traction-alopecia-and-protective-styles",
+      "title": "Traction alopecia and 'protective' styles",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/traction-alopecia-and-protective-styles/",
+      "record": {
+        "id": "kyei-2011",
+        "population": "326 African American women at churches and a health fair, Cleveland",
+        "n": 326,
+        "design": "Cross-sectional survey with clinical scoring",
+        "finding": "28% scored as clinically evident central hair loss. Traction-associated hairstyles (braids and weaves) were associated with central scarring hair loss (P=.02), as were bacterial scalp infections and type 2 diabetes.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

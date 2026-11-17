@@ -1,0 +1,242 @@
+{
+  "slug": "relaxer-texturiser-perm-and-keratin-differences",
+  "title": "Relaxer, texturiser, perm and keratin: what is the difference",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "What is the difference between a relaxer, a texturiser, a perm and a keratin treatment?",
+    "Is a texturiser safer than a relaxer?",
+    "What does texlaxed hair mean?"
+  ],
+  "tradition_says": "A relaxer straightens curl for good, a texturiser only loosens it so it is gentler, a perm adds curl, and a keratin treatment smooths hair without damaging it.",
+  "layer1": {
+    "plain_answer": "A relaxer straightens, a texturiser loosens curl by being left on for less time, and a perm adds curl. Stylists say relaxer and texturiser use the same kind of chemical. No study compares their safety. Keratin smoothing products are applied with blow-drying and flat-ironing, and some release formaldehyde.",
+    "do": [
+      {
+        "text": "Ask for a service by what you want: straighten, loosen the curl or add curl, and ask how long it will stay on.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Brandy Lucas (a stylist), YouTube, \"TEXTURIZERS VS RELAXERS WHICH IS BEST?\"",
+          "url": "https://youtu.be/BVwwXKDP3HU",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Have a relaxer done by a trained, experienced professional, on new growth only, at least 6 weeks apart.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Protect the scalp, hairline and ears with a protectant such as petroleum jelly, and never leave a relaxer on longer than instructed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming a texturiser is much safer: stylists describe it as a milder or shorter relaxer, not a different chemical, and its safety is untested.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Brandy Lucas (a stylist), YouTube, \"TEXTURIZERS VS RELAXERS WHICH IS BEST?\"",
+          "url": "https://youtu.be/BVwwXKDP3HU",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Relaxing hair that has already been relaxed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Dyeing or heat-straightening within 2 weeks of a relaxer.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Using the words as if they meant the same: a perm makes hair curly (a Jheri curl is a perm), a relaxer straightens.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Tress Talk with Gerdie (a salon owner), YouTube, \"RELAXER, PERM or TEXTURIZER??? - Tress Talk with Gerdie sets the record straight!\"",
+          "url": "https://youtu.be/il3eVVZYC_Y",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Burns, blisters or sores on the scalp after a chemical service (doctor, or urgent care if severe).",
+      "Hair coming out in clumps or a hairline that is moving back after chemical services (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Texturiser compared with relaxer",
+      "design": "PubMed search run 12 Nov 2026, exact string: (texturizer OR texturiser OR \"texlaxed\") AND hair (result count 1).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the 1 result was a survey of somatic symptoms in cosmetologists (PMID 21417748), which does not compare texturisers with relaxers. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28texturizer+OR+texturiser+OR+%22texlaxed%22%29+AND+hair"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "texturiser-search"
+    },
+    {
+      "population": "574 African schoolgirls and 604 women, South Africa",
+      "design": "Cross-sectional population studies",
+      "n": 1178,
+      "finding": "Traction added to relaxed hair carried the highest odds of traction alopecia (odds ratio 3.47, 95% CI 1.94-6.20) against natural hair.",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "23,580 premenopausal Black women, Black Women's Health Study; 7,146 fibroid cases",
+      "design": "Prospective cohort 1997-2009",
+      "n": 23580,
+      "finding": "Ever against never use of relaxers: incidence rate ratio 1.17 (95% CI 1.06-1.30), with trends for frequency, duration and number of scalp burns. The authors say the findings raise the hypothesis that relaxer use increases fibroid risk.",
+      "source": {
+        "authors": "Wise LA, Palmer JR, Reich D, Cozier YC et al",
+        "year": 2012,
+        "journal": "American Journal of Epidemiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22234483/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "wise-2012"
+    },
+    {
+      "population": "Caucasian (straight, wavy, curly) and Afro-ethnic hair tresses",
+      "design": "Laboratory comparison of bleaching or dyeing, thioglycolate straightening, brushing with a flat iron, and UVA/visible light",
+      "n": "not stated",
+      "finding": "Bleaching, dyeing and UV light increased the combing work of afro-ethnic tresses, indicating cuticle damage confirmed by electron microscopy. Bleaching and dyeing caused wear on cuticles with high protein loss whatever the curliness. Thioglycolate straightening faded brown and black tresses.",
+      "source": {
+        "authors": "Bloch et al",
+        "year": 2019,
+        "journal": "Journal of the European Academy of Dermatology and Venereology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31237371/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Hair samples, not people. The abstract does not report a result for flat-iron heat alone.",
+      "id": "bloch-2019"
+    },
+    {
+      "population": "Four professional keratin smoothing products applied to wigs on mannequins in a simulated salon",
+      "design": "Air sampling, 88 samples",
+      "n": 88,
+      "finding": "Airborne formaldehyde averaged 0.08 to 3.47 ppm during blow-drying and 0.08 to 1.05 ppm during flat-ironing. Bulk samples held 11.5% formaldehyde in Brazilian Blowout, 8.3% in Global Keratin, 3% in Coppola and 0% in La Brasiliana, and other products that break down into formaldehyde were found in three of the four.",
+      "source": {
+        "authors": "Pierce JS et al",
+        "year": 2011,
+        "journal": "Journal of Occupational and Environmental Hygiene",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22035353/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Simulation on wigs; exposure of salon workers and clients, not a health outcome.",
+      "id": "pierce-2011"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a texturiser is gentler or safer than a relaxer, or that one suits your hair better: no human study compares them.",
+  "tier_note": "D because the claim people make (texturiser is gentler) has no human study; the relaxer and keratin evidence is on its own entries (B and C lines here do not lift the headline). A study comparing relaxer and texturiser outcomes would move it.",
+  "harm_flag": true,
+  "harm_note": "Relaxers carry a harm signal on the main relaxer entry (traction, burns, cohort links to some cancers and fibroids, inconsistent). Keratin products can release formaldehyde (Pierce 2011, wig simulation).",
+  "founder_flag": false,
+  "evidence_summary": "The definitions come from stylists and a hair-care site: a relaxer relaxes or straightens the curl; a texturiser is the same kind of treatment left on for less time, so it loosens rather than removes the curl; a perm is a permanent wave that makes hair curly; \"texlaxing\" is a term for a mild relaxer. Black Beauty & Hair says no-lye (calcium hydroxide) relaxers are believed to be milder on the scalp than lye (sodium hydroxide) ones; untested here. Clinical guidance (BAD) gives the safe-use points. Khumalo 2008 found the highest odds of traction alopecia with traction on relaxed hair; Wise 2012 linked relaxer use to fibroids in a cohort; Bloch 2019 found thioglycolate straightening faded dark tresses; Pierce 2011 measured formaldehyde from keratin smoothing products. I did not open a source that explains the chemistry of keratin treatments beyond that exposure study.",
+  "measured_variables": [
+    "Processing time (stylist-reported: relaxer roughly 14 to 18 minutes; texturiser shorter)"
+  ],
+  "gaps": "Untested: any safety difference between relaxer and texturiser; whether no-lye is milder; keratin treatment outcomes in afro hair. Closes the 12 Nov partial on definitions as \"sourced to stylists and a hair-care site; safety comparison untested\".",
+  "related": [
+    "chemical-relaxers",
+    "heat-styling-silk-press-and-smoothing-treatments",
+    "colouring-and-bleaching-textured-hair",
+    "transitioning-to-natural-hair-and-the-big-chop"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Brandy Lucas (a stylist), YouTube, \"TEXTURIZERS VS RELAXERS WHICH IS BEST?\"",
+      "url": "https://youtu.be/BVwwXKDP3HU",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Tress Talk with Gerdie (a salon owner), YouTube, \"RELAXER, PERM or TEXTURIZER??? - Tress Talk with Gerdie sets the record straight!\"",
+      "url": "https://youtu.be/il3eVVZYC_Y",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Black Beauty & Hair, \"The difference between relaxers and texturisers\" (a hair-care website)",
+      "url": "https://www.blackbeautyandhair.com/the-difference-between-relaxers-and-texturisers/amp/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wise LA et al",
+      "year": 2012,
+      "journal": "American Journal of Epidemiology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22234483/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bloch et al",
+      "year": 2019,
+      "journal": "Journal of the European Academy of Dermatology and Venereology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31237371/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Pierce JS et al",
+      "year": 2011,
+      "journal": "Journal of Occupational and Environmental Hygiene",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22035353/",
+      "tag": "[primary]"
+    }
+  ]
+}

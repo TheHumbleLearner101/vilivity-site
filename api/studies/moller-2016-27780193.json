@@ -1,0 +1,30 @@
+{
+  "pmid": "27780193",
+  "slug": "moller-2016-27780193",
+  "citation": {
+    "authors": "Moller H, Henson K, Luchtenborg M, Broggio J et al",
+    "year": 2016,
+    "journal": "British Journal of Cancer"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27780193/",
+  "page": "https://vilivity.com/studies/moller-2016-27780193/",
+  "cited_by": [
+    {
+      "entry": "breast-cancer-and-cancer-screening",
+      "title": "Breast cancer, triple-negative disease and screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/breast-cancer-and-cancer-screening/",
+      "record": {
+        "id": "moller-2016",
+        "population": "86,852 women with breast cancer diagnosed in England 2012-2013",
+        "n": "86852",
+        "design": "National cancer-registry cohort, Cox models for two-year death",
+        "finding": "Triple-negative cancers had an adjusted hazard ratio for death of 2.00 (95% CI 1.84-2.17). Black women had an age-adjusted hazard ratio of 1.77 (1.48-2.13) against White women. The authors say the excess mortality has contributions from socio-economic factors, stage distribution and tumour biology.",
+        "line_tier": "B",
+        "note": "Two-year deaths only; one author was formerly employed by BUPA and two received HCA International funding for unrelated work.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

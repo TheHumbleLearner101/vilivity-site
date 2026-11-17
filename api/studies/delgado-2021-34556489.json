@@ -1,0 +1,30 @@
+{
+  "pmid": "34556489",
+  "slug": "delgado-2021-34556489",
+  "citation": {
+    "authors": "Delgado C, Baweja M, Crews DC, Eneanya ND et al",
+    "year": 2021,
+    "journal": "Journal of the American Society of Nephrology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34556489/",
+  "page": "https://vilivity.com/studies/delgado-2021-34556489/",
+  "cited_by": [
+    {
+      "entry": "kidney-disease-apol1-and-egfr",
+      "title": "Kidney disease, the APOL1 gene and the eGFR race adjustment",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/kidney-disease-apol1-and-egfr/",
+      "record": {
+        "id": "delgado-2021",
+        "population": "NKF-ASN Task Force on race in diagnosing kidney disease",
+        "n": "not applicable",
+        "design": "Task force recommendations after a 10-month process",
+        "finding": "The Task Force recommended a unified approach to estimating GFR without race; the abstract in my copy was cut off before the recommendations themselves.",
+        "line_tier": "B",
+        "note": "Abstract only partly read.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

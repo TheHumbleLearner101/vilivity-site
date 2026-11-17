@@ -1,0 +1,30 @@
+{
+  "pmid": "36241488",
+  "slug": "shea-2023-36241488",
+  "citation": {
+    "authors": "Shea LA et al",
+    "year": 2023,
+    "journal": "Journal of the American Pharmacists Association"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36241488/",
+  "page": "https://vilivity.com/studies/shea-2023-36241488/",
+  "cited_by": [
+    {
+      "entry": "head-lice-in-afro-hair-and-locs",
+      "title": "Head lice in afro-textured hair and locs",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/head-lice-in-afro-hair-and-locs/",
+      "record": {
+        "id": "shea-2023",
+        "population": "US over-the-counter head lice products",
+        "n": "not stated",
+        "design": "Commentary on product instructions",
+        "finding": "The authors say the nit comb would not suit an individual with African hair, yet all OTC product instructions require it and do not address African hair. They suggest pharmacists counsel applying the active formulation and not using the nit comb afterwards.",
+        "line_tier": "C",
+        "note": "Opinion from pharmacy authors; no treatment was tested in afro hair.",
+        "tag": "[commentary]"
+      }
+    }
+  ]
+}

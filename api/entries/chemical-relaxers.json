@@ -1,0 +1,258 @@
+{
+  "slug": "chemical-relaxers",
+  "title": "Chemical relaxers and hair straighteners",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Are relaxers bad for you?",
+    "Do hair relaxers cause cancer?",
+    "Do relaxers cause fibroids?",
+    "Is a lye relaxer worse than no-lye?",
+    "What are the risks of hair relaxers (burns, breakage, health)?",
+    "Are hair relaxers and straighteners linked to cancer and fibroids?",
+    "How often should I touch up a relaxer?",
+    "How do I transition from a relaxer to natural hair, and what is a big chop?",
+    "How do I grow out a relaxer or big chop?"
+  ],
+  "tradition_says": "Relaxers ('creamy crack', perms) are widely used from girlhood onwards to straighten tightly coiled hair, often for school, work or comfort. They are generally believed to be a normal grooming product.",
+  "layer1": {
+    "plain_answer": "Studies disagree on whether relaxers raise cancer risk, and none can prove cause. In the large Black women's cohort, heavy use showed no clear rise in uterine cancer overall but a higher risk after the menopause; breast cancer results were largely null. Relaxed hair under tight styles carried the highest risk of hair loss.",
+    "do": [
+      {
+        "text": "Have a professional apply it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Touch up new growth only, every two to three months at most.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Space treatments out: frequent use carried the highest risk in the Sister Study.",
+        "basis": "tested",
+        "source": "chang-2022"
+      },
+      {
+        "text": "See a doctor about heavy or long periods.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Heavy periods\"",
+          "url": "https://www.nhs.uk/conditions/heavy-periods/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Putting tight braids or weaves on relaxed hair.",
+        "basis": "tested",
+        "source": "khumalo-2008"
+      },
+      {
+        "text": "Applying relaxer to hair that has already been relaxed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leaving scalp burns: more burns tracked with more fibroids in one cohort.",
+        "basis": "tested",
+        "source": "wise-2012"
+      }
+    ],
+    "see_someone_when": [
+      "Any bleeding after the menopause (doctor, promptly).",
+      "Heavy or prolonged periods, pelvic pressure or pain (doctor or women's health doctor).",
+      "Scalp burns that blister, ooze or do not heal (doctor or dermatologist).",
+      "Hair thinning, particularly at the crown or edges (dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "33,947 US women aged 35-74 in the Sister Study (racially and ethnically diverse)",
+      "design": "Prospective cohort, average 10.9 years; 378 uterine cancers",
+      "n": 33947,
+      "finding": "Ever use of straightening products in the previous year was associated with higher uterine cancer rates (hazard ratio 1.80, 95% CI 1.12-2.88); more than 4 uses in the previous year, 2.55 (1.46-4.45). Dyes and perms were not associated. The authors call it the first epidemiological evidence of this link and say more research is warranted.",
+      "source": {
+        "authors": "Chang CJ, O'Brien KM, Keil AP, Gaston SA et al",
+        "year": 2022,
+        "journal": "Journal of the National Cancer Institute",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36245087/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Mixed-race cohort; the abstract does not break the result out by race. Self-reported use in the prior 12 months.",
+      "id": "chang-2022"
+    },
+    {
+      "population": "44,798 Black women with an intact uterus in the Black Women's Health Study; 347 uterine cancers",
+      "design": "Prospective cohort, 1997-2019",
+      "n": 44798,
+      "finding": "Heavy use (15 or more years, at least 5 times a year) against never or light use gave a hazard ratio of 1.18 (95% CI 0.81-1.71), not significant. Among postmenopausal women, heavy use was 1.64 (1.01-2.64) and 20 or more years of use 1.71 (1.08-2.72). Premenopausal women: null.",
+      "source": {
+        "authors": "Bertrand KA, Delp L, Coogan PF, Cozier YC et al",
+        "year": 2023,
+        "journal": "Environmental Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37821068/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "bertrand-2023"
+    },
+    {
+      "population": "50,543 Black women, Black Women's Health Study; 2,311 breast cancers",
+      "design": "Prospective cohort 1997-2017",
+      "n": 50543,
+      "finding": "Heavy use of relaxers gave a hazard ratio for breast cancer of 1.13 (95% CI 0.96-1.33), not significant. For heavy use of lye-containing relaxers the hazard ratio for ER-positive breast cancer was 1.32 (0.97-1.80), also not significant. The authors call the results largely null.",
+      "source": {
+        "authors": "Coogan PF, Rosenberg L, Palmer JR, Cozier YC et al",
+        "year": 2021,
+        "journal": "Carcinogenesis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34013957/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "coogan-2021"
+    },
+    {
+      "population": "23,580 premenopausal Black women, Black Women's Health Study; 7,146 fibroid cases",
+      "design": "Prospective cohort 1997-2009",
+      "n": 23580,
+      "finding": "Ever against never use of relaxers: incidence rate ratio 1.17 (95% CI 1.06-1.30), with trends for frequency, duration and number of scalp burns. The authors say the findings raise the hypothesis that relaxer use increases fibroid risk.",
+      "source": {
+        "authors": "Wise LA, Palmer JR, Reich D, Cozier YC et al",
+        "year": 2012,
+        "journal": "American Journal of Epidemiology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22234483/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "wise-2012"
+    },
+    {
+      "population": "Seven cohort studies and one case-control study in US Black women",
+      "design": "Systematic review of hair relaxer use and reproductive and breast outcomes",
+      "n": "8 studies",
+      "finding": "The authors conclude that the weight of the evidence does not support relaxers being a risk factor for gynaecological and breast cancers in US Black women. They note one study found a statistically significant link with fibroids and that none of the studies characterised the chemical constituents.",
+      "source": {
+        "authors": "Hernandez AM, Smith SJ, Vahora MS, Campbell D et al",
+        "year": 2025,
+        "journal": "Journal of Applied Toxicology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39828620/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Counter-evidence. Funding and conflicts not checked; relaxers are the subject of litigation (per the 12 Nov research file), so independence is UNVERIFIED.",
+      "id": "hernandez-2025"
+    },
+    {
+      "population": "574 African schoolgirls and 604 women, South Africa",
+      "design": "Cross-sectional population studies",
+      "n": 1178,
+      "finding": "Traction added to relaxed hair carried the highest odds of traction alopecia (odds ratio 3.47, 95% CI 1.94-6.20) against natural hair.",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "khumalo-2008"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "Whether relaxer use is linked to uterine, breast cancer and hair loss: cohorts in Black women with mixed results (uterine cancer: heavy use HR 1.18, 0.81 to 1.71 overall, 1.64 after the menopause; breast cancer largely null) and a separate mixed-ethnicity cohort of straightening products (HR 1.80).",
+  "tier_note": "Fact-check 12 Nov: the positive uterine cancer finding of the Sister Study (Chang 2022) is from a mixed-ethnicity cohort and covers straighteners, relaxers and pressing products together, not relaxers alone; the Black-women-only cohort was null overall with a postmenopausal signal. Tier B unchanged: several prospective cohorts that conflict, and none is a trial.",
+  "harm_flag": true,
+  "harm_note": "Associations with uterine cancer (Sister Study HR 1.80; postmenopausal Black women HR 1.64), uterine fibroids (rate ratio 1.17, trend with scalp burns) and traction alopecia when traction is added to relaxed hair (OR 3.47). Breast cancer link largely null in Black women. Not proven to cause any of these.",
+  "founder_flag": false,
+  "evidence_summary": "Studies link frequent relaxer use to uterine cancer and fibroids, and relaxed hair with tight styles to the highest risk of hair loss. The cancer findings conflict: the Sister Study (mixed ethnicity, straightening products in general) found a link, and the Black Women's Health Study found one only for uterine cancer after the menopause, and a systematic review concluded the weight of evidence does not support one for Black women. None of this proves relaxers cause these conditions.",
+  "measured_variables": [
+    "Frequency and duration of relaxer use (self-reported)",
+    "Number of scalp burns",
+    "Menopausal status (modified the uterine cancer finding)"
+  ],
+  "gaps": "Untested: which ingredient, if any, drives the signals (no study characterised constituents); no-lye against lye for fibroids or cancer (Wise 2012 found risk unrelated to formulation); age at first use for cancer (not in abstracts); whether stopping reduces risk; effect of formaldehyde-releasing straighteners. FDA (US) formaldehyde rule status after early Nov 2026 UNVERIFIED (12 Nov research file). 12 Nov: transition and big chop now have their own entry (transitioning-to-natural-hair-and-the-big-chop); relaxer against texturiser against perm against keratin now has its own entry (relaxer-texturiser-perm-and-keratin-differences): definitions from stylists, safety comparison untested.",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "iron-and-fibroids",
+    "scalp-oiling-and-greasing",
+    "transitioning-to-natural-hair-and-the-big-chop",
+    "relaxer-texturiser-perm-and-keratin-differences",
+    "colouring-and-bleaching-textured-hair"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Chang CJ et al",
+      "year": 2022,
+      "journal": "J Natl Cancer Inst",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36245087/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bertrand KA et al",
+      "year": 2023,
+      "journal": "Environ Res",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37821068/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Coogan PF et al",
+      "year": 2021,
+      "journal": "Carcinogenesis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34013957/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Wise LA et al",
+      "year": 2012,
+      "journal": "Am J Epidemiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22234483/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Hernandez AM et al",
+      "year": 2025,
+      "journal": "J Appl Toxicol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39828620/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Heavy periods\"",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

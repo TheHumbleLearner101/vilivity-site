@@ -1,0 +1,47 @@
+{
+  "slug": "threading-irun-kiko",
+  "name": "Hair threading (irun kiko)",
+  "regions": [
+    "West Africa",
+    "Central Africa"
+  ],
+  "module": "hair",
+  "what_people_do": "Wrap sections of hair in black or coloured thread from root to tip to stretch and style it, often for girls and women.",
+  "why_they_say_it_works": "It keeps hair stretched without heat, protects the ends and looks neat for weeks.",
+  "documentation_status": "partial",
+  "documented_by": [
+    {
+      "source": "'African hair threading', Wikipedia (opened 12 Nov 2026; cites Mensah 2020 and magazines)",
+      "type": "article",
+      "url": "https://en.wikipedia.org/wiki/African_hair_threading",
+      "quote_or_summary": "Wikipedia (not a primary source): threading is prevalent across sub-Saharan Africa, especially West and Central Africa; names include Irun Kiko (Yoruba), isi owu (Igbo), Akweley Waabii (Ga); described as a protective style. Cites a 2020 book and magazine pieces."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Threading for hair length or breakage",
+      "population": "n/a",
+      "finding": "My search found no study of threading. The closest evidence is tight-style traction alopecia (see plaiting entry).",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Tight threading pulls on the roots, so the traction-alopecia warning applies (extrapolated from braids, not threading-specific).",
+  "links_to_entries": [
+    "traction-alopecia-and-protective-styles",
+    "braids-twists-and-extensions"
+  ],
+  "gaps": [
+    "Origin dates conflict across sources (a popular 15th-century claim, a thesis calling it recent).",
+    "A Yoruba hair-culture student paper (Devone) could not be opened (HTTP 403)."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/threading-irun-kiko/"
+}

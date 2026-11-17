@@ -1,0 +1,30 @@
+{
+  "pmid": "27019510",
+  "slug": "loussouarn-2016-27019510",
+  "citation": {
+    "authors": "Loussouarn G et al",
+    "year": 2016,
+    "journal": "European Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27019510/",
+  "page": "https://vilivity.com/studies/loussouarn-2016-27019510/",
+  "cited_by": [
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "loussouarn-2016",
+        "population": "2,249 young adults from 24 ethnic groups",
+        "n": 2249,
+        "design": "Measurement of density, growth and diameter",
+        "finding": "African hair had lower density and slower growth than the other groups; Asian hair was thicker and faster.",
+        "line_tier": "B",
+        "note": "L'Oreal-funded. Measures growth rate, not length retention.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

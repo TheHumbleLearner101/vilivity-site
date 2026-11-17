@@ -1,0 +1,30 @@
+{
+  "pmid": "40225210",
+  "slug": "taleb-2025-40225210",
+  "citation": {
+    "authors": "Taleb M, Brahim AT, Yebouk C, Khairy T",
+    "year": 2025,
+    "journal": "Pan African Medical Journal"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40225210/",
+  "page": "https://vilivity.com/studies/taleb-2025-40225210/",
+  "cited_by": [
+    {
+      "entry": "g6pd-deficiency-what-to-avoid-and-who-carries-it",
+      "title": "G6PD deficiency: who carries it and what to avoid",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/g6pd-deficiency-what-to-avoid-and-who-carries-it/",
+      "record": {
+        "id": "taleb-2025",
+        "population": "Studies of G6PD deficiency prevalence in the ten African countries most affected by malaria, 2000 to 2023",
+        "n": 19,
+        "design": "Systematic review (PRISMA), 19 full texts",
+        "finding": "Prevalence ranged from under 1% to 23.9%, more in men than in women. Antimalarials such as primaquine can cause severe haemolytic anaemia in G6PD-deficient people; the authors say prescribing should consider G6PD status and that several regions need to review diagnostic and screening protocols.",
+        "line_tier": "B",
+        "note": "Individual studies differ in test method and setting; the abstract does not name the ten countries or rate the certainty of the evidence.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "42472283",
+  "slug": "emmett-2026-42472283",
+  "citation": {
+    "authors": "Emmett ES, Pantoja-Ruiz C, Lim E, Khanolkar AR et al",
+    "year": 2026,
+    "journal": "EClinicalMedicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42472283/",
+  "page": "https://vilivity.com/studies/emmett-2026-42472283/",
+  "cited_by": [
+    {
+      "entry": "stroke-signs-and-risk",
+      "title": "Stroke: signs to act on and what raises the risk",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/stroke-signs-and-risk/",
+      "record": {
+        "id": "emmett-2026",
+        "population": "8,515 participants with first stroke in the South London Stroke Register, 1995 to 2024 (62.4% White, 15.5% Black Caribbean, 13.3% Black African)",
+        "n": 8515,
+        "design": "Population-based cohort with Poisson regression",
+        "finding": "12.0% of strokes in Black African participants (median age 59.0) occurred without any pre-stroke risk factor diagnosis, against 6.3% in White participants (median age 74.1). Black participants had more hypertension (adjusted prevalence ratio 1.29 for Black Caribbean, 1.47 for Black African) and diabetes (2.23 and 1.92) but less atrial fibrillation. Inequalities widened for hypertension and diabetes over time. 36% of strokes occurred in people with diagnosed but untreated risk factors; Black participants had higher treatment rates for hypertension and diabetes.",
+        "line_tier": "B",
+        "note": "South London only; the abstract text was cut off after the hypertension prevalence sentence.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

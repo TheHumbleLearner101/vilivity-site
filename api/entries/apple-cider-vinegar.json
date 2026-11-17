@@ -1,0 +1,187 @@
+{
+  "slug": "apple-cider-vinegar",
+  "title": "Apple cider vinegar: weight, blood sugar and safety",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does apple cider vinegar help you lose weight?",
+    "Does apple cider vinegar lower blood sugar?",
+    "Is it safe to drink apple cider vinegar every day?",
+    "Has apple cider vinegar been tested on Black people?"
+  ],
+  "tradition_says": "Vinegar has long been used as a home tonic. A daily shot, gummy or tablet of apple cider vinegar is now promoted for weight loss, blood sugar, cholesterol and gut health.",
+  "layer1": {
+    "plain_answer": "Apple cider vinegar may lower blood sugar and weight slightly in short trials, but the trials are small and varied, and one well-known weight trial was retracted. Our search found no trial of apple cider vinegar in Black participants. Dilute it or use it in food, and avoid the tablets: one injured a throat.",
+    "do": [
+      {
+        "text": "If you use it, put it in food or dilute it in water: drinking it undiluted can erode tooth enamel over time.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Harvard Health, \"Can apple cider vinegar curb appetite?\"",
+          "url": "https://www.health.harvard.edu/staying-healthy/can-apple-cider-vinegar-curb-appetite",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Treat a lower blood sugar claim as a small, short-term effect seen in trials, and keep taking any diabetes medicine as prescribed.",
+        "basis": "tested",
+        "source": "hadi-2021"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Apple cider vinegar tablets: oesophageal injury was reported, and tablet products varied widely in what they contained.",
+        "basis": "tested",
+        "source": "hill-2005"
+      },
+      {
+        "text": "Drinking it at bedtime: Harvard Health notes its acidity makes that a poor time.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Harvard Health, \"Can apple cider vinegar curb appetite?\"",
+          "url": "https://www.health.harvard.edu/staying-healthy/can-apple-cider-vinegar-curb-appetite",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Expecting weight loss: Harvard Health says the scientific evidence does not support drinking it to curb appetite or lose weight.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Harvard Health, \"Can apple cider vinegar curb appetite?\"",
+          "url": "https://www.health.harvard.edu/staying-healthy/can-apple-cider-vinegar-curb-appetite",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Pain on swallowing, or a feeling that something is stuck in your throat (doctor or urgent care).",
+      "You have diabetes and are thinking of using it alongside your medicine (diabetes nurse or pharmacist).",
+      "Tooth sensitivity or enamel wear (dentist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults in nine randomised trials (ten study arms) of apple cider vinegar for at least two weeks (ethnicity not stated in the abstract)",
+      "design": "Systematic review and meta-analysis of randomised trials: lipids and blood sugar",
+      "n": "not stated in the abstract",
+      "finding": "Apple cider vinegar lowered total cholesterol by about 6 mg/dL, fasting glucose by about 8 mg/dL and HbA1c by 0.5 points. There was no effect on LDL, HDL, insulin or HOMA-IR. Results were stronger in people with type 2 diabetes and with longer use, and variation between studies was moderate to high.",
+      "source": {
+        "authors": "Hadi A, Pourmasoumi M, Najafgholizadeh A, Clark CCT et al",
+        "year": 2021,
+        "journal": "BMC Complementary Medicine and Therapies",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34187442/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "hadi-2021"
+    },
+    {
+      "population": "Adults with overweight, obesity or type 2 diabetes in ten randomised trials of daily apple cider vinegar for at least 4 weeks",
+      "design": "Systematic review and meta-analysis of randomised trials: body composition",
+      "n": 789,
+      "finding": "Daily apple cider vinegar reduced body weight, BMI and waist circumference slightly in the pooled results, with large differences between studies. Effects held when high-risk-of-bias trials were removed and were seen up to 12 weeks, at about 30 mL a day. The authors call it a possible short-term adjunct.",
+      "source": {
+        "authors": "Castagna A, Ferro Y, Noto FR, Bruno R et al",
+        "year": 2025,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41010525/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Short trials. Not a trial of lasting weight loss.",
+      "id": "castagna-2025"
+    },
+    {
+      "population": "One adult who reported an adverse event, and eight apple cider vinegar tablet products tested",
+      "design": "Case report with laboratory testing of products (pH, acid content, microbial growth)",
+      "n": 8,
+      "finding": "Apple cider vinegar tablets injured the oesophagus in one reported case. The eight products varied widely in tablet size, acidity, acid content and label claims, and the authors doubted whether apple cider vinegar was actually an ingredient in some of them.",
+      "source": {
+        "authors": "Hill LL, Woodruff LH, Foote JC, Barreto-Alcoba M",
+        "year": 2005,
+        "journal": "Journal of the American Dietetic Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15983536/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "One case and a product check, 2005. A harm signal for the tablet form, not the liquid.",
+      "id": "hill-2005"
+    },
+    {
+      "population": "Lebanese adolescents and young adults with overweight and obesity (a 2024 randomised trial of apple cider vinegar for weight)",
+      "design": "Retraction notice for the 2024 randomised, double-blind trial in BMJ Nutrition, Prevention and Health",
+      "n": "not applicable",
+      "finding": "BMJ Nutrition, Prevention and Health retracted its 2024 trial of apple cider vinegar for weight management in Lebanese young people. The notice I opened gives the DOI of the retracted article and no reasons in the part I read.",
+      "source": {
+        "authors": "BMJ Nutrition, Prevention and Health (retraction notice)",
+        "year": 2025,
+        "journal": "BMJ Nutrition, Prevention and Health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789013/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "note": "Included so no one quotes that trial as evidence. The original trial (PMID 38966098) is not counted in this entry.",
+      "id": "bmjnph-retraction-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That apple cider vinegar lowers blood sugar and body weight a little: two meta-analyses of 9 to 10 short randomised trials whose abstracts did not state ethnicity, with a second well-known trial retracted.",
+  "tier_note": "Meta-analyses exist but are of few, short, varied trials with high disagreement between studies, and certainty ratings were not read, so I took the lowest reading: thin. It stays B, short of A, because no trial in people of African descent was found.",
+  "harm_flag": true,
+  "harm_note": "Hill 2005 reports oesophageal injury from apple cider vinegar tablets, and products varied in content. Harvard Health says undiluted vinegar can erode tooth enamel. Both are signals about the form and the way it is taken; no harm from diluted vinegar in food was found.",
+  "founder_flag": false,
+  "evidence_summary": "Pooled trials found small drops in total cholesterol, fasting glucose and HbA1c, and small drops in weight, BMI and waist at up to 12 weeks, with high variation between studies. Harvard Health says the evidence does not support using it to curb appetite or lose weight. A 2024 weight trial in Lebanese young people was retracted in 2025. Tablets varied widely in what they contained, and one caused oesophageal injury.",
+  "measured_variables": [
+    "Total cholesterol, fasting glucose, HbA1c (measured)",
+    "Body weight, BMI, waist circumference (measured)",
+    "Oesophageal and tooth injury (harm outcomes)",
+    "No ancestry variable in any source"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 0 records for apple cider vinegar or vinegar. The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 0 records. Mayo Clinic returned an access error and was not opened. Untested: any effect in Black participants; long-term effects beyond about 12 weeks; whether effects hold once the retracted trial is removed from earlier pooled results.",
+  "related": [
+    "type-2-diabetes-risk",
+    "weight-bmi-and-ethnicity",
+    "vitamins-and-supplements-basics",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Hadi A, Pourmasoumi M, Najafgholizadeh A, Clark CCT et al",
+      "year": 2021,
+      "journal": "BMC Complementary Medicine and Therapies",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34187442/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Castagna A, Ferro Y, Noto FR, Bruno R et al",
+      "year": 2025,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41010525/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Hill LL, Woodruff LH, Foote JC, Barreto-Alcoba M",
+      "year": 2005,
+      "journal": "Journal of the American Dietetic Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15983536/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "BMJ Nutrition, Prevention and Health (retraction notice)",
+      "year": 2025,
+      "journal": "BMJ Nutrition, Prevention and Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41789013/",
+      "tag": "[official]"
+    },
+    {
+      "name": "Harvard Health, \"Can apple cider vinegar curb appetite?\"",
+      "url": "https://www.health.harvard.edu/staying-healthy/can-apple-cider-vinegar-curb-appetite",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

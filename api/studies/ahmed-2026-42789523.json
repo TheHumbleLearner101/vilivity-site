@@ -1,0 +1,30 @@
+{
+  "pmid": "42789523",
+  "slug": "ahmed-2026-42789523",
+  "citation": {
+    "authors": "Ahmed A, Khan HTA, Asiamah N",
+    "year": 2026,
+    "journal": "PLoS One"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42789523/",
+  "page": "https://vilivity.com/studies/ahmed-2026-42789523/",
+  "cited_by": [
+    {
+      "entry": "childhood-trauma-and-where-to-start",
+      "title": "Childhood trauma and where to start",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/childhood-trauma-and-where-to-start/",
+      "record": {
+        "id": "ahmed-2026",
+        "population": "734 adults aged 60 and over in Niger State, North-Central Nigeria",
+        "n": 734,
+        "design": "Cross-sectional study using the ACE International Questionnaire",
+        "finding": "68.4% reported 4 or more ACEs, and 38.4% had three or more chronic conditions. After adjustment, cumulative ACEs remained an independent predictor of multimorbidity (odds ratio 15.58, 95% CI 1.33 to 182.21).",
+        "line_tier": "B",
+        "note": "The confidence interval is very wide, so the size of the effect is uncertain; older adults recalling childhood.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

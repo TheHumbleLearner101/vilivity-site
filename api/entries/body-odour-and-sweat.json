@@ -1,0 +1,140 @@
+{
+  "slug": "body-odour-and-sweat",
+  "title": "Sweat, body odour and deodorant",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "How do I handle sweat, body odour and deodorant on dark skin?",
+    "What is the difference between antiperspirant and deodorant?",
+    "Why do I sweat so much?"
+  ],
+  "tradition_says": "Sweat and odour are treated with deodorants, powders and strong washes, and often seen as a hygiene failing.",
+  "layer1": {
+    "plain_answer": "Sweating and odour are normal. I found nothing showing dark skin needs different handling. Antiperspirants, which reduce sweat, are the main tool; deodorants only mask smell. Loose, breathable clothing helps. If sweating is heavy, lasting, at night or running in your family, see a doctor.",
+    "do": [
+      {
+        "text": "Ask a pharmacist for a stronger antiperspirant rather than a deodorant.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wear loose-fitting clothes, and wear socks that absorb moisture changed twice a day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wear leather shoes, and vary them day to day.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use armpit shields to protect clothing if needed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Tight clothes and synthetic fabrics such as nylon.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Alcohol and spicy food if they set it off.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Enclosed boots or sports shoes that make feet sweat more.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+          "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Sweating has lasted at least 6 months, happens weekly, or stops you getting on with your day (doctor).",
+      "Sweating happens at night, or there is a family history (doctor).",
+      "You take medicine for another condition and the sweating started after (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Male panellists in hot-room sweat tests; ethnicity not stated in the abstract",
+      "design": "Gravimetric (sweat weight) tests of an over-the-counter antiperspirant against placebo and against a prescription aluminium chloride product",
+      "n": "not stated",
+      "finding": "The over-the-counter \"clinical strength\" antiperspirant reduced sweat rate on average 34% more than the prescription product and caused significantly less skin irritation; the authors say it can be an alternative for heavy sweating.",
+      "source": {
+        "authors": "Swaile DF, Elstun LT, Benzing KW",
+        "year": 2012,
+        "journal": "British Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22385032/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Men only; affiliations and funding not checked; placebo group also showed large sweat falls.",
+      "id": "swaile-2012"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That antiperspirants cut sweat: a short test in men, ethnicity unstated. Whether sweat or odour differs by skin colour: my search found nothing.",
+  "tier_note": "One manufacturer-style panel test, not in people of known ancestry; the rest is NHS guidance. Differences by ancestry are untested in what I found.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the sources opened.",
+  "founder_flag": false,
+  "evidence_summary": "The UK's NHS lists wearing loose clothes and absorbent socks, avoiding synthetic fabrics and getting stronger antiperspirants from a pharmacist as first steps. In a hot-room test on men, an over-the-counter antiperspirant did as well or better than a prescription aluminium chloride product with less irritation. My PubMed searches for body odour and sweating by ancestry (ABCC11) and by race found nothing relevant, so the title question \"on dark skin\" has no specific answer in this bank yet.",
+  "measured_variables": [
+    "Sweat rate",
+    "Skin irritation",
+    "Skin colour (not measured in the sweat test)"
+  ],
+  "gaps": "Untested or not found: anything specific to dark skin; whether deodorants or antiperspirants cause underarm darkening (I did not search); hygiene and odour studies; the Swaile study ethnicity and funding are not stated in the abstract.",
+  "related": [
+    "skincare-routine-basics"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Swaile DF et al",
+      "year": 2012,
+      "journal": "British Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22385032/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Excessive sweating (hyperhidrosis)\"",
+      "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

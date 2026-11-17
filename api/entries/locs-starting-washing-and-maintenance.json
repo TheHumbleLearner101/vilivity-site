@@ -1,0 +1,203 @@
+{
+  "slug": "locs-starting-washing-and-maintenance",
+  "title": "Locs: starting, washing and keeping them healthy",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I start locs and what should I avoid?",
+    "How often should locs be retwisted and how do I maintain them?",
+    "How often should I wash my locs?",
+    "How often should I wash my locs if I work out or sweat a lot?"
+  ],
+  "tradition_says": "Locs are started by twisting, coiling or interlocking, left to knit over months, and retightened at the roots. Many believe you should not wash starter locs for weeks, and that retwisting keeps them neat.",
+  "layer1": {
+    "plain_answer": "No study has tested how often to wash or retwist locs. The British Association of Dermatologists warns that very long locs and tight twisting at the roots strain the scalp and raise the risk of traction alopecia, and that locs must dry fully to avoid mould. Loc-care sites suggest washing every week to month, depending on how much you sweat.",
+    "do": [
+      {
+        "text": "Do not twist locs tightly at the roots.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Find a cleansing routine that works and dry locs thoroughly to prevent mould and mildew.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you are very active or sweaty, wash weekly or more often; low activity can stretch to every two to four weeks.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Locsanity, \"How often should you wash your locs?\" (a loc-care brand that sells products)",
+          "url": "https://locsanity.com/blogs/news/how-often-should-you-wash-your-locs",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wait about four to six weeks before first washing starter locs, and two weeks after a fresh retwist.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Locsanity, \"How often should you wash your locs?\" (a loc-care brand that sells products)",
+          "url": "https://locsanity.com/blogs/news/how-often-should-you-wash-your-locs",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take weight off the scalp: very long locs raise the risk, and locs are often worn for years.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Sleeping with damp locs covered or tied up: they can develop mildew.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Locsanity, \"How often should you wash your locs?\" (a loc-care brand that sells products)",
+          "url": "https://locsanity.com/blogs/news/how-often-should-you-wash-your-locs",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Twisting so tightly that the scalp aches or stings.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ignoring tenderness, bumps or thinning at the roots or hairline.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Hair is thinning or receding at the roots or hairline (doctor, then dermatologist).",
+      "Pain, bumps, pus or itch at the roots that does not settle (doctor).",
+      "Flaky, itchy scalp that has not cleared with an anti-dandruff shampoo after four weeks (doctor).",
+      "A smell that does not clear after washing and full drying (doctor; could be a fungal or bacterial scalp problem)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; logistic regression",
+      "n": 1178,
+      "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional: association, not cause.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US clinics",
+      "design": "Questionnaire, multivariate analysis",
+      "n": 201,
+      "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Caregiver report, small, wide confidence intervals; associations only.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "Locs",
+      "design": "PubMed search run 12 Nov 2026, exact string: (dreadlocks[Title/Abstract] OR locs[Title/Abstract]) AND (hair[Title/Abstract] OR scalp[Title/Abstract]) (result count 16).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 16 results: I read all 16 titles: case reports (plica polonica, azathioprine, folliculitis with dreadlocks), hairdresser exposure studies, a 2025 historical review of Black hair styling (PMID 40315468) and unrelated hits on hearing and eyes; none studies how to wash or retwist locs. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no study of locs themselves, so wash and retwist intervals are untested. The relevant PubMed route did return papers on traction alopecia and dreadlocks-related reviews (a 2025 Cutis review lists dreadlocks among styles but its abstract gives no loc advice).",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28dreadlocks%5BTitle%2FAbstract%5D+OR+locs%5BTitle%2FAbstract%5D%29+AND+%28hair%5BTitle%2FAbstract%5D+OR+scalp%5BTitle%2FAbstract%5D%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "locs-search"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a wash or retwist schedule keeps locs and scalp healthy: no study of locs found.",
+  "tier_note": "D because the claims people make (wash every X weeks, retwist every Y weeks) have no human study; the traction risk of heavy or tight styles is B evidence from other styles and is cited as guidance. A study of scalp health by loc maintenance schedule would move it.",
+  "harm_flag": false,
+  "harm_note": "Traction alopecia is a risk of tight twisting and heavy locs (BAD leaflet); no study of locs found. The traction signal is in the traction alopecia entry.",
+  "founder_flag": false,
+  "evidence_summary": "The British Association of Dermatologists says very long locs can be heavy and strain the scalp, that this is a higher risk because locs are worn for years, to avoid twisting too tightly at the roots, and to dry locs thoroughly. Wash intervals in this entry come from a loc-care brand that sells shampoo; that is common advice and untested. The scarring and traction literature in Black women (Khumalo 2008, Kyei 2011) is about braids, weaves and relaxed hair, not locs. Thinning at the roots may be traction alopecia or a scarring condition such as CCCA, which needs a dermatologist.",
+  "measured_variables": [
+    "Loc length and weight (not measured)",
+    "Tightness of retwisting (not measured)"
+  ],
+  "gaps": "Untested: any wash or retwist interval; starter loc methods; whether sweat or workouts need a different routine; dandruff in locs (see the scalp entry); lice in locs (not addressed by the UK's NHS page). No loc-specific study found.",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+    "central-centrifugal-cicatricial-alopecia"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Locsanity, \"How often should you wash your locs?\" (a loc-care brand that sells products)",
+      "url": "https://locsanity.com/blogs/news/how-often-should-you-wash-your-locs",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

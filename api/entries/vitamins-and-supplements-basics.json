@@ -1,0 +1,153 @@
+{
+  "slug": "vitamins-and-supplements-basics",
+  "title": "Vitamins and supplements: what the NHS says",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Which vitamins and supplements should I take?",
+    "Do I need a multivitamin?",
+    "Should I take iron tablets?"
+  ],
+  "tradition_says": "Tonics, multivitamins and iron \"blood builders\" are widely used for tiredness, hair and skin, and many families keep a cupboard of supplements.",
+  "layer1": {
+    "plain_answer": "The NHS says most people get all the nutrients they need from a varied, balanced diet. The main exception for you is vitamin D: people with African, African-Caribbean or South Asian backgrounds should consider a daily supplement all year. Do not take iron without a blood test, and tell a pharmacist about any herbal remedy if you take other medicines.",
+    "do": [
+      {
+        "text": "Aim to get your nutrients from a varied and balanced diet first.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamins and minerals\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Consider a daily vitamin D supplement all year if your background is African, African-Caribbean or South Asian; everyone should consider one in autumn and winter.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\"",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask for a full blood count if you are tired, short of breath or have heavy periods, before any iron tablets.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check with a pharmacist before taking a herbal medicine if you already take other medicines.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Taking iron tablets without a blood test: the UK's NHS has a doctor recommend treatment once the cause is found.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Iron deficiency anaemia\"",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, have kidney or liver problems, or take medicines such as statins, diabetes or blood pressure tablets, unless a pharmacist has checked.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Tiredness, breathlessness, headaches or paler skin that is not settling (doctor, for a blood test).",
+      "Heavy periods with tiredness (doctor).",
+      "You take prescribed medicine and want to add a herbal remedy (pharmacist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "2,085 Black and white US adults",
+      "design": "Cohort study of total vitamin D, vitamin D-binding protein and bone density",
+      "n": 2085,
+      "finding": "Mean total 25(OH)D was 15.6 against 25.8 ng/mL in Black against white participants, and vitamin D-binding protein was 168 against 337 micrograms/mL; Black participants had higher bone mineral density. Genetic variants explained about 79% of variation in the binding protein.",
+      "source": {
+        "authors": "Powe CE, Evans MK, Wenger J, Zonderman AB et al",
+        "year": 2013,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24256378/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Reused from the vitamin D entry; this card gives NHS advice, not a verdict on the contested bone-health evidence.",
+      "id": "powe-2013"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "Which supplements to take: NHS guidance, with no trial opened for the general advice; the contested vitamin D evidence is in its own entry.",
+  "tier_note": "D because the headline is general guidance with no tested claim in Black adults for supplements as a whole; the vitamin D evidence is separate. The NHS vitamins page I opened was last reviewed in August 2020 with review overdue, so treat it as dated.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for the advice on this card. The UK's NHS warns that iron and some herbal remedies need a test or a pharmacist check.",
+  "founder_flag": false,
+  "evidence_summary": "The NHS vitamins and minerals page says most people get what they need from a balanced diet. The NHS vitamin D page says people with African, African-Caribbean or South Asian backgrounds may not make enough vitamin D from sunlight and should consider a daily supplement through the year. Iron deficiency anaemia is confirmed by a blood test before treatment. Whether a vitamin D supplement helps Black adults is contested; see the vitamin D entry.",
+  "measured_variables": [
+    "Blood count, ferritin and 25(OH)D (blood tests)",
+    "Self-identified race in the vitamin D cohort, a stand-in for vitamin D-binding protein genotype"
+  ],
+  "gaps": "Not opened: folic acid and pregnancy supplement pages; B12 and calcium for vegetarians or dairy avoiders; any trial of multivitamins in Black adults; the UK's NHS vitamins overview page I opened has a review date of 3 August 2023, now past. The card gives no doses; the vitamin D page names one but I left it out. Hair and skin supplements are in their own entries.",
+  "related": [
+    "vitamin-d-and-dark-skin",
+    "iron-and-fibroids",
+    "hair-growth-oils-and-supplements",
+    "bush-teas-cerasee-bitter-leaf-and-medicines"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Powe CE, Evans MK, Wenger J, Zonderman AB et al",
+      "year": 2013,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24256378/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Vitamins and minerals\"",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Vitamin D\"",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Iron deficiency anaemia\"",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

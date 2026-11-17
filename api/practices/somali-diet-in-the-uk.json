@@ -1,0 +1,46 @@
+{
+  "slug": "somali-diet-in-the-uk",
+  "name": "Eating patterns of Somali families in the UK",
+  "regions": [
+    "Black British",
+    "East and Southern Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Eat mainly rice, pasta and red meat with little fruit or vegetable; cultural beliefs about food shape the diet.",
+  "why_they_say_it_works": "Familiar, filling foods; unsure what counts as healthy.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Dietary beliefs and behaviour of a UK Somali population, 2009, J Hum Nutr Diet, PMID 19302117",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19302117/",
+      "quote_or_summary": "London, 8 focus groups (62 people) and 77 survey respondents: 97% ate fewer than two pieces of fruit and 92% fewer than two portions of vegetables a day; wish for education."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Dietary pattern",
+      "population": "Mixed-methods, small",
+      "finding": "Descriptive only; no health outcome.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Dietary beliefs and behaviour of a UK Somali population, 2009, J Hum Nutr Diet, PMID 19302117",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19302117/"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "low",
+  "harm_note": "Low fruit and vegetables is a general dietary risk, not a Somali-specific finding.",
+  "links_to_entries": [
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "gaps": [
+    "Survey was opportunistic, not representative."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/somali-diet-in-the-uk/"
+}

@@ -1,0 +1,64 @@
+{
+  "pmid": "22234483",
+  "slug": "wise-2012-22234483",
+  "citation": {
+    "authors": "Wise LA, Palmer JR, Reich D, Cozier YC et al",
+    "year": 2012,
+    "journal": "American Journal of Epidemiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22234483/",
+  "page": "https://vilivity.com/studies/wise-2012-22234483/",
+  "cited_by": [
+    {
+      "entry": "chemical-relaxers",
+      "title": "Chemical relaxers and hair straighteners",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/chemical-relaxers/",
+      "record": {
+        "id": "wise-2012",
+        "population": "23,580 premenopausal Black women, Black Women's Health Study; 7,146 fibroid cases",
+        "n": 23580,
+        "design": "Prospective cohort 1997-2009",
+        "finding": "Ever against never use of relaxers: incidence rate ratio 1.17 (95% CI 1.06-1.30), with trends for frequency, duration and number of scalp burns. The authors say the findings raise the hypothesis that relaxer use increases fibroid risk.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "iron-and-fibroids",
+      "title": "Iron, heavy periods and fibroids",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/iron-and-fibroids/",
+      "record": {
+        "id": "wise-2012",
+        "population": "23,580 premenopausal Black women, Black Women's Health Study",
+        "n": 23580,
+        "design": "Prospective cohort of relaxer use and fibroids (see chemical relaxers entry)",
+        "finding": "Ever against never relaxer use: incidence rate ratio 1.17 (95% CI 1.06-1.30); the authors raise this as a hypothesis.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "relaxer-texturiser-perm-and-keratin-differences",
+      "title": "Relaxer, texturiser, perm and keratin: what is the difference",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/relaxer-texturiser-perm-and-keratin-differences/",
+      "record": {
+        "id": "wise-2012",
+        "population": "23,580 premenopausal Black women, Black Women's Health Study; 7,146 fibroid cases",
+        "n": 23580,
+        "design": "Prospective cohort 1997-2009",
+        "finding": "Ever against never use of relaxers: incidence rate ratio 1.17 (95% CI 1.06-1.30), with trends for frequency, duration and number of scalp burns. The authors say the findings raise the hypothesis that relaxer use increases fibroid risk.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

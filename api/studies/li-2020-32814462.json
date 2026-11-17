@@ -1,0 +1,30 @@
+{
+  "pmid": "32814462",
+  "slug": "li-2020-32814462",
+  "citation": {
+    "authors": "Li Z, Jiang W, Chen Y, Wang G",
+    "year": 2020,
+    "journal": "European Journal of Cardiovascular Nursing"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/32814462/",
+  "page": "https://vilivity.com/studies/li-2020-32814462/",
+  "cited_by": [
+    {
+      "entry": "sauna-and-heat-bathing",
+      "title": "Sauna and heat bathing: heart health, recovery and risks",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sauna-and-heat-bathing/",
+      "record": {
+        "id": "li-2020",
+        "population": "People in 16 studies of sauna treatment (healthy people and people with heart problems)",
+        "n": "not stated in the abstract",
+        "design": "Meta-analysis of acute and short-term cardiovascular effects",
+        "finding": "Straight after a sauna, body temperature rose 0.94 degrees C and heart rate 18 beats a minute, and systolic and diastolic blood pressure fell by about 5.6 and 6.5 mmHg. Over 2 to 4 weeks, flow-mediated dilation, ejection fraction and walking distance rose and blood pressure fell. The authors describe the trials as limited.",
+        "line_tier": "B",
+        "note": "Short effects on surrogate measures. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

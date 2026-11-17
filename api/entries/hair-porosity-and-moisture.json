@@ -1,0 +1,244 @@
+{
+  "slug": "hair-porosity-and-moisture",
+  "title": "Hair porosity and moisture",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "What is my hair porosity?",
+    "Does the float test work?",
+    "Does low porosity hair need different products?",
+    "Why is my hair always dry?",
+    "What is hair porosity and what products suit low or high porosity hair?"
+  ],
+  "tradition_says": "Online and in salons, hair is sorted into low, normal and high porosity, often with a glass-of-water 'float test', and routines and products are chosen by that type. Moisture is widely believed to be the key to healthy coily hair.",
+  "layer1": {
+    "plain_answer": "The glass-of-water float test, and routines chosen by \"low, normal or high porosity\", have never been tested in people. Porosity is real in the lab, but nobody has shown that choosing products by it helps. The lab does show tightly coiled hair breaks easily under rough grooming, so gentle handling is the safest advice.",
+    "do": [
+      {
+        "text": "Handle hair gently, especially when detangling.",
+        "basis": "tested",
+        "source": "evans-2026"
+      },
+      {
+        "text": "Describe your hair by shape (coil, curl, wave) when talking to a stylist or doctor.",
+        "basis": "tested",
+        "source": "callender-2026"
+      },
+      {
+        "text": "Wash once a week or every other week, and condition every wash, focusing on the ends.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a heat protectant on wet hair before heat styling.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Many hair guides say to use lighter products if hair seems to repel water, and leave-in conditioner if it soaks water up fast.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "MDhair (Y. Harth MD), \"Hair porosity according to dermatologists\", a brand site that sells hair products",
+          "url": "https://mdhair.co/article/hair-porosity-according-to-dermatologists",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Treating the float test as a diagnosis: no validation found.",
+        "basis": "tested",
+        "source": "pubmed-2026"
+      },
+      {
+        "text": "Believing a porosity type tells you which product will work.",
+        "basis": "tested",
+        "source": "pubmed-2026"
+      },
+      {
+        "text": "Rough, forceful combing: grooming force drove breakage in the lab.",
+        "basis": "tested",
+        "source": "evans-2026"
+      }
+    ],
+    "see_someone_when": [
+      "Hair is breaking or falling out in patches or you can see scalp scarring (dermatologist).",
+      "Sudden or widespread shedding (doctor: this is not a porosity problem).",
+      "Scalp itch, scale or sores with the dryness (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Hair fibre samples (laboratory)",
+      "design": "Gas sorption measurement of true pore volume and surface area in damaged hair",
+      "n": "not stated",
+      "finding": "Bleach damage and UV damage change hair porosity by different pathways; bleach nearly triples surface area in the first minute, then it falls, while UV damage shows an immediate loss then gradual increase. This defines porosity as a measurable pore property of the fibre.",
+      "source": {
+        "authors": "Hessefort Y, Holland BT, Cloud RW",
+        "year": 2008,
+        "journal": "Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18818850/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Not afro-textured hair specifically; the abstract does not give hair types.",
+      "id": "hessefort-2008"
+    },
+    {
+      "population": "Textured hair tresses (laboratory, industry methods paper)",
+      "design": "Adapted methods for shine, curl shrinkage, flexibility and 'consumer-perceived hair porosity' by contact angle",
+      "n": "not stated",
+      "finding": "The authors describe a refined contact-angle method to measure consumer-perceived hair porosity in textured hair. It is a method paper and tests no routine.",
+      "source": {
+        "authors": "Sorrells L, Senak L, Kang X, Abegunde A et al",
+        "year": 2026,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42971783/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Industry-style methods paper; funding not checked.",
+      "id": "sorrells-2026"
+    },
+    {
+      "population": "Very curly textured hair against straight Caucasian hair (laboratory)",
+      "design": "Single-fibre fatigue testing",
+      "n": "not stated",
+      "finding": "Textured hair showed a far greater tendency to break under fatigue than straight hair, some fibres failed after very few cycles, and higher grooming forces produced exponentially faster breakage.",
+      "source": {
+        "authors": "Evans TA",
+        "year": 2026,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42971788/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Laboratory mechanics; grooming force is a variable a person can change, but no human trial of this.",
+      "id": "evans-2026"
+    },
+    {
+      "population": "Hair from Caucasian, Asian and African subjects (laboratory)",
+      "design": "Structure, geometry, water swelling and tensile testing of hair fibres",
+      "n": "not stated",
+      "finding": "No differences in the intimate structure of the fibres were observed among the three hair types, whereas geometry, mechanical properties and water swelling differed by ethnic origin.",
+      "source": {
+        "authors": "Franbourg A, Hallegot P, Baltenneck F, Toutain C et al",
+        "year": 2003,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12789163/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "id": "franbourg-2003"
+    },
+    {
+      "population": "Hair shape classification systems",
+      "design": "Systematic review of hair-type classifications without reference to race or ethnicity",
+      "n": "4 systems",
+      "finding": "Four mainstream classification systems exist (Andre Walker, LOIS, FIA, L'Oreal). The authors state hair type classification is under-used in clinical practice and argue it should be based on shape criteria rather than race.",
+      "source": {
+        "authors": "Callender V, Burgess C, Harvey VM, Heath C et al",
+        "year": 2026,
+        "journal": "Journal of Cosmetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928381/"
+      },
+      "tag": "[review]",
+      "line_tier": "C",
+      "id": "callender-2026"
+    },
+    {
+      "population": "Human use of the float test or porosity-based routines",
+      "design": "PubMed searches 'float test hair porosity', 'low porosity high porosity hair consumer'",
+      "n": 0,
+      "finding": "My search found nothing: no validation of the float test and no trial of routines chosen by porosity type.",
+      "source": {
+        "authors": "PubMed searches, 12 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=float+test+hair+porosity"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "id": "pubmed-2026"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "Whether the float test, or choosing products by porosity type, helps hair: no validation or trial found.",
+  "tier_note": "D because the claim people use (the float test, and routines chosen by low, normal or high porosity) has no human validation or trial in my search; the lab fibre work is C lines about the hair strand. Moves to A or B if a trial compares routines chosen by measured porosity in people with tightly curled hair.",
+  "harm_flag": false,
+  "harm_note": "No harm signal in the sources read. Heat, relaxers and tight styles are covered in other entries.",
+  "founder_flag": false,
+  "evidence_summary": "Porosity is a real, measurable property of the hair fibre in the lab, but the home float test and the low, normal and high porosity routines are untested: I found no validation and no trial. What the lab does show is that tightly coiled hair breaks more easily under repeated grooming forces. Gentle handling is what the evidence supports; porosity-based product choices are untested.",
+  "measured_variables": [
+    "Hair shaft shape (curl pattern), the variable that matters in these studies",
+    "Pore volume and surface area (laboratory)",
+    "Grooming force, breakage cycles (laboratory)"
+  ],
+  "gaps": "Untested: float test validity; whether any routine chosen by porosity reduces breakage in people; whether 'moisture' products change breakage over weeks; LOC or LCO methods; protein against moisture; heat and humidity effects. The consumer-perceived porosity contact-angle method is lab-only and does not validate home tests.",
+  "related": [
+    "scalp-oiling-and-greasing",
+    "traction-alopecia-and-protective-styles",
+    "chemical-relaxers"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Hessefort Y et al",
+      "year": 2008,
+      "journal": "J Cosmet Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18818850/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Sorrells L et al",
+      "year": 2026,
+      "journal": "Int J Cosmet Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971783/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Evans TA",
+      "year": 2026,
+      "journal": "Int J Cosmet Sci",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971788/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Franbourg A et al",
+      "year": 2003,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12789163/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Callender V et al",
+      "year": 2026,
+      "journal": "J Cosmet Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41928381/",
+      "tag": "[review]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "MDhair (Y. Harth MD), \"Hair porosity according to dermatologists\", a brand site that sells hair products",
+      "url": "https://mdhair.co/article/hair-porosity-according-to-dermatologists",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

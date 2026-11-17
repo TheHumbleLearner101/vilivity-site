@@ -1,0 +1,30 @@
+{
+  "pmid": "1456349",
+  "slug": "curtin-1992-1456349",
+  "citation": {
+    "authors": "Curtin PD",
+    "year": 1992,
+    "journal": "American Journal of Public Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/1456349/",
+  "page": "https://vilivity.com/studies/curtin-1992-1456349/",
+  "cited_by": [
+    {
+      "entry": "salt-and-blood-pressure",
+      "title": "Salt and blood pressure",
+      "module": "food",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/food/salt-and-blood-pressure/",
+      "record": {
+        "id": "curtin-1992",
+        "population": "Historical evidence on salt, the slave trade and conditions of slavery",
+        "n": "not applicable",
+        "design": "Historical review of the slavery hypothesis",
+        "finding": "The review finds there was no salt deficiency in the parts of Africa that supplied slaves, present-day West Africans do not have a high incidence of hypertension, deaths aboard slave ships were not shown to have been mainly salt-depleting, and the West Indies evidence was not relevant to the US.",
+        "line_tier": "D",
+        "note": "The strongest historical rebuttal found; it does not address physiology.",
+        "tag": "[commentary]"
+      }
+    }
+  ]
+}

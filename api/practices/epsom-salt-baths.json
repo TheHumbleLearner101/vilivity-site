@@ -1,0 +1,44 @@
+{
+  "slug": "epsom-salt-baths",
+  "name": "Epsom salt baths",
+  "regions": [
+    "African American",
+    "Caribbean",
+    "Black British"
+  ],
+  "module": "body",
+  "what_people_do": "Soak in hot water with Epsom salt for aches, colds and \"drawing out\" illness.",
+  "why_they_say_it_works": "Magnesium is said to be absorbed through the skin and relax the muscles.",
+  "documentation_status": "unverified",
+  "documented_by": [
+    {
+      "source": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+      "type": "study",
+      "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md",
+      "quote_or_summary": "Appears in a Root listing of grandmothers' cold and flu remedies (search snippet); page not opened. UNVERIFIED."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Magnesium through skin",
+      "population": "Porcine skin ex vivo, 2026",
+      "finding": "Minimal magnesium crossed intact skin; delivery from a simple solution is unlikely.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Does magnesium permeate the skin? ex vivo porcine skin, 2026, PMID 42372834",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372834/"
+      }
+    }
+  ],
+  "headline_tier": "C",
+  "headline_strength": "thin",
+  "harm_flag": "low",
+  "harm_note": "A case report exists of hypermagnesaemia after swallowing a bath agent; not a bathing risk.",
+  "links_to_entries": [],
+  "gaps": [
+    "A 2025 knee osteoarthritis Epsom bath RCT seen as a title only."
+  ],
+  "counted": false,
+  "page": "https://vilivity.com/practices/epsom-salt-baths/"
+}

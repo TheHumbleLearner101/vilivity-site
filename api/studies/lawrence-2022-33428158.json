@@ -1,0 +1,30 @@
+{
+  "pmid": "33428158",
+  "slug": "lawrence-2022-33428158",
+  "citation": {
+    "authors": "Lawrence JA, Davis BA, Corbette T, Hill EV et al",
+    "year": 2022,
+    "journal": "Journal of Racial and Ethnic Health Disparities"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33428158/",
+  "page": "https://vilivity.com/studies/lawrence-2022-33428158/",
+  "cited_by": [
+    {
+      "entry": "stress-burnout-and-blood-pressure",
+      "title": "Stress, burnout and blood pressure",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/stress-burnout-and-blood-pressure/",
+      "record": {
+        "id": "lawrence-2022",
+        "population": "Burnout in racial and ethnic minority groups",
+        "n": "16 studies",
+        "design": "Systematic review of 16 studies, nearly all cross-sectional and North American, mostly medical students and physicians using the Maslach Burnout Inventory",
+        "finding": "Differences in burnout between underrepresented minority and other groups were inconclusive, though several studies had nuanced findings. The authors call for better measurement and mitigation among underrepresented groups.",
+        "line_tier": "B",
+        "note": "Doctors and medical students, not a general Black population; cross-sectional.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

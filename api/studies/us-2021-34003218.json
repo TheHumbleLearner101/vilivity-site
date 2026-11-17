@@ -1,0 +1,30 @@
+{
+  "pmid": "34003218",
+  "slug": "us-2021-34003218",
+  "citation": {
+    "authors": "US Preventive Services Task Force, Davidson KW, Barry MJ, Mangione CM et al",
+    "year": 2021,
+    "journal": "JAMA"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34003218/",
+  "page": "https://vilivity.com/studies/us-2021-34003218/",
+  "cited_by": [
+    {
+      "entry": "bowel-and-colon-cancer-screening",
+      "title": "Bowel (colon) cancer screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/bowel-and-colon-cancer-screening/",
+      "record": {
+        "id": "uspstf-2021",
+        "population": "Asymptomatic adults aged 45 or over at average risk, US; the review also examined whether findings varied by age, sex or race/ethnicity",
+        "n": "not stated in the abstract",
+        "design": "US Preventive Services Task Force recommendation statement based on a commissioned systematic review and modelling",
+        "finding": "High certainty that screening aged 50 to 75 has substantial net benefit; moderate certainty that screening at 45 to 49 has moderate net benefit. About 10.5% of new US colorectal cancers are in people under 50, and incidence in 40 to 49 year olds rose by almost 15% between 2000-2002 and 2014-2016. The abstract does not report results by race.",
+        "line_tier": "B",
+        "note": "General US population, not Black-specific; the abstract states the review looked at race/ethnicity but gives no result.",
+        "tag": "[consensus]"
+      }
+    }
+  ]
+}

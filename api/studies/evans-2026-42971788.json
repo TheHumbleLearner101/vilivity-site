@@ -1,0 +1,30 @@
+{
+  "pmid": "42971788",
+  "slug": "evans-2026-42971788",
+  "citation": {
+    "authors": "Evans TA",
+    "year": 2026,
+    "journal": "International Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42971788/",
+  "page": "https://vilivity.com/studies/evans-2026-42971788/",
+  "cited_by": [
+    {
+      "entry": "hair-porosity-and-moisture",
+      "title": "Hair porosity and moisture",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-porosity-and-moisture/",
+      "record": {
+        "id": "evans-2026",
+        "population": "Very curly textured hair against straight Caucasian hair (laboratory)",
+        "n": "not stated",
+        "design": "Single-fibre fatigue testing",
+        "finding": "Textured hair showed a far greater tendency to break under fatigue than straight hair, some fibres failed after very few cycles, and higher grooming forces produced exponentially faster breakage.",
+        "line_tier": "C",
+        "note": "Laboratory mechanics; grooming force is a variable a person can change, but no human trial of this.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

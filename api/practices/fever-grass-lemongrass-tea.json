@@ -1,0 +1,50 @@
+{
+  "slug": "fever-grass-lemongrass-tea",
+  "name": "Fever grass (lemongrass) tea for fever",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "body",
+  "what_people_do": "Drink fever grass (Cymbopogon citratus) tea to bring down a fever, often for children, with a shared home tradition of \"sweating it out\".",
+  "why_they_say_it_works": "It is a cooling, aromatic herb believed to break a fever.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Clement YN et al 2015, J Ethnobiol Ethnomed, PMID 26369926 (TRAMIL survey, Trinidad)",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26369926/",
+      "quote_or_summary": "Cymbopogon citratus (with Neurolaena lobata) met the TRAMIL 20% threshold for fever among 450 Trinidad households."
+    },
+    {
+      "source": "Mahabir D, Gulliford MC 1997, Rev Panam Salud Publica, PMID 9128111",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9128111/",
+      "quote_or_summary": "Fever grass was one of the plants preferentially used for non-diabetes indications by Trinidad diabetes patients."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Fever grass for fever",
+      "population": "n/a",
+      "finding": "My search found nothing: one PubMed query (\"lemongrass Cymbopogon citratus fever randomized\") returned zero hits. Positive control: the TRAMIL query returned results in the same session.",
+      "tier": "D",
+      "strength": "none",
+      "source": {
+        "name": "agent4-traditional-practices.md, 12 Nov 2026 (research file in this project)",
+        "url": "livity/research/2026-11-12-black-health-research-gap/sources/agent4-traditional-practices.md"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "low",
+  "harm_note": "Fever in a baby or a fever that lasts needs a doctor; a tea is no substitute (general advice).",
+  "links_to_entries": [
+    "bush-teas-cerasee-bitter-leaf-and-medicines"
+  ],
+  "gaps": [
+    "One search only; a fuller lemongrass search is a to-do."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/fever-grass-lemongrass-tea/"
+}

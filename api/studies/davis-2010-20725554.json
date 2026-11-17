@@ -1,0 +1,30 @@
+{
+  "pmid": "20725554",
+  "slug": "davis-2010-20725554",
+  "citation": {
+    "authors": "Davis EC, Callender VD",
+    "year": 2010,
+    "journal": "Journal of Clinical and Aesthetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20725554/",
+  "page": "https://vilivity.com/studies/davis-2010-20725554/",
+  "cited_by": [
+    {
+      "entry": "dark-marks-after-acne",
+      "title": "Dark marks after acne (post-inflammatory hyperpigmentation)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/dark-marks-after-acne/",
+      "record": {
+        "id": "davis-2010",
+        "population": "Review of treatment options in skin of colour",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Post-inflammatory hyperpigmentation tends to affect darker skin more often and more severely. Treatment should begin early, starting with management of the original inflammation. First-line therapy is typically topical depigmenting agents plus photoprotection including sunscreen. The authors warn to use caution with all treatments to avoid irritation and worsening of the pigmentation.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

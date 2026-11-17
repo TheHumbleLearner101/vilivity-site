@@ -1,0 +1,44 @@
+{
+  "slug": "irish-sea-moss-drink",
+  "name": "Irish moss (sea moss) drink",
+  "regions": [
+    "Caribbean"
+  ],
+  "module": "food",
+  "what_people_do": "Boil dried sea moss with milk, spices and sweetener for a thick drink; now sold as a gel supplement.",
+  "why_they_say_it_works": "Believed to build strength and stamina, treat colds, and boost libido.",
+  "documentation_status": "unverified",
+  "documented_by": [
+    {
+      "source": "Microbial and heavy metal analyses of commercial sea moss, 2026, J Food Prot, PMID 42710593",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710593/",
+      "quote_or_summary": "No opened account of Jamaican use (Atlas Obscura page returned 403; search snippets only). A 2026 study of 66 commercial products is the only opened source. UNVERIFIED as documentation."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Quality of commercial sea moss",
+      "population": "66 US products",
+      "finding": "Presumptive Salmonella, Bacillus, Staphylococcus; arsenic, cobalt and mercury detected; wide variation.",
+      "tier": "C",
+      "strength": "thin",
+      "source": {
+        "name": "Microbial and heavy metal analyses of commercial sea moss, 2026, J Food Prot, PMID 42710593",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42710593/"
+      }
+    }
+  ],
+  "headline_tier": "D",
+  "headline_strength": "none",
+  "harm_flag": "possible",
+  "harm_note": "Contamination in commercial products (microbes and metals).",
+  "links_to_entries": [
+    "sea-moss-irish-moss"
+  ],
+  "gaps": [
+    "Entry now exists; no health trial found."
+  ],
+  "counted": false,
+  "page": "https://vilivity.com/practices/irish-sea-moss-drink/"
+}

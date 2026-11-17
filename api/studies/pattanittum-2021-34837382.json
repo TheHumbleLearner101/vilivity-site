@@ -1,0 +1,30 @@
+{
+  "pmid": "34837382",
+  "slug": "pattanittum-2021-34837382",
+  "citation": {
+    "authors": "Pattanittum P, Ngamjarus C, Buttramee F, Somboonporn C",
+    "year": 2021,
+    "journal": "Cochrane Database of Systematic Reviews"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34837382/",
+  "page": "https://vilivity.com/studies/pattanittum-2021-34837382/",
+  "cited_by": [
+    {
+      "entry": "hibiscus-sorrel-blood-pressure",
+      "title": "Hibiscus (sorrel, zobo, bissap) and blood pressure",
+      "module": "food",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/food/hibiscus-sorrel-blood-pressure/",
+      "record": {
+        "id": "pattanittum-2021",
+        "population": "Adults with high blood pressure; strict Cochrane criteria",
+        "n": 52,
+        "design": "Cochrane review of randomised trials of roselle against placebo or no treatment, searched to August 2021",
+        "finding": "Only one trial met the criteria (60 people with type 2 diabetes, 8 weeks, capsules). Effect on systolic pressure was 1.65 mmHg (95% CI -7.89 to 11.19), very low certainty. The review concludes evidence is insufficient to say whether roselle lowers blood pressure.",
+        "line_tier": "B",
+        "note": "Counter-evidence. Cochrane's inclusion rules were narrower than the 2025 umbrella review, which is why they disagree.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

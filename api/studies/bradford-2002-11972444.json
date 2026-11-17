@@ -1,0 +1,30 @@
+{
+  "pmid": "11972444",
+  "slug": "bradford-2002-11972444",
+  "citation": {
+    "authors": "Bradford LD",
+    "year": 2002,
+    "journal": "Pharmacogenomics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/11972444/",
+  "page": "https://vilivity.com/studies/bradford-2002-11972444/",
+  "cited_by": [
+    {
+      "entry": "how-some-medicines-work-differently-by-gene",
+      "title": "How some medicines work differently by gene",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/how-some-medicines-work-differently-by-gene/",
+      "record": {
+        "id": "bradford-2002",
+        "population": "Published allele-frequency studies of CYP2D6 in European, Asian and African populations",
+        "n": "not stated in the abstract",
+        "design": "Review of allele frequencies",
+        "finding": "Functional alleles are about 71% in European Caucasians, about 50% in Asians and about 50% in Africans and African Americans. Reduced-function alleles are about 35% in African populations (mainly *17); non-functional alleles are 14.5% in African Americans and 6.3% in Africans. Non-functional and reduced-function alleles make up about half of alleles in Black populations, with greater variety.",
+        "line_tier": "B",
+        "note": "A 2002 review; Abstract text cut at the last sentence.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

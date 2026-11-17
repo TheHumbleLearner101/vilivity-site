@@ -1,0 +1,64 @@
+{
+  "pmid": "42953661",
+  "slug": "ayugane-2026-42953661",
+  "citation": {
+    "authors": "Ayugane et al",
+    "year": 2026,
+    "journal": "Health Science Reports"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42953661/",
+  "page": "https://vilivity.com/studies/ayugane-2026-42953661/",
+  "cited_by": [
+    {
+      "entry": "braids-twists-and-extensions",
+      "title": "Braids, twists and extensions: tension, how long, itch",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/braids-twists-and-extensions/",
+      "record": {
+        "id": "ayugane-2026",
+        "population": "197 Ghanaian women, mean age 23, hairline status scored on the Marginal Traction Alopecia Score",
+        "n": 197,
+        "design": "Cross-sectional survey, logistic regression",
+        "finding": "40.6% had hairline recession consistent with traction alopecia. More than two high-frequency heat-styling sessions a month was associated with higher odds (adjusted odds ratio 5.65, 95% CI 1.35-23.62). Keeping one hairstyle for over 6 weeks showed higher estimated odds that were not significant (1.81, 95% CI 0.59-5.60).",
+        "line_tier": "B",
+        "note": "Small, self-reported, wide confidence intervals.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "heat-styling-silk-press-and-smoothing-treatments",
+      "title": "Heat, silk press, keratin treatments and colour",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/heat-styling-silk-press-and-smoothing-treatments/",
+      "record": {
+        "id": "ayugane-2026",
+        "population": "197 Ghanaian women, mean age 23, hairline status scored on the Marginal Traction Alopecia Score",
+        "n": 197,
+        "design": "Cross-sectional survey, logistic regression",
+        "finding": "40.6% had hairline recession consistent with traction alopecia. More than two high-frequency heat-styling sessions a month was associated with higher odds (adjusted odds ratio 5.65, 95% CI 1.35-23.62). Keeping one hairstyle for over 6 weeks showed higher estimated odds that were not significant (1.81, 95% CI 0.59-5.60).",
+        "line_tier": "B",
+        "note": "Small, self-reported, wide confidence intervals.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "edges-and-hairline",
+      "title": "Protecting your edges and hairline",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/edges-and-hairline/",
+      "record": {
+        "id": "ayugane-2026",
+        "population": "197 Ghanaian women, mean age 23, hairline status scored on the Marginal Traction Alopecia Score",
+        "n": 197,
+        "design": "Cross-sectional survey, logistic regression",
+        "finding": "40.6% had hairline recession consistent with traction alopecia. More than two high-frequency heat-styling sessions a month was associated with higher odds (adjusted odds ratio 5.65, 95% CI 1.35-23.62). Keeping one hairstyle for over 6 weeks showed higher estimated odds that were not significant (1.81, 95% CI 0.59-5.60).",
+        "line_tier": "B",
+        "note": "Small, self-reported, wide confidence intervals.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

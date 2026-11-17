@@ -1,0 +1,21 @@
+{
+  "pmid": "36598763",
+  "slug": "ung-2023-36598763",
+  "citation": {
+    "authors": "Ung CY et al",
+    "year": 2023,
+    "journal": "JAMA Dermatol"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36598763/",
+  "page": "https://vilivity.com/studies/ung-2023-36598763/",
+  "cited_by": [
+    {
+      "entry": "keloids-and-piercings",
+      "title": "Keloids and piercings",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/keloids-and-piercings/",
+      "record": null
+    }
+  ]
+}

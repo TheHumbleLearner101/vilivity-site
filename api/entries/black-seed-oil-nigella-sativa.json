@@ -1,0 +1,116 @@
+{
+  "slug": "black-seed-oil-nigella-sativa",
+  "title": "Black seed oil (Nigella sativa)",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "What does black seed oil actually do for health?",
+    "Does black seed lower blood pressure or blood sugar?",
+    "Is black seed oil safe with medicines?"
+  ],
+  "tradition_says": "Black seed (kalonji, habbatus sauda) is often called a cure for everything, and is used as an oil, in food and as capsules.",
+  "layer1": {
+    "plain_answer": "A 2025 review of 82 studies of black seed (Nigella sativa) found small improvements in blood pressure, blood sugar, cholesterol and body fat, and called it a promising add-on. The trials were not in Black people, and I did not read how sure the authors were. It is not a cure, and not a replacement for medicine.",
+    "do": [
+      {
+        "text": "Check with a pharmacist before taking black seed products if you take other medicines, including blood pressure and diabetes medicines.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any herbal product you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treat it as an add-on to treatment, not a substitute: the authors describe it only as a promising adjunct.",
+        "basis": "tested",
+        "source": "jafari-2025"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, or have kidney or liver problems.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Stopping or skipping prescribed medicine for black seed oil.",
+        "basis": "tested",
+        "source": "jafari-2025"
+      }
+    ],
+    "see_someone_when": [
+      "You take blood pressure or diabetes medicine and want to add black seed (pharmacist or doctor).",
+      "You have a high blood pressure reading or high blood sugar symptoms (doctor).",
+      "A reaction such as rash, swelling or tummy pain after taking it (doctor; 999 in the UK, or your local emergency number for swelling of the face or throat or breathing difficulty)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "82 studies (79 quantitative and 3 qualitative; the title calls them randomised controlled trials), 5,026 participants, 1 to 48 weeks (doses 200 to 4,600 mg a day)",
+      "design": "Systematic review and dose-response meta-analysis, GRADE-assessed",
+      "n": 5026,
+      "finding": "Nigella sativa supplementation significantly improved body fat percentage, systolic blood pressure, mean arterial pressure, fasting blood sugar, HbA1c, post-meal glucose, insulin sensitivity, C-reactive protein, cholesterol fractions and triglycerides. The authors conclude it could be a promising adjunct therapy for improving cardiovascular risk factors.",
+      "source": {
+        "authors": "Jafari A, Mardani H, Faghfouri AH, Fashtali ZM et al",
+        "year": 2025,
+        "journal": "Pharmacological Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40714301/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "The abstract does not give the certainty grade or participants' ancestry; no safety summary read. Authors report no competing interests.",
+      "id": "jafari-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That black seed lowers blood pressure, blood sugar and cholesterol a little: a meta-analysis of 82 studies (79 quantitative, 3 qualitative) with 5,026 people, not in Black populations.",
+  "tier_note": "Systematic review of many small trials in other populations with biomarker outcomes; certainty grade not read, so I took the lower reading. No trial in people of African descent was opened.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the abstract read; liver and kidney markers (ALT, AST, creatinine) were listed among outcomes but the direction was not stated in my copy. Black seed can lower blood pressure and blood sugar, so it may add to those medicines (inferred from the effect, not a source on interactions).",
+  "founder_flag": false,
+  "evidence_summary": "A 2025 meta-analysis of 82 studies (79 quantitative and 3 qualitative; 5,026 people) found black seed supplements improved blood pressure, blood sugar, cholesterol and other markers, and described it as a promising adjunct, not a treatment. The abstract does not say how certain the evidence is or who the participants were. I opened no trial in Black populations and no study of hair, skin or cancer claims.",
+  "measured_variables": [
+    "Blood pressure, fasting glucose, HbA1c, lipids and inflammatory markers (measured)",
+    "Participants' ancestry not stated in the abstract"
+  ],
+  "gaps": "Untested or not opened: any trial in Black or Caribbean populations; hair, skin, cancer and \"cure-all\" claims; the certainty grade and risk of bias; adverse events and drug interactions; whether oil, seed and capsules behave alike; MSK page for black seed did not exist at the URL I tried. The card gives no doses because the trials ranged widely (200 to 4,600 mg).",
+  "related": [
+    "soursop-graviola",
+    "bush-teas-cerasee-bitter-leaf-and-medicines",
+    "hibiscus-sorrel-blood-pressure",
+    "hair-growth-oils-and-supplements"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Jafari A, Mardani H, Faghfouri AH, Fashtali ZM et al",
+      "year": 2025,
+      "journal": "Pharmacological Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40714301/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

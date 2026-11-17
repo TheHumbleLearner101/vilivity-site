@@ -1,0 +1,30 @@
+{
+  "pmid": "31111104",
+  "slug": "dos-2019-31111104",
+  "citation": {
+    "authors": "Dos Santos et al",
+    "year": 2019,
+    "journal": "Heliyon"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/31111104/",
+  "page": "https://vilivity.com/studies/dos-2019-31111104/",
+  "cited_by": [
+    {
+      "entry": "colouring-and-bleaching-textured-hair",
+      "title": "Colouring and bleaching afro-textured hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/colouring-and-bleaching-textured-hair/",
+      "record": {
+        "id": "dos-santos-2019",
+        "population": "Caucasian and Afro hair samples, treated with heat, bleach and straightening alone and together",
+        "n": "not stated",
+        "design": "Laboratory: Raman spectroscopy and electron microscopy",
+        "finding": "Bleaching, straightening and heat changed chemical bonds and protein structure; excessive heat caused the largest change, and applying several treatments to the same fibres caused even more pronounced changes. The two hair groups showed small differences for each treatment.",
+        "line_tier": "C",
+        "note": "Hair samples, not people.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "baobab-fruit",
+  "title": "Baobab fruit: blood sugar, iron and vitamin C",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Is baobab powder good for you?",
+    "Does baobab lower blood sugar?",
+    "Does baobab help iron levels or anaemia?"
+  ],
+  "tradition_says": "Baobab fruit pulp is eaten and drunk across Africa as a drink and a source of vitamin C, and is now sold as a 'superfruit' powder for energy, digestion and blood sugar.",
+  "layer1": {
+    "plain_answer": "Baobab fruit is a traditional African food and a source of vitamin C. Two small trials in healthy adults in Europe found it lowered the blood sugar rise after a sugary or starchy load. A trial in Kenyan schoolchildren found no significant effect on iron or haemoglobin. My search found no trial in people with diabetes.",
+    "do": [
+      {
+        "text": "Eat it as a food; do not rely on it for blood sugar or iron: the evidence is small and short.",
+        "basis": "tested",
+        "source": "evang-2021"
+      },
+      {
+        "text": "Tell your doctor or pharmacist about any herbal product you take.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using baobab instead of iron tablets or other treatment for anaemia: the Kenyan trial found no significant effect.",
+        "basis": "tested",
+        "source": "evang-2021"
+      },
+      {
+        "text": "Herbal medicines if you are pregnant or breastfeeding, or have kidney or liver problems, without a pharmacist check.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Herbal medicines and complementary therapies\"",
+          "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You are often tired, pale or short of breath and think it could be iron (doctor, for a blood test).",
+      "You take diabetes medicine and want to add baobab (pharmacist or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "31 healthy adults in Portugal",
+      "design": "Randomised controlled trial: oral glucose tolerance test with or without 250 mL baobab aqueous extract",
+      "n": "31",
+      "finding": "The rise in blood glucose (incremental area under the curve) and the peak glucose were significantly lower in the baobab group than in the control group after a glucose load. The extract had high polyphenol content.",
+      "source": {
+        "authors": "Rita K, Bernardo MA, Silva ML, Brito J et al",
+        "year": 2022,
+        "journal": "Nutrients",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35057579/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "One sitting, healthy adults, a lab-made extract; authors report no conflicts of interest.",
+      "id": "rita-2022"
+    },
+    {
+      "population": "Healthy adults in the UK (numbers not in the abstract)",
+      "design": "Test-meal study: baobab extract in solution with white bread, glucose response, satiety and energy expenditure measured",
+      "n": "not stated in the abstract",
+      "finding": "Baobab fruit extract at both low and high doses significantly reduced the glucose response to white bread. It had no significant effect on satiety or energy expenditure. In the lab it also reduced starch digestion.",
+      "source": {
+        "authors": "Coe SA, Clegg M, Armengol M, Ryan L",
+        "year": 2013,
+        "journal": "Nutrition Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24176228/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A short test-meal study of an extract; funding not checked.",
+      "id": "coe-2013"
+    },
+    {
+      "population": "58 Kenyan schoolchildren aged 6 to 12 with haemoglobin below 12.2 g/dl",
+      "design": "Single-blind randomised trial: a drink with baobab fruit pulp or an equal-energy drink daily for 12 weeks",
+      "n": "58 (29 per group)",
+      "finding": "Haemoglobin, ferritin and soluble transferrin receptor did not differ significantly between the groups. Haemoglobin rose 2.2% with baobab and fell 1.2% in the control group, a difference the authors did not find significant.",
+      "source": {
+        "authors": "Evang EC, Habte TY, Owino WO, Krawinkel MB",
+        "year": 2021,
+        "journal": "European Journal of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33355689/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Small, in children, for iron status; the authors suggest the pulp's vitamin C could still help iron absorption.",
+      "id": "evang-2021"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That baobab lowers the blood sugar rise after a carbohydrate load: two small acute trials in healthy adults in Europe; its use for iron is not supported by one small Kenyan trial.",
+  "tier_note": "Thin because both blood sugar studies were single sittings in healthy adults and the only trial in people of African descent (58 children, iron) found no significant effect. It would move to A or stronger with a longer trial in adults of African descent with diabetes or prediabetes.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in the abstracts read; none reported in the three sources. I did not open a safety review.",
+  "founder_flag": false,
+  "evidence_summary": "Two short studies in healthy adults (31 in Portugal, a smaller UK study) found baobab extract lowered the blood sugar rise after a glucose or starch load. In a 12-week trial of 58 Kenyan schoolchildren with low haemoglobin, baobab pulp did not significantly change haemoglobin or iron markers. No trial in people with diabetes or over weeks was found.",
+  "measured_variables": [
+    "Post-meal glucose rise (incremental area under the curve)",
+    "Haemoglobin, ferritin and soluble transferrin receptor in the children",
+    "Dose: 250 mL extract in one study; not given for the others in the abstracts"
+  ],
+  "gaps": "Untested: baobab in people with diabetes or prediabetes; effects over weeks; powder against fresh pulp; claims for digestion, energy or skin. Not opened: a 2023 narrative review (PMID 37432337) and a 2026 review (PMID 42940219) of baobab and glycaemia; a 2017 satiety trial (PMID 28413912); ClinicalTrials.gov returned two baobab-related records (a fortified biscuit trial in school-aged children, NCT07041866, and a recipe study), not read.",
+  "related": [
+    "vitamin-d-and-dark-skin",
+    "vitamins-and-supplements-basics",
+    "type-2-diabetes-risk",
+    "caribbean-and-west-african-diet-and-health"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Rita K, Bernardo MA, Silva ML, Brito J et al",
+      "year": 2022,
+      "journal": "Nutrients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35057579/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Coe SA, Clegg M, Armengol M, Ryan L",
+      "year": 2013,
+      "journal": "Nutrition Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24176228/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Evang EC, Habte TY, Owino WO, Krawinkel MB",
+      "year": 2021,
+      "journal": "European Journal of Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33355689/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Herbal medicines and complementary therapies\"",
+      "url": "https://www.nhs.uk/conditions/herbal-medicines/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

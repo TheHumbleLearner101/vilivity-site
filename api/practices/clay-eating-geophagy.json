@@ -1,0 +1,66 @@
+{
+  "slug": "clay-eating-geophagy",
+  "name": "Eating clay (geophagy) and ice (pagophagia) in pregnancy",
+  "regions": [
+    "African American"
+  ],
+  "module": "food",
+  "what_people_do": "Some women, especially in the rural South, eat white or red clay, and some pregnant women eat large amounts of ice or freezer frost.",
+  "why_they_say_it_works": "A cultural and family habit; women describe cravings and say it settles the stomach or helps the baby.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Vermeer DE, Frate DA 1979, Am J Clin Nutr, PMID 484531",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/484531/",
+      "quote_or_summary": "Holmes County, Mississippi (Black population): geophagia in 57% of women and 16% of children, none among adult men; average 50 g of clay a day; 25 clay sources located."
+    },
+    {
+      "source": "Edwards CH et al 1994, J Nutr, PMID 8201446",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8201446/",
+      "quote_or_summary": "Washington DC, 553 African American women in prenatal clinics: no geophagy observed; ice or freezer frost eating (pagophagia) in 8.1%."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Clay eating and anaemia, hunger, worms, potassium",
+      "population": "Rural Mississippi cross-sectional",
+      "finding": "Geophagia was not correlated with hunger, anaemia or helminths; may contribute to hypertension; did not support the hyperkalaemia idea.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Vermeer DE, Frate DA 1979, Am J Clin Nutr, PMID 484531",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/484531/"
+      }
+    },
+    {
+      "tested": "Ice eating and iron",
+      "population": "553 pregnant women, DC",
+      "finding": "Women with pica had lower serum ferritin and lower mean cell haemoglobin; infants had smaller head circumference.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Edwards CH et al 1994, J Nutr, PMID 8201446",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8201446/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "Pica is tied in these studies to lower iron stores in pregnancy; clay may raise blood pressure (Vermeer). Tell the midwife.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care",
+    "iron-and-fibroids"
+  ],
+  "gaps": [
+    "1979 and 1994 data; current prevalence not found.",
+    "Clay content and contaminants not examined."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/clay-eating-geophagy/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "40557494",
+  "slug": "trongtorsak-2025-40557494",
+  "citation": {
+    "authors": "Trongtorsak A, De La Rosa Martinez J, Crawford TC, Bogun FM et al",
+    "year": 2025,
+    "journal": "Circulation: Arrhythmia and Electrophysiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40557494/",
+  "page": "https://vilivity.com/studies/trongtorsak-2025-40557494/",
+  "cited_by": [
+    {
+      "entry": "sarcoidosis-in-black-adults",
+      "title": "Sarcoidosis: symptoms, risk and follow-up",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sarcoidosis-in-black-adults/",
+      "record": {
+        "id": "trongtorsak-2025",
+        "population": "619 patients with cardiac sarcoidosis (362 White, 193 Black, 64 other) in an international registry of over 25 centres",
+        "n": 619,
+        "design": "Registry cohort comparing race groups",
+        "finding": "Black patients were diagnosed younger (50.5 against 53.7 years) with lower left ventricular ejection fraction (44.6 against 48.3) and more lung (80.3% against 72.7%), skin (22.8% against 12.4%) and eye (13.5% against 5.5%) involvement, and more hypertension, diabetes and kidney disease. Treatment patterns were similar and the combined outcome (death, assist device, transplant or defibrillator therapy) did not differ (29.5% against 28.5%).",
+        "line_tier": "B",
+        "note": "People with heart sarcoidosis only, mostly from specialist centres; not all patients with sarcoidosis.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "41010525",
+  "slug": "castagna-2025-41010525",
+  "citation": {
+    "authors": "Castagna A, Ferro Y, Noto FR, Bruno R et al",
+    "year": 2025,
+    "journal": "Nutrients"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41010525/",
+  "page": "https://vilivity.com/studies/castagna-2025-41010525/",
+  "cited_by": [
+    {
+      "entry": "apple-cider-vinegar",
+      "title": "Apple cider vinegar: weight, blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/apple-cider-vinegar/",
+      "record": {
+        "id": "castagna-2025",
+        "population": "Adults with overweight, obesity or type 2 diabetes in ten randomised trials of daily apple cider vinegar for at least 4 weeks",
+        "n": 789,
+        "design": "Systematic review and meta-analysis of randomised trials: body composition",
+        "finding": "Daily apple cider vinegar reduced body weight, BMI and waist circumference slightly in the pooled results, with large differences between studies. Effects held when high-risk-of-bias trials were removed and were seen up to 12 weeks, at about 30 mL a day. The authors call it a possible short-term adjunct.",
+        "line_tier": "B",
+        "note": "Short trials. Not a trial of lasting weight loss.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

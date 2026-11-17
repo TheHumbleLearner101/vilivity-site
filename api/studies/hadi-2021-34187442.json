@@ -1,0 +1,30 @@
+{
+  "pmid": "34187442",
+  "slug": "hadi-2021-34187442",
+  "citation": {
+    "authors": "Hadi A, Pourmasoumi M, Najafgholizadeh A, Clark CCT et al",
+    "year": 2021,
+    "journal": "BMC Complementary Medicine and Therapies"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34187442/",
+  "page": "https://vilivity.com/studies/hadi-2021-34187442/",
+  "cited_by": [
+    {
+      "entry": "apple-cider-vinegar",
+      "title": "Apple cider vinegar: weight, blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/apple-cider-vinegar/",
+      "record": {
+        "id": "hadi-2021",
+        "population": "Adults in nine randomised trials (ten study arms) of apple cider vinegar for at least two weeks (ethnicity not stated in the abstract)",
+        "n": "not stated in the abstract",
+        "design": "Systematic review and meta-analysis of randomised trials: lipids and blood sugar",
+        "finding": "Apple cider vinegar lowered total cholesterol by about 6 mg/dL, fasting glucose by about 8 mg/dL and HbA1c by 0.5 points. There was no effect on LDL, HDL, insulin or HOMA-IR. Results were stronger in people with type 2 diabetes and with longer use, and variation between studies was moderate to high.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

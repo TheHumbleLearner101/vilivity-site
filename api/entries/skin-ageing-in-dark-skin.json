@@ -1,0 +1,168 @@
+{
+  "slug": "skin-ageing-in-dark-skin",
+  "title": "Skin ageing in dark skin",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Does dark skin age slower, and how do I look after it as I age?",
+    "Does Black skin crack or wrinkle later?",
+    "How do I stop dark spots as I age?"
+  ],
+  "tradition_says": "\"Black don't crack\" is a familiar saying: dark skin is believed to age much more slowly, so anti-ageing care is seen as unnecessary.",
+  "layer1": {
+    "plain_answer": "Reviews say darker skin tends to show lines and sun damage later, helped by more melanin and a thicker, more compact dermis. It is, though, more prone to uneven colour and dark spots. These reviews cover several groups, not only Black people. Daily sunscreen and not smoking are the best-supported habits.",
+    "do": [
+      {
+        "text": "Apply sunscreen daily before going outdoors: SPF 30 or higher, broad-spectrum, water-resistant.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do not smoke: it speeds up skin ageing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do not use tanning beds.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Dermatologist-recommended skin care for your 20s\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-in-your-20s",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Cleanse gently and avoid scrubbing.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Scrubbing and over-exfoliating.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Dermatologist-recommended skin care for your 20s\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-in-your-20s",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming you are immune: darker skin is more vulnerable to uneven colour and dark spots.",
+        "basis": "tested",
+        "source": "vashi-2016"
+      },
+      {
+        "text": "Smoking.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A new dark spot that is growing, changing or itchy (doctor: it could be a mole, see the skin cancer entry).",
+      "Dark spots that bother you (doctor or dermatologist, before lightening products).",
+      "Skin irritation from an anti-ageing product (stop; pharmacist or doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Literature on ageing across groups, including African American, Asian and Hispanic descent",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Differences in epidermal melanin make darkly pigmented people more vulnerable to dyspigmentation, while a thicker and more compact dermis makes facial lines less noticeable. Most common signs of ageing in every skin type are dark spots, loss of elasticity and volume, and wrinkles.",
+      "source": {
+        "authors": "Vashi NA, de Castro Maymone MB, Kundu RV",
+        "year": 2016,
+        "journal": "Journal of Clinical and Aesthetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26962390/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Covers several groups.",
+      "id": "vashi-2016"
+    },
+    {
+      "population": "Literature on ageing across groups",
+      "design": "Short review",
+      "n": "not stated",
+      "finding": "Skin of colour is less susceptible to photodamage, so signs of ageing are less pronounced and occur later than in Caucasians.",
+      "source": {
+        "authors": "Alexis AF, Obioha JO",
+        "year": 2017,
+        "journal": "Journal of Drugs in Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29028856/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Abstract only; mixed skin-of-colour groups.",
+      "id": "alexis-2017"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That signs of ageing show later in darker skin: two short reviews of mixed groups, no data for Black skin alone.",
+  "tier_note": "Reviews, no direct measurement in Black participants, and the \"later\" claim rests on abstracts.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found.",
+  "founder_flag": false,
+  "evidence_summary": "Two reviews say darker skin photoages less and shows lines later, and one adds that it is more prone to uneven colour. They pool Asian, Hispanic and African American groups. AAD guidance for all skin is sunscreen daily, no smoking, gentle cleansing. \"Black don't crack\" is a community saying that this bank tests rather than assumes.",
+  "measured_variables": [
+    "Skin pigmentation (epidermal melanin)",
+    "Dermal thickness",
+    "Cumulative UV exposure"
+  ],
+  "gaps": "Untested or not found: ageing in Black skin measured against other groups (the reviews are of mixed groups); whether anti-ageing products help dark skin in a trial; the saying itself. The AAD pages opened are general guidance.",
+  "related": [
+    "sunscreen-on-dark-skin",
+    "dark-marks-after-acne",
+    "skincare-routine-basics"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Vashi NA et al",
+      "year": 2016,
+      "journal": "Journal of Clinical and Aesthetic Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26962390/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Alexis AF et al",
+      "year": 2017,
+      "journal": "Journal of Drugs in Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29028856/",
+      "tag": "[review]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Dermatologist-recommended skin care for your 20s\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-in-your-20s",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

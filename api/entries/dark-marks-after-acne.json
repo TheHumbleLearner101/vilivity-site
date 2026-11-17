@@ -1,0 +1,255 @@
+{
+  "slug": "dark-marks-after-acne",
+  "title": "Dark marks after acne (post-inflammatory hyperpigmentation)",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "How do I get rid of dark marks after spots?",
+    "Why do my pimples leave dark marks?",
+    "Does vitamin C or hydroquinone fade acne marks?",
+    "How long do dark marks last?",
+    "How do I fade hyperpigmentation and dark spots on dark skin?",
+    "How do I get rid of dark spots and pigmentation on my face?",
+    "Is post-inflammatory hyperpigmentation permanent, and does it go away?",
+    "Do natural remedies for dark spots work (lemon, turmeric, baking soda)?",
+    "How do I fade hyperpigmentation on my body, legs, arms or back?",
+    "Does turmeric fade dark spots?",
+    "Does baking soda lighten dark marks?"
+  ],
+  "tradition_says": "Dark marks left after spots, bites or eczema are common in dark skin, and many home and shop remedies are used to fade them, including lemon, bleaching creams and brightening serums.",
+  "layer1": {
+    "plain_answer": "Dark marks after spots are common in dark skin and slow to fade. One trial in Black adults found a prescription retinoid cream lightened them, though many users were irritated. Treating spots early and wearing sunscreen are the main advice. Bleaching products can do real harm.",
+    "do": [
+      {
+        "text": "Treat the spots early so fewer marks form.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask a doctor or dermatologist about a prescription retinoid cream.",
+        "basis": "tested",
+        "source": "bulengoransby-1993"
+      },
+      {
+        "text": "Wear sunscreen daily: broad-spectrum, SPF 30 or higher, tinted with iron oxide if you can.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Be patient: a mark a few shades darker usually fades in 6 to 12 months.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Choose products labelled fragrance-free or for sensitive skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Bleaching creams of unknown content, or liquid bleach.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Imported skin products that may hide steroids or mercury.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Picking or scrubbing marks: irritation can worsen pigmentation.",
+        "basis": "tested",
+        "source": "davis-2010"
+      }
+    ],
+    "see_someone_when": [
+      "Acne is leaving marks, cysts or scars (doctor or dermatologist: early treatment is the advice).",
+      "A dark mark is growing, new in an unusual place, or does not fade over many months (dermatologist).",
+      "You are considering a peel or laser (dermatologist who treats dark skin: irritation can worsen marks)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "54 Black adults with post-inflammatory hyperpigmentation who completed the study",
+      "design": "Randomised, double-blind, vehicle-controlled, 40 weeks; tretinoin 0.1% cream (a prescription medicine) on face or arms against vehicle cream",
+      "n": 54,
+      "finding": "Facial lesions in the tretinoin group were significantly lighter than vehicle (P<0.001). Colorimetry showed 40% lightening of lesions against 18% with vehicle (P=0.05). Improvement began after about 4 weeks. Retinoid dermatitis developed in 12 of 24 tretinoin-treated people (50%) but eased with time. Tretinoin lightened normal skin slightly.",
+      "source": {
+        "authors": "Bulengo-Ransby SM, Griffiths CE, Kimbrough-Green CK, Finkel LJ et al",
+        "year": 1993,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8479462/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "1993; relatively small; prescription in the UK. Mentioned as evidence that a class of treatment (prescription retinoids) has been tested in Black people, not as a dose.",
+      "id": "bulengoransby-1993"
+    },
+    {
+      "population": "10 board-certified dermatologists",
+      "design": "Modified Delphi consensus and literature review on acne-associated hyperpigmentation",
+      "n": "10 experts",
+      "finding": "Large randomised trials of acne and acne-marks treatment are lacking, so evidence-based recommendations cannot be made. The panel agreed that most patients with acne and marks should get early, effective acne treatment with a topical retinoid and benzoyl peroxide. Hydroquinone, azelaic acid, chemical peel or antioxidants may be added.",
+      "source": {
+        "authors": "Taylor S, Elbuluk N, Grimes P, Chien A et al",
+        "year": 2023,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36924935/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Expert opinion. The authors say evidence-based recommendations cannot be made.",
+      "id": "taylor-2023"
+    },
+    {
+      "population": "Review of treatment options in skin of colour",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Post-inflammatory hyperpigmentation tends to affect darker skin more often and more severely. Treatment should begin early, starting with management of the original inflammation. First-line therapy is typically topical depigmenting agents plus photoprotection including sunscreen. The authors warn to use caution with all treatments to avoid irritation and worsening of the pigmentation.",
+      "source": {
+        "authors": "Davis EC, Callender VD",
+        "year": 2010,
+        "journal": "Journal of Clinical and Aesthetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20725554/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "davis-2010"
+    },
+    {
+      "population": "156 Black participants (14% of 1,115) pooled from four industry trials in acne",
+      "design": "Post hoc subgroup analysis of a clindamycin, adapalene and benzoyl peroxide triple gel against vehicle, 12 weeks",
+      "n": 156,
+      "finding": "Acne treatment success was 32.0% against 18.3% on vehicle (P=0.07). Inflammatory and noninflammatory lesions fell more with the gel, and hyperpigmentation scores stayed at or below baseline. The authors state the studies were not powered for Black participants, so P values are informative only.",
+      "source": {
+        "authors": "Callender VD, Alexis AF, Bhatia N, Harper JC et al",
+        "year": 2025,
+        "journal": "Journal of Clinical and Aesthetic Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40256338/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Industry-sponsored trials (the gel is a branded product), post hoc subgroup, hyperpigmentation was a safety score, not the main outcome. Treats acne, not marks.",
+      "id": "callender-2025"
+    },
+    {
+      "population": "People with skin types IV-VI",
+      "design": "Controlled irradiation (see sunscreen entry)",
+      "n": 20,
+      "finding": "In normal lower-back skin of 20 volunteers, visible light induced darker and more sustained pigmentation than UVA1 in skin types IV-VI. Existing marks were not tested.",
+      "source": {
+        "authors": "Mahmoud BH, Ruvolo E, Hexsel CL, Liu Y et al",
+        "year": 2010,
+        "journal": "Journal of Investigative Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20410914/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "id": "mahmoud-2010"
+    },
+    {
+      "population": "Turmeric and baking soda for dark marks",
+      "design": "PubMed search 12 Nov 2026: (turmeric OR curcumin) AND (hyperpigmentation OR melasma OR \"dark spots\") AND topical, 10 hits, titles read, none a trial of turmeric alone on dark marks (combination formulations, a systematic review of axillary pigmentation, one open-label herbal trial in photodamage); (\"baking soda\" OR \"sodium bicarbonate\") AND (hyperpigmentation OR \"dark spots\" OR melasma) AND topical, 0 hits. Positive control: melasma AND tranexamic acid AND RCT, 70 hits.",
+      "n": 0,
+      "finding": "My search found nothing: no human trial of turmeric or baking soda alone for dark marks in any skin type. Lemon: the same kind of search with a trial filter also returned 0.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28turmeric+OR+curcumin%29+AND+%28hyperpigmentation+OR+melasma+OR+%22dark+spots%22%29+AND+topical"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "turmeric-baking-soda"
+    }
+  ],
+  "tier": "A",
+  "strength": "thin",
+  "tier_driver": "Whether a retinoid lightens dark marks in Black adults: one 40-week randomised trial of 54.",
+  "tier_note": "One 40-week randomised trial in 54 Black adults for a prescription retinoid (1993) is the direct evidence; the rest is consensus, and experts say large trials are lacking.",
+  "harm_flag": false,
+  "harm_note": "Retinoid dermatitis affected half of tretinoin users in the one trial (Bulengo-Ransby 1993), and the 2010 review warns that irritation can worsen pigmentation. The larger harm is from untested bleaching products (see skin lightening entry).",
+  "founder_flag": false,
+  "evidence_summary": "Dark marks after acne are common in dark skin and tend to be longer-lasting. A 40-week trial in 54 Black adults found a prescription retinoid cream lightened them, with irritation in half of users, and experts agree treating the acne early and protecting from sun matters most. Evidence for other fading creams is mostly expert consensus rather than trials, home remedies like lemon are untested, and bleaching products can do real harm.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick types IV-VI, or Black participants in the trial)",
+    "Colorimetry and melanin content in lesions"
+  ],
+  "gaps": "Untested in Black skin in large trials: vitamin C, niacinamide, azelaic acid, kojic acid, licorice; home remedies such as lemon; the effect of sunscreen and tinted sunscreen on marks (see sunscreen entry); whether marks fade faster with early treatment. The retinoid trial is from 1993 and has not been replicated in my search. Hydroquinone is both a consensus option and a source of ochronosis in other settings (skin lightening entry). V2: lemon juice and other home remedies on dark marks: v1 said none tested but the search behind that is not recorded, so no source is cited and the claim is left out of the card. 12 Nov: turmeric and baking soda searched and found nothing (see line turmeric-baking-soda); the alkalinity/irritation point is not sourced and is not claimed.",
+  "related": [
+    "sunscreen-on-dark-skin",
+    "skin-lightening-creams",
+    "shaving-and-razor-bumps",
+    "keloids-and-piercings"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Bulengo-Ransby SM et al",
+      "year": 1993,
+      "journal": "N Engl J Med",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8479462/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Taylor S et al",
+      "year": 2023,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36924935/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Davis EC, Callender VD",
+      "year": 2010,
+      "journal": "J Clin Aesthet Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20725554/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Callender VD et al",
+      "year": 2025,
+      "journal": "J Clin Aesthet Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40256338/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Mahmoud BH et al",
+      "year": 2010,
+      "journal": "J Invest Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20410914/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"How to fade dark spots\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

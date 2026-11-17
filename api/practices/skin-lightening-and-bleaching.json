@@ -1,0 +1,80 @@
+{
+  "slug": "skin-lightening-and-bleaching",
+  "name": "Skin lightening and bleaching creams",
+  "regions": [
+    "West Africa",
+    "Caribbean",
+    "African American",
+    "Black British"
+  ],
+  "module": "skin",
+  "what_people_do": "Apply lightening creams, soaps or injections (hydroquinone, steroids, sometimes mercury) to the face or whole body, often for years, often from a young age.",
+  "why_they_say_it_works": "Lighter skin is linked to beauty and status; people also use the products for dark marks and \"even\" skin.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Skin lightening among traders in Lagos, 2002, West Afr J Med, PMID 12081345",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12081345/",
+      "quote_or_summary": "Lagos traders, 450 surveyed: 77.3% used skin lightening cosmetics, across all social classes; hydroquinone products commonest, steroids and mercury also used; exogenous ochronosis the commonest side effect (2002; this is the source of the \"77% Nigeria\" number, and it is Lagos traders, not Nigeria)."
+    },
+    {
+      "source": "Skin lightening in Benin City, 2021, West Afr J Med, PMID 34505500",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34505500/",
+      "quote_or_summary": "Benin City, 454 adults: 55.3% currently using skin lightening products."
+    },
+    {
+      "source": "Skin bleaching among African and Afro-Caribbean women in NYC, 2019, Dermatol Ther, PMID 31020513",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31020513/",
+      "quote_or_summary": "New York, 76 African and Afro-Caribbean women: median start age 19.5, median duration 13.5 years; 13.2% used while pregnant or possibly breastfeeding."
+    },
+    {
+      "source": "Sagoe D et al 2019, Int J Dermatol, PMID 29888464",
+      "type": "study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29888464/",
+      "quote_or_summary": "Pooled lifetime prevalence 27.7% across 68 studies, 67,665 people; heterogeneity 99.6%, so the average is not comparable across places."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Mercury in products",
+      "population": "60 products bought in Jamaica",
+      "finding": "6 products above the US limit of 1 ppm; three above 400 ppm; range 0.05 to 17,547 ppm.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Mercury in skin lightening products, Jamaica, 2020, J Health Pollut, PMID 32509402",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32509402/"
+      }
+    },
+    {
+      "tested": "Skin cancer after years of bleaching",
+      "population": "8 women, Senegal, 2005 to 2016",
+      "finding": "Squamous cell carcinomas on lightened, photo-exposed skin after an average of 20.3 years of hydroquinone and potent steroid use.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Squamous cell carcinoma and skin whitening, 8 cases, Senegal, 2018, Ann Dermatol Venereol, PMID 29150154",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29150154/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "yes",
+  "harm_note": "Mercury, potent steroids and hydroquinone cause kidney, skin and cancer harm; WHO calls mercury products hazardous (agent4).",
+  "links_to_entries": [
+    "skin-lightening-creams"
+  ],
+  "gaps": [
+    "No tested benefit for the \"even tone\" claim in this practice.",
+    "Sagoe average is non-comparable across settings."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/skin-lightening-and-bleaching/"
+}

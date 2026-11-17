@@ -1,0 +1,227 @@
+{
+  "slug": "wash-day-routine-for-4c-hair",
+  "title": "Wash day and routine for 4c hair",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I care for 4c hair?",
+    "Which shampoo, conditioner and leave-in works best for natural hair?",
+    "What is a good wash day routine for 4c hair?",
+    "How often should I wash my natural hair?",
+    "How do I care for 4c hair in winter?",
+    "Why does my hair shrink and is shrinkage a problem?",
+    "Why does my hair shrink?"
+  ],
+  "tradition_says": "Wash day is a ritual passed down and shared online: wash weekly or less, condition deeply, layer moisture with a leave-in, oil and cream (LOC or LCO), then style. Washing often is widely believed to strip coily hair.",
+  "layer1": {
+    "plain_answer": "Nobody has tested a wash-day routine for tightly coiled hair. UK and US dermatologists give different intervals, from every week or two to every one to three weeks, so choose what keeps your scalp comfortable. They agree on conditioner every wash and gentle detangling. Which shampoo or leave-in is best is untested.",
+    "do": [
+      {
+        "text": "Wash about every one to three weeks, or sooner if there is build-up or oiliness.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a rinse-out conditioner every wash, focusing on the ends, then a leave-in.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Comb with a soft wide-spaced brush or wide-toothed comb.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "At night, loosely plait or twist and use a satin or silk cap, scarf or pillowcase.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a heat protectant on wet hair before any heat.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Rough, repeated combing: damage rose with every extra stroke in a small lab study.",
+        "basis": "tested",
+        "source": "molamodi-2021"
+      },
+      {
+        "text": "Letting product build up, or washing so rarely that the scalp is irritated.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Going from relaxing to heat or dye within about two weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Scalp itch or flaking that has not settled after four weeks of an anti-dandruff shampoo (doctor).",
+      "Hair that breaks, thins or has bare patches despite gentle care (dermatologist).",
+      "A sore, red or bumpy scalp (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "30 women (15 frequent braiders against 15 comparison women); hair fibres studied in the laboratory",
+      "design": "Fibre damage after standardised combing strokes and comparison of braiders and non-braiders",
+      "n": 30,
+      "finding": "Cuticle damage rose in a linear trend with the number of combing strokes; 480 strokes did more cuticle damage than frequent braiding. Frequent braiders had weaker, thinner fibres.",
+      "source": {
+        "authors": "Molamodi et al",
+        "year": 2021,
+        "journal": "International Journal of Cosmetic Science",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33605448/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Small. Funder not stated in the abstract. Hair-fibre measurements, not hair length kept.",
+      "id": "molamodi-2021"
+    },
+    {
+      "population": "African hair samples, electron microscopy",
+      "design": "Structural study of fragile afro hair",
+      "n": "not stated",
+      "finding": "Cystine-rich proteins were distributed as in other hair types, so fragility was not explained by a protein defect; the authors read the damage as grooming trauma rather than inherent weakness.",
+      "source": {
+        "authors": "Khumalo NP, Dawber RP, Ferguson DJ",
+        "year": 2005,
+        "journal": "Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15810890/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Small electron-microscopy study.",
+      "id": "khumalo-2005"
+    },
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US clinics",
+      "design": "Questionnaire, multivariate analysis",
+      "n": 201,
+      "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Caregiver report, small, wide confidence intervals; associations only.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "Routines",
+      "design": "PubMed search run 12 Nov 2026, exact string: (hair washing OR shampoo OR moisturizer OR \"leave-in\") AND (afro-textured hair OR \"African American hair\" OR \"tightly coiled hair\" OR \"Black women hair\") AND (frequency OR routine OR trial) (result count 1).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 1 result: one result, a 2015 cross-sectional study of hair care practices and scalp and hair shaft parameters in African American and Caucasian women (PMID 26300276), which is not a trial of a wash interval, leave-in or layering method. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no trial of a wash-day routine, wash frequency, leave-in or layering method in tightly coiled hair. The control searches (Khumalo, Loussouarn, Rucker Wright) returned abstracts.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hair+washing+OR+shampoo+OR+moisturizer+OR+%22leave-in%22%29+AND+%28afro-textured+hair+OR+%22African+American+hair%22+OR+%22tightly+coiled+hair%22+OR+%22Black+women+hair%22%29+AND+%28frequency+OR+routine+OR+trial%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "no-routine-trial"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That a particular wash interval, product or layering method (LOC or LCO) keeps coiled hair moisturised or longer: no human study found.",
+  "tier_note": "D because the advice people follow (wash weekly, LOC, deep conditioning) has no trial in people; the strand and survey evidence is on breakage and scalp disease, not on routines. A trial comparing wash intervals or products on breakage or scalp health would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search for these routine steps; heat and chemical steps are covered in the heat and relaxer entries.",
+  "founder_flag": false,
+  "evidence_summary": "Dermatology guidance differs on wash frequency: the British Association of Dermatologists says roughly every one to three weeks and warns that washing too rarely irritates the scalp and washing too often dries it; the American Academy of Dermatology says once a week or every other week and conditioner every wash; a paediatric dermatologist reported by Dermatology Times said frequent washing may help hydration in children. The only survey data that touch wash frequency (Rucker Wright 2011) found no link with seborrhoeic dermatitis. In the lab, damage rose with every combing stroke (Molamodi 2021), so the best-supported step is gentle handling. Sources disagree on whether afro hair is drier (Daniels 2023), so \"it is always dry\" is contested.",
+  "measured_variables": [
+    "Wash interval (guidance ranges, not tested)",
+    "Hair shaft curl and cross-section (not measured in the guidance)"
+  ],
+  "gaps": "Untested: any wash interval; shampoo, conditioner or leave-in brand claims; LOC against LCO (now its own entry, moisture-layering-loc-and-lco-methods: untested); winter care and shrinkage (see hair-in-winter-and-shrinkage: general guidance only, searches found nothing in coily hair); twist-out, braid-out and wash-and-go technique (now its own entry, twist-outs-braid-outs-and-wash-and-gos: creator tips only, untested); co-washing.",
+  "related": [
+    "hair-porosity-and-moisture",
+    "hair-breakage-and-length-retention",
+    "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+    "hair-in-winter-and-shrinkage",
+    "moisture-layering-loc-and-lco-methods",
+    "twist-outs-braid-outs-and-wash-and-gos"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Molamodi et al",
+      "year": 2021,
+      "journal": "International Journal of Cosmetic Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33605448/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2005,
+      "journal": "Experimental Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15810890/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+      "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+      "tag": "[commentary]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

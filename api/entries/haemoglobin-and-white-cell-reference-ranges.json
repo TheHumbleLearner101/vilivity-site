@@ -1,0 +1,225 @@
+{
+  "slug": "haemoglobin-and-white-cell-reference-ranges",
+  "title": "Haemoglobin and white cell ranges on your blood test",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Why is my white cell count low on a blood test?",
+    "Why is my haemoglobin lower than the normal range?",
+    "Are blood test ranges the same for Black people?",
+    "Is a low neutrophil count dangerous for me?"
+  ],
+  "tradition_says": "A result outside the printed range is taken to mean illness. My search found no study of what families pass down about blood counts.",
+  "layer1": {
+    "plain_answer": "Blood test ranges were mostly built from white populations. In large studies, Black adults have lower average haemoglobin and white cell counts, partly from inherited traits such as alpha-thalassaemia and Duffy-null, and partly from low iron. A result outside the range can still be real, so ask what is behind it.",
+    "what_it_is": [
+      {
+        "text": "A blood count reports haemoglobin, red cell size (MCV) and white cell counts, each judged against a reference range.",
+        "basis": "tested",
+        "source": "beutler-2005b"
+      },
+      {
+        "text": "Benign ethnic neutropenia is the old name for a neutrophil count under 1,500 per microlitre with no extra infection risk; it is most common in people of African ancestry and tracks the Duffy-null trait.",
+        "basis": "tested",
+        "source": "merz-2021"
+      },
+      {
+        "text": "Duffy-null is found in 80% to 100% of people of sub-Saharan African ancestry and under 1% of people of European descent.",
+        "basis": "tested",
+        "source": "merz-2021"
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "Duffy status is a blood test; in one clinic study it was measured alongside a full blood count with differential.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "Whether low haemoglobin is from low iron or a gene change is sorted by iron tests and sometimes DNA tests; the large US study measured ferritin and transferrin saturation and tested for the alpha-thalassaemia deletion.",
+        "basis": "tested",
+        "source": "beutler-2005b"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Among 120 healthy Black adults at one US primary care centre, 80 (66.7%) were Duffy-null. Their median neutrophil count was 2,820 per microlitre against 5,005 in the others, and 19 of the 80 were under 2,000, against none of the others.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "In 1,491 African American and 31,005 white people, haemoglobin, haematocrit, MCV, transferrin saturation and white cell count were lower in African Americans; ferritin was higher.",
+        "basis": "tested",
+        "source": "beutler-2005b"
+      },
+      {
+        "text": "In 2024 WHO revised haemoglobin cut-offs for children aged 6 to 23 months, pregnant women in the second trimester and people living at altitude. A review of the guideline lists no ethnicity-based cut-off.",
+        "basis": "tested",
+        "source": "khurana-2024"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "The Duffy-null low neutrophil count is clinically insignificant; the study authors want Duffy-null ranges, not a label of disease.",
+        "basis": "tested",
+        "source": "merz-2023"
+      },
+      {
+        "text": "Removing iron-deficient and thalassaemic people narrowed the anaemia gap but did not close it (women 6.1% against 2.77%).",
+        "basis": "tested",
+        "source": "beutler-2005b"
+      },
+      {
+        "text": "Whether to adopt group-specific haemoglobin ranges is contested; the Beutler authors argue for them, and my search found no counter-argument I could open.",
+        "basis": "tested",
+        "source": "beutler-2005b"
+      }
+    ],
+    "see_someone_when": [
+      "Tiredness, breathlessness, paleness or a fast heartbeat that is new or getting worse (doctor, full blood count and iron tests).",
+      "Told your white cell or neutrophil count is low: ask whether your Duffy status was considered, and read the Duffy-null entry (doctor or haematologist).",
+      "Fever, chills or an infection that will not clear, whatever your counts say (urgent care).",
+      "Being excluded from a treatment or trial because of a low neutrophil count: ask whether Duffy-null was considered (the doctor running it)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "1,491 African American and 31,005 white people with routine laboratory results, about half men and half women",
+      "design": "Retrospective analysis of laboratory data, with alpha-thalassaemia DNA testing",
+      "n": 32496,
+      "finding": "Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans and ferritin higher. The -3.7 kb alpha-thalassaemia deletion accounted for about a third of the haemoglobin difference. With iron-deficient and thalassaemic people removed, the share classed anaemic was 6.1% against 2.77% in women and 4.29% against 3.6% in men.",
+      "source": {
+        "authors": "Beutler E, West C",
+        "year": 2005,
+        "journal": "Blood",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US laboratory population; abstract read in full.",
+      "id": "beutler-2005b"
+    },
+    {
+      "population": "120 healthy self-identified Black adults at one primary care centre",
+      "design": "Cross-sectional comparison of neutrophil counts by Duffy phenotype",
+      "n": 120,
+      "finding": "66.7% (80 of 120) were Duffy-null. Median absolute neutrophil count was 2,820 per microlitre in Duffy-null and 5,005 in Duffy non-null (P under .001); 19 of 80 Duffy-null adults had counts under 2,000 and none of the others did. The authors call the Duffy-null phenotype clinically insignificant and advocate Duffy-null-specific ranges and replacing the term benign ethnic neutropenia.",
+      "source": {
+        "authors": "Merz LE, Story CM, Osei MA, Jolley K et al",
+        "year": 2023,
+        "journal": "Blood Advances",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35994632/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single centre, small sample, US. Abstract read in full.",
+      "id": "merz-2023"
+    },
+    {
+      "population": "People of African ancestry and the haematology reference-range literature",
+      "design": "Commentary (Blood)",
+      "n": "not applicable",
+      "finding": "Benign ethnic neutropenia (neutrophils under 1,500 per microlitre with no extra infection risk) is most common in people of African ancestry, and African reference ranges say counts under 1,500 are common and harmless. Duffy-null explains it and is seen in 80% to 100% of people of sub-Saharan African ancestry and under 1% of those of European descent. The authors say labelling common non-White phenotypes abnormal contributes to systemic racism in haematology.",
+      "source": {
+        "authors": "Merz LE, Achebe M",
+        "year": 2021,
+        "journal": "Blood",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33181819/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "B",
+      "note": "Commentary that summarises other studies; the prevalence range comes from the authors, not a study I opened.",
+      "id": "merz-2021"
+    },
+    {
+      "population": "WHO 2024 guideline on haemoglobin cut-offs",
+      "design": "Journal summary of the revised guideline",
+      "n": "not applicable",
+      "finding": "WHO proposed revised haemoglobin cut-offs for children aged 6 to 23 months, pregnant women in the second trimester and people living at elevated altitude, to raise sensitivity and make diagnosis uniform; there were no major changes in other domains.",
+      "source": {
+        "authors": "Khurana R, Kanvinde P, Mudaliar S",
+        "year": 2024,
+        "journal": "Indian Pediatrics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38910369/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A short summary of the guideline; the full 79-page guideline was not read, so absence of an ethnicity adjustment is as reported there.",
+      "id": "khurana-2024"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That average haemoglobin and white cell counts differ between groups because of measurable traits (alpha-thalassaemia, Duffy-null, iron status): a 32,496-person US study and a 120-person Duffy study.",
+  "tier_note": "Observational, mostly US; the Duffy study is a single centre of 120. Whether separate reference ranges should be used is contested.",
+  "harm_flag": true,
+  "harm_note": "A range built on one group can label healthy people as ill: 19.8% of African American women were classed anaemic against 5.3% of white women before iron and thalassaemia were accounted for (Beutler 2005), and the authors of the Duffy work say mislabelling propagates systemic racism (Merz 2023).",
+  "founder_flag": false,
+  "evidence_summary": "Blood count reference ranges were set mostly in white populations. In 32,496 people, African Americans had lower average haemoglobin, haematocrit, red cell size and white cell counts; an alpha-thalassaemia deletion explained about a third of the haemoglobin gap, and iron deficiency explained more. In 120 healthy Black adults, two thirds were Duffy-null and had lower neutrophil counts that are clinically insignificant. The measured variables are Duffy status, alpha-globin genes and ferritin, not race. A count outside the range still needs a reason: low iron, a gene change or another cause. This entry links to the Duffy-null entry and does not repeat it.",
+  "measured_variables": [
+    "Duffy phenotype (a blood test)",
+    "Alpha-globin deletion (DNA test)",
+    "Ferritin and transferrin saturation",
+    "Self-reported race in the studies, a stand-in for these traits"
+  ],
+  "gaps": "Not found or not opened: the full WHO 2024 guideline (so any ethnicity statement in it is unchecked); whether UK, African or other national laboratories use group-specific ranges (my search found no list); the 2024 count of cancer trials excluding Duffy-null people was not opened here (see the Duffy-null entry); haemoglobin norms in pregnancy for Black women; whether Duffy-null-specific ranges improve care (no trial found).",
+  "related": [
+    "low-white-cell-count-duffy-null",
+    "alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron",
+    "iron-and-fibroids",
+    "g6pd-deficiency-what-to-avoid-and-who-carries-it"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Beutler E, West C",
+      "year": 2005,
+      "journal": "Blood",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15790781/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Merz LE, Story CM, Osei MA, Jolley K et al",
+      "year": 2023,
+      "journal": "Blood Advances",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35994632/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Merz LE, Achebe M",
+      "year": 2021,
+      "journal": "Blood",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33181819/",
+      "tag": "[commentary]"
+    },
+    {
+      "authors": "Khurana R, Kanvinde P, Mudaliar S",
+      "year": 2024,
+      "journal": "Indian Pediatrics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38910369/",
+      "tag": "[review]"
+    },
+    {
+      "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+      "url": "https://medlineplus.gov/ency/article/000528.htm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "CPIC guideline for medication use and G6PD genotype (Gammal et al. 2023, abstract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36049896/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "WHO, \"Guideline on haemoglobin cutoffs to define anaemia in individuals and populations\" (2024), overview",
+      "url": "https://www.who.int/publications/i/item/9789240088542",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

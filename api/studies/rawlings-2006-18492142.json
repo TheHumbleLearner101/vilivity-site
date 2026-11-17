@@ -1,0 +1,30 @@
+{
+  "pmid": "18492142",
+  "slug": "rawlings-2006-18492142",
+  "citation": {
+    "authors": "Rawlings AV",
+    "year": 2006,
+    "journal": "International Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18492142/",
+  "page": "https://vilivity.com/studies/rawlings-2006-18492142/",
+  "cited_by": [
+    {
+      "entry": "moisturising-and-ashy-skin",
+      "title": "Moisturising and 'ashy' skin",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/moisturising-and-ashy-skin/",
+      "record": {
+        "id": "rawlings-2006",
+        "population": "Narrative review",
+        "n": "not stated",
+        "design": "Review of ethnic skin differences in structure and function",
+        "finding": "Studies have mostly been small, and in some interindividual differences in skin quality overwhelm racial differences. The authors call for studies that address genetic as well as phenotypic differences.",
+        "line_tier": "C",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

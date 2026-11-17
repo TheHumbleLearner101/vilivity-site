@@ -1,0 +1,30 @@
+{
+  "pmid": "42933321",
+  "slug": "bhimireddy-2026-42933321",
+  "citation": {
+    "authors": "Bhimireddy et al",
+    "year": 2026,
+    "journal": "Multiple Sclerosis and Related Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42933321/",
+  "page": "https://vilivity.com/studies/bhimireddy-2026-42933321/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "bhimireddy-2026",
+        "population": "Review of biotin supplementation",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Over-the-counter biotin doses of 5 to 20 mg a day can interfere with thyroid function tests and other lab immunoassays, causing falsely abnormal results and potential misdiagnoses.",
+        "line_tier": "B",
+        "note": "Abstract read; the review is about lab interference, not about hair.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

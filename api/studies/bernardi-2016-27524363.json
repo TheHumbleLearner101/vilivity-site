@@ -1,0 +1,30 @@
+{
+  "pmid": "27524363",
+  "slug": "bernardi-2016-27524363",
+  "citation": {
+    "authors": "Bernardi LA, Ghant MS, Andrade C, Recht H et al",
+    "year": 2016,
+    "journal": "BMC Women's Health"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27524363/",
+  "page": "https://vilivity.com/studies/bernardi-2016-27524363/",
+  "cited_by": [
+    {
+      "entry": "iron-and-fibroids",
+      "title": "Iron, heavy periods and fibroids",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/iron-and-fibroids/",
+      "record": {
+        "id": "bernardi-2016",
+        "population": "44 premenopausal African American women, a pilot",
+        "n": 44,
+        "design": "Cross-sectional survey and blood tests",
+        "finding": "Iron deficiency was present in 68.2% and anaemia in 18.2%. Women who reported heavy or very heavy periods had lower haemoglobin, haematocrit and ferritin and more anaemia symptoms. Of those reporting heavy periods, 35% were anaemic. The authors recommend evaluation for iron deficiency and anaemia whenever African American women report heavy bleeding.",
+        "line_tier": "B",
+        "note": "Pilot of 44; not representative.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "slug": "skin-cancer-and-moles-on-dark-skin",
+  "title": "Skin cancer and moles on dark skin",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "Can Black people get skin cancer, and what are the signs?",
+    "When should I worry about a new or changing mole?",
+    "What skin changes should I check for as a sexually active Black adult?",
+    "Where does melanoma appear on dark skin?"
+  ],
+  "tradition_says": "Dark skin is widely believed to be immune to skin cancer; the dark streak under a nail, often put down to injury, is a known way melanoma is missed.",
+  "layer1": {
+    "plain_answer": "Skin cancer is much rarer in Black people, but it can happen, and when melanoma does, outcomes are worse. It is often on palms, soles or under nails rather than sun-exposed skin. Check your whole skin, including those places, and have any new, changing or non-healing mark looked at early.",
+    "do": [
+      {
+        "text": "Check your whole body, including palms, soles, toenails, fingernails and between the toes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to check your skin for skin cancer\"",
+          "url": "https://www.aad.org/public/diseases/skin-cancer/find/check-skin",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Look at moles that change size, shape or colour, or are uneven, mixed in colour or large.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of melanoma skin cancer\"",
+          "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know that rarer melanomas can affect the soles of the feet, palms, eyes or genitals.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Symptoms of melanoma skin cancer\"",
+          "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Apply sunscreen daily before going outdoors: broad-spectrum, SPF 30 or higher, water-resistant (general AAD advice; see the sunscreen entry for dark skin).",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+          "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Record what you find on a body mole map so you can spot changes.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"How to check your skin for skin cancer\"",
+          "url": "https://www.aad.org/public/diseases/skin-cancer/find/check-skin",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming dark skin means no risk: melanoma is far rarer but registry data show it is found at a later stage and survival is lower.",
+        "basis": "tested",
+        "source": "cormier-2006"
+      },
+      {
+        "text": "Ignoring a dark streak under a nail or a new mark on a palm or sole: acral melanoma makes up about a third of melanomas in Black patients.",
+        "basis": "tested",
+        "source": "bradford-2009"
+      },
+      {
+        "text": "Waiting on a sore that will not heal: in dark-skinned groups squamous cell carcinoma is the most common skin cancer, often on non-sun-exposed sites.",
+        "basis": "tested",
+        "source": "gloster-2006"
+      }
+    ],
+    "see_someone_when": [
+      "A new mole, or a mole that changes size, shape or colour (doctor, then dermatologist).",
+      "A dark streak in a nail, or a new patch on a palm or sole (doctor or dermatologist, soon).",
+      "A sore, scaly or lumpy area that does not heal (doctor or dermatologist).",
+      "Any new skin change you are unsure about, including around the genitals (doctor or sexual health clinic)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "251 African Americans and 48,143 White patients with melanoma, SEER registry, 1992-2002",
+      "design": "Registry cohort",
+      "n": 251,
+      "finding": "Melanoma incidence was 0.8 per 100,000 in African Americans against 18.4 in White people. African Americans were 4.2 times as likely to present at stage IV. Overall 5-year survival was 72.2% to 81.1% for minorities against 89.6% for White patients.",
+      "source": {
+        "authors": "Cormier JN, Xing Y, Ding M, Lee JE et al",
+        "year": 2006,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17000949/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Registry data.",
+      "id": "cormier-2006"
+    },
+    {
+      "population": "1,413 acral lentiginous melanoma cases, SEER 1986-2005",
+      "design": "Registry cohort",
+      "n": 1413,
+      "finding": "Acral lentiginous melanoma was 36% of melanoma in Black patients, the largest share of any group.",
+      "source": {
+        "authors": "Bradford PT, Goldstein AM, McMaster ML, Tucker MA",
+        "year": 2009,
+        "journal": "Archives of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19380664/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "From the research file (opened 12 Nov 2026).",
+      "id": "bradford-2009"
+    },
+    {
+      "population": "Black and non-Hispanic White patients with melanoma, SEER 2006-2015",
+      "design": "Registry cohort",
+      "n": "not stated here",
+      "finding": "Five-year melanoma-specific survival was 66.9% in Black patients against 84.3% in non-Hispanic White patients; Black patients had thicker, more ulcerated tumours and acral melanoma was 32.6% of Black cases.",
+      "source": {
+        "authors": "Huang et al",
+        "year": 2020,
+        "journal": "Journal of Surgical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32208196/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "From the research file; author list not re-checked.",
+      "id": "huang-2020"
+    },
+    {
+      "population": "Cutaneous melanoma cases in SEER compared by race",
+      "design": "Registry cohort",
+      "n": "not stated",
+      "finding": "No significant difference in disease severity at diagnosis between Black and White patients with acral lentiginous melanoma, yet Black patients had double the risk of dying from it (hazard ratio 2.04). The authors say delay in diagnosis does not fully explain the gap.",
+      "source": {
+        "authors": "Grant S, Revan D, Tang L et al",
+        "year": 2025,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40562077/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Counters the simple \"found late\" story for acral melanoma.",
+      "id": "grant-2025"
+    },
+    {
+      "population": "Literature on skin cancer in skin of colour",
+      "design": "Review",
+      "n": "not stated",
+      "finding": "In dark-skinned groups squamous cell carcinoma is most common, squamous cell carcinoma and melanoma usually occur on non-sun-exposed sites, and UV is not an important cause except for basal cell carcinoma. Skin cancer is less common but often has greater morbidity and mortality.",
+      "source": {
+        "authors": "Gloster HM Jr, Neal K",
+        "year": 2006,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17052479/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Old review (2006).",
+      "id": "gloster-2006"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "Registry data (several, over 15 years) showing melanoma is rare but outcomes are worse in Black patients; the cause of worse outcomes is not settled, and no trial shows that self-checks save lives in Black people.",
+  "tier_note": "Observational registries, consistent but with conflicting explanations (Grant 2025 says delay is not the whole story). Whether checking your own skin improves outcomes is untested in Black people.",
+  "harm_flag": false,
+  "harm_note": "The harm in this entry is a missed melanoma; the UK's NHS melanoma page opened does not address dark skin in its wording, so the acral advice rests on the registry data and the AAD check page.",
+  "founder_flag": false,
+  "evidence_summary": "SEER Stat Facts (2019-2023, in the research file) give melanoma incidence of 1.1 and 0.9 per 100,000 in non-Hispanic Black men and women against 40.7 and 27.6 in non-Hispanic White men and women, but Black patients present with thicker disease and have lower five-year survival. About a third of melanomas in Black patients are acral (palms, soles, nail). In 2025 a SEER analysis found Black patients with acral melanoma were not diagnosed at a later stage than White patients but died at double the risk, so late diagnosis alone does not explain it. Squamous cell carcinoma is the most common skin cancer in dark-skinned groups, according to a 2006 review.",
+  "measured_variables": [
+    "Melanoma site (acral skin)",
+    "Stage at diagnosis",
+    "Skin pigmentation"
+  ],
+  "gaps": "Untested: whether self-checks or screening reduce deaths in Black people; why survival is worse beyond stage; skin cancer risk on dark skin from sun exposure (Gloster 2006 says UV is not an important cause outside basal cell carcinoma, a 2006 review). The question about skin changes in sexually active adults is answered only as \"any unusual change, see a clinician\": no source on that topic was opened and it belongs with sexual health. The UK's NHS melanoma symptoms page was opened; its text does not address dark skin.",
+  "related": [
+    "sunscreen-on-dark-skin",
+    "conditions-look-different-on-dark-skin"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Cormier JN et al",
+      "year": 2006,
+      "journal": "Archives of Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17000949/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bradford PT et al",
+      "year": 2009,
+      "journal": "Archives of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19380664/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Huang et al",
+      "year": 2020,
+      "journal": "Journal of Surgical Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32208196/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Grant S et al",
+      "year": 2025,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40562077/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Gloster HM Jr et al",
+      "year": 2006,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17052479/",
+      "tag": "[review]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"How to check your skin for skin cancer\"",
+      "url": "https://www.aad.org/public/diseases/skin-cancer/find/check-skin",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Symptoms of melanoma skin cancer\"",
+      "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Skin care tips dermatologists use\"",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-tips-dermatologists-use",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

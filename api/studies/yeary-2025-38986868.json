@@ -1,0 +1,30 @@
+{
+  "pmid": "38986868",
+  "slug": "yeary-2025-38986868",
+  "citation": {
+    "authors": "Yeary KHK, Johnson D, Harris N, Yu H et al",
+    "year": 2025,
+    "journal": "Journal of the Academy of Nutrition and Dietetics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38986868/",
+  "page": "https://vilivity.com/studies/yeary-2025-38986868/",
+  "cited_by": [
+    {
+      "entry": "intermittent-fasting-for-weight-and-health",
+      "title": "Intermittent fasting for weight and health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/intermittent-fasting-for-weight-and-health/",
+      "record": {
+        "id": "yeary-2025",
+        "population": "Black adults with BMI of 25 or more, from five Black churches in Western New York State",
+        "n": 42,
+        "design": "Cluster randomised pilot: faith-based intermittent fasting (three churches) against continuous calorie reduction (two churches), 6 months, led by community health workers",
+        "finding": "Weight fell in both arms (fasting -3.5 kg, calorie reduction -2.9 kg). The fasting group ate about 414 kcal a day less than the calorie-reduction group, but ate less fruit, vegetables and fibre. Satisfaction was high. The authors conclude it is feasible and larger studies are needed.",
+        "line_tier": "A",
+        "note": "The one randomised trial in Black adults I found. A pilot built to test feasibility, with no proof that fasting beats calorie reduction.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

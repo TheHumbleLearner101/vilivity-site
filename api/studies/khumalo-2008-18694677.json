@@ -1,0 +1,183 @@
+{
+  "pmid": "18694677",
+  "slug": "khumalo-2008-18694677",
+  "citation": {
+    "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+    "year": 2008,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+  "page": "https://vilivity.com/studies/khumalo-2008-18694677/",
+  "cited_by": [
+    {
+      "entry": "children-and-babies-hair",
+      "title": "Babies' and children's hair",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/children-and-babies-hair/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; logistic regression",
+        "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+        "line_tier": "B",
+        "note": "Cross-sectional: association, not cause.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "mens-and-boys-braids-cornrows-and-twists",
+      "title": "Braids, cornrows and twists for men and boys",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-and-boys-braids-cornrows-and-twists/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls and 604 women, South Africa",
+        "n": 1178,
+        "design": "Cross-sectional population studies",
+        "finding": "Traction added to relaxed hair carried the highest odds of traction alopecia (odds ratio 3.47, 95% CI 1.94-6.20) against natural hair.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "braids-twists-and-extensions",
+      "title": "Braids, twists and extensions: tension, how long, itch",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/braids-twists-and-extensions/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; logistic regression",
+        "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+        "line_tier": "B",
+        "note": "Cross-sectional: association, not cause.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "chemical-relaxers",
+      "title": "Chemical relaxers and hair straighteners",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/chemical-relaxers/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls and 604 women, South Africa",
+        "n": 1178,
+        "design": "Cross-sectional population studies",
+        "finding": "Traction added to relaxed hair carried the highest odds of traction alopecia (odds ratio 3.47, 95% CI 1.94-6.20) against natural hair.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "hair-breakage-and-length-retention",
+      "title": "Hair breakage, growth and keeping length",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-breakage-and-length-retention/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; logistic regression",
+        "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+        "line_tier": "B",
+        "note": "Cross-sectional: association, not cause.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "locs-starting-washing-and-maintenance",
+      "title": "Locs: starting, washing and keeping them healthy",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/locs-starting-washing-and-maintenance/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; logistic regression",
+        "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+        "line_tier": "B",
+        "note": "Cross-sectional: association, not cause.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "edges-and-hairline",
+      "title": "Protecting your edges and hairline",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/edges-and-hairline/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; logistic regression",
+        "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+        "line_tier": "B",
+        "note": "Cross-sectional: association, not cause.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "relaxer-texturiser-perm-and-keratin-differences",
+      "title": "Relaxer, texturiser, perm and keratin: what is the difference",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/relaxer-texturiser-perm-and-keratin-differences/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls and 604 women, South Africa",
+        "n": 1178,
+        "design": "Cross-sectional population studies",
+        "finding": "Traction added to relaxed hair carried the highest odds of traction alopecia (odds ratio 3.47, 95% CI 1.94-6.20) against natural hair.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "traction-alopecia-and-protective-styles",
+      "title": "Traction alopecia and 'protective' styles",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/traction-alopecia-and-protective-styles/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; clinical assessment of traction alopecia (TA) with a severity score; logistic regression",
+        "finding": "TA was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20). Odds were higher with braiding-related than chemical-related symptoms. Only 18.9% of people with TA had never had hairdressing-related symptoms.",
+        "line_tier": "B",
+        "note": "Cross-sectional, so it shows association not cause; the authors suggest avoiding hairdressing symptoms and added traction, especially on chemically processed hair.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "wigs-weaves-and-hair-glue",
+      "title": "Wigs, weaves and lace glue",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/wigs-weaves-and-hair-glue/",
+      "record": {
+        "id": "khumalo-2008",
+        "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+        "n": 1178,
+        "design": "Two population studies analysed together; logistic regression",
+        "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+        "line_tier": "B",
+        "note": "Cross-sectional: association, not cause.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

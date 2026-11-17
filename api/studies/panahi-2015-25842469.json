@@ -1,0 +1,30 @@
+{
+  "pmid": "25842469",
+  "slug": "panahi-2015-25842469",
+  "citation": {
+    "authors": "Panahi Y, Taghizadeh M et al",
+    "year": 2015,
+    "journal": "Skinmed"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25842469/",
+  "page": "https://vilivity.com/studies/panahi-2015-25842469/",
+  "cited_by": [
+    {
+      "entry": "hair-growth-oils-and-supplements",
+      "title": "Hair growth oils and supplements: castor, rosemary, black seed, biotin",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-growth-oils-and-supplements/",
+      "record": {
+        "id": "panahi-2015",
+        "population": "100 Iranian patients with androgenetic alopecia (pattern hair loss)",
+        "n": 100,
+        "design": "Randomised comparative trial: rosemary oil against minoxidil 2%, 6 months",
+        "finding": "No significant change at 3 months in either group. At 6 months both groups had a significant rise in hair count, with no significant difference between them. Scalp itching was higher in both groups than at baseline and more frequent with minoxidil.",
+        "line_tier": "B",
+        "note": "No placebo or untreated group. Participants were selected for pattern hair loss, not for afro-textured hair.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

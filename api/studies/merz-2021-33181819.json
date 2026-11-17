@@ -1,0 +1,30 @@
+{
+  "pmid": "33181819",
+  "slug": "merz-2021-33181819",
+  "citation": {
+    "authors": "Merz LE, Achebe M",
+    "year": 2021,
+    "journal": "Blood"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33181819/",
+  "page": "https://vilivity.com/studies/merz-2021-33181819/",
+  "cited_by": [
+    {
+      "entry": "haemoglobin-and-white-cell-reference-ranges",
+      "title": "Haemoglobin and white cell ranges on your blood test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/haemoglobin-and-white-cell-reference-ranges/",
+      "record": {
+        "id": "merz-2021",
+        "population": "People of African ancestry and the haematology reference-range literature",
+        "n": "not applicable",
+        "design": "Commentary (Blood)",
+        "finding": "Benign ethnic neutropenia (neutrophils under 1,500 per microlitre with no extra infection risk) is most common in people of African ancestry, and African reference ranges say counts under 1,500 are common and harmless. Duffy-null explains it and is seen in 80% to 100% of people of sub-Saharan African ancestry and under 1% of those of European descent. The authors say labelling common non-White phenotypes abnormal contributes to systemic racism in haematology.",
+        "line_tier": "B",
+        "note": "Commentary that summarises other studies; the prevalence range comes from the authors, not a study I opened.",
+        "tag": "[commentary]"
+      }
+    }
+  ]
+}

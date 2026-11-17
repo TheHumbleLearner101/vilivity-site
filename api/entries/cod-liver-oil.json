@@ -1,0 +1,169 @@
+{
+  "slug": "cod-liver-oil",
+  "title": "Cod liver oil: vitamin D, vitamin A and colds",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Is cod liver oil good for children?",
+    "Does cod liver oil prevent colds?",
+    "Is cod liver oil a good vitamin D source?",
+    "Can you take too much cod liver oil?"
+  ],
+  "tradition_says": "Cod liver oil is a long-standing family remedy, given by the spoonful to children for strength, good bones and to prevent colds, and widely remembered in Caribbean, African American and Black British households.",
+  "layer1": {
+    "plain_answer": "Cod liver oil is a source of vitamin D, which the UK's NHS says people with dark skin should consider taking all year. A large trial in Norwegian adults found it did not prevent covid or other chest infections. It is also high in vitamin A, so too much, or liver products in pregnancy, can do harm.",
+    "do": [
+      {
+        "text": "Consider a daily 10 micrograms vitamin D supplement all year if you have dark skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\" (vitamins and minerals)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep vitamin A from food and supplements, fish liver oil included, to 1.5mg a day or less.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin A\" (vitamins and minerals; page reviewed 3 August 2020)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you eat liver once a week, take no supplements containing vitamin A, fish liver oil included.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin A\" (vitamins and minerals; page reviewed 3 August 2020)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Relying on cod liver oil to prevent colds or chest infections: a large trial found no effect.",
+        "basis": "tested",
+        "source": "brunvoll-2022"
+      },
+      {
+        "text": "Liver and liver products if you are pregnant: they are high in vitamin A, which can harm the baby.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Foods to avoid in pregnancy\"",
+          "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "More than 100 micrograms (4,000 IU) of vitamin D a day as an adult: it could be harmful.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Vitamin D\" (vitamins and minerals)",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You are pregnant or planning to be and take fish liver oil (midwife or doctor).",
+      "You give a child cod liver oil every day and are not sure of the amount (pharmacist or health visitor in the UK).",
+      "You get repeated chest infections, whatever you take (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "34,601 adults aged 18 to 75 in Norway not taking daily vitamin D",
+      "design": "Quadruple-blind randomised placebo-controlled trial: 5 mL a day of cod liver oil (10 micrograms vitamin D) or placebo for up to six months in winter",
+      "n": "34,601",
+      "finding": "Cod liver oil did not reduce the risk of SARS-CoV-2 infection, serious covid-19, or other acute respiratory infections (for example any acute respiratory infection, relative risk 1.04, 95% CI 0.97 to 1.11). Only low-grade side effects were reported.",
+      "source": {
+        "authors": "Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P et al",
+        "year": 2022,
+        "journal": "BMJ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36215222/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Norwegian adults, mostly white; cod liver oil at a low vitamin D dose, so it does not test higher doses or people with dark skin.",
+      "id": "brunvoll-2022"
+    },
+    {
+      "population": "Young children (US, low-income; details not given in the abstract)",
+      "design": "Commentary summarising the author's own cluster-randomised study of cod liver oil plus a multivitamin",
+      "n": "not stated",
+      "finding": "The author reports that these supplements cut winter and spring visits for upper respiratory illness by 36% to 58%. The paper notes cod liver oil is culturally valued and has been a folk remedy among many low-income minorities in the United States.",
+      "source": {
+        "authors": "Linday LA",
+        "year": 2010,
+        "journal": "Journal of the American College of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21677119/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "B",
+      "note": "Author's own work, with a multivitamin as well; details of the original study not in the abstract; advocacy for Medicaid coverage. Conflicts with the Norwegian trial.",
+      "id": "linday-2010"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That cod liver oil prevents colds and chest infections: a quadruple-blind trial of 34,601 Norwegian adults found no effect; one small paediatric report found a benefit; the vitamin D role is covered by NHS guidance.",
+  "tier_note": "Moderate because one very large well-run trial found no effect and one small, author-run report conflicts; taking the lower reading. B because both studies are outside Black populations; it would move toward A with a trial in dark-skinned children or adults.",
+  "harm_flag": true,
+  "harm_note": "The UK's NHS says vitamin A from food and supplements, fish liver oil included, should stay at or below 1.5mg a day, that long-term intake above this may make bones more likely to fracture, and that liver and liver products can harm a baby in pregnancy. It also sets a 100 microgram (4,000 IU) daily ceiling for vitamin D in adults, lower for children. The NHS vitamin A page was last reviewed in 2020.",
+  "founder_flag": false,
+  "evidence_summary": "A trial of 34,601 Norwegian adults given 5 mL of cod liver oil daily for up to six months found no reduction in covid or other respiratory infections. A short report by a paediatric researcher describes fewer visits for colds in children given cod liver oil with a multivitamin. The UK's NHS advises people with dark skin to consider 10 micrograms of vitamin D daily and gives upper limits for vitamins A and D. My searches did not find a trial of cod liver oil in Black children or adults.",
+  "measured_variables": [
+    "Respiratory infection rates",
+    "Vitamin D intake (10 micrograms in the trial's dose)",
+    "Vitamin A intake relative to NHS limit",
+    "Skin pigmentation as the reason vitamin D is advised"
+  ],
+  "gaps": "Untested: cod liver oil in children or adults with dark skin; whether it prevents rickets compared with plain vitamin D in practice (rickets history only from a title); omega-3 benefits (lipid and rheumatoid arthritis trials exist and were not opened). The Cannell 2008 vitamin A hypothesis paper (PMID 19102134) was not read. The UK's NHS vitamin A page is dated; the UK's NHS pages do not say 'cod liver oil' by name, only fish liver oil. Linday 2010 is a brief with limited detail.",
+  "related": [
+    "vitamin-d-and-dark-skin",
+    "vitamins-and-supplements-basics",
+    "caribbean-and-west-african-diet-and-health",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Brunvoll SH, Nygaard AB, Ellingjord-Dale M, Holland P et al",
+      "year": 2022,
+      "journal": "BMJ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36215222/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Linday LA",
+      "year": 2010,
+      "journal": "Journal of the American College of Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21677119/",
+      "tag": "[commentary]"
+    },
+    {
+      "name": "NHS, \"Vitamin D\" (vitamins and minerals)",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Vitamin A\" (vitamins and minerals; page reviewed 3 August 2020)",
+      "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Foods to avoid in pregnancy\"",
+      "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "20410914",
+  "slug": "mahmoud-2010-20410914",
+  "citation": {
+    "authors": "Mahmoud BH, Ruvolo E, Hexsel CL, Liu Y et al",
+    "year": 2010,
+    "journal": "Journal of Investigative Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20410914/",
+  "page": "https://vilivity.com/studies/mahmoud-2010-20410914/",
+  "cited_by": [
+    {
+      "entry": "dark-marks-after-acne",
+      "title": "Dark marks after acne (post-inflammatory hyperpigmentation)",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/dark-marks-after-acne/",
+      "record": {
+        "id": "mahmoud-2010",
+        "population": "People with skin types IV-VI",
+        "n": 20,
+        "design": "Controlled irradiation (see sunscreen entry)",
+        "finding": "In normal lower-back skin of 20 volunteers, visible light induced darker and more sustained pigmentation than UVA1 in skin types IV-VI. Existing marks were not tested.",
+        "line_tier": "A",
+        "note": null,
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "sunscreen-on-dark-skin",
+      "title": "Sunscreen on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/sunscreen-on-dark-skin/",
+      "record": {
+        "id": "mahmoud-2010",
+        "population": "20 volunteers with skin types IV-VI, plus skin type II for comparison",
+        "n": 20,
+        "design": "Controlled irradiation of the lower back with long-wave UVA1 or visible light, 7 time points over two weeks",
+        "finding": "Both UVA1 and visible light induced pigmentation in skin types IV-VI. Pigmentation from visible light was darker and more sustained. No pigmentation was seen in skin type II.",
+        "line_tier": "A",
+        "note": "Funding not stated in the abstract; funding not checked. Normal skin, not existing marks (fact-check 12 Nov). Tests what light does to skin; it does not test whether any sunscreen prevents it.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

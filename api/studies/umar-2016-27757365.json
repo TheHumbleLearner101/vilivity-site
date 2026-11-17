@@ -1,0 +1,30 @@
+{
+  "pmid": "27757365",
+  "slug": "umar-2016-27757365",
+  "citation": {
+    "authors": "Umar S et al",
+    "year": 2016,
+    "journal": "Plastic and Reconstructive Surgery Global Open"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/27757365/",
+  "page": "https://vilivity.com/studies/umar-2016-27757365/",
+  "cited_by": [
+    {
+      "entry": "hair-transplants-in-afro-textured-hair",
+      "title": "Hair transplants in afro-textured hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-transplants-in-afro-textured-hair/",
+      "record": {
+        "id": "umar-2016",
+        "population": "18 patients with tightly curled afro-textured hair",
+        "n": "18",
+        "design": "Retrospective case series of follicular unit extraction (FUE) punches",
+        "finding": "Sharp and dull conventional rotary punches failed or had excessive transection rates in 8 patients; a 2-pronged curved non-rotary punch had the best transection rate, below 5%, in all instances.",
+        "line_tier": "B",
+        "note": "Small retrospective case series by the tool's developer group; technical result, not hair survival.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

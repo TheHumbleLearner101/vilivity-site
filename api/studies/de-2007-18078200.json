@@ -1,0 +1,30 @@
+{
+  "pmid": "18078200",
+  "slug": "de-2007-18078200",
+  "citation": {
+    "authors": "De la Mettrie R et al",
+    "year": 2007,
+    "journal": "Human Biology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18078200/",
+  "page": "https://vilivity.com/studies/de-2007-18078200/",
+  "cited_by": [
+    {
+      "entry": "hair-texture-types-and-typing",
+      "title": "Hair types 4a, 4b, 4c: what typing tells you",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-texture-types-and-typing/",
+      "record": {
+        "id": "de-la-mettrie-2007",
+        "population": "1,442 people from 18 countries",
+        "n": 1442,
+        "design": "Measurement of curve diameter, curl index and number of waves; eight curl types",
+        "finding": "Eight curl types were defined from three measured descriptors, deliberately without reference to ethnicity.",
+        "line_tier": "C",
+        "note": "L'Oreal authors. Daniels 2023 says it may be too complex to reproduce.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

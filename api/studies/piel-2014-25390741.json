@@ -1,0 +1,30 @@
+{
+  "pmid": "25390741",
+  "slug": "piel-2014-25390741",
+  "citation": {
+    "authors": "Piel FB, Weatherall DJ",
+    "year": 2014,
+    "journal": "New England Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25390741/",
+  "page": "https://vilivity.com/studies/piel-2014-25390741/",
+  "cited_by": [
+    {
+      "entry": "alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron",
+      "title": "Alpha-thalassaemia trait: small red cells that are not low iron",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron/",
+      "record": {
+        "id": "piel-2014",
+        "population": "Reviewed literature on the alpha-thalassaemias worldwide",
+        "n": "not applicable",
+        "design": "Review article (New England Journal of Medicine)",
+        "finding": "More than 100 varieties of alpha-thalassaemia have been identified. The authors say their geographic distribution, and the challenges of screening, diagnosis and management, suggest they should have a higher priority on global public health agendas. The abstract gives no more detail.",
+        "line_tier": "B",
+        "note": "Abstract is two sentences long; the full text was not opened.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

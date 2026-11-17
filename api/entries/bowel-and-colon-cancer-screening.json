@@ -1,0 +1,161 @@
+{
+  "slug": "bowel-and-colon-cancer-screening",
+  "title": "Bowel (colon) cancer screening",
+  "category": "body",
+  "kind": "practice",
+  "question_forms": [
+    "When should I start screening for colon or breast cancer?",
+    "When should Black people start bowel or colon cancer screening?",
+    "What is the bowel screening test (FIT)?",
+    "Should I get a colonoscopy before 50?"
+  ],
+  "tradition_says": "Bowel problems are often seen as embarrassing and put off, and some people think screening is only for people with symptoms or family history.",
+  "layer1": {
+    "plain_answer": "In England the NHS posts a home stool test every 2 years from 50 to 74; US guidance starts at 45. Screening works in the general population, and I found no trial of an earlier start for Black adults. Do the test when it arrives, and see a GP about blood in your poo.",
+    "do": [
+      {
+        "text": "Do the home FIT test when it arrives: the UK's NHS offers it to people aged 50 to 74 every 2 years, and over-74s can request a kit on 0800 707 6060.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Bowel cancer screening\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a doctor about bowel symptoms you are worried about, whether or not you have had screening.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Bowel cancer screening\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If you are in the US, screening from 45 to 49 is recommended (a B recommendation) and from 50 to 75 is strongly recommended (an A recommendation).",
+        "basis": "tested",
+        "source": "uspstf-2021"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Waiting for a screening invitation when you have symptoms: tell a doctor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Bowel cancer screening\"",
+          "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Assuming screening is only for older people: in the US about one in ten new cases is in people under 50, and cases in 40 to 49 year olds are rising.",
+        "basis": "tested",
+        "source": "uspstf-2021"
+      }
+    ],
+    "see_someone_when": [
+      "Blood in your poo, or a change in your bowel habit that lasts for weeks (doctor).",
+      "You are 50 or over and have not received a screening kit (your doctor's surgery or the national helpline).",
+      "A close relative had bowel cancer, especially before 50 (doctor: family history can change when screening should start; not covered here)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Asymptomatic adults aged 45 or over at average risk, US; the review also examined whether findings varied by age, sex or race/ethnicity",
+      "design": "US Preventive Services Task Force recommendation statement based on a commissioned systematic review and modelling",
+      "n": "not stated in the abstract",
+      "finding": "High certainty that screening aged 50 to 75 has substantial net benefit; moderate certainty that screening at 45 to 49 has moderate net benefit. About 10.5% of new US colorectal cancers are in people under 50, and incidence in 40 to 49 year olds rose by almost 15% between 2000-2002 and 2014-2016. The abstract does not report results by race.",
+      "source": {
+        "authors": "US Preventive Services Task Force, Davidson KW, Barry MJ, Mangione CM et al",
+        "year": 2021,
+        "journal": "JAMA",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34003218/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "id": "uspstf-2021",
+      "note": "General US population, not Black-specific; the abstract states the review looked at race/ethnicity but gives no result."
+    },
+    {
+      "population": "US cancer statistics, all groups",
+      "design": "American Cancer Society statistics report from registries and death data",
+      "n": "national",
+      "finding": "In 2023 about 153,020 people in the US would be diagnosed and 52,550 would die; incidence is rising 1-2% a year in people under 55, and 60% of new cases were advanced in 2019. The abstract names mortality rising in Native Americans, not Black people, and gives no Black-specific rate.",
+      "source": {
+        "authors": "Siegel RL, Wagle NS, Cercek A, Smith RA et al",
+        "year": 2023,
+        "journal": "CA: A Cancer Journal for Clinicians",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36856579/"
+      },
+      "tag": "[official]",
+      "line_tier": "B",
+      "id": "siegel-2023",
+      "note": "Opened for Black-specific figures and found none in the abstract; the full report was not read."
+    },
+    {
+      "population": "Earlier bowel screening for Black adults",
+      "design": "PubMed searches 12 Nov 2026: (colorectal cancer screening) AND (Black OR African American) AND (age 45 OR earlier screening OR incidence) restricted to systematic reviews and meta-analyses, 25 hits, titles read, none a review of an earlier start age for Black adults; (colorectal cancer) AND (Black OR African American) AND (early-onset OR younger than 50 OR age 45) AND incidence, 147 hits, first seven titles read, none a screening trial. Bowel screening uptake by ethnicity in England was not opened (49 records found). Positive control: the autism and burnout searches this session returned records.",
+      "n": 0,
+      "finding": "My search found nothing: no trial or opened review testing whether Black adults should start bowel screening earlier than other adults.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28colorectal+cancer+screening%29+AND+%28Black+OR+African+American%29+AND+%28age+45+OR+earlier+screening+OR+incidence%29+AND+%28systematic+review%5BPublication+Type%5D+OR+meta-analysis%5BPublication+Type%5D%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "earlier-start-search"
+    }
+  ],
+  "tier": "B",
+  "tier_variant": "trial-other-population",
+  "strength": "moderate",
+  "tier_driver": "That bowel screening reduces harm: a US task force rating of high certainty (50 to 75) and moderate certainty (45 to 49), in a general population. For Black adults specifically, I opened no evidence.",
+  "tier_note": "B trial-other-population: the screening benefit is established in mixed populations; no Black-specific result was in the abstracts I opened. Moderate not strong, because the question for this site (should Black adults start earlier) is untested in what I read. NHS ages come from the NHS page opened today.",
+  "harm_flag": false,
+  "harm_note": "No harm signal for taking the FIT test; colonoscopy after a positive test carries small procedure risks that I did not search.",
+  "founder_flag": false,
+  "evidence_summary": "The NHS in England offers a home FIT test every 2 years to people aged 50 to 74 and tells everyone to see a GP about worrying bowel symptoms whether or not they have been screened; the page does not mention ethnicity. The US Preventive Services Task Force (2021) rates screening from 50 to 75 as high-certainty substantial net benefit and 45 to 49 as moderate-certainty moderate net benefit, and notes under-50 cases are rising. American Cancer Society statistics (2023) show the same younger shift but the abstract gives no Black-specific figures. My search found no trial or opened review of an earlier start for Black adults.",
+  "measured_variables": [
+    "Age at screening",
+    "Stool blood (FIT)"
+  ],
+  "gaps": "Untested or not opened: bowel cancer incidence, stage and death rates in Black adults in England and the US (the ACS report holds them; I read the abstract only); screening uptake by ethnic group in England (49 PubMed records found, none opened); whether Black adults gain more from starting at 45; colonoscopy access. NHS breast and bowel ages also sit in the breast and cancer screening entry.",
+  "related": [
+    "breast-cancer-and-cancer-screening",
+    "prostate-cancer-and-psa-testing",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "US Preventive Services Task Force et al",
+      "year": 2021,
+      "journal": "JAMA",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34003218/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Siegel RL et al",
+      "year": 2023,
+      "journal": "CA Cancer J Clin",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36856579/",
+      "tag": "[official]"
+    },
+    {
+      "authors": "This bank, 12 Nov 2026",
+      "year": 2026,
+      "journal": "PubMed search",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28colorectal+cancer+screening%29+AND+%28Black+OR+African+American%29+AND+%28age+45+OR+earlier+screening+OR+incidence%29+AND+%28systematic+review%5BPublication+Type%5D+OR+meta-analysis%5BPublication+Type%5D%29",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Bowel cancer screening\"",
+      "url": "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "braids-twists-and-extensions",
+  "title": "Braids, twists and extensions: tension, how long, itch",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I prepare for and look after braids, twists and cornrows?",
+    "What counts as a protective style, and which last longest?",
+    "Why do my braids itch and how do I relieve it?",
+    "How long can I keep braids in, and when should I give my hair a break?"
+  ],
+  "tradition_says": "Braids, twists and extensions are called protective styles: they hide the ends, cut daily handling and last weeks. Tighter is thought to look neater and last longer; itch is put down to dry scalp or the hair type.",
+  "layer1": {
+    "plain_answer": "Braids that hurt are too tight; pain after installation means pull on the scalp. Dermatologists advise taking braids out within about six weeks and extensions within eight, giving your scalp a break, and keeping the hairline loose. Itch can come from build-up or an allergy to synthetic hair or glue. \"Protective\" has never been tested.",
+    "do": [
+      {
+        "text": "Ask for braids to be installed loosely by a trained professional; scalp pain means too tight.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Take braids out within 6 weeks and extensions within 8.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Consider leaving out the delicate hairline edges, and avoid heavy beads or very long extensions.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Cleanse the scalp between installs: diluted shampoo, condition mainly the lengths, blot dry and let it dry fully.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+          "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Alternate the direction of parts so the stress does not sit in one place.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Tight braids or weaves on relaxed hair.",
+        "basis": "tested",
+        "source": "khumalo-2008"
+      },
+      {
+        "text": "Braiding soon after a relaxer.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leaving a style in because it still looks neat while your scalp stings.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Scratching or ignoring an itch that comes with a rash: synthetic hair and adhesives can cause contact dermatitis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Pain, bumps, pus, crusting or a rash that does not settle when the style comes out (doctor).",
+      "Hair thinning at the edges or temples (doctor, then dermatologist).",
+      "A shiny scalp with no visible hair openings (dermatologist soon: scarring).",
+      "Itch with flaking that has not settled after four weeks of an anti-dandruff shampoo (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "574 African schoolgirls (6-21 years) and 604 women (18-86 years), South Africa",
+      "design": "Two population studies analysed together; logistic regression",
+      "n": 1178,
+      "finding": "Traction alopecia was present in 17.1% of schoolgirls and 31.7% of women. Risk was highest when traction was added to relaxed hair (odds ratio 3.47 against natural hair, 95% CI 1.94-6.20).",
+      "source": {
+        "authors": "Khumalo NP, Jessop S, Gumedze F, Ehrlich R",
+        "year": 2008,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Cross-sectional: association, not cause.",
+      "id": "khumalo-2008"
+    },
+    {
+      "population": "201 caregivers of African American girls aged 1-15, US clinics",
+      "design": "Questionnaire, multivariate analysis",
+      "n": 201,
+      "finding": "Cornrows were associated with traction alopecia in the non-dermatology clinic group (adjusted odds ratio 5.79, 95% CI 1.35-24.8). For seborrhoeic dermatitis, extensions (odds ratio 2.37) and infrequent oil use (3.69) were associated; wash frequency was not. 99% used oils or grease, 80% hot combs, 42% chemical relaxers.",
+      "source": {
+        "authors": "Rucker Wright D, Gathers R, Kapke A, Johnson D et al",
+        "year": 2011,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Caregiver report, small, wide confidence intervals; associations only.",
+      "id": "rucker-2011"
+    },
+    {
+      "population": "197 Ghanaian women, mean age 23, hairline status scored on the Marginal Traction Alopecia Score",
+      "design": "Cross-sectional survey, logistic regression",
+      "n": 197,
+      "finding": "40.6% had hairline recession consistent with traction alopecia. More than two high-frequency heat-styling sessions a month was associated with higher odds (adjusted odds ratio 5.65, 95% CI 1.35-23.62). Keeping one hairstyle for over 6 weeks showed higher estimated odds that were not significant (1.81, 95% CI 0.59-5.60).",
+      "source": {
+        "authors": "Ayugane et al",
+        "year": 2026,
+        "journal": "Health Science Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953661/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, self-reported, wide confidence intervals.",
+      "id": "ayugane-2026"
+    },
+    {
+      "population": "Review of documented cases of contact dermatitis from synthetic hair and related practices",
+      "design": "Review of case reports",
+      "n": "not stated",
+      "finding": "Synthetic hair extensions are known to cause contact dermatitis through allergens such as acrylates and disperse dyes. Scalp contact dermatitis can show up as itch, thinning or an eczema-like rash and is easily misdiagnosed. Braiding, wigs and the products used to maintain them are discussed.",
+      "source": {
+        "authors": "Collins M, Yu J et al",
+        "year": 2025,
+        "journal": "Dermatitis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39936215/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Case reports, not a prevalence study; the abstract does not name which glues or products.",
+      "id": "collins-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That tight or long-worn braids and extensions go with traction alopecia, and that synthetic hair can cause contact allergy: observational studies and case reports in Black and African women.",
+  "tier_note": "Observational, none randomised. Would move to A only if a trial compared styles, tension or removal times.",
+  "harm_flag": true,
+  "harm_note": "Traction alopecia is common in surveys of African girls and women (17% and 32% in one South African sample, Khumalo 2008; 41% with hairline recession in 197 Ghanaian women, Ayugane 2026) and can scar if the pulling continues.",
+  "founder_flag": false,
+  "evidence_summary": "Cornrows were associated with traction alopecia in caregivers' reports about African American girls (odds ratio 5.79, Rucker Wright 2011), and risk was highest when braids went onto relaxed hair (Khumalo 2008). In 197 Ghanaian women, keeping one style over 6 weeks raised the estimated odds but not significantly (adjusted odds ratio 1.81, 0.59 to 5.60), while frequent heat sessions did (Ayugane 2026). Synthetic hair can carry allergens such as acrylates and disperse dyes (Collins 2025, case reports). Extensions were also linked to scalp seborrhoeic dermatitis in girls (odds ratio 2.37, Rucker Wright). \"Protective styles protect the hair\" is untested; the question of how long is answered only by guidance (6 weeks braids, 8 extensions in the British leaflet).",
+  "measured_variables": [
+    "Tension and duration of styles (self-reported)",
+    "Hairline recession score (M-TAS)"
+  ],
+  "gaps": "Untested: which braid sizes or styles are safest; whether rest periods reverse early loss; whether protective styles reduce breakage; the best itch remedy (no trial found). Men's and boys' braids now have their own entry (mens-and-boys-braids-cornrows-and-twists): same guidance, no male-specific study.",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "edges-and-hairline",
+    "wigs-weaves-and-hair-glue",
+    "children-and-babies-hair",
+    "mens-and-boys-braids-cornrows-and-twists",
+    "choosing-a-stylist-braider-or-loctician"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Khumalo NP et al",
+      "year": 2008,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18694677/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rucker Wright D et al",
+      "year": 2011,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728245/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ayugane et al",
+      "year": 2026,
+      "journal": "Health Science Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953661/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Collins M et al",
+      "year": 2025,
+      "journal": "Dermatitis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39936215/",
+      "tag": "[review]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Dermatology Times, report of a talk by B Kenner-Bell MD (paediatric dermatologist), Society for Pediatric Dermatology 2026, \"Teaching kids to love their hair\"",
+      "url": "https://www.dermatologytimes.com/view/teaching-kids-to-love-their-hair-comprehensive-strategies-for-curly-and-coily-hair-care",
+      "tag": "[commentary]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

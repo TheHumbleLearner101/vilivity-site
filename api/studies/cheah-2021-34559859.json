@@ -1,0 +1,30 @@
+{
+  "pmid": "34559859",
+  "slug": "cheah-2021-34559859",
+  "citation": {
+    "authors": "Cheah KL, Norhayati MN, Husniati Yaacob L, Abdul Rahman R",
+    "year": 2021,
+    "journal": "PLoS One"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34559859/",
+  "page": "https://vilivity.com/studies/cheah-2021-34559859/",
+  "cited_by": [
+    {
+      "entry": "ashwagandha",
+      "title": "Ashwagandha: stress, sleep, thyroid and liver cautions",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/ashwagandha/",
+      "record": {
+        "id": "cheah-2021",
+        "population": "Adults aged 18 and over in five randomised trials (insomnia subgroup included)",
+        "n": 400,
+        "design": "Systematic review and meta-analysis of randomised trials of ashwagandha extract against placebo for sleep",
+        "finding": "Ashwagandha extract gave a small but significant improvement in overall sleep (standardised mean difference -0.59). Effects were larger in people diagnosed with insomnia, at 600 mg a day or more, and over eight weeks or more.",
+        "line_tier": "B",
+        "note": "Five trials only. Ethnicity not reported in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

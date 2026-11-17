@@ -1,0 +1,30 @@
+{
+  "pmid": "40640599",
+  "slug": "mizelman-2026-40640599",
+  "citation": {
+    "authors": "Mizelman E, Shaw KA, Kaviani M, Brenna E et al",
+    "year": 2026,
+    "journal": "European Journal of Applied Physiology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/40640599/",
+  "page": "https://vilivity.com/studies/mizelman-2026-40640599/",
+  "cited_by": [
+    {
+      "entry": "bovine-colostrum-supplements",
+      "title": "Bovine colostrum supplements for immunity and gut health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bovine-colostrum-supplements/",
+      "record": {
+        "id": "mizelman-2026",
+        "population": "Club-level rugby players (26 men, 3 women), 8 weeks",
+        "n": 29,
+        "design": "Randomised, double-blind trial of bovine colostrum 38 g a day against soy protein",
+        "finding": "Vertical jump height rose by about 1 cm with colostrum and fell by 0.5 cm with soy (p = 0.0023). There were no differences in upper or lower body strength, aerobic power, body composition, saliva immune markers or reported illness.",
+        "line_tier": "B",
+        "note": "A small trial in athletes. Ethnicity not reported in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

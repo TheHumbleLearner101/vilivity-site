@@ -1,0 +1,30 @@
+{
+  "pmid": "20654785",
+  "slug": "muizzuddin-2010-20654785",
+  "citation": {
+    "authors": "Muizzuddin N, Hellemans L, Van Overloop L, Corstjens H et al",
+    "year": 2010,
+    "journal": "Journal of Dermatological Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20654785/",
+  "page": "https://vilivity.com/studies/muizzuddin-2010-20654785/",
+  "cited_by": [
+    {
+      "entry": "moisturising-and-ashy-skin",
+      "title": "Moisturising and 'ashy' skin",
+      "module": "skin",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/skin/moisturising-and-ashy-skin/",
+      "record": {
+        "id": "muizzuddin-2010",
+        "population": "African American, Caucasian and East Asian volunteers",
+        "n": "not stated",
+        "design": "Objective stratum corneum measurements (water loss, tape-stripped ceramides, protein cohesion)",
+        "finding": "African American skin showed low ceramide levels and high protein cohesion in the upper layers. The authors interpret this as consistent with the high prevalence of xerosis in black skin.",
+        "line_tier": "C",
+        "note": "Funding and author affiliations not checked. Laboratory measurement of skin layers.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

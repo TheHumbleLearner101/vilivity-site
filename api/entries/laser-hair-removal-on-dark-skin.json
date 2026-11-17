@@ -1,0 +1,136 @@
+{
+  "slug": "laser-hair-removal-on-dark-skin",
+  "title": "Laser hair removal on dark skin",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Is laser hair removal safe for dark skin?",
+    "Why am I growing facial and body hair, and how can I remove it on dark skin?",
+    "Which laser is best for dark skin?",
+    "Why do I have thick dark hair on my face or chest (hirsutism)?"
+  ],
+  "tradition_says": "Laser hair removal is sold as permanent, but people with dark skin are often warned it burns, and some clinics refuse them.",
+  "layer1": {
+    "plain_answer": "Laser hair removal can work in medium to dark skin, but the laser also targets skin pigment, so burns and dark or pale marks are more likely. A review of trials found Nd:YAG lasers gave fewer dark marks than light-based IPL devices. Choose an experienced clinician and ask which laser they use.",
+    "do": [
+      {
+        "text": "Ask which device will be used: a review found Nd:YAG laser gave fewer dark marks than IPL in skin types III-VI.",
+        "basis": "tested",
+        "source": "dorgham-2020"
+      },
+      {
+        "text": "Choose a clinician who treats dark skin regularly, with conservative settings and sequential, lower-energy treatments.",
+        "basis": "tested",
+        "source": "dreifus-2026"
+      },
+      {
+        "text": "Practise strict sun protection before and after treatment.",
+        "basis": "tested",
+        "source": "dreifus-2026"
+      },
+      {
+        "text": "If thick, dark hair on your face, neck or chest is the problem, see a doctor before only removing it: the UK's NHS says hormones are the usual cause and lists shaving or waxing, eflornithine cream for the face, the pill and weight loss; laser and electrolysis last longer but are usually not permanent or on the NHS.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Hirsutism\" (excessive hair growth)",
+          "url": "https://www.nhs.uk/conditions/hirsutism/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming any laser is safe for dark skin: melanin competes for the laser energy, so burns, blisters, scars and dark or pale marks are more likely.",
+        "basis": "tested",
+        "source": "dreifus-2026"
+      },
+      {
+        "text": "Assuming one device is best: alexandrite laser reduced hair counts more than IPL, but the trials are small and mixed.",
+        "basis": "tested",
+        "source": "dorgham-2020"
+      }
+    ],
+    "see_someone_when": [
+      "Blisters, burns, or dark or pale patches after treatment (dermatologist).",
+      "Thick, dark hair on the face, body or chest, especially with irregular periods (doctor: the UK's NHS says a blood test may check hormones); urgent if it starts suddenly with a deeper voice or growing muscles.",
+      "Razor bumps or ingrown hairs are the reason you want laser (see the shaving entry; dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Participants with Fitzpatrick skin types III-VI in 12 comparative trials (9 randomised)",
+      "design": "Systematic review and meta-analysis of lasers and IPL for hair reduction",
+      "n": "12 trials",
+      "finding": "Alexandrite laser was superior to IPL for hair count; Nd:YAG and diode were not significantly different from IPL for hair count. Nd:YAG had fewer dark marks than IPL (OR 0.26). Diode and alexandrite had comparable safety to IPL, with more pain.",
+      "source": {
+        "authors": "Dorgham NA, Dorgham DA",
+        "year": 2020,
+        "journal": "Journal of the European Academy of Dermatology and Venereology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31587390/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "III-VI covers medium to dark skin; Black participants are not separated.",
+      "id": "dorgham-2020"
+    },
+    {
+      "population": "Fitzpatrick IV-VI (mixed groups)",
+      "design": "Clinical review of lasers and energy devices",
+      "n": "not stated",
+      "finding": "Melanin competes for laser energy in skin of colour, raising the risk of dark or pale marks, blisters and scarring; optimal outcomes need careful pre- and post-treatment care, strict photoprotection and sequential, lower-energy treatments; large prospective trials in darker skin are lacking.",
+      "source": {
+        "authors": "Dreifus EM, Burke OM, Alexis AF et al",
+        "year": 2026,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660430/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Same review as in the stretch marks entry.",
+      "id": "dreifus-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That Nd:YAG gives fewer dark marks than IPL in medium to dark skin: a meta-analysis of 12 small trials in skin types III-VI, not specific to Black skin.",
+  "tier_note": "Trials in mixed darker skin types; authors call for larger trials. A single AAD page was opened and did not address dark skin, so no AAD claim is used.",
+  "harm_flag": false,
+  "harm_note": "Burns and dark or pale marks are the harm risk with the wrong device or provider.",
+  "founder_flag": false,
+  "evidence_summary": "The meta-analysis of 12 trials in skin types III-VI found alexandrite beat IPL on hair count, and Nd:YAG matched IPL on count with fewer cases of dark marks. A 2026 clinical review adds that melanin competes for the laser energy and that large prospective trials in dark skin are lacking. The second half of the question, why unwanted hair grows, is not covered here. Why unwanted hair grows (NHS, hirsutism page): usually raised male-type hormones or more sensitivity to them, most often from an ovarian condition that can also cause acne and irregular periods; sometimes no cause is found. The UK's NHS page does not give figures by ethnicity.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick III-VI)",
+    "Laser wavelength and pulse length",
+    "Post-inflammatory dark marks"
+  ],
+  "gaps": "Untested or not found: the safest settings in Fitzpatrick VI; long-term permanence in Black skin (a 2023 PFB review calls for more study); why unwanted hair grows (hirsutism and hormone conditions) has no source opened and is not answered; the \"see someone when\" trigger about new fast hair growth is common medical caution, not drawn from an opened source. Cost and regulation of providers in the UK not covered. 12 Nov: causes and options for hirsutism rest on the NHS page only; I did not open a study of prevalence or treatment in Black women (a PubMed search for hirsutism with African or Black and prevalence returned 36 records, titles not read).",
+  "related": [
+    "shaving-and-razor-bumps",
+    "dark-marks-after-acne"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Dorgham NA et al",
+      "year": 2020,
+      "journal": "Journal of the European Academy of Dermatology and Venereology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31587390/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Dreifus EM et al",
+      "year": 2026,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660430/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Hirsutism\" (excessive hair growth)",
+      "url": "https://www.nhs.uk/conditions/hirsutism/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "18182985",
+  "slug": "bowen-2008-18182985",
+  "citation": {
+    "authors": "Bowen RL, Duffy SW, Ryan DA, Hart IR et al",
+    "year": 2008,
+    "journal": "British Journal of Cancer"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18182985/",
+  "page": "https://vilivity.com/studies/bowen-2008-18182985/",
+  "cited_by": [
+    {
+      "entry": "breast-cancer-and-cancer-screening",
+      "title": "Breast cancer, triple-negative disease and screening",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/breast-cancer-and-cancer-screening/",
+      "record": {
+        "id": "bowen-2008",
+        "population": "Black and White women with invasive breast cancer, one East London hospital, 1994-2005",
+        "n": "not stated in the abstract",
+        "design": "Retrospective single-centre comparison of age and tumour features",
+        "finding": "Black patients presented younger (median 46 years against 67 for White patients). Black women had more grade 3 tumours, lymph node-positive disease, hormone receptor-negative and basal-like (triple-negative) tumours. For tumours of 2 cm or less Black patients had poorer survival (hazard ratio 2.90, 95% CI 0.98-8.60, P=0.05). The authors say the findings could have major implications for detection and treatment.",
+        "line_tier": "B",
+        "note": "One hospital; the confidence interval touches 1.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "41618296",
+  "slug": "gichamo-2026-41618296",
+  "citation": {
+    "authors": "Gichamo FG, Mulisa MD, Regasa ND, Dadi MA et al",
+    "year": 2026,
+    "journal": "BMC Endocrine Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41618296/",
+  "page": "https://vilivity.com/studies/gichamo-2026-41618296/",
+  "cited_by": [
+    {
+      "entry": "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+      "title": "Fasting in Ramadan with diabetes or sickle cell",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/ramadan-and-religious-fasting-with-diabetes-or-sickle-cell/",
+      "record": {
+        "id": "gichamo-2026",
+        "population": "68 Ethiopian Orthodox Christians with type 2 diabetes, fasting the Assumption Fast in Addis Ababa",
+        "n": "68",
+        "design": "Prospective observational before-and-after study",
+        "finding": "Mean fasting blood glucose fell by 19.56 mg/dL and systolic and diastolic blood pressure by about 9 mmHg; the share in the glucose target range rose from 67.6% to 91.2%. The authors say larger trials with follow-up are needed.",
+        "line_tier": "B",
+        "note": "A different fast (Orthodox Christian, no animal products), in a Black population; no control group; included to show what has been measured, not as evidence about Ramadan.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

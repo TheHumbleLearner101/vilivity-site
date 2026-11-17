@@ -1,0 +1,30 @@
+{
+  "pmid": "36252717",
+  "slug": "halegoua-demarzio-2023-36252717",
+  "citation": {
+    "authors": "Halegoua-DeMarzio D, Navarro V, Ahmad J, Avula B et al",
+    "year": 2023,
+    "journal": "American Journal of Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/36252717/",
+  "page": "https://vilivity.com/studies/halegoua-demarzio-2023-36252717/",
+  "cited_by": [
+    {
+      "entry": "turmeric-and-curcumin-supplements",
+      "title": "Turmeric and curcumin supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/turmeric-and-curcumin-supplements/",
+      "record": {
+        "id": "halegoua-demarzio-2023",
+        "population": "Ten people in the US Drug-Induced Liver Injury Network with turmeric-associated liver injury (eight women; nine White; median age 56)",
+        "n": 10,
+        "design": "Case series with chemical analysis of products and HLA genetic typing",
+        "finding": "Five were hospitalised and one died of acute liver failure. Injury began 1 to 4 months after starting, mostly hepatocellular, and turmeric was confirmed in all seven products tested (three also contained black pepper extract). Seven carried HLA-B*35:01 (allele frequency 0.45 against 0.06 to 0.07 in controls). The authors say turmeric liver injury appears to be increasing.",
+        "line_tier": "B",
+        "note": "A small case series, mostly White participants, so it says nothing about how common the HLA type is in other populations. HLA-B*35:01 is the measured variable.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

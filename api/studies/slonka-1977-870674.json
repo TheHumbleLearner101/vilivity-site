@@ -1,0 +1,47 @@
+{
+  "pmid": "870674",
+  "slug": "slonka-1977-870674",
+  "citation": {
+    "authors": "Slonka GF, Fleissner ML et al",
+    "year": 1977,
+    "journal": "Journal of Parasitology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/870674/",
+  "page": "https://vilivity.com/studies/slonka-1977-870674/",
+  "cited_by": [
+    {
+      "entry": "scalp-itch-dandruff-and-seborrhoeic-dermatitis",
+      "title": "Dry, itchy, flaky scalp and dandruff",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/scalp-itch-dandruff-and-seborrhoeic-dermatitis/",
+      "record": {
+        "id": "slonka-1977",
+        "population": "School pupils in Buffalo, New York, 1972 to 1973",
+        "n": "not stated",
+        "design": "Prevalence survey of head lice",
+        "finding": "In one elementary school 20% of white pupils and no Black pupils were infested; city-wide 7.2% of pupils were infested. Hair length was apparently not a factor.",
+        "line_tier": "B",
+        "note": "Old study; one city.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "head-lice-in-afro-hair-and-locs",
+      "title": "Head lice in afro-textured hair and locs",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/head-lice-in-afro-hair-and-locs/",
+      "record": {
+        "id": "slonka-1977",
+        "population": "School pupils in Buffalo, New York, 1972 to 1973",
+        "n": "not stated",
+        "design": "Prevalence survey of head lice",
+        "finding": "In one elementary school 20% of white pupils and no Black pupils were infested; city-wide 7.2% of pupils were infested. Hair length was apparently not a factor.",
+        "line_tier": "B",
+        "note": "Old study; one city.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

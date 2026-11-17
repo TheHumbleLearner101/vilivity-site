@@ -1,0 +1,30 @@
+{
+  "pmid": "28987494",
+  "slug": "del-2018-28987494",
+  "citation": {
+    "authors": "Del Rosario E, Florez-Pollack S, Zapata L et al",
+    "year": 2018,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28987494/",
+  "page": "https://vilivity.com/studies/del-2018-28987494/",
+  "cited_by": [
+    {
+      "entry": "melasma",
+      "title": "Melasma",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/melasma/",
+      "record": {
+        "id": "delrosario-2018",
+        "population": "44 people with moderate-to-severe melasma, mostly Hispanic women, single centre",
+        "n": 44,
+        "design": "Randomised, placebo-controlled trial of oral tranexamic acid for 3 months, with sunscreen",
+        "finding": "Melasma severity score fell 49% on tranexamic acid and 18% on placebo at 3 months; 3 months after stopping the gap had narrowed (26% against 19% from baseline). No serious adverse events.",
+        "line_tier": "B",
+        "note": "Predominantly Hispanic women, per its own limitations line. Tranexamic acid is a prescription medicine.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

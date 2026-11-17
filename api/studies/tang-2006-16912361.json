@@ -1,0 +1,21 @@
+{
+  "pmid": "16912361",
+  "slug": "tang-2006-16912361",
+  "citation": {
+    "authors": "Tang HL et al",
+    "year": 2006,
+    "journal": "Hong Kong Med J"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/16912361/",
+  "page": "https://vilivity.com/studies/tang-2006-16912361/",
+  "cited_by": [
+    {
+      "entry": "skin-lightening-creams",
+      "title": "Skin lightening and bleaching creams",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-lightening-creams/",
+      "record": null
+    }
+  ]
+}

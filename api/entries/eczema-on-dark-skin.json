@@ -1,0 +1,235 @@
+{
+  "slug": "eczema-on-dark-skin",
+  "title": "Eczema on dark skin (atopic eczema, including babies)",
+  "category": "skin",
+  "kind": "condition",
+  "question_forms": [
+    "What does eczema look like on dark skin and how is it treated?",
+    "How do I treat eczema on the face, hands or legs of dark skin?",
+    "How do I treat eczema on Black babies?",
+    "Does eczema look grey or purple on dark skin?"
+  ],
+  "tradition_says": "Eczema is often described as red, itchy skin, and dryness is treated with oils, butters and lotions passed down in families; on dark skin it is easy to miss or to mistake for something else.",
+  "layer1": {
+    "plain_answer": "Eczema on dark skin often looks grey, purple, brown or darker, not red, with very dry, thickened or bumpy skin. Moisturising at least twice a day, washing with emollient instead of soap, and a pharmacist or doctor for steroid creams are the standard care. A trial of a prescription cream included many Black participants.",
+    "do": [
+      {
+        "text": "Moisturise (emollient) at least 2 times a day and carry on even when it improves.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Wash with an emollient instead of soap.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keep cool and keep nails short, with anti-scratch mittens for babies.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Use a fragrance-free cream or ointment, hypoallergenic, made for sensitive skin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Eczema types: Atopic dermatitis overview\"",
+          "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "See a pharmacist for mild eczema and a doctor if treatments are not helping.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Aqueous cream: it can irritate skin and make eczema worse.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Soap, washing detergent and fabrics that set it off.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Scratching: gently rub the area instead.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Changing the diet (including a breastfeeding mother) unless a doctor says to.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Atopic eczema\"",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Eczema is blistered, crusty, leaking, painful, warm or suddenly worse, or you feel unwell (urgent doctor or NHS 111 in the UK: it may be infected).",
+      "Treatments are not helping, or a baby has eczema and you are unsure (doctor).",
+      "Skin stays darker, lighter or thickened after flares (doctor or dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults and children with atopic dermatitis in two US trials; about a quarter to a third Black or African American, over half Fitzpatrick IV-VI",
+      "design": "Two 8-week randomised, vehicle-controlled phase 3 trials of tapinarof cream, analysis by race and skin type",
+      "n": 813,
+      "finding": "In both trials more people on tapinarof than on vehicle reached clear or almost clear skin, in every race group. Black or African American: 43.1-47.0% on tapinarof against 17.5-24.1% on vehicle. White: 49.4-52.1% against 12.2-14.5%.",
+      "source": {
+        "authors": "Alexis AF, Kircik L, Chovatiya R et al",
+        "year": 2025,
+        "journal": "Dermatology and Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40696240/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Industry trial (several authors work for the manufacturer, Dermavant). Eight weeks only. A prescription cream, not the moisturising advice above.",
+      "id": "alexis-2025"
+    },
+    {
+      "population": "Literature on atopic dermatitis in non-White groups",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Atopic dermatitis occurs more often in Asian and Black people than in White people, studies are mostly in people of European ancestry, and the clinical features in non-White groups are underappreciated. The abstract does not list the features.",
+      "source": {
+        "authors": "Kaufman BP, Guttman-Yassky E, Alexis AF",
+        "year": 2018,
+        "journal": "Experimental Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29457272/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "kaufman-2018"
+    },
+    {
+      "population": "African American children with atopic dermatitis",
+      "design": "Narrative review",
+      "n": "not stated",
+      "finding": "Prevalence in African American children is reported as significantly higher than in Caucasians, and the presentation seems to differ, but there is little information. The abstract does not list the differences.",
+      "source": {
+        "authors": "Vachiramon V, Tey HL, Thompson AE, Yosipovitch G",
+        "year": 2012,
+        "journal": "Pediatric Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22471955/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "vachiramon-2012"
+    },
+    {
+      "population": "Healthy infants, mostly newborns (33 randomised trials, 25,827 babies); ethnicity not given in the abstract",
+      "design": "Cochrane systematic review of skin care for preventing eczema and food allergy",
+      "n": "25827",
+      "finding": "With low to moderate certainty, emollients in the first year of life in healthy infants are probably not effective for preventing eczema, may increase food allergy and probably increase skin infection.",
+      "source": {
+        "authors": "Kelleher MM, Phillips R, Brown SJ et al",
+        "year": 2022,
+        "journal": "Cochrane Database of Systematic Reviews",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36373988/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "This is about prevention in healthy babies; it does not say emollients fail as treatment once eczema is present.",
+      "id": "kelleher-2022"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_driver": "That eczema is more common and can look different in Black people comes from two reviews whose abstracts give no detail; the treatment advice rests on NHS and AAD guidance and one industry trial that reported results by race.",
+  "tier_note": "No trial of moisturising routines in Black people with eczema was found. Reviews describe higher prevalence and different presentation; the trial of a prescription cream reported benefit by race but is short and industry-run.",
+  "harm_flag": false,
+  "harm_note": "Aqueous cream is listed by the UK's NHS as making eczema worse. No harm signal found for emollients themselves.",
+  "founder_flag": false,
+  "evidence_summary": "Eczema is more common in Black children than in White children according to two reviews, and the AAD says babies with darker skin are more likely to get small bumps, extremely dry skin and dark brown, grey or purple skin where eczema sits. In two 8-week trials of a prescription cream, 25.9-35.1% of participants were Black or African American and the cream beat vehicle in every race group. A Cochrane review found routine emollients in healthy babies probably do not prevent eczema, while the AAD says moisturising may reduce risk in babies at high risk: the two are not the same population.",
+  "measured_variables": [
+    "Skin pigmentation (Fitzpatrick IV-VI in the trial subgroup)",
+    "Age (babies, children, adults)",
+    "Disease severity and skin colour change (grey, purple, darker, lighter)"
+  ],
+  "gaps": "Untested: which moisturiser or routine works best on dark skin; eczema on the scalp and ears, and what separates it from other conditions on dark skin; whether emollients prevent eczema in high-risk Black babies (the Cochrane review covers healthy infants; the AAD high-risk statement was not traced to a trial). The reviews were not opened beyond the abstracts, so the specific differences in presentation are unlisted here.",
+  "related": [
+    "moisturising-and-ashy-skin",
+    "shea-butter",
+    "conditions-look-different-on-dark-skin",
+    "baby-skin-care"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Alexis AF et al",
+      "year": 2025,
+      "journal": "Dermatology and Therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40696240/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Kaufman BP et al",
+      "year": 2018,
+      "journal": "Experimental Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29457272/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Vachiramon V et al",
+      "year": 2012,
+      "journal": "Pediatric Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22471955/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Kelleher MM et al",
+      "year": 2022,
+      "journal": "Cochrane Database of Systematic Reviews",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36373988/",
+      "tag": "[review]"
+    },
+    {
+      "name": "NHS, \"Atopic eczema\"",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Eczema types: Atopic dermatitis overview\"",
+      "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

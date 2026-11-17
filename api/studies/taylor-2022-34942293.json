@@ -1,0 +1,30 @@
+{
+  "pmid": "34942293",
+  "slug": "taylor-2022-34942293",
+  "citation": {
+    "authors": "Taylor SC, Alexis AF, Armstrong AW, Chiesa Fuxench ZC et al",
+    "year": 2022,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34942293/",
+  "page": "https://vilivity.com/studies/taylor-2022-34942293/",
+  "cited_by": [
+    {
+      "entry": "sunscreen-on-dark-skin",
+      "title": "Sunscreen on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/sunscreen-on-dark-skin/",
+      "record": {
+        "id": "taylor-2022",
+        "population": "Review",
+        "n": "not stated",
+        "design": "Review of photoprotection misconceptions in skin of colour",
+        "finding": "The authors report that misconceptions about the benefits of photoprotection, particularly among people with Fitzpatrick V-VI skin, are still common among clinicians and patients, and that use of photoprotection in skin of colour is low.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

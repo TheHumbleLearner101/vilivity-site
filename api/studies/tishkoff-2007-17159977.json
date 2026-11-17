@@ -1,0 +1,30 @@
+{
+  "pmid": "17159977",
+  "slug": "tishkoff-2007-17159977",
+  "citation": {
+    "authors": "Tishkoff SA, Reed FA, Ranciaro A, Voight BF et al",
+    "year": 2007,
+    "journal": "Nature Genetics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17159977/",
+  "page": "https://vilivity.com/studies/tishkoff-2007-17159977/",
+  "cited_by": [
+    {
+      "entry": "lactose-intolerance-and-dairy",
+      "title": "Lactose intolerance and dairy",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lactose-intolerance-and-dairy/",
+      "record": {
+        "id": "tishkoff-2007",
+        "population": "470 Tanzanians, Kenyans and Sudanese",
+        "n": "470",
+        "design": "Genotype-phenotype association study with in vitro tests of the gene promoter",
+        "finding": "Three SNPs (G/C-14010, T/G-13915 and C/G-13907) were associated with lactase persistence and raised transcription from the LCT promoter in vitro. They arose on different haplotype backgrounds from the European C/T-13910 variant and from each other. Haplotype homozygosity extended more than 2 Mb on chromosomes carrying C-14010, consistent with a selective sweep over about 7,000 years. The authors describe convergent evolution driven by animal domestication and adult milk consumption.",
+        "line_tier": "B",
+        "note": "East African pastoralist and related populations; Black British or Caribbean people descend from many African groups, so the figures do not transfer.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

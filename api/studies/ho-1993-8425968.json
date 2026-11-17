@@ -1,0 +1,30 @@
+{
+  "pmid": "8425968",
+  "slug": "ho-1993-8425968",
+  "citation": {
+    "authors": "Ho KK, Dervan P, O'Loughlin S, Powell FC",
+    "year": 1993,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/8425968/",
+  "page": "https://vilivity.com/studies/ho-1993-8425968/",
+  "cited_by": [
+    {
+      "entry": "dark-or-swollen-lips",
+      "title": "Dark or swollen lips",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/dark-or-swollen-lips/",
+      "record": {
+        "id": "ho-1993",
+        "population": "29 patients with 36 labial melanotic macules",
+        "n": "29",
+        "design": "Clinical, tissue and electron-microscopy study",
+        "finding": "The labial melanotic macule is a distinctive benign pigment spot, usually a single lesion on the lower lip, starting around age 30, mostly in women. It can simulate malignant melanoma, and the tissue testing supported its benign nature.",
+        "line_tier": "B",
+        "note": "A pathology series: it is why a single new dark lip spot needs a clinician's look, not a measure of risk.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

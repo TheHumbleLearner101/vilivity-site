@@ -1,0 +1,56 @@
+{
+  "slug": "vicks-vaporub-on-chest-and-feet",
+  "name": "Vicks VapoRub on the chest, feet and nose",
+  "regions": [
+    "Caribbean",
+    "African American",
+    "Black British",
+    "West Africa"
+  ],
+  "module": "body",
+  "what_people_do": "Rub Vicks on the chest, back, soles of the feet (under socks) or under the nose for colds, coughs and asthma, including on children.",
+  "why_they_say_it_works": "The menthol \"opens the chest\"; rubbing the feet is believed to pull the cold down.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Reznik M et al 2004, J Altern Complement Med, PMID 15674007",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15674007/",
+      "quote_or_summary": "Bronx high school, 165 adolescents with asthma: 11% used rubbing ointments as first treatment for their last attack; ethnicity of this group not given in the abstract."
+    },
+    {
+      "source": "Esguerra CR et al 2025, J Pediatr Nurs, PMID 41067089",
+      "type": "survey",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41067089/",
+      "quote_or_summary": "New York City adolescents with uncontrolled asthma (Hispanic/Latinx and Black, n=212): Vicks VapoRub was one of the surveyed beliefs; solely Hispanic/Latinx youth had higher odds of believing it helps than youth identifying as both Hispanic and Black; no Black-only prevalence in the abstract."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Vapor rub on chest and neck at bedtime vs petrolatum vs nothing",
+      "population": "138 US children aged 2 to 11 (ethnicity not stated)",
+      "finding": "Vapor rub scored best for cough, congestion and sleep, ahead of petrolatum and no treatment; irritant side effects more common with the rub.",
+      "tier": "B",
+      "tier_variant": "trial-other-population",
+      "strength": "moderate",
+      "source": {
+        "name": "Paul IM et al 2010, Pediatrics, PMID 21059712 (vapor rub vs petrolatum vs nothing)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21059712/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "moderate",
+  "headline_tier_note": "Tier is for chest and neck rub in children; foot rub untested.",
+  "harm_flag": "possible",
+  "harm_note": "Tested only in children aged 2 to 11; more irritation than petrolatum. Not tested in babies under two. The \"feet\" version has no source I opened.",
+  "links_to_entries": [
+    "baby-skin-care"
+  ],
+  "gaps": [
+    "Regional prevalence among Caribbean, African and Black British families not found.",
+    "A \"Vicks on the feet\" mechanism or trial not found."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/vicks-vaporub-on-chest-and-feet/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "17052479",
+  "slug": "gloster-2006-17052479",
+  "citation": {
+    "authors": "Gloster HM Jr, Neal K",
+    "year": 2006,
+    "journal": "Journal of the American Academy of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17052479/",
+  "page": "https://vilivity.com/studies/gloster-2006-17052479/",
+  "cited_by": [
+    {
+      "entry": "skin-cancer-and-moles-on-dark-skin",
+      "title": "Skin cancer and moles on dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-cancer-and-moles-on-dark-skin/",
+      "record": {
+        "id": "gloster-2006",
+        "population": "Literature on skin cancer in skin of colour",
+        "n": "not stated",
+        "design": "Review",
+        "finding": "In dark-skinned groups squamous cell carcinoma is most common, squamous cell carcinoma and melanoma usually occur on non-sun-exposed sites, and UV is not an important cause except for basal cell carcinoma. Skin cancer is less common but often has greater morbidity and mortality.",
+        "line_tier": "B",
+        "note": "Old review (2006).",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

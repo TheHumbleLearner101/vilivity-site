@@ -1,0 +1,30 @@
+{
+  "pmid": "42157049",
+  "slug": "michau-2026-42157049",
+  "citation": {
+    "authors": "Michau C, Osei L, Elenga N, Delion F et al",
+    "year": 2026,
+    "journal": "BMC Nephrology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42157049/",
+  "page": "https://vilivity.com/studies/michau-2026-42157049/",
+  "cited_by": [
+    {
+      "entry": "lupus-in-black-women",
+      "title": "Lupus: symptoms, risk and getting diagnosed early",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lupus-in-black-women/",
+      "record": {
+        "id": "michau-2026",
+        "population": "27 children with lupus nephritis of Afro-descendant background, French Overseas Departments of America, 2000 to 2024",
+        "n": 27,
+        "design": "Retrospective multicentre cohort",
+        "finding": "Mean age at diagnosis 11.3 years; 55% had kidney involvement at diagnosis and 75% had class III or IV disease. Kidney flares were more frequent under age 12. Six (22%) had eGFR under 60 at last follow-up, two on dialysis and two transplanted. The authors say outcomes showed higher dialysis and kidney failure than Caucasian series.",
+        "line_tier": "B",
+        "note": "Small case series, children only; comparison is with other published series, not a matched group.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

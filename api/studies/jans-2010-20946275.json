@@ -1,0 +1,30 @@
+{
+  "pmid": "20946275",
+  "slug": "jans-2010-20946275",
+  "citation": {
+    "authors": "Jans SM, de Jonge A, Lagro-Janssen AL",
+    "year": 2010,
+    "journal": "International Journal of Clinical Practice"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20946275/",
+  "page": "https://vilivity.com/studies/jans-2010-20946275/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-trait-and-pregnancy",
+      "title": "Sickle cell disease, trait and pregnancy",
+      "module": "body",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/body/sickle-cell-disease-trait-and-pregnancy/",
+      "record": {
+        "id": "jans-2010",
+        "population": "Pregnant women carrying haemoglobinopathies (sickle cell trait or thalassaemia minor); the abstract says 780 subjects were identified, of which nine (studies) were included",
+        "n": "9 studies included (780 subjects identified)",
+        "design": "Systematic review of cohort and case-control studies, searched to August 2008",
+        "finding": "A protective effect of sickle cell trait was found for premature birth, low Apgar score and perinatal mortality. No significant effect was found for low birth weight, growth retardation, urinary tract infection or high blood pressure. The risk of anaemia and bacteriuria was increased (urinary tract infection itself was not significant, though the authors still advise awareness of it). The authors conclude risks among pregnant carriers are low and midwives need to be aware of anaemia and urine infection.",
+        "line_tier": "B",
+        "note": "Small old review of nine studies; ethnicity of participants not given in the abstract.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

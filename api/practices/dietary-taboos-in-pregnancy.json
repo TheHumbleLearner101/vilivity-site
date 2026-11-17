@@ -1,0 +1,46 @@
+{
+  "slug": "dietary-taboos-in-pregnancy",
+  "name": "Food taboos in pregnancy",
+  "regions": [
+    "East and Southern Africa"
+  ],
+  "module": "food",
+  "what_people_do": "Pregnant women avoid certain foods because of family rules and beliefs about the baby and about witchcraft.",
+  "why_they_say_it_works": "Foods are believed to harm or mark the baby or ease labour.",
+  "documentation_status": "documented",
+  "documented_by": [
+    {
+      "source": "Traditional belief and practice among the Pokot people of Kenya, 1988, Ann Trop Paediatr, PMID 2461145",
+      "type": "ethnography",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2461145/",
+      "quote_or_summary": "Pokot of Kenya (1988): numerous dietary taboos; authors link them to a high rate of low birth weight."
+    }
+  ],
+  "evidence": [
+    {
+      "tested": "Taboos and low birth weight",
+      "population": "Ethnographic account",
+      "finding": "Authors suggest taboos contribute to low birth weight; not measured in a comparison.",
+      "tier": "B",
+      "tier_variant": "observational-black-population",
+      "strength": "thin",
+      "source": {
+        "name": "Traditional belief and practice among the Pokot people of Kenya, 1988, Ann Trop Paediatr, PMID 2461145",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2461145/"
+      }
+    }
+  ],
+  "headline_tier": "B",
+  "headline_strength": "thin",
+  "headline_tier_variant": "observational-black-population",
+  "harm_flag": "possible",
+  "harm_note": "Restriction of nutritious food in pregnancy can lower birth weight, per the authors' view; 1988, one community.",
+  "links_to_entries": [
+    "pregnancy-and-maternity-care"
+  ],
+  "gaps": [
+    "A 2026 Jimma, Ethiopia qualitative study (PMID 41593435) seen as a title only."
+  ],
+  "counted": true,
+  "page": "https://vilivity.com/practices/dietary-taboos-in-pregnancy/"
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "19817081",
+  "slug": "burgess-2009-19817081",
+  "citation": {
+    "authors": "Burgess JE, Macfarlane F",
+    "year": 2009,
+    "journal": "Journal of the Royal Army Medical Corps"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19817081/",
+  "page": "https://vilivity.com/studies/burgess-2009-19817081/",
+  "cited_by": [
+    {
+      "entry": "ice-baths-and-cold-exposure",
+      "title": "Ice baths and cold exposure",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/ice-baths-and-cold-exposure/",
+      "record": {
+        "id": "burgess-2009",
+        "population": "311 male British Army soldiers assessed at a cold injury clinic; the paper compares \"African Americans\", Pacific Islanders and Gurkhas with Caucasians",
+        "n": 311,
+        "design": "Retrospective analysis of peripheral cold weather injury by ethnic origin",
+        "finding": "Those classed as African Americans (the paper's own term, in the British Army; the abstract does not say how ethnicity was assigned) had a relative incidence of cold injury of 30.36 (95% CI 25.82-35.70) against Caucasian soldiers and were more severely affected (mean score 5.39 against 4.24).",
+        "line_tier": "B",
+        "note": "tier_variant observational-black-population. Clinic-attendee data, so the relative incidence is among those attending; the abstract does not give denominators. Small number of cases in the group. Measures cold weather injury at work, not voluntary cold-water immersion.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

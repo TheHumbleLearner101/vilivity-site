@@ -1,0 +1,224 @@
+{
+  "slug": "lung-function-tests-and-race-correction-in-spirometry",
+  "title": "Lung function tests and race correction in spirometry",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Do lung function tests use a different normal for Black people?",
+    "What is race correction in spirometry?",
+    "Can a spirometry test miss lung disease in Black patients?",
+    "What is a race-neutral lung function equation?"
+  ],
+  "tradition_says": "A lower lung capacity in Black patients has long been treated as normal and fixed. My search found no study of what families pass down about breathing tests.",
+  "layer1": {
+    "plain_answer": "A spirometry test measures how much air you can blow out in one breath. For years the machine compared Black patients with a lower predicted normal than white patients, which can hide lung disease. Guidelines now recommend one race-neutral set of equations. The test is still useful, and your symptoms matter as much as the number.",
+    "what_it_is": [
+      {
+        "text": "Spirometry measures how much air you can breathe out in one breath. It is used to check for conditions such as asthma, COPD and pulmonary fibrosis, and to monitor them.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Spirometry test\"",
+          "url": "https://www.nhs.uk/tests-and-treatments/spirometry/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Your result is compared with a predicted normal. Until recently, standards promoted equations that also used self-reported race and ethnicity.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "ATS official statement, \"Race and Ethnicity in Pulmonary Function Test Interpretation\" (Bhakta et al. 2023, abstract)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36973004/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Worry grew that this gives a false view of fixed differences between races and may mask the effect of different exposures such as air pollution and work.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "ATS official statement, \"Race and Ethnicity in Pulmonary Function Test Interpretation\" (Bhakta et al. 2023, abstract)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36973004/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "The test is done by a healthcare professional at a doctor's surgery, clinic or hospital; they measure your height and weight, which are used to work out your results.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Spirometry test\"",
+          "url": "https://www.nhs.uk/tests-and-treatments/spirometry/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "The 2022 GLI-Global race-neutral equations were built by reanalysing the original GLI data from 74,185 people.",
+        "basis": "tested",
+        "source": "bowerman-2023"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Sitting height, a body-proportion measure, improved the statistics slightly but did not explain the differences in spirometry between race and ethnic groups in 6,984 NHANES III participants.",
+        "basis": "tested",
+        "source": "bowerman-2023"
+      },
+      {
+        "text": "The race-neutral GLI-Global equations fitted about as well as the older 'other' equations, with wider limits of normal.",
+        "basis": "tested",
+        "source": "bowerman-2023"
+      },
+      {
+        "text": "In 6,107 spirometry tests, switching from race-specific to race-neutral equations reclassified 9% of FEV1 and 10% of FVC results.",
+        "basis": "tested",
+        "source": "cai-2026"
+      },
+      {
+        "text": "Black patients moved to abnormal FEV1 under the race-neutral approach had more medicines, emergency visits and hospital stays than those whose results stayed normal.",
+        "basis": "tested",
+        "source": "cai-2026"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "Spirometry stays a useful test for asthma, COPD and pulmonary fibrosis.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Spirometry test\"",
+          "url": "https://www.nhs.uk/tests-and-treatments/spirometry/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "The ATS statement cautions that the effects and possible harms of the change are uncertain, and asks for research into the effects.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "ATS official statement, \"Race and Ethnicity in Pulmonary Function Test Interpretation\" (Bhakta et al. 2023, abstract)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36973004/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Any equation has limits, so your symptoms and medical history need to be weighed with the number.",
+        "basis": "tested",
+        "source": "bowerman-2023"
+      }
+    ],
+    "see_someone_when": [
+      "A cough, wheeze or breathlessness that lasts or limits what you do, whatever a breathing test said (doctor).",
+      "You were told your lung function is normal but you are still short of breath: ask which equation was used and whether other tests are needed (doctor or lung specialist).",
+      "A lung function result is being used for a job, insurance or compensation decision: ask whether a race-based equation was used (the ATS statement names these uses).",
+      "A child or teenager with repeated chest symptoms (doctor or paediatrician)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Official American Thoracic Society workshop (2021) and review of newer evidence",
+      "design": "Official society statement",
+      "n": "not applicable",
+      "finding": "Current ATS standards promoted race- and ethnicity-specific reference equations; concern grew that this gives a false view of fixed differences and may mask differential exposures and norm health disparities. The statement recommends replacing them with race-neutral average reference equations, alongside a broader re-evaluation of how lung function tests are used for clinical, employment and insurance decisions, a call to include missing stakeholders, and a caution about uncertain effects and potential harms.",
+      "source": {
+        "authors": "Bhakta NR, Bime C, Kaminsky DA, McCormack MC et al",
+        "year": 2023,
+        "journal": "American Journal of Respiratory and Critical Care Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36973004/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "US society statement; abstract read in full. It is a recommendation, not a trial of outcomes.",
+      "id": "bhakta-2023"
+    },
+    {
+      "population": "NHANES III data (6,984 people) and the original GLI data (74,185 people)",
+      "design": "Reanalysis to build a race-neutral spirometry equation",
+      "n": 74185,
+      "finding": "Adding sitting height and the Cormic index slightly improved precision but did not explain observed spirometry differences between NHANES III race and ethnic groups. The GLI-Global (2022) equations, which do not require choosing a race, fitted about as well as the GLI 2012 'other' equations but with wider limits of normal. The authors say the equations need careful use with symptoms and medical history when used for clinical, employment and insurance decisions.",
+      "source": {
+        "authors": "Bowerman C, Bhakta NR, Brazzale D, Cooper BR et al",
+        "year": 2023,
+        "journal": "American Journal of Respiratory and Critical Care Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36383197/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Modelling study on population surveys; abstract read in full.",
+      "id": "bowerman-2023"
+    },
+    {
+      "population": "6,107 spirometry tests in a 2010 to 2020 retrospective cohort, self-identified Black and White patients",
+      "design": "Retrospective cohort comparing race-specific and GLI-Global interpretation with one-year outcomes",
+      "n": 6107,
+      "finding": "Switching to the race-neutral approach reclassified 530 results (9%) for FEV1 and 595 (10%) for FVC. Black patients reclassified as abnormal had higher healthcare use and worse outcomes, including hospitalisation, than those consistently normal; White patients reclassified as normal also had worse outcomes, including higher mortality. The authors say clinical judgment is needed for results near the cut-off.",
+      "source": {
+        "authors": "Cai X, Canaday F, Gao S, Merrell E et al",
+        "year": 2026,
+        "journal": "ERJ Open Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42741266/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single health system, US; the abstract text was cut off before the final limits sentence.",
+      "id": "cai-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That race-specific lung function equations can hide impairment and that moving to race-neutral equations reclassifies results: an official society statement, two reanalyses of large surveys and a 6,107-test cohort.",
+  "tier_note": "All observational or consensus, mostly US. There is no trial of whether race-neutral equations improve outcomes, and the ATS statement itself calls the effects uncertain.",
+  "harm_flag": true,
+  "harm_note": "The harm sat in the equation: using race to set the expected normal can make a lower measured lung function look normal for Black patients, and results feed job, insurance and compensation decisions (ATS 2023). The change can also move some healthy results to abnormal (Cai 2026).",
+  "founder_flag": false,
+  "evidence_summary": "Spirometry results are judged against a predicted normal. For decades the equations adjusted for race. The American Thoracic Society now recommends race-neutral equations, because race is a social label that can hide the effect of exposures. A reanalysis of 6,984 and 74,185 people found body proportions did not explain the group differences, and a 6,107-test cohort found about 1 in 10 results changed class when equations changed; people whose class changed had worse outcomes than those who stayed normal. The variable that matters is measured lung function with height, age, sex and exposures, not race.",
+  "measured_variables": [
+    "FEV1 and FVC (lung function, spirometry)",
+    "Height, age and sex (predicted normal)",
+    "Exposures such as air pollution and work dust",
+    "Self-identified race, which older equations used as a stand-in for these"
+  ],
+  "gaps": "Not found or not opened: which equations UK, African, Caribbean and other national services use (my search found no list); the full text of Bhakta and Cai; evidence from African or Caribbean populations; whether race-neutral equations improve disease detection or outcomes (no trial found); a 2024 NEJM study named in earlier notes was not found by my search and is not cited.",
+  "related": [
+    "pulse-oximeters-and-dark-skin",
+    "kidney-disease-apol1-and-egfr",
+    "sarcoidosis-in-black-adults",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Bhakta NR, Bime C, Kaminsky DA, McCormack MC et al",
+      "year": 2023,
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36973004/",
+      "tag": "[consensus]"
+    },
+    {
+      "authors": "Bowerman C, Bhakta NR, Brazzale D, Cooper BR et al",
+      "year": 2023,
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36383197/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Cai X, Canaday F, Gao S, Merrell E et al",
+      "year": 2026,
+      "journal": "ERJ Open Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42741266/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Spirometry test\"",
+      "url": "https://www.nhs.uk/tests-and-treatments/spirometry/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "ATS official statement, \"Race and Ethnicity in Pulmonary Function Test Interpretation\" (Bhakta et al. 2023, abstract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36973004/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pmid": "39053552",
+  "slug": "forsyth-2024-39053552",
+  "citation": {
+    "authors": "Forsyth JE, Mistree D, Nash E, Angrish M et al",
+    "year": 2024,
+    "journal": "Science of the Total Environment"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/39053552/",
+  "page": "https://vilivity.com/studies/forsyth-2024-39053552/",
+  "cited_by": [
+    {
+      "entry": "turmeric-and-curcumin-supplements",
+      "title": "Turmeric and curcumin supplements",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/turmeric-and-curcumin-supplements/",
+      "record": {
+        "id": "forsyth-2024",
+        "population": "Turmeric root and powder samples from bazaars in 23 cities in India, Pakistan, Sri Lanka and Nepal (2020 to 2021)",
+        "n": 356,
+        "design": "Laboratory survey of lead and chromium in 356 samples",
+        "finding": "Fourteen per cent (51 samples) had lead above 2 micrograms per gram, and samples at 18 or more had lead-to-chromium ratios pointing to lead chromate added as a colouring. Lead levels exceeded 1,000 micrograms per gram in Patna (India), Karachi and Peshawar (Pakistan).",
+        "line_tier": "C",
+        "note": "A product survey in South Asia, not a study of people. It matters because the spice is traded worldwide. It is a warning about loose spice from uncertain sources.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

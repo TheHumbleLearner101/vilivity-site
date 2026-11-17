@@ -1,0 +1,30 @@
+{
+  "pmid": "16043680",
+  "slug": "aloia-2005-16043680",
+  "citation": {
+    "authors": "Aloia JF, Talwar SA, Pollack S, Yeh J",
+    "year": 2005,
+    "journal": "Archives of Internal Medicine"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/16043680/",
+  "page": "https://vilivity.com/studies/aloia-2005-16043680/",
+  "cited_by": [
+    {
+      "entry": "vitamin-d-and-dark-skin",
+      "title": "Vitamin D and dark skin",
+      "module": "body",
+      "entry_tier": "A",
+      "page": "https://vilivity.com/body/vitamin-d-and-dark-skin/",
+      "record": {
+        "id": "aloia-2005",
+        "population": "208 healthy Black postmenopausal American women aged 50-75",
+        "n": 208,
+        "design": "Randomised, double-blind, placebo-controlled, 3 years, vitamin D3 at two doses with calcium given to all",
+        "finding": "No significant difference in bone mineral density between vitamin D and placebo groups at any point; no relationship between blood level reached and bone loss. No significant adverse events were attributed to vitamin D.",
+        "line_tier": "A",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

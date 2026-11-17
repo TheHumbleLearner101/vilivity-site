@@ -1,0 +1,30 @@
+{
+  "pmid": "25526008",
+  "slug": "al-dabagh-2014-25526008",
+  "citation": {
+    "authors": "Al-Dabagh A, Davis SA, McMichael AJ, Feldman SR",
+    "year": 2014,
+    "journal": "Dermatology Online Journal"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25526008/",
+  "page": "https://vilivity.com/studies/al-dabagh-2014-25526008/",
+  "cited_by": [
+    {
+      "entry": "conditions-look-different-on-dark-skin",
+      "title": "How skin conditions look on dark skin (redness, rashes, rosacea, sunburn)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/conditions-look-different-on-dark-skin/",
+      "record": {
+        "id": "aldabagh-2014",
+        "population": "US national ambulatory care survey 1993-2010",
+        "n": "not stated",
+        "design": "Survey of rosacea diagnosis by race",
+        "finding": "2.0% of patients with a rosacea diagnosis were Black. When Black patients attended with \"other diseases of the skin\", rosacea was the diagnosis for 2.2% against 8.3% of White patients; the authors suggest underdiagnosis in skin of colour.",
+        "line_tier": "B",
+        "note": "Cannot separate lower rates from underdiagnosis.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

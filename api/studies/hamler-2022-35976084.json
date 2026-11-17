@@ -1,0 +1,30 @@
+{
+  "pmid": "35976084",
+  "slug": "hamler-2022-35976084",
+  "citation": {
+    "authors": "Hamler TC, Nguyen AW, Keith V, Qin W et al",
+    "year": 2022,
+    "journal": "Journals of Gerontology Series B"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35976084/",
+  "page": "https://vilivity.com/studies/hamler-2022-35976084/",
+  "cited_by": [
+    {
+      "entry": "colourism-and-mental-health",
+      "title": "Colourism, skin tone and mental health",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/colourism-and-mental-health/",
+      "record": {
+        "id": "hamler-2022",
+        "population": "837 African Americans aged 55 or over, National Survey of American Life",
+        "n": "837",
+        "design": "Cross-sectional survey with regression; skin tone self-reported",
+        "finding": "Discrimination was linked to worse self-rated mental health and serious psychological distress, and the link with distress was stronger in darker-skinned respondents than lighter ones. For self-rated mental health the skin tone effect held for men but not women.",
+        "line_tier": "B",
+        "note": "Older adults only; association; mechanisms not tested.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

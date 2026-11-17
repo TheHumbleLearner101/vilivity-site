@@ -1,0 +1,122 @@
+{
+  "slug": "childrens-mental-health-support",
+  "title": "Getting a child mental health support",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do I get my child proper mental-health support?",
+    "Does my child's school have to help?",
+    "Where do young people get help in a crisis?"
+  ],
+  "tradition_says": "Many parents handle a child's worries inside the family or church and fear the child will be labelled.",
+  "layer1": {
+    "plain_answer": "In English child mental health services, children from Black and other minority backgrounds were more often referred through school or social care than through a doctor. The UK's NHS has guides for parents and information on services for young people. Childline offers free help to anyone under 19.",
+    "do": [
+      {
+        "text": "Use the UK's NHS advice for parents guides on anxiety, depression, talking to your child about feelings and teenagers.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Advice for parents\"",
+          "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Read the UK's NHS information on Children and young people's mental health services (CYPMHS), which the NHS lists as further support.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Help for teenagers, young adults and students\"",
+          "url": "https://www.nhs.uk/mental-health/children-and-young-adults/help-for-teenagers-young-adults-and-students/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Tell your child that Childline on 0800 1111 is free for under 19s and does not show on a phone bill.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Help for suicidal thoughts\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Assuming the school route is the only way in: minority-background children were more often referred through school and social services than through a doctor.",
+        "basis": "tested",
+        "source": "edbrooke-childs-2016"
+      }
+    ],
+    "see_someone_when": [
+      "Your child's low mood, anxiety, anger or withdrawal lasts for weeks or affects school or friendships (doctor).",
+      "Your child talks about harming themselves or not wanting to live (urgent: crisis lines below).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "11,592 children from 26 CAMHS services, England",
+      "design": "Routinely collected data on care pathway by ethnicity",
+      "n": "11,592",
+      "finding": "Children from Black and minority ethnic backgrounds were more likely to be referred to child and adolescent mental health services through education, social and other services than through primary care, compared with White British children (odds ratios 1.52 to 9.96), and less likely to end treatment for non-attendance. The authors say this may mirror the adult pattern of more compulsory than voluntary routes.",
+      "source": {
+        "authors": "Edbrooke-Childs J, Newman R, Fleming I et al",
+        "year": 2016,
+        "journal": "European Child and Adolescent Psychiatry",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26345326/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Grouped as BAME; Black children not reported separately in the abstract.",
+      "id": "edbrooke-childs-2016"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_driver": "Whether minority-background children reach child mental health services differently: one large English dataset, observational.",
+  "tier_note": "Tier B observational, strength thin (one dataset, minority groups combined). How to get proper support for a Black child, including school duties, had no source I could open beyond the NHS pages.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found.",
+  "founder_flag": false,
+  "evidence_summary": "Edbrooke-Childs and colleagues (2016) analysed 11,592 children in 26 CAMHS services: BAME children were more likely to arrive via education and social services than primary care. The UK's NHS parents' page lists guides on talking to children about feelings and anxiety, and the teenage page points to CYPMHS information. School legal duties and educational psychologist routes were not sourced.",
+  "measured_variables": [
+    "Referral source",
+    "Reason for case closure"
+  ],
+  "gaps": "Untested or not found: school duties and SEN routes; Black children specifically; waiting times; culturally matched child therapists; US pathway.",
+  "related": [
+    "stigma-and-starting-therapy",
+    "finding-a-black-therapist"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Edbrooke-Childs J et al",
+      "year": 2016,
+      "journal": "European Child and Adolescent Psychiatry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26345326/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS, \"Advice for parents\"",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Help for teenagers, young adults and students\"",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/help-for-teenagers-young-adults-and-students/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "NHS, \"Help for suicidal thoughts\"",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "slug": "g6pd-deficiency-what-to-avoid-and-who-carries-it",
+  "title": "G6PD deficiency: who carries it and what to avoid",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "What is G6PD deficiency?",
+    "Who carries G6PD deficiency?",
+    "Which medicines and foods should I avoid with G6PD deficiency?",
+    "Should I be tested for G6PD before taking malaria tablets?",
+    "Why did fava beans or a tablet make me or my child ill?"
+  ],
+  "tradition_says": "Families often first meet it as a story: a relative who turned yellow or passed dark urine after a fever, a tablet or beans. My search found no study of what families pass down about it.",
+  "layer1": {
+    "plain_answer": "G6PD deficiency is an inherited enzyme shortage, common in people with African, Mediterranean and Asian ancestry. Most carriers feel well. Red blood cells break down only when something stresses them, such as an infection, fava beans or certain medicines. A simple blood test finds it, so ask for one before malaria treatment with primaquine.",
+    "what_it_is": [
+      {
+        "text": "An inherited shortage of an enzyme makes red blood cells break down early (haemolysis). The usual problem is haemolytic anaemia, most often set off by infections, some drugs or fava beans.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Glucose-6-phosphate dehydrogenase deficiency\"",
+          "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "It is inherited, so nothing you did caused it.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+          "url": "https://medlineplus.gov/ency/article/000528.htm",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "About 400 million people worldwide have it, most often in parts of Africa, Asia, the Mediterranean and the Middle East.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Glucose-6-phosphate dehydrogenase deficiency\"",
+          "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "The gene sits on the X chromosome. Males have one copy, so one altered copy causes deficiency. Many females with one altered copy are affected much like males, because the normal copy is switched off in most cells.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Glucose-6-phosphate dehydrogenase deficiency\"",
+          "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Many people with it never have symptoms and never know.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus Genetics, \"Glucose-6-phosphate dehydrogenase deficiency\"",
+          "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "A blood test measures the G6PD level.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+          "url": "https://medlineplus.gov/ency/article/000528.htm",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "During a breakdown episode you may have dark urine, yellow skin or eyes, pale skin, tiredness, a fast heartbeat or breathlessness.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+          "url": "https://medlineplus.gov/ency/article/000528.htm",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Testing before malaria-area deployment was made mandatory for US Army soldiers; the screening covered 63,302 people.",
+        "basis": "tested",
+        "source": "chinevere-2006"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "Episodes can be triggered by infections, fava beans, mothball chemicals and some medicines. MedlinePlus lists quinine and other antimalarials, high-dose aspirin, anti-inflammatory painkillers, sulfa medicines and antibiotics such as quinolones and nitrofurantoin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+          "url": "https://medlineplus.gov/ency/article/000528.htm",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "A 2023 international guideline sorts medicines into high, medium and low-to-no risk: avoid high risk, use medium risk with caution, and use low-to-no risk with standard precautions. It says official warnings often conflict, so one list on one website can be incomplete.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "CPIC guideline for medication use and G6PD genotype (Gammal et al. 2023, abstract)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36049896/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "In 63,302 US Army personnel tested, 12.2% of African American males and 4.1% of African American females were deficient, against 4.3% of Asian males and 2.5% of all males.",
+        "basis": "tested",
+        "source": "chinevere-2006"
+      },
+      {
+        "text": "Across ten malaria-endemic African countries, 19 studies found G6PD deficiency from under 1% to 23.9%, higher in men than in women.",
+        "basis": "tested",
+        "source": "taleb-2025"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "Most deficient people in the Army screening had only moderate enzyme loss.",
+        "basis": "tested",
+        "source": "chinevere-2006"
+      },
+      {
+        "text": "Episodes are usually brief, because the body keeps making new red cells with normal enzyme activity.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+          "url": "https://medlineplus.gov/ency/article/000528.htm",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Having it does not mean avoiding all medicines or all malaria care: many drugs fall in the low-to-no-risk class.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "CPIC guideline for medication use and G6PD genotype (Gammal et al. 2023, abstract)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36049896/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Dark urine, yellow skin or eyes, sudden paleness or breathlessness after a new medicine, an infection or eating fava beans (urgent same-day care; emergency services if severe).",
+      "Before malaria treatment, travel tablets or any new medicine, if you or a relative has had a reaction or been told they have G6PD deficiency (doctor, pharmacist or travel clinic).",
+      "A newborn whose yellow skin appears early or deepens, especially with a family history (midwife or doctor the same day)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "63,302 US military personnel tested for G6PD, October 2004 to January 2005 (54,874 males, 8,428 females)",
+      "design": "Retrospective review of routine pre-deployment test results by sex, self-reported ethnicity and WHO class",
+      "n": 63302,
+      "finding": "2.5% of males and 1.6% of females were deficient, most with only moderate deficiency. African American males (12.2%) and females (4.1%) and Asian males (4.3%) had the highest rates. The authors judged universal screening warranted, particularly for male service members who report African American, Asian or Hispanic ethnicity.",
+      "source": {
+        "authors": "Chinevere TD, Murray CK, Grant E, Johnson GA",
+        "year": 2006,
+        "journal": "Military Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17036616/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "US adults of military age, a relatively healthy group; self-reported ethnicity is a stand-in for G6PD variants. Abstract read in full.",
+      "id": "chinevere-2006"
+    },
+    {
+      "population": "Studies of G6PD deficiency prevalence in the ten African countries most affected by malaria, 2000 to 2023",
+      "design": "Systematic review (PRISMA), 19 full texts",
+      "n": 19,
+      "finding": "Prevalence ranged from under 1% to 23.9%, more in men than in women. Antimalarials such as primaquine can cause severe haemolytic anaemia in G6PD-deficient people; the authors say prescribing should consider G6PD status and that several regions need to review diagnostic and screening protocols.",
+      "source": {
+        "authors": "Taleb M, Brahim AT, Yebouk C, Khairy T",
+        "year": 2025,
+        "journal": "Pan African Medical Journal",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40225210/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Individual studies differ in test method and setting; the abstract does not name the ten countries or rate the certainty of the evidence.",
+      "id": "taleb-2025"
+    },
+    {
+      "population": "Medicines previously implicated as unsafe in G6PD deficiency",
+      "design": "Guideline based on a systematic review of gene-drug evidence and regulatory warnings",
+      "n": "not stated in the abstract",
+      "finding": "Medications are classed high, medium or low-to-no risk. High-risk drugs should be avoided, medium-risk drugs used with caution, and low-to-no-risk drugs given with standard precautions. The guideline replaces the earlier rasburicase guideline.",
+      "source": {
+        "authors": "Gammal RS, Pirmohamed M, Somogyi AA, Morris SA et al",
+        "year": 2023,
+        "journal": "Clinical Pharmacology and Therapeutics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36049896/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "note": "Abstract read; the drug table itself was not opened, so no drug is placed in a risk class on this card.",
+      "id": "cpic-2023"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That G6PD deficiency is common in people of African ancestry and that some medicines trigger red cell breakdown: a 63,302-person US screening, a 19-study African review and an evidence-based drug guideline.",
+  "tier_note": "Observational prevalence data plus a guideline; no trial of testing before prescribing in Black populations that I could open. The drug table was not read.",
+  "harm_flag": true,
+  "harm_note": "The harm sits in prescribing without knowing status: primaquine and other drugs can cause severe haemolytic anaemia in G6PD-deficient people (Taleb 2025), and official drug lists conflict (CPIC 2023).",
+  "founder_flag": false,
+  "evidence_summary": "G6PD deficiency is an inherited, X-linked enzyme shortage found worldwide and most often in parts of Africa, Asia, the Mediterranean and the Middle East. In US Army testing of 63,302 people, 12.2% of African American males were deficient, against 2.5% of all males. An African review found prevalence from under 1% to 23.9% across ten countries. Most carriers have no symptoms; red cell breakdown follows infections, fava beans or certain medicines. The variable is the enzyme level or genotype, which a blood test measures. It is not on you: it is inherited, and the quality of care matters, because the fix is to check status before a risky drug is given.",
+  "measured_variables": [
+    "G6PD enzyme activity or genotype (a blood test)",
+    "Medicine exposure (risk class)",
+    "Self-reported ethnicity in the Army data, a stand-in for which G6PD variants a person carries"
+  ],
+  "gaps": "Not opened or not found: the CPIC drug table (so no drug is placed in a risk class here, and rasburicase and primaquine named in the guideline's wider text were not checked against it); a UK NHS page on G6PD (my guesses at its address returned page not found); country-by-country policy on newborn or pre-prescribing testing; whether testing before prescribing improves outcomes in Black populations (no trial found); the 63,302-person data are US adults of military age.",
+  "related": [
+    "low-white-cell-count-duffy-null",
+    "how-some-medicines-work-differently-by-gene",
+    "sickle-cell-trait-and-hard-exercise",
+    "pregnancy-and-maternity-care"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Chinevere TD, Murray CK, Grant E, Johnson GA",
+      "year": 2006,
+      "journal": "Military Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17036616/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Taleb M, Brahim AT, Yebouk C, Khairy T",
+      "year": 2025,
+      "journal": "Pan African Medical Journal",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40225210/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Gammal RS, Pirmohamed M, Somogyi AA, Morris SA et al",
+      "year": 2023,
+      "journal": "Clinical Pharmacology and Therapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36049896/",
+      "tag": "[consensus]"
+    },
+    {
+      "name": "MedlinePlus Genetics, \"Glucose-6-phosphate dehydrogenase deficiency\"",
+      "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "MedlinePlus, \"Glucose-6-phosphate dehydrogenase deficiency\" (medical encyclopedia)",
+      "url": "https://medlineplus.gov/ency/article/000528.htm",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "CPIC guideline for medication use and G6PD genotype (Gammal et al. 2023, abstract)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36049896/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "WHO, \"Guideline on haemoglobin cutoffs to define anaemia in individuals and populations\" (2024), overview",
+      "url": "https://www.who.int/publications/i/item/9789240088542",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

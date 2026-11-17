@@ -1,0 +1,30 @@
+{
+  "pmid": "42971783",
+  "slug": "sorrells-2026-42971783",
+  "citation": {
+    "authors": "Sorrells L, Senak L, Kang X, Abegunde A et al",
+    "year": 2026,
+    "journal": "International Journal of Cosmetic Science"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42971783/",
+  "page": "https://vilivity.com/studies/sorrells-2026-42971783/",
+  "cited_by": [
+    {
+      "entry": "hair-porosity-and-moisture",
+      "title": "Hair porosity and moisture",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-porosity-and-moisture/",
+      "record": {
+        "id": "sorrells-2026",
+        "population": "Textured hair tresses (laboratory, industry methods paper)",
+        "n": "not stated",
+        "design": "Adapted methods for shine, curl shrinkage, flexibility and 'consumer-perceived hair porosity' by contact angle",
+        "finding": "The authors describe a refined contact-angle method to measure consumer-perceived hair porosity in textured hair. It is a method paper and tests no routine.",
+        "line_tier": "C",
+        "note": "Industry-style methods paper; funding not checked.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

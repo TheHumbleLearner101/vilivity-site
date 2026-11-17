@@ -1,0 +1,166 @@
+{
+  "slug": "intermittent-fasting-for-weight-and-health",
+  "title": "Intermittent fasting for weight and health",
+  "category": "food",
+  "kind": "practice",
+  "question_forms": [
+    "Does intermittent fasting work for weight loss?",
+    "Is intermittent fasting safe?",
+    "Is 16:8 or 5:2 better?",
+    "Has intermittent fasting been tested on Black people?"
+  ],
+  "tradition_says": "Fasting and feast cycles are part of many faiths and food traditions. As a wellness trend, intermittent fasting means eating in a short window (16:8), alternate days, or two low days a week (5:2).",
+  "layer1": {
+    "plain_answer": "Intermittent fasting lost weight in trials, about the same as ordinary calorie cutting, and one small pilot of Black adults in churches found it workable. Avoid it if you have had an eating disorder or are pregnant or breastfeeding, and plan it with your care team if you have diabetes. Religious fasting has its own guidance.",
+    "do": [
+      {
+        "text": "Choose a plan written by a dietitian that is built on healthy, balanced eating.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS My Health London, \"Intermittent fasting\"",
+          "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Protect fruit, vegetables and fibre on eating days: the fasting group in the church pilot ate less of them.",
+        "basis": "tested",
+        "source": "yeary-2025"
+      },
+      {
+        "text": "Treat it as one way to eat less, not a special effect: against ordinary calorie cutting it gave about the same weight loss, except alternate-day fasting, which gave a little more.",
+        "basis": "tested",
+        "source": "semnani-azad-2025"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Intermittent fasting if you have had an eating disorder such as anorexia or bulimia, or are pregnant or breastfeeding.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS My Health London, \"Intermittent fasting\"",
+          "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "Delaying or skipping meals if you have diabetes, unless your diabetes team has planned it with you.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS My Health London, \"Intermittent fasting\"",
+          "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "You have diabetes, especially on insulin or tablets that can cause low blood sugar (diabetes team, before changing meal times).",
+      "You get dizziness, fainting, palpitations or confusion while fasting (doctor).",
+      "Food is taking over your thoughts, or you are eating very little (doctor or an eating disorder service).",
+      "You are fasting for religious reasons with diabetes or sickle cell (see the Ramadan and religious fasting entry)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Adults in 99 randomised trials (720 healthy, 5,862 with health conditions)",
+      "design": "Systematic review and network meta-analysis of intermittent fasting (alternate-day, time-restricted, whole-day) against continuous calorie restriction or eating freely",
+      "n": 6582,
+      "finding": "All fasting and calorie-restriction diets reduced weight compared with eating freely. Compared with continuous calorie restriction, only alternate-day fasting gave extra weight loss (1.29 kg, moderate certainty). In trials of 24 weeks or longer, strategies only beat eating freely.",
+      "source": {
+        "authors": "Semnani-Azad Z, Khan TA, Chiavaroli L, Chen V et al",
+        "year": 2025,
+        "journal": "BMJ",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40533200/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Mostly short trials. Ethnicity not reported in the abstract.",
+      "id": "semnani-azad-2025"
+    },
+    {
+      "population": "Black adults with BMI of 25 or more, from five Black churches in Western New York State",
+      "design": "Cluster randomised pilot: faith-based intermittent fasting (three churches) against continuous calorie reduction (two churches), 6 months, led by community health workers",
+      "n": 42,
+      "finding": "Weight fell in both arms (fasting -3.5 kg, calorie reduction -2.9 kg). The fasting group ate about 414 kcal a day less than the calorie-reduction group, but ate less fruit, vegetables and fibre. Satisfaction was high. The authors conclude it is feasible and larger studies are needed.",
+      "source": {
+        "authors": "Yeary KHK, Johnson D, Harris N, Yu H et al",
+        "year": 2025,
+        "journal": "Journal of the Academy of Nutrition and Dietetics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38986868/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "The one randomised trial in Black adults I found. A pilot built to test feasibility, with no proof that fasting beats calorie reduction.",
+      "id": "yeary-2025"
+    },
+    {
+      "population": "Adults aged 25 to 75 with obesity (BMI 30 to 60) in a 14-week weight-loss trial; the race analysis used 13 Black participants",
+      "design": "Secondary subgroup analysis of a randomised trial of early time-restricted eating (8 hours, 07:00 to 15:00) against 12 hours or more",
+      "n": "not stated for the whole trial",
+      "finding": "Early time-restricted eating lowered blood pressure in adults with hypertension and HbA1c in prediabetes, and raised cholesterol in people with severe obesity. Blood pressure and glucose measures improved more in Black than in White participants, but the authors say the Black group was small and the result needs further investigation.",
+      "source": {
+        "authors": "Rehman Z, Altonji OM, Steger FL, Jamshed H et al",
+        "year": 2026,
+        "journal": "Journal of Nutrition",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941962/"
+      },
+      "tag": "[primary]",
+      "line_tier": "A",
+      "note": "Exploratory subgroup of 13 people. A hint, short of a finding.",
+      "id": "rehman-2026"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "trial-other-population",
+  "tier_driver": "That intermittent fasting helps weight loss about as well as calorie cutting: a network meta-analysis of 99 trials (6,582 adults); the one randomised pilot in Black adults (42 people) tested feasibility.",
+  "tier_note": "A large network meta-analysis with moderate-certainty ratings for some comparisons drives the headline; I took the lower reading, moderate. The 42-person church pilot and a 13-person subgroup are A lines, but both are too small to lift the headline.",
+  "harm_flag": true,
+  "harm_note": "The UK's NHS says people with a history of anorexia or bulimia, and pregnant or breastfeeding women, should not try intermittent fasting, and that people with diabetes should never skip or delay meals unplanned. The church pilot found less fruit, vegetable and fibre intake on the fasting plan, and a 2026 subgroup saw higher LDL cholesterol in people with severe obesity.",
+  "founder_flag": false,
+  "evidence_summary": "In 99 trials intermittent fasting reduced weight compared with eating freely, and equalled continuous calorie restriction except for alternate-day fasting, which gave about 1.3 kg more. A 42-person cluster pilot in five Black churches found faith-based fasting feasible, with weight falling about 3.5 kg in six months against 2.9 kg for calorie reduction. An early time-restricted eating secondary analysis, with 13 Black participants, saw bigger blood pressure and glucose improvements in Black than White participants, flagged as exploratory.",
+  "measured_variables": [
+    "Body weight, BMI, waist",
+    "Blood pressure, HbA1c, LDL cholesterol",
+    "Fruit, vegetable and fibre intake",
+    "Ethnicity: self-identified Black participants in two studies"
+  ],
+  "gaps": "My PubMed search (title and abstract terms for the product, with African American, African-American, Black adults, Black women, Black men, African descent, African ancestry and similar terms) returned 10 records for intermittent or time-restricted fasting, three relevant (the church pilot, the race subgroup analysis and a 2024 time-restricted eating trial whose abstract I did not read for ethnicity). The same search style for \"vitamin D\" returned 930 records, so the search works. ClinicalTrials.gov (API v2, intervention search with \"African American\" OR Black anywhere in the record): 18 records for intermittent fasting and 35 for time-restricted eating; NCT04557540, \"Weight Loss Interventions for Black Adults of Faith\", is probably related to the pilot (title read only; I did not confirm). This entry is the wellness version and does not duplicate the Ramadan and religious fasting entry, which covers diabetes and sickle cell. Untested: long-term outcomes in Black adults; effects on heart events.",
+  "related": [
+    "ramadan-and-religious-fasting-with-diabetes-or-sickle-cell",
+    "type-2-diabetes-risk",
+    "weight-bmi-and-ethnicity",
+    "high-blood-pressure-in-black-adults"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Semnani-Azad Z, Khan TA, Chiavaroli L, Chen V et al",
+      "year": 2025,
+      "journal": "BMJ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40533200/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Yeary KHK, Johnson D, Harris N, Yu H et al",
+      "year": 2025,
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38986868/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Rehman Z, Altonji OM, Steger FL, Jamshed H et al",
+      "year": 2026,
+      "journal": "Journal of Nutrition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941962/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NHS My Health London, \"Intermittent fasting\"",
+      "url": "https://www.myhealthlondon.nhs.uk/be-healthier/lose-weight/which-diet-is-right-for-me/intermittent-fasting/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

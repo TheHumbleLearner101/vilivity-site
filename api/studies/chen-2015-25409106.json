@@ -1,0 +1,30 @@
+{
+  "pmid": "25409106",
+  "slug": "chen-2015-25409106",
+  "citation": {
+    "authors": "Chen X, Wang R, Zee P et al",
+    "year": 2015,
+    "journal": "Sleep"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25409106/",
+  "page": "https://vilivity.com/studies/chen-2015-25409106/",
+  "cited_by": [
+    {
+      "entry": "sleep-and-sleep-apnoea",
+      "title": "Sleep, short sleep and sleep apnoea",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/sleep-and-sleep-apnoea/",
+      "record": {
+        "id": "chen-2015",
+        "population": "2,230 US adults aged 54 to 93 (MESA Sleep cohort), including Black participants",
+        "n": "2,230",
+        "design": "Cross-sectional study with overnight sleep tests and wrist monitors",
+        "finding": "Compared with white adults, Black adults had higher odds of sleep apnoea syndrome (OR 1.78, 95% CI 1.20 to 2.63), short sleep under 6 hours (OR 4.95, 3.56 to 6.90), poor sleep quality (OR 1.57) and daytime sleepiness (OR 1.89). Only 7.4% to 16.2% of people with moderate or worse sleep-disordered breathing reported a prior diagnosis.",
+        "line_tier": "B",
+        "note": "Cross-sectional, ages 54 to 93, US; adjusted for age, sex and site only.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

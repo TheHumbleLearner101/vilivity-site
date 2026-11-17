@@ -1,0 +1,30 @@
+{
+  "pmid": "15182400",
+  "slug": "ramdath-2004-15182400",
+  "citation": {
+    "authors": "Ramdath DD, Isaacs RL, Teelucksingh S, Wolever TM",
+    "year": 2004,
+    "journal": "British Journal of Nutrition"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15182400/",
+  "page": "https://vilivity.com/studies/ramdath-2004-15182400/",
+  "cited_by": [
+    {
+      "entry": "plantain-yam-and-cassava-and-blood-sugar",
+      "title": "Plantain, yam and cassava: blood sugar and safety",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/plantain-yam-and-cassava-and-blood-sugar/",
+      "record": {
+        "id": "ramdath-2004",
+        "population": "Healthy volunteers in Trinidad and Tobago, groups of 8 to 10 across three studies",
+        "n": "about 8 to 10 per study",
+        "design": "Glycaemic index tests of eight Caribbean staples against white bread",
+        "finding": "Cassava (glycaemic index 94) and dasheen (about 76) were high. Breadfruit (60), green banana (65), sadha roti (65), white yam (62), eddoes (61) and tannia (55 to 60) were intermediate, and Irish potato about 70. Crushing did not change the index. The authors say replacing high-glycaemic staples with intermediate ones may bring health benefits.",
+        "line_tier": "A",
+        "note": "Small groups; the suggested benefit of swapping is the authors' speculation, not a trial result.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

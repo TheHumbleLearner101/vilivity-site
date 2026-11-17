@@ -1,0 +1,30 @@
+{
+  "pmid": "15786826",
+  "slug": "eisenbach-2005-15786826",
+  "citation": {
+    "authors": "Eisenbach C, Pohl J, Dikow R, Stremmel W",
+    "year": 2005,
+    "journal": "Clinical Nephrology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15786826/",
+  "page": "https://vilivity.com/studies/eisenbach-2005-15786826/",
+  "cited_by": [
+    {
+      "entry": "sauna-and-heat-bathing",
+      "title": "Sauna and heat bathing: heart health, recovery and risks",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/sauna-and-heat-bathing/",
+      "record": {
+        "id": "eisenbach-2005",
+        "population": "One 29-year-old African American with sickle cell trait",
+        "n": 1,
+        "design": "Case report",
+        "finding": "A sauna visit triggered severe rhabdomyolysis (muscle breakdown) and acute kidney failure.",
+        "line_tier": "C",
+        "note": "One case. It cannot say how often this happens; it is the reason sickle cell trait is flagged.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

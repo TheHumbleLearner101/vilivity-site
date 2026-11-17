@@ -1,0 +1,64 @@
+{
+  "pmid": "15790781",
+  "slug": "beutler-2005-15790781",
+  "citation": {
+    "authors": "Beutler E, West C",
+    "year": 2005,
+    "journal": "Blood"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15790781/",
+  "page": "https://vilivity.com/studies/beutler-2005-15790781/",
+  "cited_by": [
+    {
+      "entry": "alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron",
+      "title": "Alpha-thalassaemia trait: small red cells that are not low iron",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/alpha-thalassaemia-trait-and-low-iron-that-is-not-low-iron/",
+      "record": {
+        "id": "beutler-2005",
+        "population": "1,491 African American and 31,005 white people with routine blood results and stored samples, about half men and half women",
+        "n": 32496,
+        "design": "Retrospective analysis of laboratory data with DNA testing for the -3.7 kb alpha-thalassaemia deletion",
+        "finding": "Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans; ferritin was higher. The -3.7 kb alpha-thalassaemia deletion accounted for about one third of the haemoglobin difference; sickle trait and raised creatinine had no effect. Of women, 19.8% of African Americans and 5.3% of white women would be called anaemic; without iron-deficient or thalassaemic people the figures were 6.1% and 2.77% (men 17.7% and 7.6%, then 4.29% and 3.6%). The authors say the same reference standards do not apply to all ethnic groups.",
+        "line_tier": "B",
+        "note": "US laboratory population, not a random community sample. Abstract read in full. The authors favour separate standards; whether to adopt them is contested.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "haemoglobin-and-white-cell-reference-ranges",
+      "title": "Haemoglobin and white cell ranges on your blood test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/haemoglobin-and-white-cell-reference-ranges/",
+      "record": {
+        "id": "beutler-2005b",
+        "population": "1,491 African American and 31,005 white people with routine laboratory results, about half men and half women",
+        "n": 32496,
+        "design": "Retrospective analysis of laboratory data, with alpha-thalassaemia DNA testing",
+        "finding": "Haematocrit, haemoglobin, MCV, transferrin saturation and white cell count were lower in African Americans and ferritin higher. The -3.7 kb alpha-thalassaemia deletion accounted for about a third of the haemoglobin difference. With iron-deficient and thalassaemic people removed, the share classed anaemic was 6.1% against 2.77% in women and 4.29% against 3.6% in men.",
+        "line_tier": "B",
+        "note": "US laboratory population; abstract read in full.",
+        "tag": "[primary]"
+      }
+    },
+    {
+      "entry": "iron-and-fibroids",
+      "title": "Iron, heavy periods and fibroids",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/iron-and-fibroids/",
+      "record": {
+        "id": "beutler-2005",
+        "population": "1,491 African-American and 31,005 White laboratory subjects",
+        "n": 32496,
+        "design": "Analysis of anonymised laboratory data on haemoglobin, MCV, transferrin saturation, ferritin and white cell count",
+        "finding": "Haemoglobin, haematocrit and MCV were lower in African-Americans. Among all subjects 19.8% of African-American women would be classed as anaemic against 5.3% of White women; after removing iron-deficient and thalassaemic subjects the gap narrowed to 6.1% and 2.77%. The alpha-thalassaemia deletion explained about a third of the haemoglobin difference. The authors say the same reference standards do not apply to all ethnic groups.",
+        "line_tier": "B",
+        "note": "Laboratory-referred samples, not a population survey. A good example of a measured variable (alpha-thalassaemia deletion) standing behind a race difference.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

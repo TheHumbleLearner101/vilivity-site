@@ -1,0 +1,30 @@
+{
+  "pmid": "12874609",
+  "slug": "agyemang-2003-12874609",
+  "citation": {
+    "authors": "Agyemang C, Bhopal R",
+    "year": 2003,
+    "journal": "Journal of Human Hypertension"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/12874609/",
+  "page": "https://vilivity.com/studies/agyemang-2003-12874609/",
+  "cited_by": [
+    {
+      "entry": "high-blood-pressure-in-black-adults",
+      "title": "High blood pressure in Black adults",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/high-blood-pressure-in-black-adults/",
+      "record": {
+        "id": "agyemang-2003",
+        "population": "14 UK studies, mostly London, of adults of African descent against White adults",
+        "n": "14 studies",
+        "design": "Systematic review of cross-sectional blood pressure data",
+        "finding": "Most studies found higher mean blood pressure and higher rates of hypertension in men and women of African descent. Ethnic group differences in blood pressure were not present in the younger age groups. The authors say differences in age, definitions and the mix of Afro-Caribbean and West African groups explain much of the inconsistency between studies.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

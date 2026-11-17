@@ -1,0 +1,30 @@
+{
+  "pmid": "42498056",
+  "slug": "gray-2026-42498056",
+  "citation": {
+    "authors": "Gray OA, Yerges-Armstrong L, Castel SE, Brandenburg JT et al",
+    "year": 2026,
+    "journal": "Kidney International"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/42498056/",
+  "page": "https://vilivity.com/studies/gray-2026-42498056/",
+  "cited_by": [
+    {
+      "entry": "creatine-supplements",
+      "title": "Creatine supplements: strength, kidneys and your kidney test",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/creatine-supplements/",
+      "record": {
+        "id": "gray-2026",
+        "population": "People in population cohorts in Uganda (5,760) and South Africa (827), checked in African American participants of the Million Veteran Program",
+        "n": 6587,
+        "design": "Genetic association study (whole-genome sequencing, measured GFR by iohexol) of creatine-synthesis gene variants and creatinine-based kidney estimates",
+        "finding": "Variants in the GATM gene, common in African populations (allele frequency about 50 per cent) and rare in Europeans, raise creatine production and so serum creatinine. Each copy lowers the creatinine-based kidney estimate (eGFR) by about 2 mL/min/1.73 m2 with no link to measured GFR or cystatin C, so the estimate can read low without kidney disease.",
+        "line_tier": "B",
+        "note": "This studies the body's own creatine production and tests no supplement. It is included because a supplement also raises creatinine, so a creatinine-based kidney test needs context. Variants are the measured variable; ancestry is only a proxy.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

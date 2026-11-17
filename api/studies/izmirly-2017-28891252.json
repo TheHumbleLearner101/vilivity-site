@@ -1,0 +1,30 @@
+{
+  "pmid": "28891252",
+  "slug": "izmirly-2017-28891252",
+  "citation": {
+    "authors": "Izmirly PM, Wan I, Sahl S, Buyon JP et al",
+    "year": 2017,
+    "journal": "Arthritis and Rheumatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28891252/",
+  "page": "https://vilivity.com/studies/izmirly-2017-28891252/",
+  "cited_by": [
+    {
+      "entry": "lupus-in-black-women",
+      "title": "Lupus: symptoms, risk and getting diagnosed early",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/lupus-in-black-women/",
+      "record": {
+        "id": "izmirly-2017",
+        "population": "Residents of New York County (Manhattan) with lupus, 2007 prevalence and 2007 to 2009 incidence, by race and ethnicity",
+        "n": "not stated in the abstract",
+        "design": "Population-based registry (Manhattan Lupus Surveillance Program), capture-recapture analysis",
+        "finding": "Age-standardised prevalence was 62.2 and incidence 4.6 per 100,000 person-years by ACR criteria, about 9 times higher in women than men. Prevalence in non-Hispanic Black women was 210.9 per 100,000 against 64.3 in non-Hispanic white women, 138.3 in Hispanic and 91.2 in non-Hispanic Asian women. Incidence was 15.7 in Black women against 6.5 in white and Hispanic women and 6.6 in Asian women.",
+        "line_tier": "B",
+        "note": "One US county; no data on Black people outside the US. Abstract read; the number of cases is not in it.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

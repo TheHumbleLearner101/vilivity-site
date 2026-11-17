@@ -1,0 +1,259 @@
+{
+  "slug": "how-some-medicines-work-differently-by-gene",
+  "title": "How some medicines work differently by gene",
+  "category": "body",
+  "kind": "measurement",
+  "question_forms": [
+    "Do medicines work differently in Black people?",
+    "Why do ACE inhibitors cause swelling in Black patients?",
+    "What is CYP2D6 and does it matter for me?",
+    "Why is my warfarin dose hard to set?"
+  ],
+  "tradition_says": "Families often know that a medicine 'did not agree' with a relative. My search found no study of what families pass down about medicines.",
+  "layer1": {
+    "plain_answer": "Genes change how fast your body breaks down some medicines. The variable is the gene, and some versions are more common in people of African ancestry. Examples are ACE inhibitor tablets, which cause face or throat swelling more often in Black patients, and warfarin, whose dose needs gene variants the first formulas missed.",
+    "what_it_is": [
+      {
+        "text": "CYP2D6 is a gene for a drug-processing enzyme. Functional versions make up about 50% of copies in Africans and African Americans, reduced-function versions about 35% (mostly *17), and non-functional versions 14.5% in African Americans against 6.3% in Africans.",
+        "basis": "tested",
+        "source": "bradford-2002"
+      },
+      {
+        "text": "The pattern differs between regions: in Europeans and their descendants functional versions are about 71% and non-functional about 26%.",
+        "basis": "tested",
+        "source": "bradford-2002"
+      },
+      {
+        "text": "Age, allergy history and genes all change the chance of a reaction; in the enalapril trial a past drug rash and seasonal allergies raised the risk of swelling.",
+        "basis": "tested",
+        "source": "kostis-2005"
+      }
+    ],
+    "how_to_find_out": [
+      {
+        "text": "In the enalapril trial, a history of drug rash, age over 65 and seasonal allergies each raised angioedema risk alongside Black race.",
+        "basis": "tested",
+        "source": "kostis-2005"
+      },
+      {
+        "text": "Warfarin studies genotype the VKORC1 and CYP2C9 genes; in African Americans these two explain less of the dose variation, so another variant on chromosome 10 was identified.",
+        "basis": "tested",
+        "source": "perera-2013"
+      }
+    ],
+    "what_it_changes": [
+      {
+        "text": "In 12,557 people with hypertension given enalapril, angioedema occurred in 0.68%; black race raised the odds 2.88 times (95% CI 1.72 to 4.82).",
+        "basis": "tested",
+        "source": "kostis-2005"
+      },
+      {
+        "text": "In Cape Town, 237 people with ACE inhibitor angioedema were compared with 466 who tolerated the tablets for two years: 53% of cases had Black genetic ancestry against 29% of controls.",
+        "basis": "tested",
+        "source": "day-2025"
+      },
+      {
+        "text": "In a genetic study of more than 1,000 European patients, the lead risk variants had similar effect sizes and direction in an African-American cohort.",
+        "basis": "tested",
+        "source": "mathey-2024"
+      },
+      {
+        "text": "NICE says that when choosing blood pressure medicine for adults of Black African or African-Caribbean family origin, consider an angiotensin II receptor blocker in preference to an ACE inhibitor.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendation 1.4.30)",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-16"
+        }
+      },
+      {
+        "text": "In 533 African American adults on stable warfarin, a new variant in the CYP2C cluster was linked to dose and replicated in 432 more.",
+        "basis": "tested",
+        "source": "perera-2013"
+      }
+    ],
+    "what_it_does_not_change": [
+      {
+        "text": "Angioedema from enalapril was uncommon, and none of the 86 cases needed airway protection or died.",
+        "basis": "tested",
+        "source": "kostis-2005"
+      },
+      {
+        "text": "ACE inhibitors have proven benefits for mortality and illness in hypertension, heart disease, heart failure and kidney disease; most people tolerate them.",
+        "basis": "tested",
+        "source": "day-2025"
+      },
+      {
+        "text": "The NICE (UK) advice is to consider an ARB in preference; ACE inhibitors stay an option, and NICE says to offer an ACE inhibitor or ARB to adults with type 2 diabetes of any family origin.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendation 1.4.30)",
+          "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+          "opened": "2026-11-16"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Swelling of the lips, tongue, face or throat, or trouble breathing, while on blood pressure tablets: emergency services now (NHS says throat swelling is a medical emergency; UK 999, US and Canada 911, Australia 000).",
+      "Any past reaction to a medicine, in you or a close relative: tell the prescriber and pharmacist before starting a new one (doctor or pharmacist).",
+      "A medicine that is hard to dose, such as warfarin, or that has not worked as expected: ask whether gene-guided dosing is offered in your service (doctor or anticoagulant clinic).",
+      "A rash, cough or other reaction after starting a new tablet (doctor or pharmacist, before you stop it unless you are told to)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "12,557 people with hypertension in a randomised, double-blind trial of enalapril 5 to 40 mg daily",
+      "design": "Prospective ascertainment and expert adjudication of angioedema within a randomised controlled trial",
+      "n": 12557,
+      "finding": "Angioedema occurred in 86 people (0.68%). Black race (odds ratio 2.88, 95% CI 1.72 to 4.82), history of drug rash (3.78), age over 65 (1.60) and seasonal allergies (1.79) were independent risk factors. Incidence was 3.6 per 1,000 patients per month soon after starting and fell to 0.4. Fatal angioedema or angioedema needing airway protection did not occur.",
+      "source": {
+        "authors": "Kostis JB, Kim HJ, Rusnak J, Casale T et al",
+        "year": 2005,
+        "journal": "Archives of Internal Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16043683/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "A trial population of mixed ancestry, with race as a stand-in for unmeasured genes; abstract read in full.",
+      "id": "kostis-2005"
+    },
+    {
+      "population": "237 people with ACE inhibitor angioedema and 466 drug-tolerant controls in Cape Town, South Africa",
+      "design": "Case-control cohort study",
+      "n": 703,
+      "finding": "Cases more often had Black genetic ancestry than controls (53% against 29%, P under 0.001). Only 31.1% of angioedema occurred within 30 days of starting, and the median time to angioedema was 6.9 years, so it can start long after starting treatment. The authors describe ACE inhibitors as having proven mortality and morbidity benefit.",
+      "source": {
+        "authors": "Day C, Mapahla L, Ribeiro M, Deetlefs M et al",
+        "year": 2025,
+        "journal": "Frontiers in Allergy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41189626/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "South African data (an African setting, not US); the abstract was cut off before the full risk-factor list.",
+      "id": "day-2025"
+    },
+    {
+      "population": "More than 1,000 European patients with ACE inhibitor angioedema from 8 cohorts, plus an African-American cohort",
+      "design": "Genome-wide association meta-analysis",
+      "n": "more than 1000",
+      "finding": "Three genome-wide significant risk loci were found, one new (20q11.22). Highlighted genes included BDKRB2 and F5. Lead variants showed similar effect sizes and direction in an African-American cohort.",
+      "source": {
+        "authors": "Mathey CM, Maj C, Eriksson N, Krebs K et al",
+        "year": 2024,
+        "journal": "Journal of Allergy and Clinical Immunology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38300190/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Discovery cohorts were European; the African-American analysis was exploratory and its size is not stated in the abstract.",
+      "id": "mathey-2024"
+    },
+    {
+      "population": "Published allele-frequency studies of CYP2D6 in European, Asian and African populations",
+      "design": "Review of allele frequencies",
+      "n": "not stated in the abstract",
+      "finding": "Functional alleles are about 71% in European Caucasians, about 50% in Asians and about 50% in Africans and African Americans. Reduced-function alleles are about 35% in African populations (mainly *17); non-functional alleles are 14.5% in African Americans and 6.3% in Africans. Non-functional and reduced-function alleles make up about half of alleles in Black populations, with greater variety.",
+      "source": {
+        "authors": "Bradford LD",
+        "year": 2002,
+        "journal": "Pharmacogenomics",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11972444/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "A 2002 review; Abstract text cut at the last sentence.",
+      "id": "bradford-2002"
+    },
+    {
+      "population": "533 African American adults on stable warfarin (discovery) and 432 (replication)",
+      "design": "Genome-wide association study",
+      "n": 965,
+      "finding": "VKORC1 and CYP2C9 explain less dose variation in people of African descent than in Europeans or Asians. A novel variant in the CYP2C cluster (rs12777823) reached genome-wide significance in the discovery cohort and was confirmed in the replication cohort.",
+      "source": {
+        "authors": "Perera MA, Cavallari LH, Limdi NA, Gamazon ER et al",
+        "year": 2013,
+        "journal": "Lancet",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23755828/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "African American adults; a genetic association, not a trial. The abstract was cut before the effect size on dose.",
+      "id": "perera-2013"
+    }
+  ],
+  "tier": "B",
+  "strength": "moderate",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That ACE inhibitor angioedema is more common in Black patients and linked to genes: a 12,557-person randomised trial, a South African case-control study and a genetic meta-analysis.",
+  "tier_note": "Findings are observational or genetic. The trial reports race as a risk factor; the South African study and the GWAS point to genes. No trial tests gene-guided prescribing in Black patients.",
+  "harm_flag": true,
+  "harm_note": "ACE inhibitor angioedema can threaten the airway (NHS in the UK names throat swelling as an emergency) and appears more often in Black patients (Kostis 2005; Day 2025). It can start years after starting the tablets (Day 2025).",
+  "founder_flag": false,
+  "evidence_summary": "How a medicine behaves depends on genes for the enzymes and targets involved, and on age and allergy history. CYP2D6 versions that slow breakdown are common in Africans and African Americans (about 35% reduced-function). In a 12,557-person trial of enalapril, angioedema was rare (0.68%) but 2.88 times more likely in Black participants. A South African study and a European genome study suggest shared genetic risk. NICE advises considering an ARB over an ACE inhibitor for adults of Black African or African-Caribbean family origin. Warfarin dose needs variants missed in early formulas. The variable is genotype, with ancestry as a stand-in. Reactions are not on you.",
+  "measured_variables": [
+    "CYP2D6, CYP2C9, VKORC1 and CYP2C genotypes",
+    "Bradykinin pathway genes (BDKRB2) in ACE inhibitor angioedema",
+    "History of drug rash, age and seasonal allergies",
+    "Self-identified race in the trial, a stand-in for genes"
+  ],
+  "gaps": "Not found or not opened: whether gene testing before prescribing improves outcomes in Black patients (no trial found); CPIC guidelines for CYP2D6 drugs such as codeine (not opened); the CYP2C19 and clopidogrel question (contested in earlier notes, not covered here); how ARBs compare in angioedema (not covered in my abstracts); advice in countries outside the UK; the full GWAS African-American sample size.",
+  "related": [
+    "high-blood-pressure-in-black-adults",
+    "g6pd-deficiency-what-to-avoid-and-who-carries-it",
+    "kidney-disease-apol1-and-egfr",
+    "being-believed-by-doctors-and-pain"
+  ],
+  "last_checked": "2026-11-16",
+  "sources": [
+    {
+      "authors": "Kostis JB, Kim HJ, Rusnak J, Casale T et al",
+      "year": 2005,
+      "journal": "Archives of Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16043683/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Day C, Mapahla L, Ribeiro M, Deetlefs M et al",
+      "year": 2025,
+      "journal": "Frontiers in Allergy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41189626/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Mathey CM, Maj C, Eriksson N, Krebs K et al",
+      "year": 2024,
+      "journal": "Journal of Allergy and Clinical Immunology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300190/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bradford LD",
+      "year": 2002,
+      "journal": "Pharmacogenomics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11972444/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Perera MA, Cavallari LH, Limdi NA, Gamazon ER et al",
+      "year": 2013,
+      "journal": "Lancet",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23755828/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "NICE NG136, \"Hypertension in adults: diagnosis and management\" (recommendation 1.4.30)",
+      "url": "https://www.nice.org.uk/guidance/ng136/chapter/Recommendations",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    },
+    {
+      "name": "NHS, \"Angioedema\"",
+      "url": "https://www.nhs.uk/conditions/angioedema/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-16"
+    }
+  ]
+}

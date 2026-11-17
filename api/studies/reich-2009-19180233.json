@@ -1,0 +1,30 @@
+{
+  "pmid": "19180233",
+  "slug": "reich-2009-19180233",
+  "citation": {
+    "authors": "Reich D, Nalls MA, Kao WH, Akylbekova EL et al",
+    "year": 2009,
+    "journal": "PLoS Genetics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/19180233/",
+  "page": "https://vilivity.com/studies/reich-2009-19180233/",
+  "cited_by": [
+    {
+      "entry": "low-white-cell-count-duffy-null",
+      "title": "A low white cell count that may be Duffy-null (neutrophil count)",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/low-white-cell-count-duffy-null/",
+      "record": {
+        "id": "reich-2009",
+        "population": "6,005 African Americans from three cohort studies",
+        "n": 6005,
+        "design": "Genetic association analysis",
+        "finding": "The Duffy Null variant (rs2814778) predicted white cell and neutrophil count in African Americans beyond the previously described admixture association, establishing a new phenotype for the variant.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

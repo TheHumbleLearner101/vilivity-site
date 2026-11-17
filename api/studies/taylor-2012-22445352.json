@@ -1,0 +1,30 @@
+{
+  "pmid": "22445352",
+  "slug": "taylor-2012-22445352",
+  "citation": {
+    "authors": "Taylor SM, Parobek CM, Fairhurst RM",
+    "year": 2012,
+    "journal": "Lancet Infectious Diseases"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/22445352/",
+  "page": "https://vilivity.com/studies/taylor-2012-22445352/",
+  "cited_by": [
+    {
+      "entry": "sickle-cell-disease-trait-and-pregnancy",
+      "title": "Sickle cell disease, trait and pregnancy",
+      "module": "body",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/body/sickle-cell-disease-trait-and-pregnancy/",
+      "record": {
+        "id": "taylor-2012",
+        "population": "62 studies of children and pregnant women in malaria regions",
+        "n": "62 studies",
+        "design": "Systematic review and meta-analysis of haemoglobinopathies and malaria",
+        "finding": "Haemoglobin AS (the trait) cut the risk of severe falciparum malaria (odds ratio 0.09, 95% CI 0.06-0.12) and was the only genotype consistently protective against uncomplicated malaria (incidence rate ratio 0.69, 95% CI 0.61-0.79).",
+        "line_tier": "B",
+        "note": "Explains why the gene is common where malaria is, not a benefit for people living elsewhere.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

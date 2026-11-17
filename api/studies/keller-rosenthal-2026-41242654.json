@@ -1,0 +1,30 @@
+{
+  "pmid": "41242654",
+  "slug": "keller-rosenthal-2026-41242654",
+  "citation": {
+    "authors": "Keller-Rosenthal et al",
+    "year": 2026,
+    "journal": "Journal of Investigative Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41242654/",
+  "page": "https://vilivity.com/studies/keller-rosenthal-2026-41242654/",
+  "cited_by": [
+    {
+      "entry": "central-centrifugal-cicatricial-alopecia",
+      "title": "CCCA: scarring hair loss at the crown",
+      "module": "hair",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/hair/central-centrifugal-cicatricial-alopecia/",
+      "record": {
+        "id": "keller-2026",
+        "population": "75 patients with CCCA",
+        "n": 75,
+        "design": "Whole-exome sequencing",
+        "finding": "Nine pathogenic PADI3 variants were found, replicating the earlier signal.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

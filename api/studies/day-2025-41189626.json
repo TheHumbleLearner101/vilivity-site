@@ -1,0 +1,30 @@
+{
+  "pmid": "41189626",
+  "slug": "day-2025-41189626",
+  "citation": {
+    "authors": "Day C, Mapahla L, Ribeiro M, Deetlefs M et al",
+    "year": 2025,
+    "journal": "Frontiers in Allergy"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/41189626/",
+  "page": "https://vilivity.com/studies/day-2025-41189626/",
+  "cited_by": [
+    {
+      "entry": "how-some-medicines-work-differently-by-gene",
+      "title": "How some medicines work differently by gene",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/how-some-medicines-work-differently-by-gene/",
+      "record": {
+        "id": "day-2025",
+        "population": "237 people with ACE inhibitor angioedema and 466 drug-tolerant controls in Cape Town, South Africa",
+        "n": 703,
+        "design": "Case-control cohort study",
+        "finding": "Cases more often had Black genetic ancestry than controls (53% against 29%, P under 0.001). Only 31.1% of angioedema occurred within 30 days of starting, and the median time to angioedema was 6.9 years, so it can start long after starting treatment. The authors describe ACE inhibitors as having proven mortality and morbidity benefit.",
+        "line_tier": "B",
+        "note": "South African data (an African setting, not US); the abstract was cut off before the full risk-factor list.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

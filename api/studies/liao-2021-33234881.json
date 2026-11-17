@@ -1,0 +1,30 @@
+{
+  "pmid": "33234881",
+  "slug": "liao-2021-33234881",
+  "citation": {
+    "authors": "Liao W, Chen C, Wen T, Zhao Q",
+    "year": 2021,
+    "journal": "Journal of Clinical Gastroenterology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33234881/",
+  "page": "https://vilivity.com/studies/liao-2021-33234881/",
+  "cited_by": [
+    {
+      "entry": "probiotics-and-gut-health",
+      "title": "Probiotics and gut health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/probiotics-and-gut-health/",
+      "record": {
+        "id": "liao-2021",
+        "population": "Adults taking antibiotics in 36 randomised, placebo-controlled trials",
+        "n": 9312,
+        "design": "Meta-analysis of probiotics for preventing antibiotic-associated diarrhoea",
+        "finding": "Probiotics reduced antibiotic-associated diarrhoea by 38 per cent (relative risk 0.62, 95% CI 0.51 to 0.74), more when started early. Adverse events were no more common than with placebo (relative risk 1.00).",
+        "line_tier": "B",
+        "note": "Ethnicity not reported in the abstract. One use (antibiotic diarrhoea), which is not the same as everyday gut health.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

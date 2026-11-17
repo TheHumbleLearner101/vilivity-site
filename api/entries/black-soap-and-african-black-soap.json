@@ -1,0 +1,160 @@
+{
+  "slug": "black-soap-and-african-black-soap",
+  "title": "African black soap",
+  "category": "skin",
+  "kind": "practice",
+  "question_forms": [
+    "Is African black soap good for acne or eczema?",
+    "Does black soap lighten dark spots?",
+    "Is real African black soap safe for daily use?",
+    "How do I tell real black soap?"
+  ],
+  "tradition_says": "Made in West Africa (Nigeria, Ghana) from ash-derived alkali and plant oils, black soap is believed to be a gentle, hypoallergenic, antibacterial cleanser that clears acne, fades scars and treats skin disease.",
+  "layer1": {
+    "plain_answer": "Nobody has tested African black soap on acne, eczema or dark marks in people. A dermatologist says it cleans about as well as other soaps, and some people find it drying. Treat it as a cleanser, not a treatment. Whether it helps your skin is untested.",
+    "do": [
+      {
+        "text": "Patch-test a small area first, especially if your skin is dry or sensitive.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"African black soap\" (dermatologist quoted)",
+          "url": "https://health.clevelandclinic.org/african-black-soap",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Start two or three times a week, and moisturise afterwards.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"African black soap\" (dermatologist quoted)",
+          "url": "https://health.clevelandclinic.org/african-black-soap",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Check what is in your bar: the review describes the traditional recipe, not every product sold under the name.",
+        "basis": "tested",
+        "source": "ogunbiyi-2021"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using it as a treatment for acne, eczema or dark marks: no trial found.",
+        "basis": "tested",
+        "source": "pubmed-2026"
+      },
+      {
+        "text": "Using it with chemical exfoliants, or if you have eczema, or dandruff.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"African black soap\" (dermatologist quoted)",
+          "url": "https://health.clevelandclinic.org/african-black-soap",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Carrying on if skin turns red or stings: switch brand or stop.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"African black soap\" (dermatologist quoted)",
+          "url": "https://health.clevelandclinic.org/african-black-soap",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Believing a lightening or scar-fading claim on the label.",
+        "basis": "tested",
+        "source": "ogunbiyi-2021b"
+      }
+    ],
+    "see_someone_when": [
+      "Skin that was fine becomes sore, red or flaky after using it (doctor or dermatologist).",
+      "Eczema, acne or a rash is not improving after a few weeks (doctor or dermatologist).",
+      "Dark marks are spreading or you are tempted to lighten skin (see skin lightening entry; dermatologist)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Review of physical, chemical and plant-chemical properties (West Africa focus)",
+      "design": "Narrative review of African black soap",
+      "n": "not stated",
+      "finding": "Traditional black soap is made from ash-derived alkali and plant oils. It is described as gentle, super-fatted and hypoallergenic and advertised as antimicrobial, anti-acne, exfoliating, toning and scar-fading, but the authors say some claims remain anecdotal. Studies have shown it has antimicrobial properties against Staphylococcal and some Streptococcal organisms (in the laboratory, per the authors' wording 'studies have shown').",
+      "source": {
+        "authors": "Ogunbiyi A, Enechukwu NA",
+        "year": 2021,
+        "journal": "Dermatologic Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33571401/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "C",
+      "note": "A review; the antimicrobial studies it cites were not opened by me. The 12 Nov research file (agent4) identified no human trial.",
+      "id": "ogunbiyi-2021"
+    },
+    {
+      "population": "Human trials of African black soap on skin conditions",
+      "design": "PubMed searches 'African black soap', 'Ogunbiyi black soap dermatology', 'black soap skin Nigeria antimicrobial'",
+      "n": 0,
+      "finding": "My search found one review (Ogunbiyi 2021) and no human trial; the other hits were unrelated. The 12 Nov research file counted 13 PubMed papers with no trials.",
+      "source": {
+        "authors": "PubMed search, 12 Nov 2026",
+        "year": 2026,
+        "journal": "not applicable",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=African+black+soap"
+      },
+      "tag": "[primary]",
+      "line_tier": "D",
+      "id": "pubmed-2026"
+    },
+    {
+      "population": "Survey of skin-lightening practices (context)",
+      "design": "See skin lightening entry",
+      "n": "not applicable",
+      "finding": "Black soap is sometimes sold or marketed as lightening or scar-fading. Nothing in the sources opened shows it lightens skin; it is a claim to treat with caution given the harms in the skin lightening entry.",
+      "source": {
+        "authors": "Ogunbiyi A, Enechukwu NA",
+        "year": 2021,
+        "journal": "Dermatologic Therapy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33571401/"
+      },
+      "tag": "[commentary]",
+      "line_tier": "D",
+      "note": "Product-level claim: commercial products sold as 'black soap' vary; the review describes the traditional recipe only.",
+      "id": "ogunbiyi-2021b"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "Whether African black soap helps acne, eczema or dark marks: no human trial found.",
+  "tier_note": "D because the claim people care about (that it treats acne, eczema or marks) has no human study in my search; the lab antimicrobial work is a C line and does not count for that claim. Moves to A or B if a trial tests it on skin conditions.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found in my search. The review notes the soap's alkali comes from ash and that eczema care in sub-Saharan Africa lacks affordable cleansers with skin-friendly pH, which implies pH matters; I did not find a study of black soap's pH or irritation. A gap, not a finding.",
+  "founder_flag": false,
+  "evidence_summary": "Traditional African black soap has laboratory evidence of activity against some skin bacteria, and a review in a dermatology journal says some of the claims made for it remain anecdotal. My search found no trial of it on acne, eczema, marks or scars in people. Whether it helps or irritates your skin is untested.",
+  "measured_variables": [
+    "None tested in people",
+    "Soap pH and irritation were not measured in any source I read"
+  ],
+  "gaps": "Untested: effect on acne, eczema, scars or pigmentation in people; irritation and pH of the traditional bar; differences between traditional and commercial black soaps; effect on the skin barrier in dry or ashy skin (see moisturising entry). The antimicrobial studies the review cites were not opened by me. UNVERIFIED beyond the review's own summary.",
+  "related": [
+    "shea-butter",
+    "moisturising-and-ashy-skin",
+    "skin-lightening-creams"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Ogunbiyi A, Enechukwu NA",
+      "year": 2021,
+      "journal": "Dermatol Ther",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33571401/",
+      "tag": "[commentary]"
+    },
+    {
+      "name": "Cleveland Clinic, \"African black soap\" (dermatologist quoted)",
+      "url": "https://health.clevelandclinic.org/african-black-soap",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

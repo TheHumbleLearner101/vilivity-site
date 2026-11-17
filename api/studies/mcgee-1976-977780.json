@@ -1,0 +1,30 @@
+{
+  "pmid": "977780",
+  "slug": "mcgee-1976-977780",
+  "citation": {
+    "authors": "McGee J, Patrick RS, Wood CB, Blumgart LH",
+    "year": 1976,
+    "journal": "Journal of Clinical Pathology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/977780/",
+  "page": "https://vilivity.com/studies/mcgee-1976-977780/",
+  "cited_by": [
+    {
+      "entry": "bush-teas-cerasee-bitter-leaf-and-medicines",
+      "title": "Bush teas and herbal remedies (cerasee, bitter leaf) with medicines",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bush-teas-cerasee-bitter-leaf-and-medicines/",
+      "record": {
+        "id": "mcgee-1976",
+        "population": "One young woman in Britain with liver disease linked to a herbal tea",
+        "n": "1 patient",
+        "design": "Case report with liver biopsy and necropsy",
+        "finding": "Veno-occlusive disease of the liver, similar to the condition occurring in the Caribbean, was diagnosed. Small amounts of pyrrolizidine alkaloids were recovered from the mate tea she drank heavily for years, and it seems probable that this caused the disease.",
+        "line_tier": "B",
+        "note": "A case report about mate tea, not a Caribbean bush tea; it shows the mechanism, not a risk figure.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

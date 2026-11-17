@@ -1,0 +1,30 @@
+{
+  "pmid": "35793817",
+  "slug": "valbuena-2022-35793817",
+  "citation": {
+    "authors": "Valbuena VSM, Seelye S, Sjoding MW, Valley TS et al",
+    "year": 2022,
+    "journal": "BMJ"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35793817/",
+  "page": "https://vilivity.com/studies/valbuena-2022-35793817/",
+  "cited_by": [
+    {
+      "entry": "pulse-oximeters-and-dark-skin",
+      "title": "Pulse oximeters and dark skin",
+      "module": "body",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/body/pulse-oximeters-and-dark-skin/",
+      "record": {
+        "id": "valbuena-2022",
+        "population": "30,039 paired readings in general-care inpatients, Veterans Health Administration, 2013-2019 (21.6% from non-Hispanic Black patients)",
+        "n": 30039,
+        "design": "Multicentre retrospective cohort comparing pulse oximetry (SpO2) with arterial blood gas (SaO2) within 10 minutes",
+        "finding": "Among SpO2 readings of 92% or more, the unadjusted probability of occult hypoxaemia (SaO2 below 88%) was 15.6% in white patients and 19.6% in black patients (P<0.001, similar in adjusted models). The authors say this could limit access to oxygen and other treatment for black patients.",
+        "line_tier": "B",
+        "note": "US veterans, mostly white; race from records; skin tone itself was not measured.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

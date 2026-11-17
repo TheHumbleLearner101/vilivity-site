@@ -1,0 +1,30 @@
+{
+  "pmid": "29457272",
+  "slug": "kaufman-2018-29457272",
+  "citation": {
+    "authors": "Kaufman BP, Guttman-Yassky E, Alexis AF",
+    "year": 2018,
+    "journal": "Experimental Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/29457272/",
+  "page": "https://vilivity.com/studies/kaufman-2018-29457272/",
+  "cited_by": [
+    {
+      "entry": "eczema-on-dark-skin",
+      "title": "Eczema on dark skin (atopic eczema, including babies)",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/eczema-on-dark-skin/",
+      "record": {
+        "id": "kaufman-2018",
+        "population": "Literature on atopic dermatitis in non-White groups",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Atopic dermatitis occurs more often in Asian and Black people than in White people, studies are mostly in people of European ancestry, and the clinical features in non-White groups are underappreciated. The abstract does not list the features.",
+        "line_tier": "B",
+        "note": null,
+        "tag": "[review]"
+      }
+    }
+  ]
+}

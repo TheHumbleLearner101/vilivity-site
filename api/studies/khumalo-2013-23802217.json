@@ -1,0 +1,30 @@
+{
+  "pmid": "23802217",
+  "slug": "khumalo-2013-23802217",
+  "citation": {
+    "authors": "Khumalo NP, Gantsho N",
+    "year": 2013,
+    "journal": "South African Medical Journal"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23802217/",
+  "page": "https://vilivity.com/studies/khumalo-2013-23802217/",
+  "cited_by": [
+    {
+      "entry": "mens-hair-waves-fades-and-durags",
+      "title": "Men's afro hair: waves, fades, durags and the nape",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-hair-waves-fades-and-durags/",
+      "record": {
+        "id": "khumalo-chiskop-2013",
+        "population": "390 HIV-positive South African men, clinic",
+        "n": 390,
+        "design": "Prevalence survey of clean-shave haircut bleeding and folliculitis keloidalis nuchae",
+        "finding": "Haircut-associated bleeding and FKN were studied in men who wear the very close \"chiskop\" haircut; FKN prevalence was similar to published population data. The abstract is truncated beyond that in the record read.",
+        "line_tier": "B",
+        "note": "Only the first part of the abstract was read; the bleeding result is not quoted.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

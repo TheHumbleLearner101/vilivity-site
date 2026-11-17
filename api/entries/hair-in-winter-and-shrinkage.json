@@ -1,0 +1,154 @@
+{
+  "slug": "hair-in-winter-and-shrinkage",
+  "title": "Winter care and shrinkage for coily hair",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "How do I care for 4c hair in winter?",
+    "Why does my hair shrink and is shrinkage a problem?",
+    "Why is my hair drier and breaking in winter?",
+    "Do hats damage my hair in winter?"
+  ],
+  "tradition_says": "Coily hair is said to dry out and break more in cold, dry weather, and shrinkage, hair springing up much shorter than its stretched length, is widely seen as a sign of healthy, moisturised hair.",
+  "layer1": {
+    "plain_answer": "No study has tested winter care or shrinkage in coily hair. General dermatology advice for winter applies: keep hair moisturised, air dry when you can, limit heat, and space out chemical services. Shrinkage is simply how tightly coiled hair behaves; I found nothing saying it is a problem or a sign of health.",
+    "do": [
+      {
+        "text": "Keep hair moisturised in dry winter air: conditioner suited to your hair, a leave-in and, if you like, a hot oil treatment.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+          "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Air dry when you can and wait until hair is less damp before combing, because wet hair is more fragile.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+          "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Limit heat and chemicals, and space colour, perms or straightening out to eight to 10 weeks or longer in dry winter months.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+          "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Skip rubber-based bands and avoid tight buns or braids, which cause breakage.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+          "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Condition at every wash, concentrating on the ends, and use a hot oil treatment about twice a month.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Rubber bands and very tight updos under hats.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+          "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Frequent iron or dryer heat on dry winter hair.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+          "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Treating shrinkage as damage or as proof of health: no source opened says either.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "Breaking, thinning or a sore, flaky or itchy scalp that does not settle (doctor or dermatologist; see the scalp and breakage entries).",
+      "A change in texture or appearance of your hair, even slight thinning (dermatologist: the AAD says earlier diagnosis means better treatment)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "Winter care and shrinkage",
+      "design": "PubMed searches 12 Nov 2026: (hair shrinkage) AND (afro OR \"African hair\" OR curly), 0 hits; (winter OR \"cold weather\" OR \"low humidity\") AND hair AND (afro OR \"African hair\" OR curly) AND (breakage OR moisture), 3 hits, titles read, all lab studies of curl and hair fibre, none of weather or care. Positive control: (traction alopecia) AND children, 55 hits.",
+      "n": 0,
+      "finding": "My search found nothing: no study of winter weather and hair breakage in coily hair, and no study of shrinkage as a health sign.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hair+shrinkage%29+AND+%28afro+OR+%22African+hair%22+OR+curly%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "no-winter-study"
+    }
+  ],
+  "tier": "D",
+  "strength": "none",
+  "tier_driver": "That coily hair needs different care in winter, or that shrinkage means anything about health: no human study found. The winter lines are general dermatology advice.",
+  "tier_note": "D because the claims people make about winter dryness and shrinkage have no human study in my search. The guidance used (Cleveland Clinic quoting the AAD, and the AAD page on Black hair) is general or about relaxed and pressed hair; the Cleveland Clinic page does not address curly, coily or Black hair specifically. A trial of moisturising or styling routines through the seasons in coily hair would move it.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found for these routine steps in my search.",
+  "founder_flag": false,
+  "evidence_summary": "My searches found no study of winter weather and hair in coily hair, and none of shrinkage. A Cleveland Clinic article (January 2021, citing dermatologist Wilma Bergfeld and the AAD) advises keeping hair moisturised, air drying, limiting heat, spacing chemical services to eight to 10 weeks or longer in dry months, and avoiding rubber bands and tight buns or braids; it does not address coily hair specifically. The AAD page on Black hair advises conditioning at every wash, a hot oil treatment twice a month and pressing no more than weekly; it does not mention winter or shrinkage.",
+  "measured_variables": [
+    "Season, humidity and hair breakage were not measured in coily hair in any study I found"
+  ],
+  "gaps": "Untested: any winter routine in coily hair; whether shrinkage is linked to moisture, curl or breakage; humidity and curl. Twist-out, braid-out and wash-and-go technique: no clinical source opened (see the wash day entry). The Cleveland Clinic page is dated 2021 and names no author or reviewer beyond the quoted dermatologist.",
+  "related": [
+    "wash-day-routine-for-4c-hair",
+    "hair-breakage-and-length-retention",
+    "hair-porosity-and-moisture"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "This bank, 12 Nov 2026",
+      "year": 2026,
+      "journal": "PubMed search",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28hair+shrinkage%29+AND+%28afro+OR+%22African+hair%22+OR+curly%29",
+      "tag": "[review]"
+    },
+    {
+      "name": "Cleveland Clinic, \"How to Keep Your Hair Healthy This Winter\" (Jan 2021; quotes dermatologist Wilma Bergfeld and the AAD; not specific to coily hair)",
+      "url": "https://health.clevelandclinic.org/your-best-strategies-for-beautiful-hair-in-the-winter",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: Tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

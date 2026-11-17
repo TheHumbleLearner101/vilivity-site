@@ -1,0 +1,339 @@
+{
+  "slug": "central-centrifugal-cicatricial-alopecia",
+  "title": "CCCA: scarring hair loss at the crown",
+  "category": "hair",
+  "kind": "condition",
+  "question_forms": [
+    "What is central scarring alopecia (CCCA) and how is it treated?"
+  ],
+  "tradition_says": "Thinning at the crown is often put down to relaxers, hot combs or tight styles, or treated at home with oils and moisture. It is rarely named as a medical condition.",
+  "layer1": {
+    "plain_answer": "CCCA is a scarring hair loss that starts as a thin patch at the crown and spreads outwards. It mostly affects women of African descent and men can have it. Scarred follicles do not regrow, so treatment aims to stop it spreading. The earlier a dermatologist sees it, the more hair is kept.",
+    "do": [
+      {
+        "text": "See a dermatologist early; the BAD says early assessment and treatment matter most.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Ask about a scalp biopsy if the diagnosis is unclear.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Reduce heat styling, tight styles and hardening gels or sprays; relax professionally no more than every 6 to 8 weeks.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Protect bald areas from the sun.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Do not ignore pain, tenderness or pimples caused by a hairstyle; remove or adjust the style.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Quick-fix online products for crown thinning.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Relying on over-the-counter minoxidil alone: a Black Health article attributes to the AAD that it cannot stop CCCA.",
+        "basis": "common advice, untested",
+        "source": {
+          "name": "Black Health (blackhealth.org), \"Hair loss in Black women: CCCA\", updated July 2026 (a US advocacy site; the page carries a sponsored telehealth promotion; it attributes its minoxidil statement to the AAD, whose page was not opened)",
+          "url": "https://www.blackhealth.org/articles/hair-loss-black-women-ccca/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leaving a pulling style in while the scalp stings.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+          "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+          "opened": "2026-11-12"
+        }
+      }
+    ],
+    "see_someone_when": [
+      "A thin patch at the crown that is slowly growing, or breakage at the crown (dermatologist, soon).",
+      "A shiny scalp with no visible hair openings (dermatologist soon).",
+      "Burning, itch, tingling or soreness at the crown (doctor or dermatologist).",
+      "Hair thinning in a man at the crown with itch (dermatologist; men get CCCA too)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "326 African American women at churches and a health fair, Cleveland",
+      "design": "Cross-sectional survey with clinical scoring",
+      "n": 326,
+      "finding": "28% scored as clinically evident central hair loss. Traction-associated hairstyles (braids and weaves) were associated with central scarring hair loss (P=.02), as were bacterial scalp infections and type 2 diabetes.",
+      "source": {
+        "authors": "Kyei A, Bergfeld WF, Piliang M, Summers P",
+        "year": 2011,
+        "journal": "Archives of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21482861/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Survey at two churches and a health fair: not a population prevalence.",
+      "id": "kyei-2011"
+    },
+    {
+      "population": "Patients with CCCA, two sets",
+      "design": "Exome sequencing and replication",
+      "n": "not stated",
+      "finding": "PADI3 variants were found in 5 of 16 patients (31%) in the discovery set and in 9 of 42 in the replication set. Disease prevalence is given as up to 5.6%.",
+      "source": {
+        "authors": "Malki L et al",
+        "year": 2019,
+        "journal": "New England Journal of Medicine",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30763140/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Funded by the Ram Family Foundation and others (per the 12 Nov baseline file).",
+      "id": "malki-2019"
+    },
+    {
+      "population": "75 patients with CCCA",
+      "design": "Whole-exome sequencing",
+      "n": 75,
+      "finding": "Nine pathogenic PADI3 variants were found, replicating the earlier signal.",
+      "source": {
+        "authors": "Keller-Rosenthal et al",
+        "year": 2026,
+        "journal": "Journal of Investigative Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41242654/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "id": "keller-2026"
+    },
+    {
+      "population": "8 African American women with no clinical hair loss who used chemical or heat straighteners",
+      "design": "Prospective scalp biopsy (4 mm punch)",
+      "n": 8,
+      "finding": "Every biopsy showed inflammation around the follicle opening and a ring of fibrosis, with no follicle loss. The authors say these are findings characteristic of CCCA and suggest a histological prelude, and that CCCA may be a common pathway of inflammation and scarring that traumatic hairstyling can set off in genetically predisposed people.",
+      "source": {
+        "authors": "Uhlenhake E, Mehregan DR",
+        "year": 2013,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23452029/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Eight women, no comparison group: cannot show that styling caused the changes.",
+      "id": "uhlenhake-2013"
+    },
+    {
+      "population": "Review of scarring alopecias",
+      "design": "Narrative review of treatments",
+      "n": "not stated",
+      "finding": "There are no FDA-approved therapies for primary scarring alopecias; all treatments are off label. Lymphocytic types including CCCA may respond to immunomodulatory agents, and the aims are to halt inflammation, relieve symptoms and preserve follicles. Minoxidil and similar agents are used as camouflage.",
+      "source": {
+        "authors": "Ajmani S, Klufas D et al",
+        "year": 2026,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43009060/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Review of treatments used; the abstract does not report a randomised trial for CCCA.",
+      "id": "ajmani-2026"
+    },
+    {
+      "population": "Review of 15 primary studies, 2015 to 2025",
+      "design": "Narrative literature review",
+      "n": 15,
+      "finding": "CCCA mostly presents as progressive thinning of the central scalp, may resemble androgenetic alopecia or alopecia areata, and is underrecognised and often misdiagnosed. Dermoscopy and biopsy remain important.",
+      "source": {
+        "authors": "Persson et al",
+        "year": 2026,
+        "journal": "Cureus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42910370/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "persson-2026"
+    },
+    {
+      "population": "17 men with biopsy-confirmed CCCA, one US academic centre, 2012 to 2022",
+      "design": "Case series",
+      "n": 17,
+      "finding": "Average age 43; 88.2% identified as Black. Scalp itch was the commonest symptom; few reported high-risk hair practices; none had type 2 diabetes. The authors say CCCA should be considered in adult Black men with hair loss.",
+      "source": {
+        "authors": "Jackson et al",
+        "year": 2023,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37495175/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Single-centre, retrospective, small.",
+      "id": "jackson-2023"
+    },
+    {
+      "population": "CCCA treatment",
+      "design": "PubMed search 12 Nov 2026: (central centrifugal cicatricial alopecia) AND randomized controlled trial[Publication Type]; 3 hits, 1 relevant (David 2025, below); 283 hits without the trial filter (positive control).",
+      "n": 0,
+      "finding": "A review found in the search (Ajmani 2026) states there are no FDA-approved therapies for scarring alopecias and that all are used off label. The only randomised trial my search found that enrolled CCCA patients is a mixed-scarring-alopecia phase 2a trial (David 2025); my search found no CCCA-only randomised treatment trial.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28central+centrifugal+cicatricial+alopecia%29+AND+randomized+controlled+trial%5BPublication+Type%5D"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "ccca-trial"
+    },
+    {
+      "population": "Adults with lichen planopilaris, frontal fibrosing alopecia or central centrifugal cicatricial alopecia (how many had CCCA is not stated in the abstract)",
+      "design": "Randomised, placebo-controlled phase 2a trial, 3:1 to brepocitinib 45 mg daily or placebo for 24 weeks, then all on drug to 48 weeks",
+      "n": "not stated in the abstract",
+      "finding": "Brepocitinib significantly lowered lesional CCL5 expression at week 24 (P=.004), was well tolerated and improved clinical severity scores. Coprimary endpoints were biomarkers and safety, not hair regrowth. The authors list a single dose and a small placebo group as limitations.",
+      "source": {
+        "authors": "David E, Shokrian N, Del Duca E, Meariman M et al",
+        "year": 2025,
+        "journal": "Journal of the American Academy of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39461505/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Mixed scarring alopecias, an experimental drug, biomarker endpoints; not evidence about what to do for CCCA today. Added after the 12 Nov fact-check search.",
+      "id": "david-2025"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That CCCA is a distinct scarring condition in women of African descent with a genetic share, treated off label to halt it: genetic studies, biopsies, surveys and reviews.",
+  "tier_note": "Observational and small genetic samples; my search found one small randomised phase 2a trial of an experimental drug across scarring alopecias including CCCA (David 2025, biomarker endpoints) and no CCCA-only treatment trial. Thin because the evidence is a few small studies, case series and reviews.",
+  "harm_flag": true,
+  "harm_note": "CCCA scars follicles and causes permanent hair loss (BAD leaflet); Kyei 2011 found scarring hair loss in 28% of 326 women surveyed.",
+  "founder_flag": false,
+  "evidence_summary": "In a survey of 326 African American women, 28% had central hair loss and traction hairstyles, bacterial scalp infection and type 2 diabetes were associated with scarring (Kyei 2011; not a population prevalence). PADI3 gene variants were found in 5 of 16 patients (31%) in the first discovery set (Malki 2019) and in nine variants across 75 patients (Keller-Rosenthal 2026). A biopsy study of 8 women with no hair loss found follicle-level inflammation and fibrosis, which the authors read as a possible prelude (Uhlenhake 2013). A 17-man case series says CCCA should be considered in Black men with hair loss (Jackson 2023). A 2026 review states all treatments are off label and that earlier detection helps (Ajmani; Persson). The British leaflet lists steroids, antibiotics, hydroxychloroquine and minoxidil and says response takes at least six months.",
+  "measured_variables": [
+    "PADI3 genotype",
+    "Follicle scarring on biopsy",
+    "Hair care practices (self-reported)"
+  ],
+  "gaps": "Untested: whether relaxers, heat or braids cause CCCA (associations only); treatment by CCCA-only randomised trial (David 2025 mixed three scarring alopecias with biomarker endpoints); what stops progression best. Causes not fully known (BAD). Prevalence figures come from single surveys.",
+  "related": [
+    "traction-alopecia-and-protective-styles",
+    "chemical-relaxers",
+    "finding-a-hair-and-scalp-specialist",
+    "mens-hair-loss-and-hair-transplants"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Kyei A et al",
+      "year": 2011,
+      "journal": "Archives of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21482861/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Malki L et al",
+      "year": 2019,
+      "journal": "New England Journal of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30763140/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Keller-Rosenthal et al",
+      "year": 2026,
+      "journal": "Journal of Investigative Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41242654/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Uhlenhake E et al",
+      "year": 2013,
+      "journal": "International Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23452029/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Ajmani S et al",
+      "year": 2026,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43009060/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Persson et al",
+      "year": 2026,
+      "journal": "Cureus",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910370/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "David E et al",
+      "year": 2025,
+      "journal": "J Am Acad Dermatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39461505/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Jackson et al",
+      "year": 2023,
+      "journal": "Journal of the American Academy of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37495175/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Central centrifugal cicatricial alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/central-centrifugal-cicatricial-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "Black Health (blackhealth.org), \"Hair loss in Black women: CCCA\", updated July 2026 (a US advocacy site; the page carries a sponsored telehealth promotion; it attributes its minoxidil statement to the AAD, whose page was not opened)",
+      "url": "https://www.blackhealth.org/articles/hair-loss-black-women-ccca/",
+      "tag": "[commentary]",
+      "role": "practical advice (common advice, untested)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Traction alopecia\"",
+      "url": "https://www.skinhealthinfo.org.uk/condition/traction-alopecia/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

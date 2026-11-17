@@ -1,0 +1,30 @@
+{
+  "pmid": "38033739",
+  "slug": "asante-2023-38033739",
+  "citation": {
+    "authors": "Asante DB, Wiafe GA",
+    "year": 2023,
+    "journal": "Journal of Diabetes Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38033739/",
+  "page": "https://vilivity.com/studies/asante-2023-38033739/",
+  "cited_by": [
+    {
+      "entry": "bush-teas-cerasee-bitter-leaf-and-medicines",
+      "title": "Bush teas and herbal remedies (cerasee, bitter leaf) with medicines",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/bush-teas-cerasee-bitter-leaf-and-medicines/",
+      "record": {
+        "id": "asante-2023",
+        "population": "Diabetic rodents and cell and tissue models (preclinical review)",
+        "n": "not applicable",
+        "design": "Narrative review of preclinical studies of Vernonia amygdalina (bitter leaf) in diabetes",
+        "finding": "The review calls bitter leaf potently antidiabetic in preclinical work and appraises the evidence for future research. All the studies discussed are in animals and cells.",
+        "line_tier": "C",
+        "note": "Preclinical only. My PubMed search for bitter leaf and diabetes in humans returned no human trial. It says nothing about safe amounts or interactions in people.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

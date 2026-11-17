@@ -1,0 +1,230 @@
+{
+  "slug": "heat-styling-silk-press-and-smoothing-treatments",
+  "title": "Heat, silk press, keratin treatments and colour",
+  "category": "hair",
+  "kind": "practice",
+  "question_forms": [
+    "Is a silk press or blow-out safe for natural hair?",
+    "Are keratin and Brazilian blowout treatments safe for Black hair?"
+  ],
+  "tradition_says": "A silk press is a way to wear coily hair straight without a relaxer, and keratin or Brazilian smoothing treatments are sold as smoothing and safe. Many believe colouring or bleaching tightly coiled hair is bound to ruin it.",
+  "layer1": {
+    "plain_answer": "Heat damage on afro hair has not been measured in people. Dermatologists advise a heat protectant, the lowest setting that works and no more than one press a week. One small survey links frequent heat to hairline loss. Keratin smoothing products can release formaldehyde; bleaching and dyeing damage the hair surface whatever your curl.",
+    "do": [
+      {
+        "text": "Use a heat protectant on wet hair and the lowest setting that gets the style.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Press or heat-straighten no more than once a week, with a ceramic iron or comb with a dial.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+          "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Leave about two weeks between relaxing and dyeing or heat straightening.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Limit heat on natural hair left out around extensions.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Know that bleaching and dyeing caused cuticle wear and protein loss in lab samples whatever the curliness.",
+        "basis": "tested",
+        "source": "bloch-2019"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Heat-styling many times a month: higher odds of hairline recession in 197 Ghanaian women.",
+        "basis": "tested",
+        "source": "ayugane-2026"
+      },
+      {
+        "text": "Stacking relaxing, heat and braiding within a short time.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+          "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Keratin smoothing in a poorly ventilated space: simulated salon air held formaldehyde.",
+        "basis": "tested",
+        "source": "pierce-2011"
+      }
+    ],
+    "see_someone_when": [
+      "Hair breaking, thinning or scalp burns after a treatment (dermatologist or doctor).",
+      "Hairline or crown thinning (dermatologist).",
+      "Eye, nose or breathing irritation during or after a smoothing treatment (doctor)."
+    ]
+  },
+  "tested": [
+    {
+      "population": "197 Ghanaian women, mean age 23, hairline status scored on the Marginal Traction Alopecia Score",
+      "design": "Cross-sectional survey, logistic regression",
+      "n": 197,
+      "finding": "40.6% had hairline recession consistent with traction alopecia. More than two high-frequency heat-styling sessions a month was associated with higher odds (adjusted odds ratio 5.65, 95% CI 1.35-23.62). Keeping one hairstyle for over 6 weeks showed higher estimated odds that were not significant (1.81, 95% CI 0.59-5.60).",
+      "source": {
+        "authors": "Ayugane et al",
+        "year": 2026,
+        "journal": "Health Science Reports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953661/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Small, self-reported, wide confidence intervals.",
+      "id": "ayugane-2026"
+    },
+    {
+      "population": "Caucasian (straight, wavy, curly) and Afro-ethnic hair tresses",
+      "design": "Laboratory comparison of bleaching or dyeing, thioglycolate straightening, brushing with a flat iron, and UVA/visible light",
+      "n": "not stated",
+      "finding": "Bleaching, dyeing and UV light increased the combing work of afro-ethnic tresses, indicating cuticle damage confirmed by electron microscopy. Bleaching and dyeing caused wear on cuticles with high protein loss whatever the curliness. Thioglycolate straightening faded brown and black tresses.",
+      "source": {
+        "authors": "Bloch et al",
+        "year": 2019,
+        "journal": "Journal of the European Academy of Dermatology and Venereology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31237371/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Hair samples, not people. The abstract does not report a result for flat-iron heat alone.",
+      "id": "bloch-2019"
+    },
+    {
+      "population": "Four professional keratin smoothing products applied to wigs on mannequins in a simulated salon",
+      "design": "Air sampling, 88 samples",
+      "n": 88,
+      "finding": "Airborne formaldehyde averaged 0.08 to 3.47 ppm during blow-drying and 0.08 to 1.05 ppm during flat-ironing. Bulk samples held 11.5% formaldehyde in Brazilian Blowout, 8.3% in Global Keratin, 3% in Coppola and 0% in La Brasiliana, and other products that break down into formaldehyde were found in three of the four.",
+      "source": {
+        "authors": "Pierce JS et al",
+        "year": 2011,
+        "journal": "Journal of Occupational and Environmental Hygiene",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22035353/"
+      },
+      "tag": "[primary]",
+      "line_tier": "C",
+      "note": "Simulation on wigs; exposure of salon workers and clients, not a health outcome.",
+      "id": "pierce-2011"
+    },
+    {
+      "population": "8 African American women with no clinical hair loss who used chemical or heat straighteners",
+      "design": "Prospective scalp biopsy (4 mm punch)",
+      "n": 8,
+      "finding": "Every biopsy showed inflammation around the follicle opening and a ring of fibrosis, with no follicle loss. The authors say these are findings characteristic of CCCA and suggest a histological prelude, and that CCCA may be a common pathway of inflammation and scarring that traumatic hairstyling can set off in genetically predisposed people.",
+      "source": {
+        "authors": "Uhlenhake E, Mehregan DR",
+        "year": 2013,
+        "journal": "International Journal of Dermatology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23452029/"
+      },
+      "tag": "[primary]",
+      "line_tier": "B",
+      "note": "Eight women, no comparison group: cannot show that styling caused the changes.",
+      "id": "uhlenhake-2013"
+    },
+    {
+      "population": "Heat on afro hair",
+      "design": "PubMed search run 12 Nov 2026, exact string: (\"flat iron\" OR \"hot comb\" OR \"heat straightening\" OR \"silk press\") AND hair AND (damage OR alopecia) AND (African American OR afro-textured OR Black) (result count 12).",
+      "n": 0,
+      "finding": "My search found nothing relevant: the string returned 12 results: I read all 12 titles: CCCA and hot comb alopecia papers (1968 to 2022) and the lab study on Caucasian and Afro-ethnic hair fibre (PMID 31237371); no human study that measures heat damage from a flat iron or silk press on afro hair. Control: PubMed search \"Khumalo NP AND hair\" returned 71 results on the same day. Earlier note kept: My search found nothing: no human study measures heat damage on afro hair; the lab study (Bloch 2019) did not report a flat-iron-only result in its abstract.",
+      "source": {
+        "authors": "This bank, 12 Nov 2026",
+        "year": 2026,
+        "journal": "PubMed search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28%22flat+iron%22+OR+%22hot+comb%22+OR+%22heat+straightening%22+OR+%22silk+press%22%29+AND+hair+AND+%28damage+OR+alopecia%29+AND+%28African+American+OR+afro-textured+OR+Black%29"
+      },
+      "tag": "[review]",
+      "line_tier": "D",
+      "id": "heat-afro"
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_variant": "observational-black-population",
+  "tier_driver": "That frequent heat styling goes with hairline recession in African women (one small survey), and that keratin products release formaldehyde in a salon simulation.",
+  "tier_note": "One small cross-sectional survey of 197 women; silk-press safety itself is untested. Lab and simulation lines are C.",
+  "harm_flag": true,
+  "harm_note": "Formaldehyde: 0.08 to 3.47 ppm in air during blow-drying of keratin products on wigs (Pierce 2011); bulk samples held up to 11.5% (Brazilian Blowout). Heat: odds of hairline recession 5.65 with more than two sessions a month (Ayugane 2026). FDA regulatory status was not verified (its page returned 404).",
+  "founder_flag": false,
+  "evidence_summary": "A 2026 survey of 197 Ghanaian women linked frequent heat to hairline recession (Ayugane). In the lab, bleaching, dyeing and UV raised combing work and caused cuticle wear in afro-ethnic tresses, and straightening with ammonium thioglycolate faded brown and black hair (Bloch 2019). In a salon simulation on wigs, keratin products released formaldehyde into the air (Pierce 2011); some labels listed no formaldehyde yet contained products that break down into it. In 8 women who used chemical or heat straighteners, biopsies showed follicle inflammation and fibrosis with no hair loss (Uhlenhake 2013). Cancer and fibroid links for relaxers are in the chemical relaxers entry.",
+  "measured_variables": [
+    "Heat sessions a month",
+    "Hair fibre cuticle damage (lab)"
+  ],
+  "gaps": "Untested: silk-press damage in people; how often is safe; colour and bleach routines (now their own entry, colouring-and-bleaching-textured-hair); health effects of keratin products for clients (exposure measured, outcomes not). Not verified: the FDA (US) formaldehyde rule status.",
+  "related": [
+    "chemical-relaxers",
+    "traction-alopecia-and-protective-styles",
+    "hair-breakage-and-length-retention",
+    "colouring-and-bleaching-textured-hair",
+    "relaxer-texturiser-perm-and-keratin-differences"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Ayugane et al",
+      "year": 2026,
+      "journal": "Health Science Reports",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953661/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Bloch et al",
+      "year": 2019,
+      "journal": "Journal of the European Academy of Dermatology and Venereology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31237371/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Pierce JS et al",
+      "year": 2011,
+      "journal": "Journal of Occupational and Environmental Hygiene",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22035353/",
+      "tag": "[primary]"
+    },
+    {
+      "authors": "Uhlenhake E et al",
+      "year": 2013,
+      "journal": "International Journal of Dermatology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23452029/",
+      "tag": "[primary]"
+    },
+    {
+      "name": "American Academy of Dermatology, \"Black hair: tips for everyday care\"",
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "name": "British Association of Dermatologists, patient leaflet \"Caring for Afro-textured hair\" (July 2023)",
+      "url": "https://www.skinhealthinfo.org.uk/condition/caring-for-afro-textured-hair/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

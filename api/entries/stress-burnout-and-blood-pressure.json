@@ -1,0 +1,197 @@
+{
+  "slug": "stress-burnout-and-blood-pressure",
+  "title": "Stress, burnout and blood pressure",
+  "category": "mind",
+  "kind": "practice",
+  "question_forms": [
+    "How do I manage stress and burnout?",
+    "Does stress raise blood pressure in Black adults?",
+    "Can stress relief lower blood pressure?",
+    "What is burnout and is it more common in Black workers?"
+  ],
+  "tradition_says": "Many families say stress is a fact of life and that rest, church or community will carry you through.",
+  "layer1": {
+    "plain_answer": "Reported discrimination is linked to a higher chance of high blood pressure, but the link is small and not proven to be cause. Stress relief such as meditation may add to treatment, not replace it. If stress is wearing you down, talk to someone and get your blood pressure checked.",
+    "do": [
+      {
+        "text": "Talk about your feelings with a friend, family member or health professional.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Get help with stress\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "If it is work stress that has not eased, name it: the WHO describes burnout as exhaustion, distance or cynicism about your job and reduced effectiveness, from chronic workplace stress that has not been managed.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "World Health Organization, \"Burn-out an occupational phenomenon: International Classification of Diseases\"",
+          "url": "https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Try the UK's NHS stress busters, including exercise and time management.",
+        "basis": "clinical guidance",
+        "source": {
+          "name": "NHS, \"Get help with stress\"",
+          "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/",
+          "opened": "2026-11-12"
+        }
+      },
+      {
+        "text": "Get your blood pressure checked; stress relief is an addition to guideline treatment.",
+        "basis": "tested",
+        "source": "levine-2017"
+      },
+      {
+        "text": "Ask your doctor before relying on any practice such as meditation: a trial in Black women with hypertension found reductions of up to 7 mmHg with one technique.",
+        "basis": "tested",
+        "source": "collins-2022"
+      }
+    ],
+    "avoid": [
+      {
+        "text": "Using stress relief as a reason to stop or skip prescribed treatment.",
+        "basis": "tested",
+        "source": "levine-2017"
+      }
+    ],
+    "see_someone_when": [
+      "Your blood pressure is high or you have not had it checked in the last year (doctor or pharmacy).",
+      "Stress is affecting sleep, work or relationships (doctor or NHS in the UK talking therapies self-referral).",
+      "Chest pain, breathlessness or fainting (999, or your local emergency number or A&E in the UK).",
+      "In a crisis or thinking about suicide: in the UK call NHS 111 and choose the mental health option (England), call Samaritans free on 116 123 (24 hours), or call 999 in an emergency; in the US call or text 988 or call 911."
+    ]
+  },
+  "tested": [
+    {
+      "population": "44 articles, 32,651 people, mainly US",
+      "design": "Systematic review and meta-analysis of perceived racial discrimination and blood pressure",
+      "n": "44 articles, 32,651",
+      "finding": "Perceived racial discrimination was associated with hypertension (small effect, Z 0.048, 95% CI 0.013 to 0.087) but not with resting blood pressure. The link was stronger among men, Black participants and older people, and strongest for night-time ambulatory blood pressure in Black participants.",
+      "source": {
+        "authors": "Dolezsar CM, McGrath JJ, Herzig AJM et al",
+        "year": 2014,
+        "journal": "Health Psychology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24417692/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "note": "Small associations; the authors note methodological limitations. Abstract read.",
+      "id": "dolezsar-2014"
+    },
+    {
+      "population": "Black women with hypertension (6 studies)",
+      "design": "Scoping review of stress-reduction trials",
+      "n": "6 studies",
+      "finding": "The authors report stronger evidence from one randomised trial of transcendental meditation, with reductions in systolic and diastolic blood pressure up to 7 mmHg, and describe non-randomised pilots with reductions up to 9 mmHg systolic.",
+      "source": {
+        "authors": "Collins SV, Hines AL",
+        "year": 2022,
+        "journal": "Journal of Racial and Ethnic Health Disparities",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34606073/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "collins-2022"
+    },
+    {
+      "population": "Scientific statement",
+      "design": "American Heart Association systematic review of meditation and cardiovascular risk",
+      "n": "not applicable",
+      "finding": "Studies suggest a possible benefit on cardiovascular risk, although the overall quality and in some cases quantity of data are modest. Given low cost and low risk, meditation may be considered as an adjunct to guideline-directed risk reduction.",
+      "source": {
+        "authors": "Levine GN, Lange RA, Bairey-Merz CN, Davidson RJ et al",
+        "year": 2017,
+        "journal": "Journal of the American Heart Association",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28963100/"
+      },
+      "tag": "[consensus]",
+      "line_tier": "B",
+      "id": "levine-2017"
+    },
+    {
+      "population": "Burnout in racial and ethnic minority groups",
+      "design": "Systematic review of 16 studies, nearly all cross-sectional and North American, mostly medical students and physicians using the Maslach Burnout Inventory",
+      "n": "16 studies",
+      "finding": "Differences in burnout between underrepresented minority and other groups were inconclusive, though several studies had nuanced findings. The authors call for better measurement and mitigation among underrepresented groups.",
+      "source": {
+        "authors": "Lawrence JA, Davis BA, Corbette T, Hill EV et al",
+        "year": 2022,
+        "journal": "Journal of Racial and Ethnic Health Disparities",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33428158/"
+      },
+      "tag": "[review]",
+      "line_tier": "B",
+      "id": "lawrence-2022",
+      "note": "Doctors and medical students, not a general Black population; cross-sectional."
+    }
+  ],
+  "tier": "B",
+  "strength": "thin",
+  "tier_driver": "Whether stress and racism are linked to blood pressure in Black adults: a meta-analysis of 44 studies finds a small association with hypertension but not with resting blood pressure.",
+  "tier_note": "Tier B observational. Strength is thin because the association is small and inconsistent across measures; whether reducing stress lowers blood pressure in Black adults rests on the meditation and breathwork entries. Burnout (a work concept, not a diagnosis) had no source in my search.",
+  "harm_flag": false,
+  "harm_note": "No harm signal found. The risk is substituting stress relief for treatment.",
+  "founder_flag": false,
+  "evidence_summary": "Dolezsar and colleagues (2014) pooled 44 studies: perceived racial discrimination was weakly associated with hypertension, not with resting readings, and most strongly with night-time ambulatory pressure in Black participants. Collins and Hines (2022) reviewed 6 stress-reduction studies in Black women with hypertension, finding up to 7 mmHg reductions with one transcendental meditation trial. The AHA statement frames meditation as an adjunct. The UK's NHS stress page gives the general advice. Burnout: the WHO (ICD-11) defines it as a syndrome from chronic workplace stress that has not been successfully managed, with exhaustion, mental distance or cynicism about the job, and reduced efficacy; it is an occupational phenomenon and not classified as a medical condition. A systematic review of 16 mostly cross-sectional studies of medical students and physicians found differences in burnout by race and ethnicity inconclusive (Lawrence 2022). The burnout part of this entry has no Black-specific evidence beyond that.",
+  "measured_variables": [
+    "Perceived discrimination",
+    "Hypertension diagnosis",
+    "Resting and ambulatory blood pressure"
+  ],
+  "gaps": "Untested or not found: burnout in Black workers; whether workplace stress programmes work in Black employees; UK blood-pressure data by ethnicity; long-term trials of stress reduction on blood pressure in Black adults beyond one meditation trial. 12 Nov: burnout now has the WHO definition and one review (doctors and medical students; inconclusive by race); no study of burnout in Black workers generally and no trial of a burnout programme.",
+  "related": [
+    "meditation",
+    "breathwork",
+    "sleep-and-sleep-apnoea",
+    "hibiscus-sorrel-blood-pressure"
+  ],
+  "last_checked": "2026-11-12",
+  "sources": [
+    {
+      "authors": "Dolezsar CM et al",
+      "year": 2014,
+      "journal": "Health Psychology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24417692/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Collins SV et al",
+      "year": 2022,
+      "journal": "Journal of Racial and Ethnic Health Disparities",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34606073/",
+      "tag": "[review]"
+    },
+    {
+      "authors": "Levine GN et al",
+      "year": 2017,
+      "journal": "Journal of the American Heart Association",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28963100/",
+      "tag": "[consensus]"
+    },
+    {
+      "name": "NHS, \"Get help with stress\"",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    },
+    {
+      "authors": "Lawrence JA et al",
+      "year": 2022,
+      "journal": "Journal of Racial and Ethnic Health Disparities",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33428158/",
+      "tag": "[review]"
+    },
+    {
+      "name": "World Health Organization, \"Burn-out an occupational phenomenon: International Classification of Diseases\"",
+      "url": "https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases",
+      "tag": "[official]",
+      "role": "practical advice (clinical guidance)",
+      "opened": "2026-11-12"
+    }
+  ]
+}

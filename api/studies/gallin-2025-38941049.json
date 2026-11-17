@@ -1,0 +1,30 @@
+{
+  "pmid": "38941049",
+  "slug": "gallin-2025-38941049",
+  "citation": {
+    "authors": "Gallin Z, Kolevzon AM, Reichenberg A, Hankerson SH et al",
+    "year": 2025,
+    "journal": "Journal of Autism and Developmental Disorders"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38941049/",
+  "page": "https://vilivity.com/studies/gallin-2025-38941049/",
+  "cited_by": [
+    {
+      "entry": "autism-and-adhd-in-black-children-and-adults",
+      "title": "Autism and ADHD: being missed, delayed or misdiagnosed",
+      "module": "mind",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/mind/autism-and-adhd-in-black-children-and-adults/",
+      "record": {
+        "id": "gallin-2025",
+        "population": "17 US population-based birth-cohort studies of autism prevalence by race, at least 1,000 cases each",
+        "n": "17 studies",
+        "design": "Systematic review",
+        "finding": "Before 2010, prevalence was highest in White children in nearly all birth cohorts. In the 2010 birth cohort, prevalence per 1,000 was 22.3 for Black, 22.5 for Hispanic, 22.2 for Asian/Pacific Islander and 21.2 for White children, and the gap grew in 2012. Possible drivers include changes in screening and diagnosis, insurance policy and education.",
+        "line_tier": "B",
+        "note": "US only. A prevalence rise in Black children is consistent with earlier under-recognition and later better recognition, but the review does not test that.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

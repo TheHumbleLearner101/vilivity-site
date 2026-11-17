@@ -1,0 +1,30 @@
+{
+  "pmid": "17553035",
+  "slug": "khumalo-2007-17553035",
+  "citation": {
+    "authors": "Khumalo NP et al",
+    "year": 2007,
+    "journal": "British Journal of Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17553035/",
+  "page": "https://vilivity.com/studies/khumalo-2007-17553035/",
+  "cited_by": [
+    {
+      "entry": "mens-and-boys-braids-cornrows-and-twists",
+      "title": "Braids, cornrows and twists for men and boys",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-and-boys-braids-cornrows-and-twists/",
+      "record": {
+        "id": "khumalo-2007",
+        "population": "1,042 schoolchildren (45% boys), South Africa",
+        "n": "1042",
+        "design": "Cross-sectional questionnaire and scalp examination",
+        "finding": "Acne keloidalis nuchae (neck bumps) was found in 0.67% overall and 4.7% of final-year boys, all with frequent haircuts; most boys (72.8%) kept natural hair with haircuts within 4 weeks. Traction alopecia was 9.4% overall and 17.1% in girls, and was more common with relaxed than natural hair; 8.6% of boys had relaxed hair.",
+        "line_tier": "B",
+        "note": "One country, one survey; association only; boys' braid-specific results are not reported in the abstract.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}

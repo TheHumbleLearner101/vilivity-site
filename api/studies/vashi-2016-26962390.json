@@ -1,0 +1,30 @@
+{
+  "pmid": "26962390",
+  "slug": "vashi-2016-26962390",
+  "citation": {
+    "authors": "Vashi NA, de Castro Maymone MB, Kundu RV",
+    "year": 2016,
+    "journal": "Journal of Clinical and Aesthetic Dermatology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26962390/",
+  "page": "https://vilivity.com/studies/vashi-2016-26962390/",
+  "cited_by": [
+    {
+      "entry": "skin-ageing-in-dark-skin",
+      "title": "Skin ageing in dark skin",
+      "module": "skin",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/skin/skin-ageing-in-dark-skin/",
+      "record": {
+        "id": "vashi-2016",
+        "population": "Literature on ageing across groups, including African American, Asian and Hispanic descent",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Differences in epidermal melanin make darkly pigmented people more vulnerable to dyspigmentation, while a thicker and more compact dermis makes facial lines less noticeable. Most common signs of ageing in every skin type are dark spots, loss of elasticity and volume, and wrinkles.",
+        "line_tier": "B",
+        "note": "Covers several groups.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

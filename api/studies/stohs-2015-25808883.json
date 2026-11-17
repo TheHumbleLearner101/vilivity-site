@@ -1,0 +1,30 @@
+{
+  "pmid": "25808883",
+  "slug": "stohs-2015-25808883",
+  "citation": {
+    "authors": "Stohs SJ, Hartman MJ",
+    "year": 2015,
+    "journal": "Phytotherapy Research"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25808883/",
+  "page": "https://vilivity.com/studies/stohs-2015-25808883/",
+  "cited_by": [
+    {
+      "entry": "moringa-leaf-and-blood-sugar",
+      "title": "Moringa: blood sugar, blood pressure and general health",
+      "module": "food",
+      "entry_tier": "B",
+      "page": "https://vilivity.com/food/moringa-leaf-and-blood-sugar/",
+      "record": {
+        "id": "stohs-2015",
+        "population": "Humans and animals (narrative safety and efficacy review)",
+        "n": "five human studies of leaf powder",
+        "design": "Narrative review",
+        "finding": "Animal safety studies of aqueous leaf extract indicate a high degree of safety, and the authors say no adverse effects were reported in human studies. They describe the five human studies as showing anti-hyperglycaemic and anti-dyslipidaemic activity, and call for human studies with standardised extracts.",
+        "line_tier": "B",
+        "note": "Older, narrative and more favourable than the 2025 meta-analysis; the five human studies were small.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

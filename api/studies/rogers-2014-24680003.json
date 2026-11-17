@@ -1,0 +1,47 @@
+{
+  "pmid": "24680003",
+  "slug": "rogers-2014-24680003",
+  "citation": {
+    "authors": "Rogers N, Callender V",
+    "year": 2014,
+    "journal": "Dermatologic Clinics"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24680003/",
+  "page": "https://vilivity.com/studies/rogers-2014-24680003/",
+  "cited_by": [
+    {
+      "entry": "hair-transplants-in-afro-textured-hair",
+      "title": "Hair transplants in afro-textured hair",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/hair-transplants-in-afro-textured-hair/",
+      "record": {
+        "id": "rogers-2014",
+        "population": "Review of hair restoration surgery in curly Afrocentric hair",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Hair structure differs between groups, and curly hair poses specific challenges and special considerations when surgery is considered, including curvature, grooming techniques, instruments and complications. The abstract gives no success rates.",
+        "line_tier": "B",
+        "note": "Abstract only.",
+        "tag": "[review]"
+      }
+    },
+    {
+      "entry": "mens-hair-loss-and-hair-transplants",
+      "title": "Receding hairline and hair transplants in Black men",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/mens-hair-loss-and-hair-transplants/",
+      "record": {
+        "id": "rogers-2014",
+        "population": "Review of hair restoration surgery in curly Afrocentric hair",
+        "n": "not stated",
+        "design": "Narrative review",
+        "finding": "Hair structure differs between groups, and curly hair poses specific challenges and special considerations when surgery is considered, including curvature, grooming techniques, instruments and complications. The abstract gives no success rates.",
+        "line_tier": "B",
+        "note": "Abstract only.",
+        "tag": "[review]"
+      }
+    }
+  ]
+}

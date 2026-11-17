@@ -1,0 +1,30 @@
+{
+  "pmid": "34549464",
+  "slug": "barba-2022-34549464",
+  "citation": {
+    "authors": "Barba C et al",
+    "year": 2022,
+    "journal": "Skin Research and Technology"
+  },
+  "source": "https://pubmed.ncbi.nlm.nih.gov/34549464/",
+  "page": "https://vilivity.com/studies/barba-2022-34549464/",
+  "cited_by": [
+    {
+      "entry": "moisture-layering-loc-and-lco-methods",
+      "title": "LOC and LCO: layering liquid, oil and cream",
+      "module": "hair",
+      "entry_tier": "D",
+      "page": "https://vilivity.com/hair/moisture-layering-loc-and-lco-methods/",
+      "record": {
+        "id": "barba-2022",
+        "population": "Virgin hair fibres of African, Asian and Caucasian origin",
+        "n": "not stated",
+        "design": "Laboratory: infrared spectroscopy of lipids and water-vapour sorption",
+        "finding": "African virgin hair had more lipids, mainly in the medulla, which the authors link to hydrophobicity, and its cuticle lipids were highly disordered, which they link to high water-vapour diffusion. They say the lipid differences may account for how African hair moisturises and swells.",
+        "line_tier": "C",
+        "note": "Hair fibres in a lab, not people; says nothing about layering products.",
+        "tag": "[primary]"
+      }
+    }
+  ]
+}
